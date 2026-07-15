@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+public/screenshots/*.tmp.*
+src/data/screenshot-manifest.json.*.tmp

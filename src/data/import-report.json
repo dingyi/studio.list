@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-07-15T16:41:40.836Z",
+  "source": "../dex.list/data/agency/agency.yml",
+  "sourceRecords": 1077,
+  "candidates": 1063,
+  "issueCounts": {
+    "missing-link": 1,
+    "non-official-link": 1,
+    "duplicate-domain": 12,
+    "missing-logo": 1
+  },
+  "issues": [
+    {
+      "type": "missing-link",
+      "sourceLine": 2524,
+      "name": "Look",
+      "detail": "The source record has no official website."
+    },
+    {
+      "type": "non-official-link",
+      "sourceLine": 3128,
+      "name": "Nolie",
+      "detail": "Third-party profile URL: https://www.behance.net/nolie"
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 4368,
+      "name": "Studio Almond",
+      "detail": "Merged into Almond (almond.studio)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 1409,
+      "name": "Essen",
+      "detail": "Merged into EPIC (epic.net)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 2244,
+      "name": "K72",
+      "detail": "Merged into K72 (k72.ca)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 2389,
+      "name": "Landscape",
+      "detail": "Merged into Lance (lancedraws.com)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 2519,
+      "name": "Los Caballos",
+      "detail": "Merged into Lord (callmelord.com)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 3303,
+      "name": "ON",
+      "detail": "Merged into Made by ON (madebyon.com)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 2783,
+      "name": "Miska Studio",
+      "detail": "Merged into Ministry (ministrydesign.agency)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 3483,
+      "name": "Ozero",
+      "detail": "Merged into O0 (ozero.design)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 4713,
+      "name": "The Office of Ordinary Things",
+      "detail": "Merged into Ordinary Things (ot.studio)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 3758,
+      "name": "Public Eye",
+      "detail": "Merged into Pudding Studio (pudding.studio)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 4193,
+      "name": "Situated",
+      "detail": "Merged into Situated (situated.studio)."
+    },
+    {
+      "type": "duplicate-domain",
+      "sourceLine": 4498,
+      "name": "Studio Size",
+      "detail": "Merged into Size (studio-size.com)."
+    },
+    {
+      "type": "missing-logo",
+      "sourceLine": 5253,
+      "name": "Wonderworks",
+      "detail": "./images/agency/Wonderworks.png"
+    }
+  ]
+}

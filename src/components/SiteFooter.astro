@@ -1,0 +1,25 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="footer-top">
+    <a class="wordmark" href="/">studio.list</a>
+    <nav aria-label="Footer navigation">
+      <a href="/">Discover</a>
+      <a href="/about/">About</a>
+      <button data-submit-notice type="button">Submit</button>
+      <a href="https://github.com/dingyi/studio.list" target="_blank" rel="noreferrer">GitHub</a>
+    </nav>
+  </div>
+  <div class="footer-bottom">
+    <p>Independent directory. Agency names, logos, and website screenshots belong to their respective owners.</p>
+    <p>© {year} studio.list</p>
+  </div>
+</footer>
+
+<script>
+  document.querySelectorAll("[data-submit-notice]").forEach((button) => {
+    button.addEventListener("click", () => window.dispatchEvent(new CustomEvent("studio-submit")));
+  });
+</script>

@@ -1,0 +1,19 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import HomeApp from "@/components/HomeApp";
+import SiteFooter from "@/components/SiteFooter.astro";
+import { publishedAgencies } from "@/lib/catalog";
+---
+
+<BaseLayout title="studio.list — Independent design agencies" description="A living, independent directory of remarkable design agencies from around the world.">
+  <HomeApp agencies={publishedAgencies} client:load />
+  <SiteFooter />
+  <script is:inline>
+    if (window.location.search) {
+      const meta = document.createElement("meta");
+      meta.name = "robots";
+      meta.content = "noindex,follow";
+      document.head.appendChild(meta);
+    }
+  </script>
+</BaseLayout>

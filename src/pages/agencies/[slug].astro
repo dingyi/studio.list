@@ -1,0 +1,40 @@
+---
+import { ArrowLeft, ArrowUpRight } from "lucide-react";
+import PageHeader from "@/components/PageHeader";
+import SiteFooter from "@/components/SiteFooter.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { formatLocations, publishedAgencies, type Agency } from "@/lib/catalog";
+
+export function getStaticPaths() {
+  return publishedAgencies.map((agency) => ({ params: { slug: agency.slug }, props: { agency } }));
+}
+
+interface Props { agency: Agency }
+const { agency } = Astro.props;
+const description = agency.description || `Discover ${agency.name}, an independent design agency listed on studio.list.`;
+---
+
+<BaseLayout title={`${agency.name} — studio.list`} description={description} image={agency.screenshot}>
+  <PageHeader client:load />
+  <main class="agency-detail">
+    <a class="back-link" href="/" aria-label="Back to all agencies"><ArrowLeft size={17} /></a>
+    <section class="detail-grid" aria-labelledby="agency-title">
+      <div class="detail-heading">
+        {agency.logo && <div class="detail-logo"><img src={agency.logo} alt="" /></div>}
+        <div><p class="eyebrow">{formatLocations(agency)}</p><h1 id="agency-title">{agency.name}</h1></div>
+      </div>
+      <div class="detail-action">
+        <a class="website-cta" href={agency.website} target="_blank" rel="noreferrer">Visit official website <ArrowUpRight size={17} /></a>
+        <p class="domain-label">{agency.officialDomain}</p>
+      </div>
+    </section>
+    <div class="detail-media"><img src={agency.screenshot} alt={`Homepage screenshot of ${agency.name}`} width="1440" height="900" /></div>
+    <section class="detail-about" aria-labelledby="about-title">
+      <h2 id="about-title">About</h2>
+      <div class="detail-copy">
+        <p>{agency.description || `${agency.name} is an independent design agency listed on studio.list.`}</p>
+      </div>
+    </section>
+  </main>
+  <SiteFooter />
+</BaseLayout>

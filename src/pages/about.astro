@@ -1,0 +1,22 @@
+---
+import PageHeader from "@/components/PageHeader";
+import SiteFooter from "@/components/SiteFooter.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="About — studio.list" description="How studio.list selects, documents, and presents independent design agencies.">
+  <PageHeader active="about" client:load />
+  <main class="about-page">
+    <header class="about-hero">
+      <p class="eyebrow">About the directory</p>
+      <h1>A slower, clearer way to discover design studios.</h1>
+    </header>
+    <div class="about-grid">
+      <section><p class="section-number">01</p><h2>Purpose</h2><p>studio.list is an independent index for discovering design agencies through the work and identity they publish themselves. It is designed for useful browsing, not rankings or paid placement.</p></section>
+      <section><p class="section-number">02</p><h2>Inclusion</h2><p>An agency is published only when its official website is reachable and we can capture an unobstructed, authentic homepage screenshot. Entries are deduplicated by official domain and ordered consistently by name.</p></section>
+      <section><p class="section-number">03</p><h2>Data and screenshots</h2><p>Descriptions and locations are preserved from the source data. Screenshots show the desktop homepage above the fold at 1440 × 900 and are refreshed when a site changes or an update is requested.</p></section>
+      <section><p class="section-number">04</p><h2>Independence</h2><p>studio.list is not affiliated with the agencies shown. Names, logos, descriptions, and website imagery remain the property of their respective owners. Every profile links directly to the official site.</p></section>
+    </div>
+  </main>
+  <SiteFooter />
+</BaseLayout>
