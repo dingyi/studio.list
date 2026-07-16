@@ -172,10 +172,6 @@ export default function HomeApp({ agencies }: Props) {
       <main data-directory-ready={ready}>
         <section className="hero" aria-labelledby="hero-title">
           <div className="hero__inner">
-            <p className="hero__status">
-              <span aria-hidden="true" />
-              {agencies.length} verified agencies
-            </p>
             <h1 id="hero-title">
               Discover remarkable, independent design agencies
             </h1>

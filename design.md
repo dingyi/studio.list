@@ -122,13 +122,12 @@ The favicon uses a black Geist `s.` monogram on `--background`. It may also appe
 ### Hero
 
 - Match the reference's centered, compact hero composition beneath the navigation.
-- Show a small bordered status pill with a green availability dot and the verified Agency count.
 - Keep the heading and supporting copy within a centered 540px column.
 - Final heading: `Discover remarkable, independent design agencies`.
 - Final supporting copy: `Subscribe for a weekly edit of remarkable studios shaping brands, products, and culture.`
 - Include a 428×40px white pill newsletter field with an email input and `Subscribe` action. Until a newsletter backend is approved, submission opens a clear notice and does not store or transmit the address.
 
-Desktop follows the reference measurements: status text begins around 144px from the viewport top, the heading uses 36px/39.6px type, and the catalog controls begin around 463px. Mobile uses the same 36px title, full-width newsletter field within 16px page insets, and places catalog controls around 450–470px.
+Desktop follows the reference measurements after omitting the reference status pill: the heading begins around 188px from the viewport top, uses 36px/39.6px type, and the catalog controls begin around 463px. Mobile uses the same 36px title, full-width newsletter field within 16px page insets, and places catalog controls around 450–470px.
 
 ### Catalog toolbar
 
@@ -167,9 +166,9 @@ Do not display the Agency Description in card view. It belongs in list view and 
 
 Agency Location is formatted as an emoji flag plus English country name, such as `🇸🇪 Sweden`. Separate multiple locations with a middle dot and never rely on emoji alone.
 
-Desktop cards use approximately 24px top padding and 16px side padding around the media region. The details region uses 16px. Do not add a border or shadow.
+Cards follow the measured reference anatomy: 24px top padding, 16px side padding, and 8px bottom spacing around the media region. The 60px details region uses 12px/20px location metadata, a 14px/20px Agency name, and 16px bottom padding. Do not add a border or shadow.
 
-The external action is a 36px visible circle on `--surface-subtle`, inset 16px from the card. It appears on pointer hover and keyboard focus. It remains visible on touch layouts. Activating it opens the official website in a new tab and must not trigger detail navigation.
+The external action is a 36px visible circle on `--surface-subtle`, inset 16px from the card with no shadow. It appears on pointer hover and keyboard focus. It remains visible on touch layouts. Activating it opens the official website in a new tab and must not trigger detail navigation.
 
 Card hover should remain subtle: a small media scale or tonal change over 180–220ms is acceptable; the card must not jump, tilt, glow, or cast a shadow.
 

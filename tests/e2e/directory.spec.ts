@@ -19,6 +19,7 @@ test("presents the hero newsletter field without sending data", async ({
   page,
 }) => {
   await openReadyPage(page);
+  await expect(page.getByText("verified agencies")).toHaveCount(0);
   await page
     .getByRole("textbox", { name: "Newsletter email address" })
     .fill("reader@example.com");
@@ -29,6 +30,19 @@ test("presents the hero newsletter field without sending data", async ({
   await expect(
     page.getByRole("heading", { name: "Subscriptions are opening soon." }),
   ).toBeVisible();
+});
+
+test("uses the measured image-first card anatomy", async ({ page }) => {
+  await openReadyPage(page);
+  await expect(page.locator('[data-directory-ready="true"]')).toBeVisible();
+
+  const firstCard = page.locator(".agency-card").first();
+  const media = firstCard.locator(".agency-card__media");
+  const title = firstCard.locator("h2");
+  await expect(firstCard).toHaveCSS("border-radius", "16px");
+  await expect(media).toHaveCSS("margin", "24px 16px 8px");
+  await expect(media).toHaveCSS("border-radius", "8px");
+  await expect(title).toHaveCSS("font-size", "14px");
 });
 
 test("switches layouts and opens an agency detail page", async ({ page }) => {
