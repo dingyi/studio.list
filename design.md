@@ -1,6 +1,6 @@
 # studio.list Design Specification
 
-Status: implemented MVP specification.
+Status: implemented MVP specification, with navigation, search, and About page interaction patterns adapted from Design Engineer Club.
 
 ## Reference
 
@@ -88,7 +88,7 @@ Use `Geist Variable`, with `Geist, ui-sans-serif, system-ui, sans-serif` as the 
 - Desktop page inset: 28–32px.
 - Tablet page inset: 24px.
 - Mobile page inset: 16px.
-- Header height: 68px desktop, 72px mobile.
+- Header height: 56px desktop and mobile.
 - Card/grid gap: 12px desktop and mobile.
 - Card radius: 16px.
 - Screenshot inner radius: 8px.
@@ -99,15 +99,15 @@ Use `Geist Variable`, with `Geist, ui-sans-serif, system-ui, sans-serif` as the 
 
 Desktop:
 
-- fixed visual positions within a 68px bar: the `studio.list` Geist wordmark at left, primary navigation centered, search action at right;
-- primary navigation labels are `Discover`, `About`, and `Submit`;
-- transparent over the page canvas; no bottom border or shadow;
-- active navigation item appears on a white pill;
-- the search action is a white circular button.
+- use the Design Engineer Club three-part navigation rhythm within a 56px bar: wordmark and plain-text section links at left, search centered, and the primary action at right;
+- primary navigation labels are `Discover` and `About`; `Submit` is the dark right-aligned action;
+- transparent over the page canvas; no containing pill, bottom border, or shadow;
+- the centered search trigger is 256×36px with a soft-gray fill, search icon, placeholder label, and `⌘ K` shortcut hint;
+- active navigation remains understated through text tone rather than a filled pill.
 
 Mobile:
 
-- 72px bar with the `studio.list` wordmark at left and circular search/menu actions at right;
+- 56px bar with the `studio.list` wordmark at left and compact 36px search/menu actions at right;
 - hide the centered desktop navigation inside the menu;
 - preserve the quiet background and large tap targets.
 
@@ -235,7 +235,15 @@ Information section:
 
 ## About
 
-The About page uses the same gray canvas, centered page title, and narrow editorial text columns as the reference. It explains:
+The About page follows the Design Engineer Club editorial composition rather than the earlier oversized title and two-column panels:
+
+- a 235px visual opening with a small-tile `STUDIO.LIST` mosaic assembled from the directory's own Agency Logos;
+- an accessible hidden page H1, because the mosaic is decorative and must not become the document title;
+- a centered 624px reading column;
+- stacked sections separated by one-pixel rules, with 12px muted labels and 16/24px body copy;
+- a compact Connect section with GitHub, Discover, and Submit actions.
+
+The page explains:
 
 - the purpose of studio.list;
 - the Published Agency eligibility rule;
@@ -259,8 +267,10 @@ Do not add a newsletter, agency rankings, category/brand link farms, or unprovid
 
 ## Search and filtering states
 
-- The white circular header search action opens a modal search layer matching the reference interaction.
-- Dim the page with a neutral translucent scrim and place a focused white pill input approximately 540px wide near the top-center of the hero region.
+- The centered header search trigger opens a command-style modal matching the Design Engineer Club interaction.
+- Dim and softly blur the page with a neutral scrim; place a 628px white panel 6–8px from the viewport top.
+- The panel has a 44px input row, visible `Esc` close affordance, two-column quick links, and a small set of Agency suggestions before typing.
+- While typing, replace shortcuts with up to six matched Agency rows containing logo, name, location, and direct profile navigation.
 - Search matches Agency name and Agency Description, updates results immediately, and synchronizes the value to the `q` URL parameter.
 - `Escape`, the close action, or clicking the scrim closes the layer while preserving an applied query.
 - Do not duplicate search as a persistent toolbar field.
@@ -289,7 +299,7 @@ Do not add a newsletter, agency rankings, category/brand link farms, or unprovid
 
 | Width        | Grid      | Page inset | Navigation                 |
 | ------------ | --------- | ---------- | -------------------------- |
-| `>= 1100px`  | 3 columns | 36px       | centered desktop nav       |
+| `>= 1100px`  | 3 columns | 36px       | left links + center search |
 | `700–1099px` | 2 columns | 24px       | compact desktop/tablet nav |
 | `< 700px`    | 1 column  | 16px       | logo + search + menu       |
 

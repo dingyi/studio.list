@@ -2,21 +2,121 @@
 import PageHeader from "@/components/PageHeader";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import { publishedAgencies } from "@/lib/catalog";
+
+const glyphs: Record<string, string[]> = {
+  S: ["11111", "10000", "10000", "11111", "00001", "00001", "11111"],
+  T: ["11111", "00100", "00100", "00100", "00100", "00100", "00100"],
+  U: ["10001", "10001", "10001", "10001", "10001", "10001", "11111"],
+  D: ["11110", "10001", "10001", "10001", "10001", "10001", "11110"],
+  I: ["11111", "00100", "00100", "00100", "00100", "00100", "11111"],
+  O: ["01110", "10001", "10001", "10001", "10001", "10001", "01110"],
+  L: ["10000", "10000", "10000", "10000", "10000", "10000", "11111"],
+  ".": ["0", "0", "0", "0", "0", "1", "1"],
+};
+
+const logos = publishedAgencies.flatMap((agency) =>
+  agency.logo ? [agency.logo] : [],
+);
+let logoIndex = 0;
+const mosaicLetters = [..."STUDIO.LIST"].map((character) => {
+  const rows = glyphs[character];
+  return {
+    columns: rows[0].length,
+    cells: rows.flatMap((row) =>
+      [...row].map((cell) =>
+        cell === "1" ? logos[logoIndex++ % logos.length] : null,
+      ),
+    ),
+  };
+});
 ---
 
-<BaseLayout title="About — studio.list" description="How studio.list selects, documents, and presents independent design agencies.">
+<BaseLayout
+  title="About — studio.list"
+  description="How studio.list selects, documents, and presents independent design agencies."
+>
   <PageHeader active="about" client:load />
   <main class="about-page">
-    <header class="about-hero">
-      <p class="eyebrow">About the directory</p>
-      <h1>A slower, clearer way to discover design studios.</h1>
-    </header>
-    <div class="about-grid">
-      <section><p class="section-number">01</p><h2>Purpose</h2><p>studio.list is an independent index for discovering design agencies through the work and identity they publish themselves. It is designed for useful browsing, not rankings or paid placement.</p></section>
-      <section><p class="section-number">02</p><h2>Inclusion</h2><p>An agency is published only when its official website is reachable and we can capture an unobstructed, authentic homepage screenshot. Entries are deduplicated by official domain and ordered consistently by name.</p></section>
-      <section><p class="section-number">03</p><h2>Data and screenshots</h2><p>Descriptions and locations are preserved from the source data. Screenshots show the desktop homepage above the fold at 1440 × 900 and are refreshed when a site changes or an update is requested.</p></section>
-      <section><p class="section-number">04</p><h2>Independence</h2><p>studio.list is not affiliated with the agencies shown. Names, logos, descriptions, and website imagery remain the property of their respective owners. Every profile links directly to the official site.</p></section>
+    <h1 class="sr-only">About studio.list</h1>
+    <div class="about-mosaic" aria-hidden="true">
+      <div class="about-mosaic__word">
+        {
+          mosaicLetters.map((letter) => (
+            <span
+              class="about-mosaic__glyph"
+              style={`--glyph-columns: ${letter.columns}`}
+            >
+              {letter.cells.map((logo) => (
+                <span class:list={["about-mosaic__cell", { "is-filled": logo }]}>
+                  {logo && <img src={logo} alt="" width="24" height="24" />}
+                </span>
+              ))}
+            </span>
+          ))
+        }
+      </div>
+    </div>
+
+    <div class="about-content">
+      <section>
+        <h2>What is studio.list?</h2>
+        <p>
+          studio.list is an independent directory for discovering design
+          agencies through the work and identity they publish themselves. It is
+          built for useful browsing—not rankings, ads, or paid placement.
+        </p>
+      </section>
+      <section>
+        <h2>Why we built it</h2>
+        <p>
+          Finding the right studio usually means moving between scattered lists,
+          search results, and recommendations. studio.list puts the official
+          website first, so you can compare agencies through their own work and
+          move directly to the source.
+        </p>
+      </section>
+      <section>
+        <h2>What belongs in the index?</h2>
+        <p>
+          An agency is published only when its official website is reachable and
+          an unobstructed, authentic homepage screenshot can be captured. Entries
+          are deduplicated by official domain and ordered consistently by name.
+        </p>
+      </section>
+      <section>
+        <h2>How is it maintained?</h2>
+        <p>
+          Descriptions and locations are preserved from the source data.
+          Screenshots show the desktop homepage above the fold at 1440 × 900 and
+          can be refreshed when a site changes or an update is requested.
+        </p>
+      </section>
+      <section>
+        <h2>Independence</h2>
+        <p>
+          studio.list is not affiliated with the agencies shown. Names, logos,
+          descriptions, and website imagery remain the property of their
+          respective owners. Every profile links directly to the official site.
+        </p>
+      </section>
+      <section>
+        <h2>Connect</h2>
+        <div class="about-links">
+          <a href="https://github.com/dingyi/studio.list" target="_blank" rel="noreferrer">
+            GitHub ↗
+          </a>
+          <a href="/">Discover agencies →</a>
+          <button type="button" data-about-submit>Submit an agency →</button>
+        </div>
+      </section>
     </div>
   </main>
   <SiteFooter />
 </BaseLayout>
+
+<script>
+  document.querySelector("[data-about-submit]")?.addEventListener("click", () => {
+    window.dispatchEvent(new CustomEvent("studio-submit"));
+  });
+</script>

@@ -349,27 +349,102 @@ export default function HomeApp({ agencies }: Props) {
       <Dialog open={searchOpen} onOpenChange={setSearchOpen}>
         <DialogContent className="search-dialog" showCloseButton={false}>
           <DialogTitle className="sr-only">Search agencies</DialogTitle>
-          <Search aria-hidden="true" size={20} />
-          <Input
-            autoFocus
-            value={query}
-            onChange={(event) => {
-              setQuery(event.target.value);
-              setPage(1);
-            }}
-            placeholder="Search agency names or descriptions…"
-            aria-label="Search agencies"
-          />
-          {query && (
-            <button
-              type="button"
-              className="search-clear"
-              onClick={() => setQuery("")}
-              aria-label="Clear search"
-            >
-              Clear
-            </button>
-          )}
+          <div className="search-dialog__input-row">
+            <Search aria-hidden="true" size={17} strokeWidth={1.8} />
+            <Input
+              autoFocus
+              value={query}
+              onChange={(event) => {
+                setQuery(event.target.value);
+                setPage(1);
+              }}
+              placeholder="Search agencies"
+              aria-label="Search agencies"
+            />
+            {query ? (
+              <button
+                type="button"
+                className="search-clear"
+                onClick={() => setQuery("")}
+                aria-label="Clear search"
+              >
+                Clear
+              </button>
+            ) : (
+              <button
+                type="button"
+                className="search-escape"
+                onClick={() => setSearchOpen(false)}
+                aria-label="Close search"
+              >
+                Esc
+              </button>
+            )}
+          </div>
+          <div className="search-dialog__body">
+            <div className="search-dialog__meta">
+              <p>{query ? `${filtered.length} matches` : "Explore studio.list"}</p>
+              <p>{query ? "Open a profile" : "Quick access"}</p>
+            </div>
+            {query ? (
+              <div className="search-results">
+                {filtered.slice(0, 6).map((agency) => (
+                  <a
+                    href={`/agencies/${agency.slug}/`}
+                    className="search-result"
+                    key={agency.id}
+                  >
+                    <span className="search-result__logo">
+                      {agency.logo ? (
+                        <img src={agency.logo} alt="" width="28" height="28" />
+                      ) : (
+                        agency.name.slice(0, 1)
+                      )}
+                    </span>
+                    <span>
+                      <strong>{agency.name}</strong>
+                      <small>{formatLocations(agency)}</small>
+                    </span>
+                    <ArrowRight size={15} aria-hidden="true" />
+                  </a>
+                ))}
+                {!filtered.length && (
+                  <p className="search-no-results">
+                    No agencies match “{query}”. Try another name or location.
+                  </p>
+                )}
+              </div>
+            ) : (
+              <>
+                <div className="search-shortcuts">
+                  <a href="#directory" onClick={() => setSearchOpen(false)}>
+                    Directory <ArrowRight size={15} aria-hidden="true" />
+                  </a>
+                  <a href="/about/">
+                    About <ArrowRight size={15} aria-hidden="true" />
+                  </a>
+                </div>
+                <p className="search-dialog__label">A few places to begin</p>
+                <div className="search-featured">
+                  {agencies.slice(0, 4).map((agency) => (
+                    <a href={`/agencies/${agency.slug}/`} key={agency.id}>
+                      <span className="search-result__logo">
+                        {agency.logo ? (
+                          <img src={agency.logo} alt="" width="28" height="28" />
+                        ) : (
+                          agency.name.slice(0, 1)
+                        )}
+                      </span>
+                      <span>
+                        <strong>{agency.name}</strong>
+                        <small>{formatLocations(agency)}</small>
+                      </span>
+                    </a>
+                  ))}
+                </div>
+              </>
+            )}
+          </div>
         </DialogContent>
       </Dialog>
       <Dialog open={newsletterOpen} onOpenChange={setNewsletterOpen}>

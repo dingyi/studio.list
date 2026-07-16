@@ -1,5 +1,5 @@
 import { Menu, Search, X } from "lucide-react";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 
 import {
   Dialog,
@@ -23,68 +23,97 @@ export default function PageHeader({
   const [mobileOpen, setMobileOpen] = useState(false);
   const [submitOpen, setSubmitOpen] = useState(false);
   const [ready, setReady] = useState(false);
-  const searchProps = homeSearch
-    ? { type: "button" as const, onClick: onSearch }
-    : {
-        type: "button" as const,
-        onClick: () => (window.location.href = "/?search=1"),
-      };
+  const openSearch = useCallback(() => {
+    if (homeSearch) onSearch?.();
+    else window.location.href = "/?search=1";
+  }, [homeSearch, onSearch]);
 
   useEffect(() => {
     setReady(true);
     const showSubmitNotice = () => setSubmitOpen(true);
+    const openSearchShortcut = (event: KeyboardEvent) => {
+      if (!(event.metaKey || event.ctrlKey) || event.key.toLowerCase() !== "k")
+        return;
+      const target = event.target as HTMLElement | null;
+      if (
+        target?.matches("input, textarea, select") ||
+        target?.isContentEditable
+      )
+        return;
+      event.preventDefault();
+      openSearch();
+    };
     window.addEventListener("studio-submit", showSubmitNotice);
-    return () => window.removeEventListener("studio-submit", showSubmitNotice);
-  }, []);
+    window.addEventListener("keydown", openSearchShortcut);
+    return () => {
+      window.removeEventListener("studio-submit", showSubmitNotice);
+      window.removeEventListener("keydown", openSearchShortcut);
+    };
+  }, [openSearch]);
 
   return (
     <>
       <header className="site-header" data-header-ready={ready}>
-        <a className="wordmark" href="/" aria-label="studio.list home">
-          studio.list
-        </a>
-        <nav className="desktop-nav" aria-label="Primary navigation">
-          <a className={active === "discover" ? "is-active" : ""} href="/">
-            Discover
-          </a>
-          <a className={active === "about" ? "is-active" : ""} href="/about/">
-            About
-          </a>
+        <nav className="site-nav" aria-label="Primary navigation">
+          <div className="nav-left">
+            <a className="wordmark" href="/" aria-label="studio.list home">
+              studio.list
+            </a>
+            <div className="desktop-nav">
+              <a
+                className={active === "discover" ? "is-active" : ""}
+                href="/"
+              >
+                Discover
+              </a>
+              <a
+                className={active === "about" ? "is-active" : ""}
+                href="/about/"
+              >
+                About
+              </a>
+            </div>
+          </div>
           <button
-            className="nav-submit"
+            className="header-search"
             type="button"
-            onClick={() => setSubmitOpen(true)}
-          >
-            Submit
-          </button>
-        </nav>
-        <div className="header-actions">
-          <button
-            className="icon-button"
             aria-label="Search agencies"
-            {...searchProps}
+            onClick={openSearch}
           >
-            <Search aria-hidden="true" size={18} strokeWidth={1.8} />
+            <Search aria-hidden="true" size={15} strokeWidth={1.8} />
+            <span>Search agencies</span>
+            <kbd aria-hidden="true">
+              <span>⌘</span>K
+            </kbd>
           </button>
-          <button
-            className="icon-button mobile-menu-button"
-            type="button"
-            aria-label={mobileOpen ? "Close menu" : "Open menu"}
-            aria-expanded={mobileOpen}
-            onClick={() => setMobileOpen((open) => !open)}
-          >
-            {mobileOpen ? <X size={18} /> : <Menu size={18} />}
-          </button>
-        </div>
-        {mobileOpen && (
-          <nav className="mobile-nav" aria-label="Mobile navigation">
-            <a href="/">Discover</a>
-            <a href="/about/">About</a>
-            <button type="button" onClick={() => setSubmitOpen(true)}>
+          <div className="nav-right">
+            <button
+              className="nav-submit"
+              type="button"
+              onClick={() => setSubmitOpen(true)}
+            >
               Submit
             </button>
-          </nav>
-        )}
+            <button
+              className="mobile-menu-button"
+              type="button"
+              aria-label={mobileOpen ? "Close menu" : "Open menu"}
+              aria-expanded={mobileOpen}
+              onClick={() => setMobileOpen((open) => !open)}
+            >
+              {mobileOpen ? <X size={17} /> : <Menu size={17} />}
+            </button>
+          </div>
+          {mobileOpen && (
+            <nav className="mobile-nav" aria-label="Mobile navigation">
+              <a href="/">Discover</a>
+              <a href="/about/">About</a>
+              <button type="button" onClick={() => setSubmitOpen(true)}>
+                Submit
+              </button>
+            </nav>
+          )}
+        </nav>
       </header>
       <Dialog open={submitOpen} onOpenChange={setSubmitOpen}>
         <DialogContent className="notice-dialog">

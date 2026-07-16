@@ -15,6 +15,25 @@ test("searches agencies and retains the query in the URL", async ({ page }) => {
   await expect(page).toHaveURL(/q=Walsh/);
 });
 
+test("uses the centered command-search navigation", async ({
+  page,
+}, testInfo) => {
+  test.skip(testInfo.project.name === "mobile");
+  await openReadyPage(page);
+
+  const search = page.getByRole("button", { name: "Search agencies" });
+  await expect(search).toHaveCSS("width", "256px");
+  await expect(page.locator(".site-nav")).toHaveCSS("min-height", "56px");
+  await search.click();
+  const dialogPosition = await page.getByRole("dialog").evaluate((dialog) => {
+    const rect = dialog.getBoundingClientRect();
+    return { x: Math.round(rect.x), y: Math.round(rect.y) };
+  });
+  expect(dialogPosition.y).toBe(6);
+  await expect(page.getByText("Explore studio.list")).toBeVisible();
+  await expect(page.getByText("A few places to begin")).toBeVisible();
+});
+
 test("presents the hero newsletter field without sending data", async ({
   page,
 }) => {
@@ -82,4 +101,17 @@ test("shows the submission notice from the footer", async ({ page }) => {
   await expect(
     page.getByRole("heading", { name: "Submissions are opening soon." }),
   ).toBeVisible();
+});
+
+test("presents the About page as a narrow editorial index", async ({ page }) => {
+  await openReadyPage(page, "/about/");
+
+  await expect(page.locator(".about-mosaic")).toBeVisible();
+  await expect(
+    page.getByRole("heading", { name: "What is studio.list?" }),
+  ).toBeVisible();
+  await expect(page.locator(".about-content section")).toHaveCount(6);
+  await expect(
+    page.getByRole("link", { name: "GitHub ↗", exact: true }),
+  ).toHaveAttribute("href", "https://github.com/dingyi/studio.list");
 });
