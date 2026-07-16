@@ -426,6 +426,32 @@ img {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.location-list,
+.location-entry {
+  display: inline-flex;
+  min-width: 0;
+  align-items: center;
+}
+.location-list {
+  max-width: 100%;
+  gap: 5px;
+}
+.location-entry {
+  flex: 0 0 auto;
+  gap: 5px;
+}
+.location-separator {
+  flex: 0 0 auto;
+}
+.country-flag {
+  display: block;
+  width: 14px;
+  height: 10.5px;
+  flex: 0 0 auto;
+  border-radius: 1px;
+  object-fit: cover;
+  box-shadow: 0 0 0 0.5px rgb(0 0 0 / 12%);
+}
 .agency-card h2,
 .agency-card h3 {
   margin: 0;
@@ -671,43 +697,44 @@ img {
 }
 
 .site-footer {
-  margin: 80px 28px 28px;
-  padding: 30px 4px 8px;
-  border-top: 1px solid #d9d9d9;
-}
-.footer-top,
-.footer-bottom {
   display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 24px;
+  margin: clamp(100px, 12vw, 168px) 28px 0;
+  padding: 0 24px 36px;
+  align-items: center;
+  flex-direction: column;
+  color: #555;
+  text-align: center;
 }
-.footer-top nav {
+.footer-mark {
+  color: #151515;
+  font-size: 19px;
+}
+.footer-nav {
   display: flex;
-  gap: 22px;
+  margin-top: 18px;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
 }
-.footer-top nav a,
-.footer-top nav button {
+.footer-nav a,
+.footer-nav button {
   border: 0;
   background: transparent;
   padding: 0;
   color: #555;
-  font-size: 13px;
+  font-size: 12px;
+  line-height: 18px;
   cursor: pointer;
 }
-.footer-top nav a:hover,
-.footer-top nav button:hover {
+.footer-nav a:hover,
+.footer-nav button:hover {
   color: #151515;
 }
-.footer-bottom {
-  margin-top: 70px;
+.footer-meta {
+  margin: 6px 0 0;
   color: #858585;
   font-size: 11px;
-  line-height: 1.45;
-}
-.footer-bottom p {
-  max-width: 520px;
-  margin: 0;
+  line-height: 16px;
 }
 
 .about-page {
@@ -999,17 +1026,8 @@ img {
     font-size: 15px;
   }
   .site-footer {
-    margin: 58px 16px 18px;
-  }
-  .footer-top,
-  .footer-bottom {
-    flex-direction: column;
-  }
-  .footer-top nav {
-    flex-wrap: wrap;
-  }
-  .footer-bottom {
-    margin-top: 44px;
+    margin: 80px 16px 0;
+    padding: 0 8px 28px;
   }
   .search-dialog {
     top: 8px !important;

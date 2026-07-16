@@ -1,10 +1,10 @@
 ---
 import { ArrowUpRight, ExternalLink } from "lucide-react";
+import LocationList from "@/components/LocationList.astro";
 import PageHeader from "@/components/PageHeader";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import {
-  formatLocations,
   getSimilarAgencies,
   publishedAgencies,
   type Agency,
@@ -27,7 +27,6 @@ interface Props {
 
 const { agency, position, total } = Astro.props;
 const description = agency.description || `Discover ${agency.name}, an independent design agency listed on studio.list.`;
-const location = formatLocations(agency);
 const counterWidth = String(total).length;
 const positionLabel = String(position).padStart(counterWidth, "0");
 const totalLabel = String(total).padStart(counterWidth, "0");
@@ -73,7 +72,7 @@ const similarAgencies = getSimilarAgencies(agency);
         </div>
         <div class="detail-fact">
           <dt>Location</dt>
-          <dd>{location}</dd>
+          <dd><LocationList locations={agency.locations} /></dd>
         </div>
         <div class="detail-fact">
           <dt>Website</dt>
@@ -115,7 +114,9 @@ const similarAgencies = getSimilarAgencies(agency);
               <div class="agency-card__body">
                 <div>
                   <h3>{similarAgency.name}</h3>
-                  <p class="agency-card__location">{formatLocations(similarAgency)}</p>
+                  <p class="agency-card__location">
+                    <LocationList locations={similarAgency.locations} />
+                  </p>
                 </div>
               </div>
             </a>

@@ -164,7 +164,7 @@ Card anatomy:
 
 Do not display the Agency Description in card view. It belongs in list view and Agency Detail so card heights and visual density remain consistent with the reference.
 
-Agency Location is formatted as an emoji flag plus English country name, such as `🇸🇪 Sweden`. Separate multiple locations with a middle dot and never rely on emoji alone.
+Agency Location uses a locally bundled SVG flag derived from its ISO country code plus the English country name. Separate multiple locations with a middle dot; never render flag Emoji or rely on the icon without text.
 
 Cards follow the Design Engineer Club course-card anatomy: the media is flush with the card grid, the external caption begins 12px below it, the Agency name uses 14px/20px semibold type, and location follows after 4px at 12px/16px. Use 20px column gaps and 40px row gaps. Do not add a containing background or shadow.
 
@@ -259,15 +259,14 @@ Do not invent a team story, partnerships, endorsements, audience statistics, or 
 
 ## Footer
 
-Preserve the reference site's generous whitespace and quiet multi-column rhythm, but include only:
+Follow the compact bottom tier of the [startups.gallery Casa footer](https://startups.gallery/companies/casa), without its category lists:
 
-- the `studio.list` wordmark;
-- `Discover`, `About`, and `Submit` links;
-- a link to `github.com/dingyi/studio.list`;
-- the external-site ownership disclaimer;
-- the current copyright year.
+- center the `studio.list` wordmark as the home link;
+- use one quiet line for `About · Submit ↗ · GitHub ↗`;
+- use a final muted line for the independent-directory label and current copyright year;
+- preserve generous whitespace above the compact content.
 
-Do not add a newsletter, agency rankings, category/brand link farms, or unprovided social profiles.
+Do not add `Discover` again, a newsletter, agency rankings, category/brand link farms, or unprovided social profiles.
 
 ## Search and filtering states
 

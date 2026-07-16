@@ -33,10 +33,14 @@ export const publishedAgencies = allAgencies.filter(
   (agency) => manifest[agency.slug]?.status === "success",
 );
 
+export function countryFlagPath(code: string) {
+  return `/flags/${code.toLocaleLowerCase()}.svg`;
+}
+
 export function formatLocations(agency: Agency) {
   return agency.locations.length
     ? agency.locations
-        .map((location) => `${location.flag} ${location.name}`)
+        .map((location) => location.name)
         .join(" · ")
     : "Location not listed";
 }

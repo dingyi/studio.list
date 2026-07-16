@@ -5,7 +5,7 @@ import {
   Grid2X2,
   List,
 } from "lucide-react";
-import { useEffect, useMemo, useState } from "react";
+import { Fragment, useEffect, useMemo, useState } from "react";
 
 import AgencySearch, {
   type AgencySearchItem,
@@ -25,7 +25,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import type { Agency } from "@/lib/catalog";
-import { formatLocations } from "@/lib/catalog";
+import { countryFlagPath, formatLocations } from "@/lib/catalog";
 import {
   clampPage,
   filterAgencies,
@@ -38,6 +38,35 @@ interface Props {
 }
 
 type View = "card" | "list";
+
+function AgencyLocationList({ agency }: { agency: Agency }) {
+  if (!agency.locations.length) return <>Location not listed</>;
+
+  return (
+    <span className="location-list">
+      {agency.locations.map((location, index) => (
+        <Fragment key={location.code}>
+          {index > 0 && (
+            <span className="location-separator" aria-hidden="true">
+              ·
+            </span>
+          )}
+          <span className="location-entry">
+            <img
+              className="country-flag"
+              src={countryFlagPath(location.code)}
+              alt=""
+              aria-hidden="true"
+              width="16"
+              height="12"
+            />
+            <span>{location.name}</span>
+          </span>
+        </Fragment>
+      ))}
+    </span>
+  );
+}
 
 function AgencyCard({ agency, view }: { agency: Agency; view: View }) {
   return (
@@ -82,7 +111,9 @@ function AgencyCard({ agency, view }: { agency: Agency; view: View }) {
         <div className="agency-card__body">
           <div>
             <h2>{agency.name}</h2>
-            <p className="agency-card__location">{formatLocations(agency)}</p>
+            <p className="agency-card__location">
+              <AgencyLocationList agency={agency} />
+            </p>
           </div>
           {view === "list" && agency.description && (
             <p className="agency-card__description">{agency.description}</p>
@@ -168,6 +199,7 @@ export default function HomeApp({ agencies }: Props) {
     currentPage * PAGE_SIZE,
   );
   const selectedCountry = countries.find((item) => item.code === country)?.name;
+  const selectedCountryItem = countries.find((item) => item.code === country);
   const emptyContext = [
     query ? `“${query}”` : null,
     country !== "all" ? selectedCountry : null,
@@ -305,14 +337,36 @@ export default function HomeApp({ agencies }: Props) {
                   <SelectValue>
                     {country === "all"
                       ? "All countries"
-                      : countries.find((item) => item.code === country)?.name}
+                      : selectedCountryItem && (
+                          <span className="location-entry">
+                            <img
+                              className="country-flag"
+                              src={countryFlagPath(selectedCountryItem.code)}
+                              alt=""
+                              aria-hidden="true"
+                              width="16"
+                              height="12"
+                            />
+                            <span>{selectedCountryItem.name}</span>
+                          </span>
+                        )}
                   </SelectValue>
                 </SelectTrigger>
                 <SelectContent>
                   <SelectItem value="all">All countries</SelectItem>
                   {countries.map((item) => (
                     <SelectItem key={item.code} value={item.code}>
-                      {item.flag} {item.name}
+                      <span className="location-entry">
+                        <img
+                          className="country-flag"
+                          src={countryFlagPath(item.code)}
+                          alt=""
+                          aria-hidden="true"
+                          width="16"
+                          height="12"
+                        />
+                        <span>{item.name}</span>
+                      </span>
                     </SelectItem>
                   ))}
                 </SelectContent>

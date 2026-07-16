@@ -69,6 +69,9 @@ test("uses the external-caption course card anatomy", async ({
   await expect(media).toHaveCSS("border-radius", "15px");
   await expect(title).toHaveCSS("font-size", "14px");
   await expect(title).toHaveCSS("font-weight", "600");
+  const firstFlag = firstCard.locator(".country-flag").first();
+  await expect(firstFlag).toBeVisible();
+  await expect(firstFlag).toHaveAttribute("src", /\/flags\/[a-z]{2}\.svg$/);
   const gridColumns = await page.locator(".agency-grid--card").evaluate(
     (grid) => getComputedStyle(grid).gridTemplateColumns.split(" ").length,
   );
@@ -123,6 +126,7 @@ test("uses the centered profile layout on agency detail pages", async ({
   await expect(detail.locator(".detail-logo")).toBeVisible();
   await expect(detail.locator(".detail-media")).toBeVisible();
   await expect(detail.locator(".detail-fact")).toHaveCount(3);
+  await expect(detail.locator(".detail-fact .country-flag")).toBeVisible();
   await expect(detail.locator(".detail-fact").first()).toHaveCSS("align-items", "center");
   await expect(detail.locator(".detail-chip")).toHaveCount(0);
   await expect(detail.locator(".detail-adjacent")).toHaveCount(0);
@@ -178,6 +182,8 @@ test("exposes the mobile navigation and direct website action", async ({
 
 test("shows the submission notice from the footer", async ({ page }) => {
   await openReadyPage(page, "/about/");
+  await expect(page.locator(".site-footer .footer-top")).toHaveCount(0);
+  await expect(page.locator(".footer-nav").getByRole("link")).toHaveCount(2);
   await page
     .locator(".site-footer")
     .getByRole("button", { name: "Submit" })

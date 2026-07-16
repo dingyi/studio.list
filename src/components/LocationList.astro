@@ -1,0 +1,31 @@
+---
+import { countryFlagPath, type AgencyLocation } from "@/lib/catalog";
+
+interface Props {
+  locations: AgencyLocation[];
+  fallback?: string;
+}
+
+const { locations, fallback = "Location not listed" } = Astro.props;
+---
+
+<span class="location-list">
+  {locations.length
+    ? locations.map((location, index) => (
+        <>
+          {index > 0 && <span class="location-separator" aria-hidden="true">·</span>}
+          <span class="location-entry">
+            <img
+              class="country-flag"
+              src={countryFlagPath(location.code)}
+              alt=""
+              aria-hidden="true"
+              width="16"
+              height="12"
+            />
+            <span>{location.name}</span>
+          </span>
+        </>
+      ))
+    : <span>{fallback}</span>}
+</span>
