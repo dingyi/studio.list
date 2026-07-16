@@ -1,6 +1,9 @@
 import { Menu, Search, X } from "lucide-react";
-import { type SubmitEvent, useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 
+import AgencySearch, {
+  type AgencySearchItem,
+} from "@/components/AgencySearch";
 import {
   Dialog,
   DialogContent,
@@ -8,7 +11,6 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { Input } from "@/components/ui/input";
 
 interface Props {
   active?: "discover" | "about";
@@ -25,18 +27,13 @@ export default function PageHeader({
   const [submitOpen, setSubmitOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
+  const [searchItems, setSearchItems] = useState<AgencySearchItem[]>([]);
+  const [searchLoading, setSearchLoading] = useState(false);
   const [ready, setReady] = useState(false);
   const openSearch = useCallback(() => {
     if (homeSearch) onSearch?.();
     else setSearchOpen(true);
   }, [homeSearch, onSearch]);
-
-  function submitSearch(event: SubmitEvent<HTMLFormElement>) {
-    event.preventDefault();
-    const query = searchQuery.trim();
-    if (!query) return;
-    window.location.href = `/?q=${encodeURIComponent(query)}`;
-  }
 
   useEffect(() => {
     setReady(true);
@@ -60,6 +57,29 @@ export default function PageHeader({
       window.removeEventListener("keydown", openSearchShortcut);
     };
   }, [openSearch]);
+
+  useEffect(() => {
+    if (homeSearch || !searchOpen || searchItems.length) return;
+    let ignore = false;
+    setSearchLoading(true);
+    fetch("/search-index.json")
+      .then((response) => {
+        if (!response.ok) throw new Error("Search index unavailable");
+        return response.json() as Promise<AgencySearchItem[]>;
+      })
+      .then((items) => {
+        if (!ignore) setSearchItems(items);
+      })
+      .catch(() => {
+        if (!ignore) setSearchItems([]);
+      })
+      .finally(() => {
+        if (!ignore) setSearchLoading(false);
+      });
+    return () => {
+      ignore = true;
+    };
+  }, [homeSearch, searchItems.length, searchOpen]);
 
   return (
     <>
@@ -143,24 +163,13 @@ export default function PageHeader({
             showCloseButton={false}
           >
             <DialogTitle className="sr-only">Search agencies</DialogTitle>
-            <form className="search-dialog__input-row" onSubmit={submitSearch}>
-              <Search aria-hidden="true" size={17} strokeWidth={1.8} />
-              <Input
-                autoFocus
-                value={searchQuery}
-                onChange={(event) => setSearchQuery(event.target.value)}
-                placeholder="Search agencies"
-                aria-label="Search agencies"
-              />
-              <button
-                type="button"
-                className="search-escape"
-                onClick={() => setSearchOpen(false)}
-                aria-label="Close search"
-              >
-                Esc
-              </button>
-            </form>
+            <AgencySearch
+              items={searchItems}
+              value={searchQuery}
+              onValueChange={setSearchQuery}
+              onClose={() => setSearchOpen(false)}
+              loading={searchLoading}
+            />
           </DialogContent>
         </Dialog>
       )}

@@ -4,10 +4,12 @@ import {
   ExternalLink,
   Grid2X2,
   List,
-  Search,
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
+import AgencySearch, {
+  type AgencySearchItem,
+} from "@/components/AgencySearch";
 import PageHeader from "@/components/PageHeader";
 import {
   Dialog,
@@ -15,7 +17,6 @@ import {
   DialogDescription,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { Input } from "@/components/ui/input";
 import {
   Select,
   SelectContent,
@@ -98,6 +99,23 @@ export default function HomeApp({ agencies }: Props) {
       ...location,
     })).sort((a, b) => a.name.localeCompare(b.name));
   }, [agencies]);
+  const searchItems = useMemo<AgencySearchItem[]>(
+    () =>
+      agencies.map((agency) => ({
+        name: agency.name,
+        slug: agency.slug,
+        meta: formatLocations(agency),
+        searchText: [
+          agency.name,
+          agency.description,
+          agency.aliases.join(" "),
+          formatLocations(agency),
+        ]
+          .join(" ")
+          .toLocaleLowerCase(),
+      })),
+    [agencies],
+  );
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
@@ -349,38 +367,15 @@ export default function HomeApp({ agencies }: Props) {
       <Dialog open={searchOpen} onOpenChange={setSearchOpen}>
         <DialogContent className="search-dialog" showCloseButton={false}>
           <DialogTitle className="sr-only">Search agencies</DialogTitle>
-          <div className="search-dialog__input-row">
-            <Search aria-hidden="true" size={17} strokeWidth={1.8} />
-            <Input
-              autoFocus
-              value={query}
-              onChange={(event) => {
-                setQuery(event.target.value);
-                setPage(1);
-              }}
-              placeholder="Search agencies"
-              aria-label="Search agencies"
-            />
-            {query ? (
-              <button
-                type="button"
-                className="search-clear"
-                onClick={() => setQuery("")}
-                aria-label="Clear search"
-              >
-                Clear
-              </button>
-            ) : (
-              <button
-                type="button"
-                className="search-escape"
-                onClick={() => setSearchOpen(false)}
-                aria-label="Close search"
-              >
-                Esc
-              </button>
-            )}
-          </div>
+          <AgencySearch
+            items={searchItems}
+            value={query}
+            onValueChange={(value) => {
+              setQuery(value);
+              setPage(1);
+            }}
+            onClose={() => setSearchOpen(false)}
+          />
         </DialogContent>
       </Dialog>
       <Dialog open={newsletterOpen} onOpenChange={setNewsletterOpen}>

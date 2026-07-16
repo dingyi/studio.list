@@ -268,9 +268,11 @@ Do not add a newsletter, agency rankings, category/brand link farms, or unprovid
 
 - The centered header search trigger opens a command-style modal matching the Design Engineer Club interaction.
 - Dim and softly blur the page with a neutral scrim; place a 628px white panel 6–8px from the viewport top.
-- The panel contains only a 44px search input row and a visible `Esc` close affordance. Do not add quick links, suggestions, previews, or result rows inside it.
-- On Discover, typing filters the directory behind the overlay and keeps the query synchronized to the URL.
-- On About and Agency Detail, opening search must preserve the current route. Only submitting a non-empty keyword navigates to the Discover results.
+- With an empty query, the panel contains only a 44px search input row and a visible `Esc` close affordance. Do not add quick links, suggestions, or previews.
+- Once the visitor types, show up to 12 matching Agencies directly below the input, following Curated Supply's two-line result pattern: Agency name first and `/agencies/{slug}` as muted secondary text.
+- The first result receives a subtle active background. Arrow keys move the active row, Enter opens it, pointer hover updates the active row, and Clear returns to the input-only state.
+- On Discover, typing also filters the directory behind the overlay and keeps the query synchronized to the URL.
+- On About and Agency Detail, opening and closing search must preserve the current route. Selecting a result opens its Agency Detail.
 - Search matches Agency name and Agency Description, updates results immediately, and synchronizes the value to the `q` URL parameter.
 - `Escape`, the close action, or clicking the scrim closes the layer while preserving an applied query.
 - Do not duplicate search as a persistent toolbar field.

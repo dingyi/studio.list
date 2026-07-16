@@ -12,6 +12,9 @@ test("searches agencies and retains the query in the URL", async ({ page }) => {
   await page.getByRole("textbox", { name: "Search agencies" }).fill("Walsh");
 
   await expect(page.locator(".agency-card")).toHaveCount(1);
+  const searchDialog = page.getByRole("dialog", { name: "Search agencies" });
+  await expect(searchDialog.locator(".search-result")).toHaveCount(1);
+  await expect(searchDialog.locator(".search-result")).toContainText("&Walsh");
   await expect(page).toHaveURL(/q=Walsh/);
 });
 
@@ -31,7 +34,7 @@ test("uses the centered command-search navigation", async ({
   });
   expect(dialogPosition.y).toBe(6);
   expect(dialogPosition.height).toBe(44);
-  await expect(page.locator(".search-dialog__body")).toHaveCount(0);
+  await expect(page.locator(".search-results")).toHaveCount(0);
 });
 
 test("presents the hero newsletter field without sending data", async ({
@@ -126,8 +129,23 @@ test("keeps About in place when opening its compact search", async ({ page }) =>
   await expect(
     page.getByRole("textbox", { name: "Search agencies" }),
   ).toBeVisible();
-  await expect(page.locator(".search-dialog__body")).toHaveCount(0);
+  await expect(page.locator(".search-results")).toHaveCount(0);
   await page.getByRole("button", { name: "Close search" }).click();
   await expect(page.getByRole("dialog", { name: "Search agencies" })).toBeHidden();
   await expect(page).toHaveURL(/\/about\/$/);
+});
+
+test("shows matching Agencies inside the About search panel", async ({ page }) => {
+  await openReadyPage(page, "/about/");
+  await page.getByRole("button", { name: "Search agencies" }).click();
+  await page.getByRole("textbox", { name: "Search agencies" }).fill("Walsh");
+
+  const dialog = page.getByRole("dialog", { name: "Search agencies" });
+  const result = dialog.locator(".search-result");
+  await expect(result).toHaveCount(1);
+  await expect(result).toContainText("&Walsh");
+  await expect(result).toContainText("/agencies/and-walsh");
+  await expect(page).toHaveURL(/\/about\/$/);
+  await dialog.getByRole("button", { name: "Clear search" }).click();
+  await expect(dialog.locator(".search-results")).toHaveCount(0);
 });
