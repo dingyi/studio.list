@@ -1,0 +1,27 @@
+src/styles/global.css
+  s_cfcf328fa175f9::t_4ace61a984666a 219,223,791-792
+  s_cfcf328fa175f9::t_5a8406202cc985 203-218,220-222,224-235,247,249-252,256-258,260-297,801-802,805-806,809-814
+src/components/HomeApp.tsx
+  s_cfcf328fa175f9::t_5a8406202cc985 12-17,88,173-213,379-385
+  s_cfcf328fa175f9::t_a5eb9288fba983 386-387
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_5a8406202cc985 18-33
+design.md
+  s_cfcf328fa175f9::t_5a8406202cc985 114,124-129,131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "0e8506e92f33b9715adc071f398b6e7d52233e00",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
