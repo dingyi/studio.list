@@ -1,0 +1,27 @@
+src/components/PageHeader.tsx
+  s_cfcf328fa175f9::t_fc2d669508a475 96,103,141-154
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_f69c3598b35082 189-193
+  s_cfcf328fa175f9::t_7614f71cb4998d 214
+  s_cfcf328fa175f9::t_fc2d669508a475 28-36,213,215
+design.md
+  s_cfcf328fa175f9::t_fc2d669508a475 106
+src/styles/global.css
+  s_cfcf328fa175f9::t_fc2d669508a475 151,158,236,241-242,244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "013fb5a3ec6154d3a29d0ddf25e87f80b708227f",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
