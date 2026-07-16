@@ -93,12 +93,14 @@ export default function PageHeader({
               <a
                 className={active === "discover" ? "is-active" : ""}
                 href="/"
+                aria-current={active === "discover" ? "page" : undefined}
               >
                 Discover
               </a>
               <a
                 className={active === "about" ? "is-active" : ""}
                 href="/about/"
+                aria-current={active === "about" ? "page" : undefined}
               >
                 About
               </a>
@@ -136,8 +138,20 @@ export default function PageHeader({
           </div>
           {mobileOpen && (
             <nav className="mobile-nav" aria-label="Mobile navigation">
-              <a href="/">Discover</a>
-              <a href="/about/">About</a>
+              <a
+                className={active === "discover" ? "is-active" : ""}
+                href="/"
+                aria-current={active === "discover" ? "page" : undefined}
+              >
+                Discover
+              </a>
+              <a
+                className={active === "about" ? "is-active" : ""}
+                href="/about/"
+                aria-current={active === "about" ? "page" : undefined}
+              >
+                About
+              </a>
               <button type="button" onClick={() => setSubmitOpen(true)}>
                 Submit
               </button>

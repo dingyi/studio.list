@@ -103,7 +103,7 @@ Desktop:
 - primary navigation labels are `Discover` and `About`; `Submit` is the dark right-aligned action;
 - transparent over the page canvas; no containing pill, bottom border, or shadow;
 - the centered search trigger is 256×36px with a soft-gray fill, search icon, placeholder label, and `⌘ K` shortcut hint;
-- active navigation remains understated through text tone rather than a filled pill.
+- inactive navigation uses muted gray text; the current page and hover state use dark text, with no filled pill.
 
 Mobile:
 

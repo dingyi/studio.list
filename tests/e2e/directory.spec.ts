@@ -25,6 +25,15 @@ test("uses the centered command-search navigation", async ({
   await openReadyPage(page);
 
   const search = page.getByRole("button", { name: "Search agencies" });
+  const discover = page
+    .locator(".desktop-nav")
+    .getByRole("link", { name: "Discover" });
+  const about = page
+    .locator(".desktop-nav")
+    .getByRole("link", { name: "About" });
+  await expect(discover).toHaveAttribute("aria-current", "page");
+  await expect(discover).toHaveCSS("color", "rgb(21, 21, 21)");
+  await expect(about).toHaveCSS("color", "rgb(115, 115, 115)");
   await expect(search).toHaveCSS("width", "256px");
   await expect(page.locator(".site-nav")).toHaveCSS("min-height", "56px");
   await search.click();
@@ -177,6 +186,11 @@ test("exposes the mobile navigation and direct website action", async ({
   await expect(
     page.getByRole("navigation", { name: "Mobile navigation" }),
   ).toBeVisible();
+  const mobileDiscover = page
+    .getByRole("navigation", { name: "Mobile navigation" })
+    .getByRole("link", { name: "Discover" });
+  await expect(mobileDiscover).toHaveAttribute("aria-current", "page");
+  await expect(mobileDiscover).toHaveCSS("color", "rgb(21, 21, 21)");
   await expect(page.locator(".agency-card__external").first()).toBeVisible();
 });
 
@@ -196,6 +210,9 @@ test("shows the submission notice from the footer", async ({ page }) => {
 test("presents the About page as a narrow editorial index", async ({ page }) => {
   await openReadyPage(page, "/about/");
 
+  await expect(
+    page.locator('.desktop-nav a[href="/about/"]'),
+  ).toHaveAttribute("aria-current", "page");
   await expect(page.locator(".about-mosaic")).toHaveCount(0);
   await expect(
     page.getByRole("heading", { name: "What is studio.list?" }),
