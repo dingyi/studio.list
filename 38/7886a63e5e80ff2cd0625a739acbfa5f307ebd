@@ -1,0 +1,29 @@
+src/components/HomeApp.tsx
+  s_cfcf328fa175f9::t_12cf8d92a91abd 49-71,187,196-222
+  s_cfcf328fa175f9::t_ee6faeaa9161e6 223
+src/pages/agencies/[slug].astro
+  s_cfcf328fa175f9::t_12cf8d92a91abd 36-42,93-115,119
+design.md
+  s_cfcf328fa175f9::t_12cf8d92a91abd 216,231
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_b63f28ad4699b8 104-107
+  s_cfcf328fa175f9::t_12cf8d92a91abd 85-103,108-109,144-145
+src/styles/global.css
+  s_cfcf328fa175f9::t_12cf8d92a91abd 799
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "387886a63e5e80ff2cd0625a739acbfa5f307ebd",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
