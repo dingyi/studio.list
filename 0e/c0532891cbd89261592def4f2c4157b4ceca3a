@@ -1,0 +1,23 @@
+src/styles/global.css
+  s_cfcf328fa175f9::t_43106de3cf52eb 781,1025
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_43106de3cf52eb 109,113-114
+design.md
+  s_cfcf328fa175f9::t_03bf868d4543ad 240,243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "0ec0532891cbd89261592def4f2c4157b4ceca3a",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
