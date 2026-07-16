@@ -1,5 +1,5 @@
 import { Menu, Search, X } from "lucide-react";
-import { useCallback, useEffect, useState } from "react";
+import { type SubmitEvent, useCallback, useEffect, useState } from "react";
 
 import {
   Dialog,
@@ -8,6 +8,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import { Input } from "@/components/ui/input";
 
 interface Props {
   active?: "discover" | "about";
@@ -22,11 +23,20 @@ export default function PageHeader({
 }: Props) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [submitOpen, setSubmitOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
   const [ready, setReady] = useState(false);
   const openSearch = useCallback(() => {
     if (homeSearch) onSearch?.();
-    else window.location.href = "/?search=1";
+    else setSearchOpen(true);
   }, [homeSearch, onSearch]);
+
+  function submitSearch(event: SubmitEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const query = searchQuery.trim();
+    if (!query) return;
+    window.location.href = `/?q=${encodeURIComponent(query)}`;
+  }
 
   useEffect(() => {
     setReady(true);
@@ -126,6 +136,34 @@ export default function PageHeader({
           </DialogHeader>
         </DialogContent>
       </Dialog>
+      {!homeSearch && (
+        <Dialog open={searchOpen} onOpenChange={setSearchOpen}>
+          <DialogContent
+            className="search-dialog search-dialog--compact"
+            showCloseButton={false}
+          >
+            <DialogTitle className="sr-only">Search agencies</DialogTitle>
+            <form className="search-dialog__input-row" onSubmit={submitSearch}>
+              <Search aria-hidden="true" size={17} strokeWidth={1.8} />
+              <Input
+                autoFocus
+                value={searchQuery}
+                onChange={(event) => setSearchQuery(event.target.value)}
+                placeholder="Search agencies"
+                aria-label="Search agencies"
+              />
+              <button
+                type="button"
+                className="search-escape"
+                onClick={() => setSearchOpen(false)}
+                aria-label="Close search"
+              >
+                Esc
+              </button>
+            </form>
+          </DialogContent>
+        </Dialog>
+      )}
     </>
   );
 }

@@ -591,7 +591,6 @@ img {
   align-items: center;
   gap: 9px;
   padding: 0 14px;
-  border-bottom: 1px solid #e5e5e5;
 }
 .search-dialog__input-row input {
   height: 44px;
@@ -612,113 +611,6 @@ img {
   color: #8a8a8a;
   font-size: 11px;
   cursor: pointer;
-}
-.search-dialog__body {
-  padding: 14px 16px 17px;
-}
-.search-dialog__meta {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px;
-  margin-bottom: 8px;
-  color: #777;
-  font-size: 11px;
-}
-.search-dialog__meta p,
-.search-dialog__label {
-  margin: 0;
-}
-.search-shortcuts {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  margin-bottom: 16px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #e9e9e9;
-}
-.search-shortcuts a {
-  display: flex;
-  min-height: 42px;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 8px;
-  border-radius: 8px;
-  font-size: 14px;
-}
-.search-shortcuts a:hover,
-.search-result:hover,
-.search-featured a:hover {
-  background: #f4f4f4;
-}
-.search-dialog__label {
-  margin-bottom: 8px;
-  color: #777;
-  font-size: 11px;
-}
-.search-results,
-.search-featured {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2px 14px;
-}
-.search-result,
-.search-featured a {
-  display: grid;
-  min-width: 0;
-  min-height: 53px;
-  grid-template-columns: 32px minmax(0, 1fr) auto;
-  align-items: center;
-  gap: 9px;
-  padding: 5px;
-  border-radius: 9px;
-}
-.search-featured a {
-  grid-template-columns: 32px minmax(0, 1fr);
-}
-.search-result__logo {
-  display: grid;
-  width: 30px;
-  height: 30px;
-  place-items: center;
-  overflow: hidden;
-  border: 1px solid #e5e5e5;
-  border-radius: 50%;
-  background: #fff;
-  font-size: 11px;
-  font-weight: 600;
-}
-.search-result__logo img {
-  width: 76%;
-  height: 76%;
-  object-fit: contain;
-}
-.search-result strong,
-.search-result small,
-.search-featured strong,
-.search-featured small {
-  display: block;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-.search-result strong,
-.search-featured strong {
-  font-size: 13px;
-  font-weight: 520;
-}
-.search-result small,
-.search-featured small {
-  margin-top: 1px;
-  color: #777;
-  font-size: 11px;
-}
-.search-no-results {
-  grid-column: 1 / -1;
-  margin: 6px 0 2px;
-  padding: 28px 12px;
-  border-radius: 10px;
-  background: #f4f4f4;
-  color: #666;
-  text-align: center;
 }
 .notice-dialog {
   padding: 28px !important;
@@ -1013,13 +905,6 @@ img {
   .search-dialog {
     top: 8px !important;
     width: calc(100vw - 16px) !important;
-  }
-  .search-results,
-  .search-featured {
-    grid-template-columns: 1fr;
-  }
-  .search-featured a:nth-child(n + 4) {
-    display: none;
   }
   .about-page {
     padding: 48px 16px 30px;

@@ -268,8 +268,9 @@ Do not add a newsletter, agency rankings, category/brand link farms, or unprovid
 
 - The centered header search trigger opens a command-style modal matching the Design Engineer Club interaction.
 - Dim and softly blur the page with a neutral scrim; place a 628px white panel 6–8px from the viewport top.
-- The panel has a 44px input row, visible `Esc` close affordance, two-column quick links, and a small set of Agency suggestions before typing.
-- While typing, replace shortcuts with up to six matched Agency rows containing logo, name, location, and direct profile navigation.
+- The panel contains only a 44px search input row and a visible `Esc` close affordance. Do not add quick links, suggestions, previews, or result rows inside it.
+- On Discover, typing filters the directory behind the overlay and keeps the query synchronized to the URL.
+- On About and Agency Detail, opening search must preserve the current route. Only submitting a non-empty keyword navigates to the Discover results.
 - Search matches Agency name and Agency Description, updates results immediately, and synchronizes the value to the `q` URL parameter.
 - `Escape`, the close action, or clicking the scrim closes the layer while preserving an applied query.
 - Do not duplicate search as a persistent toolbar field.

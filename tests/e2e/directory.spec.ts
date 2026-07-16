@@ -27,11 +27,11 @@ test("uses the centered command-search navigation", async ({
   await search.click();
   const dialogPosition = await page.getByRole("dialog").evaluate((dialog) => {
     const rect = dialog.getBoundingClientRect();
-    return { x: Math.round(rect.x), y: Math.round(rect.y) };
+    return { height: Math.round(rect.height), y: Math.round(rect.y) };
   });
   expect(dialogPosition.y).toBe(6);
-  await expect(page.getByText("Explore studio.list")).toBeVisible();
-  await expect(page.getByText("A few places to begin")).toBeVisible();
+  expect(dialogPosition.height).toBe(44);
+  await expect(page.locator(".search-dialog__body")).toHaveCount(0);
 });
 
 test("presents the hero newsletter field without sending data", async ({
@@ -112,4 +112,22 @@ test("presents the About page as a narrow editorial index", async ({ page }) => 
   ).toBeVisible();
   await expect(page.locator(".about-content section")).toHaveCount(5);
   await expect(page.getByRole("heading", { name: "Connect" })).toHaveCount(0);
+});
+
+test("keeps About in place when opening its compact search", async ({ page }) => {
+  await openReadyPage(page, "/about/");
+
+  await page.getByRole("button", { name: "Search agencies" }).click();
+
+  await expect(page).toHaveURL(/\/about\/$/);
+  await expect(
+    page.getByRole("dialog", { name: "Search agencies" }),
+  ).toBeVisible();
+  await expect(
+    page.getByRole("textbox", { name: "Search agencies" }),
+  ).toBeVisible();
+  await expect(page.locator(".search-dialog__body")).toHaveCount(0);
+  await page.getByRole("button", { name: "Close search" }).click();
+  await expect(page.getByRole("dialog", { name: "Search agencies" })).toBeHidden();
+  await expect(page).toHaveURL(/\/about\/$/);
 });
