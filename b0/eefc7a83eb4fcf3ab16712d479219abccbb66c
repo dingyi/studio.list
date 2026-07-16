@@ -1,0 +1,25 @@
+src/pages/agencies/[slug].astro
+  s_cfcf328fa175f9::t_b1e8c2661c9ff0 45-48,50
+src/styles/global.css
+  s_cfcf328fa175f9::t_b1e8c2661c9ff0 744-745,768,781,795-796,800,814,998-1000
+design.md
+  s_cfcf328fa175f9::t_b1e8c2661c9ff0 216-217,219
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_b1e8c2661c9ff0 98,100,102,104,106-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b0eefc7a83eb4fcf3ab16712d479219abccbb66c",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
