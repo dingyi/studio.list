@@ -796,9 +796,7 @@ img {
   height: 32px;
   place-items: center;
   overflow: hidden;
-  border: 1px solid #dcdcdc;
-  border-radius: 8px;
-  background: #fff;
+  background: transparent;
 }
 .detail-logo img {
   width: 74%;
@@ -1004,7 +1002,6 @@ img {
   .detail-logo {
     width: 32px;
     height: 32px;
-    border-radius: 8px;
   }
   .detail-media {
     border-radius: 10px;

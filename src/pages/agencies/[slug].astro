@@ -33,7 +33,13 @@ const monogram = agency.name.trim().slice(0, 1).toUpperCase();
   <PageHeader client:load />
   <main class="agency-detail">
     <div class="detail-utility">
-      <a class="detail-close" href="/#directory" aria-label="Close agency detail" aria-keyshortcuts="Escape">
+      <a
+        class="detail-close"
+        href="/#directory"
+        aria-label="Close agency detail"
+        aria-keyshortcuts="Escape"
+        data-detail-close
+      >
         <span>Close</span>
         <kbd>Esc</kbd>
       </a>
@@ -84,10 +90,33 @@ const monogram = agency.name.trim().slice(0, 1).toUpperCase();
   <SiteFooter />
 
   <script>
+    const closeLink = document.querySelector<HTMLAnchorElement>("[data-detail-close]");
+
+    function returnFromDetail() {
+      let hasSameOriginReferrer = false;
+      try {
+        hasSameOriginReferrer = new URL(document.referrer).origin === window.location.origin;
+      } catch {
+        hasSameOriginReferrer = false;
+      }
+
+      if (hasSameOriginReferrer && window.history.length > 1) {
+        window.history.back();
+        return;
+      }
+      window.location.assign("/#directory");
+    }
+
+    closeLink?.addEventListener("click", (event) => {
+      if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      event.preventDefault();
+      returnFromDetail();
+    });
+
     document.addEventListener("keydown", (event) => {
       if (event.key !== "Escape" || event.defaultPrevented) return;
       if (document.querySelector('[role="dialog"]')) return;
-      window.location.assign("/#directory");
+      returnFromDetail();
     });
   </script>
 </BaseLayout>

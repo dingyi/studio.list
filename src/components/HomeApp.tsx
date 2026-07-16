@@ -46,6 +46,29 @@ function AgencyCard({ agency, view }: { agency: Agency; view: View }) {
         className="agency-card__main"
         href={`/agencies/${agency.slug}/`}
         aria-label={`View ${agency.name}`}
+        data-agency-slug={agency.slug}
+        onClick={(event) => {
+          if (
+            event.button !== 0 ||
+            event.metaKey ||
+            event.ctrlKey ||
+            event.shiftKey ||
+            event.altKey
+          )
+            return;
+
+          window.history.replaceState(
+            {
+              ...(window.history.state ?? {}),
+              studioListReturn: {
+                slug: agency.slug,
+                scrollY: window.scrollY,
+              },
+            },
+            "",
+            window.location.href,
+          );
+        }}
       >
         <div className="agency-card__media">
           <img
@@ -161,7 +184,7 @@ export default function HomeApp({ agencies }: Props) {
     if (currentPage > 1) params.set("page", String(currentPage));
     const queryString = params.toString();
     window.history.replaceState(
-      {},
+      window.history.state ?? {},
       "",
       queryString
         ? `${window.location.pathname}?${queryString}`
@@ -169,6 +192,34 @@ export default function HomeApp({ agencies }: Props) {
     );
     window.localStorage.setItem("studio-list-view", view);
   }, [country, currentPage, query, ready, view, viewInUrl]);
+
+  useEffect(() => {
+    if (!ready) return;
+
+    const restoreDirectoryPosition = () => {
+      const returnState = window.history.state?.studioListReturn as
+        | { slug?: string; scrollY?: number }
+        | undefined;
+      if (!returnState?.slug) return;
+
+      window.requestAnimationFrame(() => {
+        const target = document.querySelector<HTMLAnchorElement>(
+          `[data-agency-slug="${CSS.escape(returnState.slug!)}"]`,
+        );
+        if (!target) return;
+
+        if (typeof returnState.scrollY === "number") {
+          window.scrollTo({ top: returnState.scrollY, behavior: "instant" });
+        }
+        target.focus({ preventScroll: true });
+      });
+    };
+
+    restoreDirectoryPosition();
+    window.addEventListener("pageshow", restoreDirectoryPosition);
+    return () =>
+      window.removeEventListener("pageshow", restoreDirectoryPosition);
+  }, [ready, currentPage, view]);
 
   function choosePage(next: number) {
     setPage(next);

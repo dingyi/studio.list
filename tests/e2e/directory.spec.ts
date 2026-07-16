@@ -82,6 +82,31 @@ test("switches layouts and opens an agency detail page", async ({ page }) => {
   ).toBeVisible();
 });
 
+test("returns from a detail page to the originating card", async ({
+  page,
+}, testInfo) => {
+  test.skip(testInfo.project.name === "mobile");
+  await openReadyPage(page);
+  await expect(page.locator('[data-directory-ready="true"]')).toBeVisible();
+
+  const originCard = page.locator(".agency-card__main").nth(12);
+  await originCard.scrollIntoViewIfNeeded();
+  await page.evaluate(() => window.scrollBy(0, -80));
+  const originHref = await originCard.getAttribute("href");
+  await originCard.click();
+  await expect(page).toHaveURL(new RegExp(`${originHref}$`));
+
+  await page.getByRole("link", { name: "Close agency detail" }).click();
+  await expect(page).toHaveURL(/\/$/);
+  await expect(page.locator('[data-directory-ready="true"]')).toBeVisible();
+  await expect(originCard).toBeFocused();
+  const returnedScroll = await page.evaluate(() => window.scrollY);
+  const recordedScroll = await page.evaluate(
+    () => window.history.state.studioListReturn.scrollY,
+  );
+  expect(Math.abs(returnedScroll - recordedScroll)).toBeLessThan(2);
+});
+
 test("uses the centered profile layout on agency detail pages", async ({
   page,
 }, testInfo) => {
@@ -116,6 +141,8 @@ test("uses the centered profile layout on agency detail pages", async ({
   expect(factsBox).not.toBeNull();
   expect(logoBox!.width).toBe(32);
   expect(logoBox!.height).toBe(32);
+  await expect(detail.locator(".detail-logo")).toHaveCSS("border-top-width", "0px");
+  await expect(detail.locator(".detail-logo")).toHaveCSS("background-color", "rgba(0, 0, 0, 0)");
   expect(logoBox!.y).toBeLessThan(mediaBox!.y);
   expect(Math.abs(logoBox!.x + logoBox!.width / 2 - (utilityBox!.x + utilityBox!.width / 2))).toBeLessThan(1);
   expect(Math.abs(utilityBox!.width - mediaBox!.width)).toBeLessThan(1);

@@ -213,7 +213,7 @@ Use the Design Engineer Club people-detail composition, translated to verified a
 
 Top section:
 
-- a narrow utility row with a `Close` action, centered 32px Agency Logo, and current Agency position;
+- a narrow utility row with a `Close` action, centered frameless 32px Agency Logo, and current Agency position;
 - the Logo uses a monogram fallback when no verified logo is available;
 - one complete 16:10 Agency Screenshot in a restrained rounded container;
 - the utility row, Screenshot, title, and information table share the same 624px content width;
@@ -228,7 +228,7 @@ Information section:
 
 Navigation:
 
-- `Close` returns to the directory and the Escape key provides the same shortcut when no dialog is open;
+- `Close` returns through browser history so the originating card, keyboard focus, filters, and scroll position are restored; direct detail visits fall back to the directory anchor, and the Escape key provides the same shortcut when no dialog is open;
 - do not include previous/next Agency pagination at the bottom of the page.
 
 ## About
