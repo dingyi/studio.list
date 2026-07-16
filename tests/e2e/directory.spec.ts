@@ -84,7 +84,7 @@ test("switches layouts and opens an agency detail page", async ({ page }) => {
 
 test("uses the centered profile layout on agency detail pages", async ({
   page,
-}) => {
+}, testInfo) => {
   await openReadyPage(page, "/agencies/dine/");
 
   const detail = page.locator(".agency-detail");
@@ -93,7 +93,18 @@ test("uses the centered profile layout on agency detail pages", async ({
   await expect(detail.locator(".detail-media")).toBeVisible();
   await expect(detail.locator(".detail-fact")).toHaveCount(3);
   await expect(detail.locator(".detail-fact").first()).toHaveCSS("align-items", "center");
+  await expect(detail.locator(".detail-chip")).toHaveCount(0);
   await expect(detail.locator(".detail-adjacent")).toHaveCount(0);
+
+  const website = detail.locator(".detail-website");
+  const websiteIcon = website.locator("svg");
+  await expect(websiteIcon).toHaveCSS("opacity", "0");
+  await expect(websiteIcon).toHaveCSS("width", "0px");
+  if (testInfo.project.name !== "mobile") {
+    await website.hover();
+    await expect(websiteIcon).toHaveCSS("opacity", "1");
+    await expect(websiteIcon).toHaveCSS("width", "14px");
+  }
 
   const logoBox = await detail.locator(".detail-logo").boundingBox();
   const utilityBox = await detail.locator(".detail-utility").boundingBox();

@@ -217,14 +217,13 @@ Top section:
 - the Logo uses a monogram fallback when no verified logo is available;
 - one complete 16:10 Agency Screenshot in a restrained rounded container;
 - the utility row, Screenshot, title, and information table share the same 624px content width;
-- the Agency name centered below the Screenshot at large display scale;
-- the verified location shown as a compact neutral chip below the name.
+- the Agency name is centered below the Screenshot at large display scale without secondary metadata beneath it.
 
 Information section:
 
 - a narrow bordered definition list matching the reference profile table;
 - `About`, `Location`, and `Website` are the only rows;
-- the Website value links directly to the official domain in a new tab;
+- the Website value links directly to the official domain in a new tab; its external arrow stays collapsed by default and smoothly reveals on hover or keyboard focus;
 - the verified description remains readable and is never replaced with invented services, clients, projects, awards, ratings, or testimonials.
 
 Navigation:
