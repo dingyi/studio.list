@@ -2,34 +2,6 @@
 import PageHeader from "@/components/PageHeader";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import { publishedAgencies } from "@/lib/catalog";
-
-const glyphs: Record<string, string[]> = {
-  S: ["11111", "10000", "10000", "11111", "00001", "00001", "11111"],
-  T: ["11111", "00100", "00100", "00100", "00100", "00100", "00100"],
-  U: ["10001", "10001", "10001", "10001", "10001", "10001", "11111"],
-  D: ["11110", "10001", "10001", "10001", "10001", "10001", "11110"],
-  I: ["11111", "00100", "00100", "00100", "00100", "00100", "11111"],
-  O: ["01110", "10001", "10001", "10001", "10001", "10001", "01110"],
-  L: ["10000", "10000", "10000", "10000", "10000", "10000", "11111"],
-  ".": ["0", "0", "0", "0", "0", "1", "1"],
-};
-
-const logos = publishedAgencies.flatMap((agency) =>
-  agency.logo ? [agency.logo] : [],
-);
-let logoIndex = 0;
-const mosaicLetters = [..."STUDIO.LIST"].map((character) => {
-  const rows = glyphs[character];
-  return {
-    columns: rows[0].length,
-    cells: rows.flatMap((row) =>
-      [...row].map((cell) =>
-        cell === "1" ? logos[logoIndex++ % logos.length] : null,
-      ),
-    ),
-  };
-});
 ---
 
 <BaseLayout
@@ -39,25 +11,6 @@ const mosaicLetters = [..."STUDIO.LIST"].map((character) => {
   <PageHeader active="about" client:load />
   <main class="about-page">
     <h1 class="sr-only">About studio.list</h1>
-    <div class="about-mosaic" aria-hidden="true">
-      <div class="about-mosaic__word">
-        {
-          mosaicLetters.map((letter) => (
-            <span
-              class="about-mosaic__glyph"
-              style={`--glyph-columns: ${letter.columns}`}
-            >
-              {letter.cells.map((logo) => (
-                <span class:list={["about-mosaic__cell", { "is-filled": logo }]}>
-                  {logo && <img src={logo} alt="" width="24" height="24" />}
-                </span>
-              ))}
-            </span>
-          ))
-        }
-      </div>
-    </div>
-
     <div class="about-content">
       <section>
         <h2>What is studio.list?</h2>
@@ -100,23 +53,7 @@ const mosaicLetters = [..."STUDIO.LIST"].map((character) => {
           respective owners. Every profile links directly to the official site.
         </p>
       </section>
-      <section>
-        <h2>Connect</h2>
-        <div class="about-links">
-          <a href="https://github.com/dingyi/studio.list" target="_blank" rel="noreferrer">
-            GitHub ↗
-          </a>
-          <a href="/">Discover agencies →</a>
-          <button type="button" data-about-submit>Submit an agency →</button>
-        </div>
-      </section>
     </div>
   </main>
   <SiteFooter />
 </BaseLayout>
-
-<script>
-  document.querySelector("[data-about-submit]")?.addEventListener("click", () => {
-    window.dispatchEvent(new CustomEvent("studio-submit"));
-  });
-</script>

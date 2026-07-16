@@ -237,11 +237,10 @@ Information section:
 
 The About page follows the Design Engineer Club editorial composition rather than the earlier oversized title and two-column panels:
 
-- a 235px visual opening with a small-tile `STUDIO.LIST` mosaic assembled from the directory's own Agency Logos;
-- an accessible hidden page H1, because the mosaic is decorative and must not become the document title;
+- an accessible hidden page H1 followed by the editorial content without a decorative hero or image treatment;
 - a centered 624px reading column;
 - stacked sections separated by one-pixel rules, with 12px muted labels and 16/24px body copy;
-- a compact Connect section with GitHub, Discover, and Submit actions.
+- no page-level Connect block; global navigation and footer already provide those actions.
 
 The page explains:
 

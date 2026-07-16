@@ -106,12 +106,10 @@ test("shows the submission notice from the footer", async ({ page }) => {
 test("presents the About page as a narrow editorial index", async ({ page }) => {
   await openReadyPage(page, "/about/");
 
-  await expect(page.locator(".about-mosaic")).toBeVisible();
+  await expect(page.locator(".about-mosaic")).toHaveCount(0);
   await expect(
     page.getByRole("heading", { name: "What is studio.list?" }),
   ).toBeVisible();
-  await expect(page.locator(".about-content section")).toHaveCount(6);
-  await expect(
-    page.getByRole("link", { name: "GitHub ↗", exact: true }),
-  ).toHaveAttribute("href", "https://github.com/dingyi/studio.list");
+  await expect(page.locator(".about-content section")).toHaveCount(5);
+  await expect(page.getByRole("heading", { name: "Connect" })).toHaveCount(0);
 });
