@@ -1,0 +1,21 @@
+design.md
+  s_cfcf328fa175f9::t_7982b6ffec7b6f 231
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_7982b6ffec7b6f 128-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "399386172cfb975879acbe3c20974ea31a18c996",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
