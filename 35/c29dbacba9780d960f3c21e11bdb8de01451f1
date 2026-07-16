@@ -1,0 +1,141 @@
+public/flags/lv.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-6
+public/flags/in.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-25
+public/flags/de.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-5
+public/flags/vn.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-11
+public/flags/ie.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-7
+public/flags/fi.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-5
+public/flags/gr.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-16
+public/flags/il.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-14
+design.md
+  s_cfcf328fa175f9::t_2a9f2da77e978d 167,262,264-267,269
+public/flags/no.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-7
+public/flags/ru.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-5
+public/flags/us.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-9
+package.json
+  s_cfcf328fa175f9::t_913c431c136948 50
+public/flags/pt.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-57
+public/flags/cz.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-5
+public/flags/ar.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-32
+public/flags/fr.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-5
+public/flags/it.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-7
+public/flags/sk.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-9
+public/flags/es.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-544
+public/flags/kr.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-24
+public/flags/nz.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-36
+public/flags/is.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-12
+src/components/SiteFooter.astro
+  s_cfcf328fa175f9::t_2a9f2da77e978d 6-14
+public/flags/be.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-7
+public/flags/jp.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-11
+public/flags/cn.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-11
+public/flags/uy.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-28
+src/components/HomeApp.tsx
+  s_cfcf328fa175f9::t_2a9f2da77e978d 8,28,42-70,114-116,202,340-352,359-369
+public/flags/gb.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-7
+public/flags/nl.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-5
+public/flags/au.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-8
+public/flags/dk.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-5
+src/lib/catalog.ts
+  s_cfcf328fa175f9::t_2a9f2da77e978d 36-39,43
+public/flags/hr.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-58
+public/flags/za.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-17
+public/flags/ng.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-6
+public/flags/ca.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-4
+public/flags/tw.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-34
+public/flags/cy.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-6
+public/flags/hk.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-8
+public/flags/LICENSE-flag-icons.txt
+  s_cfcf328fa175f9::t_290a125d01f280 1-21
+public/flags/ch.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-9
+public/flags/mx.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-382
+public/flags/pl.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-6
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_2a9f2da77e978d 72-74,129,185-186
+public/flags/th.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-7
+src/pages/agencies/[slug].astro
+  s_cfcf328fa175f9::t_2a9f2da77e978d 3,75,117-119
+public/flags/br.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-45
+public/flags/ph.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-6
+public/flags/ua.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-6
+src/components/LocationList.astro
+  s_cfcf328fa175f9::t_2a9f2da77e978d 1-31
+public/flags/hu.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-7
+public/flags/id.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-4
+public/flags/sg.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-13
+public/flags/at.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-4
+public/flags/tr.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-8
+public/flags/mo.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-9
+src/styles/global.css
+  s_cfcf328fa175f9::t_2a9f2da77e978d 429-454,701-710,712,714-717,719-720,725-726,729-730,733-734,737,1029-1030
+public/flags/ae.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-6
+public/flags/my.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-26
+public/flags/se.svg
+  s_cfcf328fa175f9::t_290a125d01f280 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "35c29dbacba9780d960f3c21e11bdb8de01451f1",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
