@@ -888,10 +888,10 @@ img {
 .similar-agencies h2 {
   max-width: 760px;
   margin: 0;
-  font-size: clamp(28px, 3.2vw, 42px);
-  font-weight: 480;
-  letter-spacing: -0.045em;
-  line-height: 1.04;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 20px;
   text-wrap: balance;
 }
 .similar-agencies__grid {
@@ -1053,9 +1053,6 @@ img {
   .similar-agencies {
     margin-top: 80px;
     padding-top: 24px;
-  }
-  .similar-agencies h2 {
-    font-size: 30px;
   }
   .similar-agencies__grid {
     grid-template-columns: 1fr;

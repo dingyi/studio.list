@@ -120,9 +120,11 @@ test("uses the centered profile layout on agency detail pages", async ({
   await expect(detail.locator(".detail-fact").first()).toHaveCSS("align-items", "center");
   await expect(detail.locator(".detail-chip")).toHaveCount(0);
   await expect(detail.locator(".detail-adjacent")).toHaveCount(0);
-  await expect(
-    detail.getByRole("heading", { name: "Explore similar agencies to Dine" }),
-  ).toBeVisible();
+  const similarHeading = detail.getByRole("heading", {
+    name: "Explore similar agencies to Dine",
+  });
+  await expect(similarHeading).toBeVisible();
+  await expect(similarHeading).toHaveCSS("font-size", "14px");
   await expect(detail.locator(".similar-agencies .agency-card")).toHaveCount(4);
 
   const website = detail.locator(".detail-website");
