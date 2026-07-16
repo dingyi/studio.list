@@ -92,6 +92,7 @@ test("uses the centered profile layout on agency detail pages", async ({
   await expect(detail.locator(".detail-logo")).toBeVisible();
   await expect(detail.locator(".detail-media")).toBeVisible();
   await expect(detail.locator(".detail-fact")).toHaveCount(3);
+  await expect(detail.locator(".detail-fact").first()).toHaveCSS("align-items", "center");
   await expect(detail.locator(".detail-adjacent")).toHaveCount(0);
 
   const logoBox = await detail.locator(".detail-logo").boundingBox();

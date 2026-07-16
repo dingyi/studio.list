@@ -841,7 +841,7 @@ img {
   display: grid;
   grid-template-columns: 144px minmax(0, 1fr);
   gap: 20px;
-  align-items: start;
+  align-items: center;
   padding: 14px 0;
 }
 .detail-fact + .detail-fact {
