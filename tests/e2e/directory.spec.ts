@@ -125,7 +125,9 @@ test("uses the centered profile layout on agency detail pages", async ({
   });
   await expect(similarHeading).toBeVisible();
   await expect(similarHeading).toHaveCSS("font-size", "14px");
-  await expect(detail.locator(".similar-agencies .agency-card")).toHaveCount(4);
+  const similarSection = detail.locator(".similar-agencies");
+  await expect(similarSection).toHaveCSS("border-top-width", "0px");
+  await expect(similarSection.locator(".agency-card")).toHaveCount(4);
 
   const website = detail.locator(".detail-website");
   const websiteIcon = website.locator("svg");

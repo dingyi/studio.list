@@ -228,7 +228,7 @@ Information section:
 
 Similar agencies:
 
-- place a full-width recommendation section after the profile information with the compact 14px heading `Explore similar agencies to {Agency name}`;
+- place a full-width, borderless recommendation section after the profile information with the compact 14px heading `Explore similar agencies to {Agency name}`;
 - show exactly four standard screenshot cards, using the same external-caption anatomy and direct Website Action as the directory;
 - rank candidates deterministically by shared verified location first and source-description keyword overlap second;
 - use four columns on desktop, two on tablet, and one on mobile.

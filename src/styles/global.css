@@ -883,7 +883,6 @@ img {
   width: 100%;
   margin: clamp(96px, 11vw, 144px) auto 0;
   padding-top: 32px;
-  border-top: 1px solid #d8d8d8;
 }
 .similar-agencies h2 {
   max-width: 760px;
