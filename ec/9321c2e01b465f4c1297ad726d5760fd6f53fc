@@ -1,0 +1,24 @@
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_5235fadbe1a6ea 22,35-45
+  s_cfcf328fa175f9::t_bfd622f2289473 46-47
+src/styles/global.css
+  s_cfcf328fa175f9::t_960586c99ccdbb 207,282,347,351,353,358-359,372-374,377,379-381,387-390,394-395,397-398,401,434,783,798
+design.md
+  s_cfcf328fa175f9::t_5235fadbe1a6ea 130,169,171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ec9321c2e01b465f4c1297ad726d5760fd6f53fc",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
