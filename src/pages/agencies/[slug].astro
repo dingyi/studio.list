@@ -1,40 +1,95 @@
 ---
-import { ArrowLeft, ArrowUpRight } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { formatLocations, publishedAgencies, type Agency } from "@/lib/catalog";
 
 export function getStaticPaths() {
-  return publishedAgencies.map((agency) => ({ params: { slug: agency.slug }, props: { agency } }));
+  const total = publishedAgencies.length;
+
+  return publishedAgencies.map((agency, index) => ({
+    params: { slug: agency.slug },
+    props: { agency, position: index + 1, total },
+  }));
 }
 
-interface Props { agency: Agency }
-const { agency } = Astro.props;
+interface Props {
+  agency: Agency;
+  position: number;
+  total: number;
+}
+
+const { agency, position, total } = Astro.props;
 const description = agency.description || `Discover ${agency.name}, an independent design agency listed on studio.list.`;
+const location = formatLocations(agency);
+const counterWidth = String(total).length;
+const positionLabel = String(position).padStart(counterWidth, "0");
+const totalLabel = String(total).padStart(counterWidth, "0");
+const monogram = agency.name.trim().slice(0, 1).toUpperCase();
 ---
 
 <BaseLayout title={`${agency.name} — studio.list`} description={description} image={agency.screenshot}>
   <PageHeader client:load />
   <main class="agency-detail">
-    <a class="back-link" href="/" aria-label="Back to all agencies"><ArrowLeft size={17} /></a>
-    <section class="detail-grid" aria-labelledby="agency-title">
-      <div class="detail-heading">
-        {agency.logo && <div class="detail-logo"><img src={agency.logo} alt="" /></div>}
-        <div><p class="eyebrow">{formatLocations(agency)}</p><h1 id="agency-title">{agency.name}</h1></div>
+    <div class="detail-utility">
+      <a class="detail-close" href="/#directory" aria-label="Close agency detail" aria-keyshortcuts="Escape">
+        <span>Close</span>
+        <kbd>Esc</kbd>
+      </a>
+      <p class="detail-counter" aria-label={`Agency ${position} of ${total}`}>
+        {positionLabel} / {totalLabel}
+      </p>
+    </div>
+
+    <article class="detail-profile" aria-labelledby="agency-title">
+      <div class="detail-logo">
+        {agency.logo
+          ? <img src={agency.logo} alt={`${agency.name} logo`} />
+          : <span class="detail-logo__fallback" aria-hidden="true">{monogram}</span>}
       </div>
-      <div class="detail-action">
-        <a class="website-cta" href={agency.website} target="_blank" rel="noreferrer">Visit official website <ArrowUpRight size={17} /></a>
-        <p class="domain-label">{agency.officialDomain}</p>
-      </div>
-    </section>
-    <div class="detail-media"><img src={agency.screenshot} alt={`Homepage screenshot of ${agency.name}`} width="1440" height="900" /></div>
-    <section class="detail-about" aria-labelledby="about-title">
-      <h2 id="about-title">About</h2>
-      <div class="detail-copy">
-        <p>{agency.description || `${agency.name} is an independent design agency listed on studio.list.`}</p>
-      </div>
-    </section>
+
+      <figure class="detail-media">
+        <img src={agency.screenshot} alt={`Homepage screenshot of ${agency.name}`} width="1440" height="900" />
+      </figure>
+
+      <h1 id="agency-title">{agency.name}</h1>
+      <p class="detail-chip">{location}</p>
+
+      <dl class="detail-facts">
+        <div class="detail-fact detail-fact--about">
+          <dt>About</dt>
+          <dd>{description}</dd>
+        </div>
+        <div class="detail-fact">
+          <dt>Location</dt>
+          <dd>{location}</dd>
+        </div>
+        <div class="detail-fact">
+          <dt>Website</dt>
+          <dd>
+            <a
+              class="detail-website"
+              href={agency.website}
+              target="_blank"
+              rel="noreferrer"
+              aria-label={`Visit official website for ${agency.name}`}
+            >
+              <span>{agency.officialDomain}</span>
+              <ArrowUpRight size={14} aria-hidden="true" />
+            </a>
+          </dd>
+        </div>
+      </dl>
+    </article>
   </main>
   <SiteFooter />
+
+  <script>
+    document.addEventListener("keydown", (event) => {
+      if (event.key !== "Escape" || event.defaultPrevented) return;
+      if (document.querySelector('[role="dialog"]')) return;
+      window.location.assign("/#directory");
+    });
+  </script>
 </BaseLayout>

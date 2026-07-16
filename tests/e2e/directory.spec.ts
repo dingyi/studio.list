@@ -82,6 +82,25 @@ test("switches layouts and opens an agency detail page", async ({ page }) => {
   ).toBeVisible();
 });
 
+test("uses the centered profile layout on agency detail pages", async ({
+  page,
+}) => {
+  await openReadyPage(page, "/agencies/dine/");
+
+  const detail = page.locator(".agency-detail");
+  await expect(detail.locator(".detail-utility")).toBeVisible();
+  await expect(detail.locator(".detail-logo")).toBeVisible();
+  await expect(detail.locator(".detail-media")).toBeVisible();
+  await expect(detail.locator(".detail-fact")).toHaveCount(3);
+  await expect(detail.locator(".detail-adjacent")).toHaveCount(0);
+
+  const logoBox = await detail.locator(".detail-logo").boundingBox();
+  const mediaBox = await detail.locator(".detail-media").boundingBox();
+  expect(logoBox).not.toBeNull();
+  expect(mediaBox).not.toBeNull();
+  expect(logoBox!.y).toBeLessThan(mediaBox!.y);
+});
+
 test("exposes the mobile navigation and direct website action", async ({
   page,
 }, testInfo) => {

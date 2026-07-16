@@ -209,29 +209,27 @@ Mobile rows reduce to thumbnail, a two-line text stack, and the external action.
 
 ## Agency Detail
 
-Use the reference product-detail composition, simplified for verified agency data.
+Use the Design Engineer Club people-detail composition, translated to verified agency data.
 
 Top section:
 
-- circular back action at top left;
-- centered studio.list navigation/mark;
-- location metadata above the Agency name;
-- 40px Agency name on desktop, 36px on mobile;
-- prominent dark Official Website Action aligned right on desktop and below the name on mobile.
-
-Media section:
-
-- one large white 16px-radius container;
-- Agency Screenshot centered and displayed at its complete 16:10 ratio;
-- no browser-frame decoration unless later approved;
-- no carousel or additional invented artwork.
+- a narrow utility row with a `Close` action, `Esc` hint, and current Agency position;
+- the Agency Logo centered above the Screenshot, with a monogram fallback when no logo is available;
+- one complete 16:10 Agency Screenshot in a restrained rounded container;
+- the Agency name centered below the Screenshot at large display scale;
+- the verified location shown as a compact neutral chip below the name.
 
 Information section:
 
-- “About” heading at 32px;
-- the verified description in a readable column around 540px wide;
-- logo may appear as supporting identity but never replace the Agency Screenshot;
-- do not generate services, clients, projects, awards, ratings, or testimonials from the slogan.
+- a narrow bordered definition list matching the reference profile table;
+- `About`, `Location`, and `Website` are the only rows;
+- the Website value links directly to the official domain in a new tab;
+- the verified description remains readable and is never replaced with invented services, clients, projects, awards, ratings, or testimonials.
+
+Navigation:
+
+- `Close` returns to the directory and the Escape key provides the same shortcut when no dialog is open;
+- do not include previous/next Agency pagination at the bottom of the page.
 
 ## About
 
