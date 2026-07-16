@@ -15,6 +15,22 @@ test("searches agencies and retains the query in the URL", async ({ page }) => {
   await expect(page).toHaveURL(/q=Walsh/);
 });
 
+test("presents the hero newsletter field without sending data", async ({
+  page,
+}) => {
+  await openReadyPage(page);
+  await page
+    .getByRole("textbox", { name: "Newsletter email address" })
+    .fill("reader@example.com");
+  await page
+    .getByRole("button", { name: "Subscribe to the studio.list newsletter" })
+    .click();
+
+  await expect(
+    page.getByRole("heading", { name: "Subscriptions are opening soon." }),
+  ).toBeVisible();
+});
+
 test("switches layouts and opens an agency detail page", async ({ page }) => {
   await openReadyPage(page);
   await expect(page.locator('[data-directory-ready="true"]')).toBeVisible();

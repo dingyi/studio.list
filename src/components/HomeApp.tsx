@@ -9,7 +9,12 @@ import {
 import { useEffect, useMemo, useState } from "react";
 
 import PageHeader from "@/components/PageHeader";
-import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogTitle,
+} from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
 import {
   Select,
@@ -80,6 +85,7 @@ export default function HomeApp({ agencies }: Props) {
   const [viewInUrl, setViewInUrl] = useState(false);
   const [page, setPage] = useState(1);
   const [searchOpen, setSearchOpen] = useState(false);
+  const [newsletterOpen, setNewsletterOpen] = useState(false);
   const [ready, setReady] = useState(false);
 
   const countries = useMemo(() => {
@@ -164,13 +170,47 @@ export default function HomeApp({ agencies }: Props) {
         onSearch={() => setSearchOpen(true)}
       />
       <main data-directory-ready={ready}>
-        <section className="hero">
-          <p className="eyebrow">Independent design, carefully indexed</p>
-          <h1>A living directory of remarkable design agencies.</h1>
-          <p className="hero__copy">
-            Explore independent studios through the work they put forward—not
-            rankings, ads, or pay-to-play placement.
-          </p>
+        <section className="hero" aria-labelledby="hero-title">
+          <div className="hero__inner">
+            <p className="hero__status">
+              <span aria-hidden="true" />
+              {agencies.length} verified agencies
+            </p>
+            <h1 id="hero-title">
+              Discover remarkable, independent design agencies
+            </h1>
+            <p className="hero__copy">
+              Subscribe for a weekly edit of remarkable studios shaping
+              brands, products, and culture.
+            </p>
+            <form
+              className="hero__subscribe"
+              aria-label="Newsletter subscription"
+              onSubmit={(event) => {
+                event.preventDefault();
+                setNewsletterOpen(true);
+              }}
+            >
+              <label className="sr-only" htmlFor="newsletter-email">
+                Newsletter email address
+              </label>
+              <input
+                id="newsletter-email"
+                name="email"
+                type="email"
+                autoComplete="email"
+                placeholder="name@email.com"
+                required
+                aria-label="Newsletter email address"
+              />
+              <button
+                type="submit"
+                aria-label="Subscribe to the studio.list newsletter"
+              >
+                Subscribe
+              </button>
+            </form>
+          </div>
         </section>
 
         <section
@@ -334,6 +374,15 @@ export default function HomeApp({ agencies }: Props) {
               Clear
             </button>
           )}
+        </DialogContent>
+      </Dialog>
+      <Dialog open={newsletterOpen} onOpenChange={setNewsletterOpen}>
+        <DialogContent className="notice-dialog">
+          <DialogTitle>Subscriptions are opening soon.</DialogTitle>
+          <DialogDescription>
+            The weekly studio.list edit is still being prepared. Your email
+            has not been stored or sent anywhere.
+          </DialogDescription>
         </DialogContent>
       </Dialog>
     </>

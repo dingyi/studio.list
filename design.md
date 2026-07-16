@@ -111,7 +111,7 @@ Mobile:
 - hide the centered desktop navigation inside the menu;
 - preserve the quiet background and large tap targets.
 
-The navigation includes a visible `Submit` action. In the MVP it opens a lightweight “Submissions are opening soon.” notice and does not display a form, save data, or trigger an external workflow. Do not add Blog, account, or newsletter links without approval.
+The navigation includes a visible `Submit` action. In the MVP it opens a lightweight “Submissions are opening soon.” notice and does not display a form, save data, or trigger an external workflow. Do not add Blog or account links without approval.
 
 Use no standalone logo symbol in the MVP and do not recreate Curated Supply's star mark.
 
@@ -121,14 +121,14 @@ The favicon uses a black Geist `s.` monogram on `--background`. It may also appe
 
 ### Hero
 
-- Use an editorial, left-aligned hero with a small uppercase eyebrow.
-- Eyebrow: `Independent design, carefully indexed`.
-- Heading width: approximately 940px desktop; full available width mobile.
-- Final heading: `A living directory of remarkable design agencies.`
-- Final supporting copy: `Explore independent studios through the work they put forward—not rankings, ads, or pay-to-play placement.`
-- Do not reproduce the reference newsletter form or place a persistent search field in the hero.
+- Match the reference's centered, compact hero composition beneath the navigation.
+- Show a small bordered status pill with a green availability dot and the verified Agency count.
+- Keep the heading and supporting copy within a centered 540px column.
+- Final heading: `Discover remarkable, independent design agencies`.
+- Final supporting copy: `Subscribe for a weekly edit of remarkable studios shaping brands, products, and culture.`
+- Include a 428×40px white pill newsletter field with an email input and `Subscribe` action. Until a newsletter backend is approved, submission opens a clear notice and does not store or transmit the address.
 
-Desktop vertical rhythm should resemble the reference: hero begins around 120–140px from the viewport top, with the catalog controls appearing around the lower half of the first viewport. Mobile places the hero immediately below the header with 30px–48px of breathing room.
+Desktop follows the reference measurements: status text begins around 144px from the viewport top, the heading uses 36px/39.6px type, and the catalog controls begin around 463px. Mobile uses the same 36px title, full-width newsletter field within 16px page insets, and places catalog controls around 450–470px.
 
 ### Catalog toolbar
 
