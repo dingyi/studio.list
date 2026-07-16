@@ -54,7 +54,9 @@ test("presents the hero newsletter field without sending data", async ({
   ).toBeVisible();
 });
 
-test("uses the external-caption course card anatomy", async ({ page }) => {
+test("uses the external-caption course card anatomy", async ({
+  page,
+}, testInfo) => {
   await openReadyPage(page);
   await expect(page.locator('[data-directory-ready="true"]')).toBeVisible();
 
@@ -67,6 +69,10 @@ test("uses the external-caption course card anatomy", async ({ page }) => {
   await expect(media).toHaveCSS("border-radius", "15px");
   await expect(title).toHaveCSS("font-size", "14px");
   await expect(title).toHaveCSS("font-weight", "600");
+  const gridColumns = await page.locator(".agency-grid--card").evaluate(
+    (grid) => getComputedStyle(grid).gridTemplateColumns.split(" ").length,
+  );
+  expect(gridColumns).toBe(testInfo.project.name === "mobile" ? 1 : 4);
 });
 
 test("switches layouts and opens an agency detail page", async ({ page }) => {

@@ -15,7 +15,7 @@ Reference qualities to preserve:
 - large, image-led cards with no shadow;
 - a sparse index/list view with small thumbnails and generous rows;
 - soft 16px card corners and fully rounded controls;
-- responsive reduction from three columns to one without changing the visual language.
+- responsive reduction from four columns to one without changing the visual language.
 
 Do not copy Curated Supply's product content, branding, star mark, newsletter, category taxonomy, or commerce language.
 
@@ -148,7 +148,7 @@ Controls use white active pills and transparent or outlined inactive pills. On m
 
 Responsive grid:
 
-- desktop, `>= 1100px`: three equal columns;
+- desktop, `>= 1100px`: four equal columns;
 - tablet, `700–1099px`: two equal columns;
 - mobile, `< 700px`: one column;
 - 16px gap at every size.
@@ -306,7 +306,7 @@ Do not add a newsletter, agency rankings, category/brand link farms, or unprovid
 
 | Width        | Grid      | Page inset | Navigation                 |
 | ------------ | --------- | ---------- | -------------------------- |
-| `>= 1100px`  | 3 columns | 36px       | left links + center search |
+| `>= 1100px`  | 4 columns | 36px       | left links + center search |
 | `700–1099px` | 2 columns | 24px       | compact desktop/tablet nav |
 | `< 700px`    | 1 column  | 16px       | logo + search + menu       |
 
