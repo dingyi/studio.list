@@ -792,12 +792,12 @@ img {
 }
 .detail-logo {
   display: grid;
-  width: 64px;
-  height: 64px;
+  width: 32px;
+  height: 32px;
   place-items: center;
   overflow: hidden;
   border: 1px solid #dcdcdc;
-  border-radius: 16px;
+  border-radius: 8px;
   background: #fff;
 }
 .detail-logo img {
@@ -806,7 +806,7 @@ img {
   object-fit: contain;
 }
 .detail-logo__fallback {
-  font-size: 26px;
+  font-size: 14px;
   font-weight: 600;
   letter-spacing: -0.04em;
 }
@@ -995,9 +995,9 @@ img {
     padding-top: 24px;
   }
   .detail-logo {
-    width: 56px;
-    height: 56px;
-    border-radius: 14px;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
   }
   .detail-media {
     border-radius: 10px;

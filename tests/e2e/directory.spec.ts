@@ -102,6 +102,8 @@ test("uses the centered profile layout on agency detail pages", async ({
   expect(utilityBox).not.toBeNull();
   expect(mediaBox).not.toBeNull();
   expect(factsBox).not.toBeNull();
+  expect(logoBox!.width).toBe(32);
+  expect(logoBox!.height).toBe(32);
   expect(logoBox!.y).toBeLessThan(mediaBox!.y);
   expect(Math.abs(logoBox!.x + logoBox!.width / 2 - (utilityBox!.x + utilityBox!.width / 2))).toBeLessThan(1);
   expect(Math.abs(utilityBox!.width - mediaBox!.width)).toBeLessThan(1);
