@@ -1,0 +1,39 @@
+design.md
+  s_cfcf328fa175f9::t_05a6d6385f1336 3,102-106,110,238-246,270-273
+  s_cfcf328fa175f9::t_3e2c360763d1be 91,302
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_918380d88588ef 114-116
+  s_cfcf328fa175f9::t_4a729464754305 28-32
+  s_cfcf328fa175f9::t_f413f014df6177 18-27,33-36,105-113,117
+src/components/HomeApp.tsx
+  s_cfcf328fa175f9::t_449175343328c7 352-447
+src/styles/global.css
+  s_cfcf328fa175f9::t_59fcd5271fa46c 115-118,122-138,141-143,147,149-150,152-153,157,159-184,187-190,192-194,196-199,201,203-204,208-214,218-219,221,224-225,227
+  s_cfcf328fa175f9::t_a341c2f79ebcd2 583-586,967-975,980-993,997-1000,1063-1065,1067-1069,1071-1072,1074-1081,1083-1085,1087-1088
+  s_cfcf328fa175f9::t_48dc1b6a3bbbe7 603,722,780-783,785-787,789-793,795-796,798-800,802-804,806-808,810-814,816-818,820-822,824-831,833-852
+  s_cfcf328fa175f9::t_f3cb0e213e3e7f 581
+  s_cfcf328fa175f9::t_36cedb18f51cde 572-574,576-580,582,587-590,592-594,596,602,607-608,611-613,616-721
+  s_cfcf328fa175f9::t_1cf60a0c003d53 604-605
+src/pages/about.astro
+  s_cfcf328fa175f9::t_649c5e9bb2719f 5-18,20-32,35-38,41-51,53-112,117-122
+  s_cfcf328fa175f9::t_36aa97a0c8a157 19,52
+src/components/PageHeader.tsx
+  s_cfcf328fa175f9::t_29ebb4b3440ce9 2,26-29,34-45,47-52,57-76,78,81,83-87,89-94,97-107,109-113,115-116
+  s_cfcf328fa175f9::t_a341c2f79ebcd2 108,114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "f6d265afa3ef66cd25c30ab6a561597f57275b4d",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
