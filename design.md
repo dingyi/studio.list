@@ -213,9 +213,10 @@ Use the Design Engineer Club people-detail composition, translated to verified a
 
 Top section:
 
-- a narrow utility row with a `Close` action, `Esc` hint, and current Agency position;
-- the Agency Logo centered above the Screenshot, with a monogram fallback when no logo is available;
+- a narrow utility row with a `Close` action, centered Agency Logo, and current Agency position;
+- the Logo uses a monogram fallback when no verified logo is available;
 - one complete 16:10 Agency Screenshot in a restrained rounded container;
+- the utility row, Screenshot, title, and information table share the same 624px content width;
 - the Agency name centered below the Screenshot at large display scale;
 - the verified location shown as a compact neutral chip below the name.
 

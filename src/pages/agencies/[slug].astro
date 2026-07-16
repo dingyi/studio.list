@@ -37,18 +37,17 @@ const monogram = agency.name.trim().slice(0, 1).toUpperCase();
         <span>Close</span>
         <kbd>Esc</kbd>
       </a>
+      <div class="detail-logo">
+        {agency.logo
+          ? <img src={agency.logo} alt={`${agency.name} logo`} />
+          : <span class="detail-logo__fallback" aria-hidden="true">{monogram}</span>}
+      </div>
       <p class="detail-counter" aria-label={`Agency ${position} of ${total}`}>
         {positionLabel} / {totalLabel}
       </p>
     </div>
 
     <article class="detail-profile" aria-labelledby="agency-title">
-      <div class="detail-logo">
-        {agency.logo
-          ? <img src={agency.logo} alt={`${agency.name} logo`} />
-          : <span class="detail-logo__fallback" aria-hidden="true">{monogram}</span>}
-      </div>
-
       <figure class="detail-media">
         <img src={agency.screenshot} alt={`Homepage screenshot of ${agency.name}`} width="1440" height="900" />
       </figure>

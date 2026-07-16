@@ -95,10 +95,17 @@ test("uses the centered profile layout on agency detail pages", async ({
   await expect(detail.locator(".detail-adjacent")).toHaveCount(0);
 
   const logoBox = await detail.locator(".detail-logo").boundingBox();
+  const utilityBox = await detail.locator(".detail-utility").boundingBox();
   const mediaBox = await detail.locator(".detail-media").boundingBox();
+  const factsBox = await detail.locator(".detail-facts").boundingBox();
   expect(logoBox).not.toBeNull();
+  expect(utilityBox).not.toBeNull();
   expect(mediaBox).not.toBeNull();
+  expect(factsBox).not.toBeNull();
   expect(logoBox!.y).toBeLessThan(mediaBox!.y);
+  expect(Math.abs(logoBox!.x + logoBox!.width / 2 - (utilityBox!.x + utilityBox!.width / 2))).toBeLessThan(1);
+  expect(Math.abs(utilityBox!.width - mediaBox!.width)).toBeLessThan(1);
+  expect(Math.abs(mediaBox!.width - factsBox!.width)).toBeLessThan(1);
 });
 
 test("exposes the mobile navigation and direct website action", async ({
