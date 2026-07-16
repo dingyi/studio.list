@@ -1,0 +1,26 @@
+tests/e2e/directory.spec.ts
+  s_cfcf328fa175f9::t_5ad474b68cde01 85-103
+src/styles/global.css
+  s_cfcf328fa175f9::t_5ad474b68cde01 738-741,743-746,748-777,780-781,783-784,794-795,797,799-800,804-805,808-838,840,842-855,857,859-862,864-866,868,871-874,992,994-1001,1006-1008,1010-1011,1013,1015-1016,1018-1020
+  s_cfcf328fa175f9::t_2dfbd72f949fe7 1021-1022
+design.md
+  s_cfcf328fa175f9::t_5ad474b68cde01 212,216-220,222,224-227,229,231-232
+src/pages/agencies/[slug].astro
+  s_cfcf328fa175f9::t_5ad474b68cde01 2,9-20,23,25-29,35-49,51-84,87-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "47a5ba8ef990b377442929c74784c516d6c79ab4",
+  "prompts": {},
+  "sessions": {
+    "s_cfcf328fa175f9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f662d-3483-7633-b710-043c6adf7897",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
