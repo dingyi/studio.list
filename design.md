@@ -226,6 +226,13 @@ Information section:
 - the Website value links directly to the official domain in a new tab; its external arrow stays collapsed by default and smoothly reveals on hover or keyboard focus;
 - the verified description remains readable and is never replaced with invented services, clients, projects, awards, ratings, or testimonials.
 
+Similar agencies:
+
+- place a full-width recommendation section after the profile information with the heading `Explore similar agencies to {Agency name}`;
+- show exactly four standard screenshot cards, using the same external-caption anatomy and direct Website Action as the directory;
+- rank candidates deterministically by shared verified location first and source-description keyword overlap second;
+- use four columns on desktop, two on tablet, and one on mobile.
+
 Navigation:
 
 - `Close` returns through browser history so the originating card, keyboard focus, filters, and scroll position are restored; direct detail visits fall back to the directory anchor, and the Escape key provides the same shortcut when no dialog is open;

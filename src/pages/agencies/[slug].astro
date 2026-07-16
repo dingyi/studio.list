@@ -1,9 +1,14 @@
 ---
-import { ArrowUpRight } from "lucide-react";
+import { ArrowUpRight, ExternalLink } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import { formatLocations, publishedAgencies, type Agency } from "@/lib/catalog";
+import {
+  formatLocations,
+  getSimilarAgencies,
+  publishedAgencies,
+  type Agency,
+} from "@/lib/catalog";
 
 export function getStaticPaths() {
   const total = publishedAgencies.length;
@@ -27,6 +32,7 @@ const counterWidth = String(total).length;
 const positionLabel = String(position).padStart(counterWidth, "0");
 const totalLabel = String(total).padStart(counterWidth, "0");
 const monogram = agency.name.trim().slice(0, 1).toUpperCase();
+const similarAgencies = getSimilarAgencies(agency);
 ---
 
 <BaseLayout title={`${agency.name} — studio.list`} description={description} image={agency.screenshot}>
@@ -86,6 +92,46 @@ const monogram = agency.name.trim().slice(0, 1).toUpperCase();
         </div>
       </dl>
     </article>
+
+    <section class="similar-agencies" aria-labelledby="similar-agencies-title">
+      <h2 id="similar-agencies-title">Explore similar agencies to {agency.name}</h2>
+      <div class="similar-agencies__grid">
+        {similarAgencies.map((similarAgency) => (
+          <article class="agency-card agency-card--card">
+            <a
+              class="agency-card__main"
+              href={`/agencies/${similarAgency.slug}/`}
+              aria-label={`View ${similarAgency.name}`}
+            >
+              <div class="agency-card__media">
+                <img
+                  src={similarAgency.screenshot}
+                  alt={`${similarAgency.name} website homepage`}
+                  loading="lazy"
+                  width="1440"
+                  height="900"
+                />
+              </div>
+              <div class="agency-card__body">
+                <div>
+                  <h3>{similarAgency.name}</h3>
+                  <p class="agency-card__location">{formatLocations(similarAgency)}</p>
+                </div>
+              </div>
+            </a>
+            <a
+              class="agency-card__external"
+              href={similarAgency.website}
+              target="_blank"
+              rel="noreferrer"
+              aria-label={`Open ${similarAgency.name} website in a new tab`}
+            >
+              <ExternalLink size={17} aria-hidden="true" />
+            </a>
+          </article>
+        ))}
+      </div>
+    </section>
   </main>
   <SiteFooter />
 

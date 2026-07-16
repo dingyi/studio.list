@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import type { Agency } from "../src/lib/catalog";
+import { getSimilarAgencies, type Agency } from "../src/lib/catalog";
 import { clampPage, filterAgencies, pageWindow } from "../src/lib/directory";
 
 const agency = (overrides: Partial<Agency>): Agency => ({
@@ -42,5 +42,34 @@ describe("directory helpers", () => {
     expect(clampPage(9, 40)).toBe(2);
     expect(clampPage(-1, 0)).toBe(1);
     expect(pageWindow(5, 10)).toEqual([1, 4, 5, 6, 10]);
+  });
+
+  it("ranks similar agencies by shared location and description terms", () => {
+    const current = agency({
+      description: "Digital product design for cultural organizations",
+    });
+    const candidates = [
+      current,
+      agency({ id: "2", slug: "local", name: "Local", description: "Brand strategy" }),
+      agency({
+        id: "3",
+        slug: "topical",
+        name: "Topical",
+        description: "Digital product design",
+        locations: [{ code: "GB", name: "United Kingdom", flag: "🇬🇧" }],
+      }),
+      agency({
+        id: "4",
+        slug: "unrelated",
+        name: "Unrelated",
+        description: "Editorial publishing",
+        locations: [{ code: "FR", name: "France", flag: "🇫🇷" }],
+      }),
+    ];
+
+    expect(getSimilarAgencies(current, candidates, 2).map((item) => item.slug)).toEqual([
+      "local",
+      "topical",
+    ]);
   });
 });
