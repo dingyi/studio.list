@@ -32,17 +32,19 @@ test("presents the hero newsletter field without sending data", async ({
   ).toBeVisible();
 });
 
-test("uses the measured image-first card anatomy", async ({ page }) => {
+test("uses the external-caption course card anatomy", async ({ page }) => {
   await openReadyPage(page);
   await expect(page.locator('[data-directory-ready="true"]')).toBeVisible();
 
   const firstCard = page.locator(".agency-card").first();
   const media = firstCard.locator(".agency-card__media");
   const title = firstCard.locator("h2");
-  await expect(firstCard).toHaveCSS("border-radius", "16px");
-  await expect(media).toHaveCSS("margin", "24px 16px 8px");
-  await expect(media).toHaveCSS("border-radius", "8px");
+  await expect(firstCard).toHaveCSS("background-color", "rgba(0, 0, 0, 0)");
+  await expect(firstCard).toHaveCSS("border-radius", "0px");
+  await expect(media).toHaveCSS("margin", "0px");
+  await expect(media).toHaveCSS("border-radius", "15px");
   await expect(title).toHaveCSS("font-size", "14px");
+  await expect(title).toHaveCSS("font-weight", "600");
 });
 
 test("switches layouts and opens an agency detail page", async ({ page }) => {

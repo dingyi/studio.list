@@ -57,8 +57,8 @@ function AgencyCard({ agency, view }: { agency: Agency; view: View }) {
         </div>
         <div className="agency-card__body">
           <div>
-            <p className="agency-card__location">{formatLocations(agency)}</p>
             <h2>{agency.name}</h2>
+            <p className="agency-card__location">{formatLocations(agency)}</p>
           </div>
           {view === "list" && agency.description && (
             <p className="agency-card__description">{agency.description}</p>

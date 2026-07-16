@@ -339,24 +339,26 @@ img {
 }
 .agency-grid--card {
   grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 20px;
+  row-gap: 40px;
 }
 .agency-card {
   position: relative;
   min-width: 0;
-  overflow: hidden;
-  border-radius: 16px;
-  background: #fff;
+  overflow: visible;
+  border-radius: 0;
+  background: transparent;
 }
 .agency-card__main {
-  display: flex;
-  height: 100%;
-  flex-direction: column;
+  display: block;
+  height: auto;
 }
 .agency-card__media {
   aspect-ratio: 16 / 10;
   overflow: hidden;
-  margin: 24px 16px 8px;
-  border-radius: 8px;
+  margin: 0;
+  border: 1px solid #e3e3e3;
+  border-radius: 15px;
   background: #e9e9e9;
 }
 .agency-card__media img {
@@ -370,35 +372,36 @@ img {
 }
 .agency-card__body {
   display: block;
-  min-height: 60px;
-  padding: 0 16px 16px;
+  min-height: 52px;
+  padding: 12px 0 0;
 }
 .agency-card__location {
-  margin: 0 0 4px;
+  margin: 4px 0 0;
   overflow: hidden;
   color: #737373;
   font-size: 12px;
-  line-height: 20px;
+  font-weight: 500;
+  line-height: 16px;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 .agency-card h2 {
   margin: 0;
   font-size: 14px;
-  font-weight: 400;
-  letter-spacing: 0.01em;
+  font-weight: 600;
+  letter-spacing: -0.015em;
   line-height: 20px;
 }
 .agency-card__external {
   position: absolute;
-  top: 16px;
-  right: 16px;
+  top: 12px;
+  right: 12px;
   display: grid;
   width: 36px;
   height: 36px;
   place-items: center;
   border-radius: 50%;
-  background: #f5f5f5;
+  background: #fff;
   opacity: 0;
   transform: translateY(4px);
   transition:

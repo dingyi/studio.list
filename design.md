@@ -155,18 +155,18 @@ Responsive grid:
 
 Card anatomy:
 
-1. White 16px-radius surface with hidden overflow.
+1. Transparent card structure with no containing panel, border, or shadow.
 2. Main card link leading to Agency Detail.
-3. A 16:10 Agency Screenshot displayed completely, without crop, in an 8px-radius media frame.
-4. Location metadata in muted text.
-5. Agency name in primary text.
+3. A standalone 16:10 Agency Screenshot displayed completely, without crop, in a 15px-radius media frame.
+4. Agency name below and outside the media frame.
+5. Location metadata below the name in muted text.
 6. Separate Official Website Action at the top right.
 
 Do not display the Agency Description in card view. It belongs in list view and Agency Detail so card heights and visual density remain consistent with the reference.
 
 Agency Location is formatted as an emoji flag plus English country name, such as `🇸🇪 Sweden`. Separate multiple locations with a middle dot and never rely on emoji alone.
 
-Cards follow the measured reference anatomy: 24px top padding, 16px side padding, and 8px bottom spacing around the media region. The 60px details region uses 12px/20px location metadata, a 14px/20px Agency name, and 16px bottom padding. Do not add a border or shadow.
+Cards follow the Design Engineer Club course-card anatomy: the media is flush with the card grid, the external caption begins 12px below it, the Agency name uses 14px/20px semibold type, and location follows after 4px at 12px/16px. Use 20px column gaps and 40px row gaps. Do not add a containing background or shadow.
 
 The external action is a 36px visible circle on `--surface-subtle`, inset 16px from the card with no shadow. It appears on pointer hover and keyboard focus. It remains visible on touch layouts. Activating it opens the official website in a new tab and must not trigger detail navigation.
 
