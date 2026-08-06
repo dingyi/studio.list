@@ -18,7 +18,8 @@
     "screenshots:audit": "tsx scripts/audit-screenshots.ts",
     "screenshots:review": "tsx scripts/review-screenshot.ts",
     "screenshots:clean": "tsx scripts/clean-screenshots.ts",
-    "screenshots:validate": "tsx scripts/validate-screenshots.ts"
+    "screenshots:validate": "tsx scripts/validate-screenshots.ts",
+    "case-studies:capture": "tsx scripts/capture-case-studies.ts"
   },
   "dependencies": {
     "@astrojs/react": "^6.0.1",

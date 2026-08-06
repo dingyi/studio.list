@@ -1102,3 +1102,7 @@ img {
     animation-iteration-count: 1 !important;
   }
 }
+
+.case-card__badge {
+  pointer-events: none;
+}

@@ -47,3 +47,15 @@ _Avoid_: Official website, review page
 **Official Website Action**:
 A distinct action on an Agency card or Agency Detail that opens the Agency's official website without passing through another directory page.
 _Avoid_: Card action, detail navigation
+
+**Case Study**:
+A single work or project entry published on an Agency's official website, discovered from its work or portfolio page and shown on the Work page as a card that links directly to the source page.
+_Avoid_: Portfolio piece, project page, review
+
+**Case Study Capture**:
+The authenticated above-the-fold desktop capture of a Case Study's source page, used as the card's thumbnail. Captures dominated by consent, regional, subscription, or similar overlays are discarded.
+_Avoid_: Hotlinked image, og:image, full-page capture
+
+**Work Page Refresh**:
+The re-check of an Agency's work page for new or removed Case Study entries. Unchanged entries keep their existing capture; only newly discovered entries are captured.
+_Avoid_: Automatic periodic recapture, full rescrape

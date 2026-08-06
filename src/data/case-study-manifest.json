@@ -1,0 +1,201 @@
+{
+  "8020": {
+    "status": "success",
+    "entriesHash": "1e2deed0f35493f6e9f54b30cab2ebef802fa63d81df3ac0a6acefc19834fa2c",
+    "homepageUrl": "https://www.8020.inc/",
+    "workPageUrl": "https://www.8020.inc/case-studies",
+    "capturedAt": "2026-08-05T12:57:49.468Z"
+  },
+  "1-of-1-studio": {
+    "status": "success",
+    "entriesHash": "96a8def660f42f94019d0f9a9b6621a8a36a9b69f9c249621bb2c0d3094b0800",
+    "homepageUrl": "https://1of1studio.com/",
+    "workPageUrl": "https://1of1studio.com/",
+    "capturedAt": "2026-08-05T11:39:40.037Z"
+  },
+  "1-0-design": {
+    "status": "no-work-page",
+    "homepageUrl": "https://1.0.design/",
+    "capturedAt": "2026-08-05T12:56:29.372Z"
+  },
+  "9elements": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://9elements.com/",
+    "workPageUrl": "https://9elements.com/projects/",
+    "capturedAt": "2026-08-05T12:56:29.372Z"
+  },
+  "22mc": {
+    "status": "no-work-page",
+    "homepageUrl": "https://22mc.world/",
+    "capturedAt": "2026-08-05T12:56:39.026Z"
+  },
+  "10clouds": {
+    "status": "success",
+    "entriesHash": "f32f21d375b77a80d5e696466b06a46aaab8243030f875edb2898571d79b8b58",
+    "homepageUrl": "https://10clouds.com/",
+    "workPageUrl": "https://10clouds.com/case-studies/",
+    "capturedAt": "2026-08-05T13:04:14.961Z"
+  },
+  "5am": {
+    "status": "success",
+    "entriesHash": "ae4b1e1a2ca7d3808ea2cf2bde8dd8d5c04b37ef49bbcb37413aede202634616",
+    "homepageUrl": "https://five-am.com/",
+    "workPageUrl": "https://five-am.com/work",
+    "capturedAt": "2026-08-05T13:10:27.211Z"
+  },
+  "28k": {
+    "status": "no-work-page",
+    "homepageUrl": "https://28k.studio/",
+    "capturedAt": "2026-08-05T12:57:09.721Z"
+  },
+  "14islands": {
+    "status": "no-entries",
+    "entriesHash": "7ed6214d77dca88c608137c3cb1cf25d07434f9e7ecc2b925d9c1bf8f8f2304f",
+    "homepageUrl": "https://14islands.com/",
+    "workPageUrl": "https://www.14islands.com/",
+    "capturedAt": "2026-08-05T12:56:33.372Z"
+  },
+  "27b": {
+    "status": "success",
+    "entriesHash": "cbf9dd973e88c704c60dcefdb38b9caf7af6b40b2917149999fd9974f2cb7e3d",
+    "homepageUrl": "https://27-b.com/",
+    "workPageUrl": "https://27-b.com/projects",
+    "capturedAt": "2026-08-05T12:57:02.930Z"
+  },
+  "87-studio": {
+    "status": "success",
+    "entriesHash": "d02410cee987daedbb63c08a9dabfe67ffd20bd7a03df575571cf1350fd5994a",
+    "homepageUrl": "https://www.87-studio.com/",
+    "workPageUrl": "https://www.87-studio.com/work",
+    "capturedAt": "2026-08-05T12:57:13.308Z"
+  },
+  "25ah": {
+    "status": "success",
+    "entriesHash": "50b0bd1df3aafc17682102d2bfb8a9b1ec72410656de16d85a8d906f13e490d8",
+    "homepageUrl": "https://www.25ah.se/",
+    "workPageUrl": "https://www.25ah.se/",
+    "capturedAt": "2026-08-05T12:56:48.416Z"
+  },
+  "247studio": {
+    "status": "no-entries",
+    "entriesHash": "a7e3b6451f0c2ea8b118dc6acd69a1a69acfa32faff46c8bdad6c2502bd1ddbe",
+    "homepageUrl": "https://www.247studio.co/",
+    "workPageUrl": "https://www.247studio.co/",
+    "capturedAt": "2026-08-05T12:57:18.611Z"
+  },
+  "a-color-bright": {
+    "status": "success",
+    "entriesHash": "53ff6f78e25172f0a434477ee36b9fdc6882cce61b3d0b866cff305d72b5d1ac",
+    "homepageUrl": "https://www.acolorbright.com/",
+    "workPageUrl": "https://www.acolorbright.com/work",
+    "capturedAt": "2026-08-05T12:57:53.304Z"
+  },
+  "473-agency": {
+    "status": "success",
+    "entriesHash": "f1fec3def2fa7135110864113b30fcae48ae568df928f1a98efa0863065499f1",
+    "homepageUrl": "http://473.agency/",
+    "workPageUrl": "https://www.473.agency/projects",
+    "capturedAt": "2026-08-05T12:57:48.242Z"
+  },
+  "a-lot-of-moving-parts": {
+    "status": "no-work-page",
+    "homepageUrl": "https://alotofmoving.parts/",
+    "capturedAt": "2026-08-05T12:58:21.075Z"
+  },
+  "aad": {
+    "status": "success",
+    "entriesHash": "fa458c9feaf0522890979b65c9b807fccaa518731e8b34d50f3ae76582a19fb8",
+    "homepageUrl": "https://aad.works/",
+    "workPageUrl": "https://aad.works/work",
+    "capturedAt": "2026-08-05T13:05:13.773Z"
+  },
+  "aceternity": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.aceternity.com/",
+    "capturedAt": "2026-08-05T12:58:46.747Z"
+  },
+  "abbreviated-projects": {
+    "status": "success",
+    "entriesHash": "6ba7b3239d428c62caaee62cdf5c31106109df657bfb47b20d8ca43696105529",
+    "homepageUrl": "https://www.abbrprojects.com/",
+    "workPageUrl": "https://www.abbrprojects.com/projects",
+    "capturedAt": "2026-08-05T12:58:28.442Z"
+  },
+  "adopt": {
+    "status": "no-work-page",
+    "homepageUrl": "https://weareadopt.com/",
+    "capturedAt": "2026-08-05T12:58:55.734Z"
+  },
+  "a-friend-of-mine": {
+    "status": "no-entries",
+    "entriesHash": "f55f43f86302f602086af7f76e3db5a9fa104ca6fd0fe1d8f6e237069b9216a4",
+    "homepageUrl": "https://afom.com.au/",
+    "workPageUrl": "https://afom.com.au/work",
+    "capturedAt": "2026-08-05T12:58:12.498Z"
+  },
+  "adoratorio-studio": {
+    "status": "failed",
+    "homepageUrl": "https://adoratorio.studio/",
+    "capturedAt": "2026-08-05T12:59:02.381Z",
+    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://adoratorio.studio/\nCall log:\n\u001b[2m  - navigating to \"https://adoratorio.studio/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  "a-line": {
+    "status": "no-entries",
+    "entriesHash": "b0d40064214bc5179162ab966765587dbf9f50166b1f55866beccaa6d4dcfcac",
+    "homepageUrl": "https://www.aline.studio/",
+    "workPageUrl": "https://www.aline.studio/work",
+    "capturedAt": "2026-08-05T12:58:18.225Z"
+  },
+  "again-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://again.nyc/",
+    "capturedAt": "2026-08-05T12:59:13.021Z"
+  },
+  "aerolab": {
+    "status": "failed",
+    "homepageUrl": "https://aerolab.co/",
+    "capturedAt": "2026-08-05T12:59:11.324Z",
+    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://aerolab.co/\nCall log:\n\u001b[2m  - navigating to \"https://aerolab.co/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  "acre-studio": {
+    "status": "success",
+    "entriesHash": "c393bfc7c91fe83c5fec47378653eb16d25ae8f6d2fbc31648bc7e92ff51e4f4",
+    "homepageUrl": "https://acre.studio/",
+    "workPageUrl": "https://acre.studio/",
+    "capturedAt": "2026-08-05T12:58:54.318Z"
+  },
+  "airborne": {
+    "status": "success",
+    "entriesHash": "7ffbce8f6aa38ff20cc40bfc3b1ad2a1d6f930a4bfa62d149630cd74c4c11391",
+    "homepageUrl": "https://www.airborne.studio/",
+    "workPageUrl": "https://www.airborne.studio/",
+    "capturedAt": "2026-08-05T12:59:21.791Z"
+  },
+  "aircord": {
+    "status": "no-work-page",
+    "homepageUrl": "https://aircord.co.jp/en/",
+    "capturedAt": "2026-08-05T12:59:51.620Z"
+  },
+  "aino": {
+    "status": "success",
+    "entriesHash": "3255901cb3a1c268ffce8034e8f2c4d2783a99816338c2777b8ebf3071a63e91",
+    "homepageUrl": "https://aino.agency/",
+    "workPageUrl": "https://aino.agency/work",
+    "capturedAt": "2026-08-05T13:21:14.962Z"
+  },
+  "agency-habitat": {
+    "status": "success",
+    "entriesHash": "0900e590690eda3a99bc447429ed2800516e8af8859b7fcab8561da50e5348dc",
+    "homepageUrl": "https://agencyhabitat.com/",
+    "workPageUrl": "https://agencyhabitat.com/work/",
+    "capturedAt": "2026-08-05T12:59:13.076Z"
+  },
+  "aircards": {
+    "status": "success",
+    "entriesHash": "782b484de01471ea8389e79c989c7f6bbd633ccbc144e8e9f5c038f460729504",
+    "homepageUrl": "https://www.aircards.co/",
+    "workPageUrl": "https://www.aircards.co/work",
+    "capturedAt": "2026-08-05T13:18:04.110Z"
+  }
+}

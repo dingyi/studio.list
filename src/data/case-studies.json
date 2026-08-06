@@ -1,0 +1,714 @@
+[
+  {
+    "id": "e4896d0d044d",
+    "agencySlug": "aino",
+    "title": "All Blues",
+    "url": "https://aino.agency/work/all-blues",
+    "image": "/case-studies/aino/e4896d0d044d.webp",
+    "capturedAt": "2026-08-05T13:21:49.998Z"
+  },
+  {
+    "id": "18a88b6b1191",
+    "agencySlug": "aino",
+    "title": "Envii",
+    "url": "https://aino.agency/work/envii",
+    "image": "/case-studies/aino/18a88b6b1191.webp",
+    "capturedAt": "2026-08-05T13:21:47.828Z"
+  },
+  {
+    "id": "e3a256367742",
+    "agencySlug": "aino",
+    "title": "Molo",
+    "url": "https://aino.agency/work/molo",
+    "image": "/case-studies/aino/e3a256367742.webp",
+    "capturedAt": "2026-08-05T13:21:41.360Z"
+  },
+  {
+    "id": "02bcbaaf5966",
+    "agencySlug": "aino",
+    "title": "Samsøe Samsøe",
+    "url": "https://aino.agency/work/samsoe-samsoe",
+    "image": "/case-studies/aino/02bcbaaf5966.webp",
+    "capturedAt": "2026-08-05T13:21:34.883Z"
+  },
+  {
+    "id": "28874cda232e",
+    "agencySlug": "aino",
+    "title": "Sandisk",
+    "url": "https://aino.agency/work/sandisk",
+    "image": "/case-studies/aino/28874cda232e.webp",
+    "capturedAt": "2026-08-05T13:21:28.503Z"
+  },
+  {
+    "id": "10a1ff752480",
+    "agencySlug": "aino",
+    "title": "Nudie Jeans",
+    "url": "https://aino.agency/work/nudie-jeans",
+    "image": "/case-studies/aino/10a1ff752480.webp",
+    "capturedAt": "2026-08-05T13:21:26.175Z"
+  },
+  {
+    "id": "dc03f824af8b",
+    "agencySlug": "aircards",
+    "title": "Lenovo F1 - Race to Create Augmented Reality / Generative AI Design",
+    "url": "https://www.aircards.co/work/lenovo-f1-race-to-create",
+    "image": "/case-studies/aircards/dc03f824af8b.webp",
+    "capturedAt": "2026-08-05T13:18:30.213Z"
+  },
+  {
+    "id": "bf5a1bee8fc4",
+    "agencySlug": "aircards",
+    "title": "Louis Vuitton - Yayoi Kusama Augmented Reality / Experiential Retail",
+    "url": "https://www.aircards.co/work/louis-vuitton-yayoi-kusama",
+    "image": "/case-studies/aircards/bf5a1bee8fc4.webp",
+    "capturedAt": "2026-08-05T13:18:27.803Z"
+  },
+  {
+    "id": "0b9ada237cc8",
+    "agencySlug": "aircards",
+    "title": "PUMA - A.I. Creator OM AI-Powered Fan Experience",
+    "url": "https://www.aircards.co/work/puma-ai-creator-om",
+    "image": "/case-studies/aircards/0b9ada237cc8.webp",
+    "capturedAt": "2026-08-05T13:18:25.252Z"
+  },
+  {
+    "id": "42da092f1b83",
+    "agencySlug": "aircards",
+    "title": "Nike - On Air Location-Based AR",
+    "url": "https://www.aircards.co/work/nike-air",
+    "image": "/case-studies/aircards/42da092f1b83.webp",
+    "capturedAt": "2026-08-05T13:18:23.111Z"
+  },
+  {
+    "id": "1abd5b186774",
+    "agencySlug": "aircards",
+    "title": "Red Bull - Spin Like Siakam Experiential Event / Connected Packaging",
+    "url": "https://www.aircards.co/work/red-bull-spin-like-siakam",
+    "image": "/case-studies/aircards/1abd5b186774.webp",
+    "capturedAt": "2026-08-05T13:18:20.480Z"
+  },
+  {
+    "id": "8e941aa292bc",
+    "agencySlug": "aircards",
+    "title": "Outernet - The Butterfly Trail AR & Experiential",
+    "url": "https://www.aircards.co/work/outernet-butterfly-trail",
+    "image": "/case-studies/aircards/8e941aa292bc.webp",
+    "capturedAt": "2026-08-05T13:18:17.186Z"
+  },
+  {
+    "id": "2505fc9b52fd",
+    "agencySlug": "5am",
+    "title": "Elisa Schenke (Fashion) Branding & Web Design 2021",
+    "url": "https://five-am.com/projects/elisa-schenke",
+    "image": "/case-studies/5am/2505fc9b52fd.webp",
+    "capturedAt": "2026-08-05T13:11:02.266Z"
+  },
+  {
+    "id": "4f78bc24ba59",
+    "agencySlug": "5am",
+    "title": "CAPAROL ICONS (Interior) E-Commerce Design & Development 2021",
+    "url": "https://five-am.com/projects/caparol-icons",
+    "image": "/case-studies/5am/4f78bc24ba59.webp",
+    "capturedAt": "2026-08-05T13:10:55.880Z"
+  },
+  {
+    "id": "3ee8c8c4dc61",
+    "agencySlug": "5am",
+    "title": "Brockhaus Technologies (Technology Group) Logo Design 2021",
+    "url": "https://five-am.com/projects/brockhaus-technologies",
+    "image": "/case-studies/5am/3ee8c8c4dc61.webp",
+    "capturedAt": "2026-08-05T13:10:49.941Z"
+  },
+  {
+    "id": "a8f2005f30ad",
+    "agencySlug": "5am",
+    "title": "Beat Dealer Records (Music & Entertainment) Logo Design 2020",
+    "url": "https://five-am.com/projects/beat-dealer-records",
+    "image": "/case-studies/5am/a8f2005f30ad.webp",
+    "capturedAt": "2026-08-05T13:10:44.279Z"
+  },
+  {
+    "id": "c4fce3d2728f",
+    "agencySlug": "5am",
+    "title": "August Berg (Fashion) Digital Campaign 2023",
+    "url": "https://five-am.com/projects/august-berg",
+    "image": "/case-studies/5am/c4fce3d2728f.webp",
+    "capturedAt": "2026-08-05T13:10:38.398Z"
+  },
+  {
+    "id": "8ed4d183b05f",
+    "agencySlug": "aad",
+    "title": "An exhibition empowering young people. Reimagine Remake Replay",
+    "url": "https://aad.works/project/reimagine-remake-replay/",
+    "image": "/case-studies/aad/8ed4d183b05f.webp",
+    "capturedAt": "2026-08-05T13:05:36.246Z"
+  },
+  {
+    "id": "b9fe60975900",
+    "agencySlug": "aad",
+    "title": "Co-creating an inclusive brand with community at its heart. Artsadmin",
+    "url": "https://aad.works/project/arts-admin/",
+    "image": "/case-studies/aad/b9fe60975900.webp",
+    "capturedAt": "2026-08-05T13:05:33.854Z"
+  },
+  {
+    "id": "3f4860e3cbe2",
+    "agencySlug": "aad",
+    "title": "Building a powerful platform for growth. Cushendale Ecommerce",
+    "url": "https://aad.works/project/cushendale-ecommerce/",
+    "image": "/case-studies/aad/3f4860e3cbe2.webp",
+    "capturedAt": "2026-08-05T13:05:30.012Z"
+  },
+  {
+    "id": "62af452deef5",
+    "agencySlug": "aad",
+    "title": "Revitalising how Ireland’s National Theatre interacts. The Abbey Theatre",
+    "url": "https://aad.works/project/the-abbey-theatre/",
+    "image": "/case-studies/aad/62af452deef5.webp",
+    "capturedAt": "2026-08-05T13:05:27.017Z"
+  },
+  {
+    "id": "b7fc54b8d6e2",
+    "agencySlug": "aad",
+    "title": "Creating a brand that lets dance take centre stage. Dublin Dance Festival 2024",
+    "url": "https://aad.works/project/dublin-dance-festival-2024/",
+    "image": "/case-studies/aad/b7fc54b8d6e2.webp",
+    "capturedAt": "2026-08-05T13:05:24.768Z"
+  },
+  {
+    "id": "69f4bdb427d2",
+    "agencySlug": "aad",
+    "title": "Reimagining a death service in modern Ireland The Solace",
+    "url": "https://aad.works/project/the-solace/",
+    "image": "/case-studies/aad/69f4bdb427d2.webp",
+    "capturedAt": "2026-08-05T13:05:21.957Z"
+  },
+  {
+    "id": "6d1a702fc6c7",
+    "agencySlug": "10clouds",
+    "title": "Quesmed EduTech Quesmed Quesmed is a fast-growing medical education technology startup…",
+    "url": "https://10clouds.com/case-studies/quesmed/",
+    "image": "/case-studies/10clouds/6d1a702fc6c7.webp",
+    "capturedAt": "2026-08-05T13:04:40.317Z"
+  },
+  {
+    "id": "5ccfd16441cb",
+    "agencySlug": "10clouds",
+    "title": "Well Over One Healthcare Wellbeing Well Over One Well Over One, leading the way in…",
+    "url": "https://10clouds.com/case-studies/welloverone/",
+    "image": "/case-studies/10clouds/5ccfd16441cb.webp",
+    "capturedAt": "2026-08-05T13:04:37.593Z"
+  },
+  {
+    "id": "35adc771922e",
+    "agencySlug": "10clouds",
+    "title": "AIConsole",
+    "url": "https://10clouds.com/case-studies/ai-console/",
+    "image": "/case-studies/10clouds/35adc771922e.webp",
+    "capturedAt": "2026-08-05T13:04:34.874Z"
+  },
+  {
+    "id": "28306288c3bd",
+    "agencySlug": "10clouds",
+    "title": "DCLEX Web3 UX/UI Python Backend Smart Contracts Managed Product DCLEX DCLEX approached…",
+    "url": "https://10clouds.com/case-studies/dclex/",
+    "image": "/case-studies/10clouds/28306288c3bd.webp",
+    "capturedAt": "2026-08-05T13:04:32.180Z"
+  },
+  {
+    "id": "4e02b4030c67",
+    "agencySlug": "10clouds",
+    "title": "Cutting Edge Identity Protection Using Machine Learning and Biometrics",
+    "url": "https://10clouds.com/case-studies/trust-stamp/",
+    "image": "/case-studies/10clouds/4e02b4030c67.webp",
+    "capturedAt": "2026-08-05T13:04:26.168Z"
+  },
+  {
+    "id": "0352b88280b3",
+    "agencySlug": "10clouds",
+    "title": "Crescent: Empowering Users with Accessible High-Yield Interest through Finance App",
+    "url": "https://10clouds.com/case-studies/crescent/",
+    "image": "/case-studies/10clouds/0352b88280b3.webp",
+    "capturedAt": "2026-08-05T13:04:22.975Z"
+  },
+  {
+    "id": "b8767df35a41",
+    "agencySlug": "agency-habitat",
+    "title": "belif",
+    "url": "https://agencyhabitat.com/work/belif/",
+    "image": "/case-studies/agency-habitat/b8767df35a41.webp",
+    "capturedAt": "2026-08-05T13:00:08.040Z"
+  },
+  {
+    "id": "a15ec271c8b1",
+    "agencySlug": "agency-habitat",
+    "title": "The Face Shop",
+    "url": "https://agencyhabitat.com/work/the-face-shop/",
+    "image": "/case-studies/agency-habitat/a15ec271c8b1.webp",
+    "capturedAt": "2026-08-05T13:00:01.827Z"
+  },
+  {
+    "id": "db45ae6f9923",
+    "agencySlug": "agency-habitat",
+    "title": "FitVine Wine",
+    "url": "https://agencyhabitat.com/work/fitvine-wine/",
+    "image": "/case-studies/agency-habitat/db45ae6f9923.webp",
+    "capturedAt": "2026-08-05T12:59:54.858Z"
+  },
+  {
+    "id": "f647bf63a50c",
+    "agencySlug": "agency-habitat",
+    "title": "Experiential Marketing & Social Strategy for juus | Wellness CPG Case Study",
+    "url": "https://agencyhabitat.com/work/juus/",
+    "image": "/case-studies/agency-habitat/f647bf63a50c.webp",
+    "capturedAt": "2026-08-05T12:59:48.596Z"
+  },
+  {
+    "id": "d9ed8e650394",
+    "agencySlug": "airborne",
+    "title": "ContentCal",
+    "url": "https://www.airborne.studio/work/contentcal",
+    "image": "/case-studies/airborne/d9ed8e650394.webp",
+    "capturedAt": "2026-08-05T12:59:46.936Z"
+  },
+  {
+    "id": "59500926721d",
+    "agencySlug": "airborne",
+    "title": "Ciphr",
+    "url": "https://www.airborne.studio/work/ciphr",
+    "image": "/case-studies/airborne/59500926721d.webp",
+    "capturedAt": "2026-08-05T12:59:44.347Z"
+  },
+  {
+    "id": "e678466ba316",
+    "agencySlug": "agency-habitat",
+    "title": "Culture",
+    "url": "https://agencyhabitat.com/culture/",
+    "image": "/case-studies/agency-habitat/e678466ba316.webp",
+    "capturedAt": "2026-08-05T12:59:42.476Z"
+  },
+  {
+    "id": "85a93fe65586",
+    "agencySlug": "acre-studio",
+    "title": "AI to learn, make and write music: ARIA-i",
+    "url": "https://acre.studio/work/aria-i",
+    "image": "/case-studies/acre-studio/85a93fe65586.webp",
+    "capturedAt": "2026-08-05T12:59:42.466Z"
+  },
+  {
+    "id": "453b4c1cdb05",
+    "agencySlug": "airborne",
+    "title": "learnd",
+    "url": "https://www.airborne.studio/work/learnd",
+    "image": "/case-studies/airborne/453b4c1cdb05.webp",
+    "capturedAt": "2026-08-05T12:59:41.041Z"
+  },
+  {
+    "id": "217f925fe740",
+    "agencySlug": "airborne",
+    "title": "Propstore",
+    "url": "https://www.airborne.studio/work/propstore",
+    "image": "/case-studies/airborne/217f925fe740.webp",
+    "capturedAt": "2026-08-05T12:59:38.901Z"
+  },
+  {
+    "id": "9489e808952a",
+    "agencySlug": "agency-habitat",
+    "title": "About Us",
+    "url": "https://agencyhabitat.com/about-us/",
+    "image": "/case-studies/agency-habitat/9489e808952a.webp",
+    "capturedAt": "2026-08-05T12:59:37.742Z"
+  },
+  {
+    "id": "6739bd95eaac",
+    "agencySlug": "acre-studio",
+    "title": "Shopping bag design as part of a campaign for the Hyundai Department Store in Daegu.",
+    "url": "https://acre.studio/work/hyundai-departmentstore",
+    "image": "/case-studies/acre-studio/6739bd95eaac.webp",
+    "capturedAt": "2026-08-05T12:59:35.258Z"
+  },
+  {
+    "id": "cb6419af6dff",
+    "agencySlug": "acre-studio",
+    "title": "A brand identity for Prose, a communication agency at the intersection of culture & identity.",
+    "url": "https://acre.studio/work/prose",
+    "image": "/case-studies/acre-studio/cb6419af6dff.webp",
+    "capturedAt": "2026-08-05T12:59:28.188Z"
+  },
+  {
+    "id": "0380e8d4e4de",
+    "agencySlug": "acre-studio",
+    "title": "To Close Your Eyes and",
+    "url": "https://acre.studio/work/to-close-your-eyes-and-see-fire",
+    "image": "/case-studies/acre-studio/0380e8d4e4de.webp",
+    "capturedAt": "2026-08-05T12:59:20.006Z"
+  },
+  {
+    "id": "313bb2c7ac2f",
+    "agencySlug": "acre-studio",
+    "title": "Care, matched personally: Palco",
+    "url": "https://acre.studio/work/palco",
+    "image": "/case-studies/acre-studio/313bb2c7ac2f.webp",
+    "capturedAt": "2026-08-05T12:59:12.462Z"
+  },
+  {
+    "id": "c62a74af786c",
+    "agencySlug": "acre-studio",
+    "title": "Latest case study",
+    "url": "https://acre.studio/work/port-magazine",
+    "image": "/case-studies/acre-studio/c62a74af786c.webp",
+    "capturedAt": "2026-08-05T12:59:05.064Z"
+  },
+  {
+    "id": "7dc9b73061ed",
+    "agencySlug": "abbreviated-projects",
+    "title": "Remedy Place",
+    "url": "https://www.abbrprojects.com/projects/the-framework",
+    "image": "/case-studies/abbreviated-projects/7dc9b73061ed.webp",
+    "capturedAt": "2026-08-05T12:58:53.578Z"
+  },
+  {
+    "id": "6a441fe03e03",
+    "agencySlug": "abbreviated-projects",
+    "title": "Notre",
+    "url": "https://www.abbrprojects.com/projects/notre",
+    "image": "/case-studies/abbreviated-projects/6a441fe03e03.webp",
+    "capturedAt": "2026-08-05T12:58:49.840Z"
+  },
+  {
+    "id": "6dc3eff5f344",
+    "agencySlug": "abbreviated-projects",
+    "title": "Kaplan Martin",
+    "url": "https://www.abbrprojects.com/projects/kaplan-martin",
+    "image": "/case-studies/abbreviated-projects/6dc3eff5f344.webp",
+    "capturedAt": "2026-08-05T12:58:47.415Z"
+  },
+  {
+    "id": "06159898415b",
+    "agencySlug": "abbreviated-projects",
+    "title": "Heatmap",
+    "url": "https://www.abbrprojects.com/projects/heatmap",
+    "image": "/case-studies/abbreviated-projects/06159898415b.webp",
+    "capturedAt": "2026-08-05T12:58:44.322Z"
+  },
+  {
+    "id": "80102d6b7352",
+    "agencySlug": "abbreviated-projects",
+    "title": "Ames Design",
+    "url": "https://www.abbrprojects.com/projects/ames-design",
+    "image": "/case-studies/abbreviated-projects/80102d6b7352.webp",
+    "capturedAt": "2026-08-05T12:58:42.351Z"
+  },
+  {
+    "id": "5ce789f21dc0",
+    "agencySlug": "abbreviated-projects",
+    "title": "Simplehuman",
+    "url": "https://www.abbrprojects.com/projects/simplehuman",
+    "image": "/case-studies/abbreviated-projects/5ce789f21dc0.webp",
+    "capturedAt": "2026-08-05T12:58:36.139Z"
+  },
+  {
+    "id": "f191997cfd3f",
+    "agencySlug": "473-agency",
+    "title": "Casa Coco | Web Design + Webflow Development by 473 Agency",
+    "url": "https://www.473.agency/projects/casa-coco",
+    "image": "/case-studies/473-agency/f191997cfd3f.webp",
+    "capturedAt": "2026-08-05T12:58:19.409Z"
+  },
+  {
+    "id": "9f774d088e8a",
+    "agencySlug": "a-color-bright",
+    "title": "Highsnobiety",
+    "url": "https://www.acolorbright.com/work/highsnobiety",
+    "image": "/case-studies/a-color-bright/9f774d088e8a.webp",
+    "capturedAt": "2026-08-05T12:58:18.557Z"
+  },
+  {
+    "id": "c1eac7f77ab8",
+    "agencySlug": "473-agency",
+    "title": "Marco Seco | Branding + Web Design + Webflow Development by 473 Agency",
+    "url": "https://www.473.agency/projects/marco-seco",
+    "image": "/case-studies/473-agency/c1eac7f77ab8.webp",
+    "capturedAt": "2026-08-05T12:58:16.922Z"
+  },
+  {
+    "id": "ef8029d50b1e",
+    "agencySlug": "a-color-bright",
+    "title": "Okeechobee Text Logo okeechobee-gallery-97.jpg",
+    "url": "https://www.acolorbright.com/work/okeechobee",
+    "image": "/case-studies/a-color-bright/ef8029d50b1e.webp",
+    "capturedAt": "2026-08-05T12:58:16.137Z"
+  },
+  {
+    "id": "19eb05e4e0d0",
+    "agencySlug": "473-agency",
+    "title": "iDragons | by 473 Agency",
+    "url": "https://www.473.agency/projects/idragons",
+    "image": "/case-studies/473-agency/19eb05e4e0d0.webp",
+    "capturedAt": "2026-08-05T12:58:14.265Z"
+  },
+  {
+    "id": "a62912667bcc",
+    "agencySlug": "a-color-bright",
+    "title": "os-teaser-15.png",
+    "url": "https://www.acolorbright.com/work/os",
+    "image": "/case-studies/a-color-bright/a62912667bcc.webp",
+    "capturedAt": "2026-08-05T12:58:13.676Z"
+  },
+  {
+    "id": "1ede061a303b",
+    "agencySlug": "473-agency",
+    "title": "Brandiv | Branding by 473 Agency",
+    "url": "https://www.473.agency/projects/brandiv",
+    "image": "/case-studies/473-agency/1ede061a303b.webp",
+    "capturedAt": "2026-08-05T12:58:11.126Z"
+  },
+  {
+    "id": "e72539016758",
+    "agencySlug": "a-color-bright",
+    "title": "Industrial textile machine feeding white fabric into a cart piled with cloth on a shiny blue factory floor.",
+    "url": "https://www.acolorbright.com/work/assembly",
+    "image": "/case-studies/a-color-bright/e72539016758.webp",
+    "capturedAt": "2026-08-05T12:58:11.036Z"
+  },
+  {
+    "id": "70ed31b5dd40",
+    "agencySlug": "8020",
+    "title": "wave",
+    "url": "https://www.8020.inc/case-studies/wave",
+    "image": "/case-studies/8020/70ed31b5dd40.webp",
+    "capturedAt": "2026-08-05T12:58:08.132Z"
+  },
+  {
+    "id": "11fdc4955f3b",
+    "agencySlug": "473-agency",
+    "title": "Forti Vermouth | Branding by 473 Agency",
+    "url": "https://www.473.agency/projects/forti-vermouth",
+    "image": "/case-studies/473-agency/11fdc4955f3b.webp",
+    "capturedAt": "2026-08-05T12:58:07.035Z"
+  },
+  {
+    "id": "660077ade553",
+    "agencySlug": "8020",
+    "title": "circle",
+    "url": "https://www.8020.inc/case-studies/circle",
+    "image": "/case-studies/8020/660077ade553.webp",
+    "capturedAt": "2026-08-05T12:58:05.948Z"
+  },
+  {
+    "id": "891221368a0f",
+    "agencySlug": "a-color-bright",
+    "title": "A smartphone screen displays an e-commerce product page for the S/S Braxton Shirt priced at €79.00, shown on a male model wearing the light green shirt with blue shorts, with color swatches visible below. Carhartt WIP newsroom webpage displaying a bold headline reading 'Carhartt WIP Spring/Summer 2026: Delivery' with a publication date of 15 June, 2022, and a partially visible image of a person at the bottom.",
+    "url": "https://www.acolorbright.com/work/carhartt-wip",
+    "image": "/case-studies/a-color-bright/891221368a0f.webp",
+    "capturedAt": "2026-08-05T12:58:05.478Z"
+  },
+  {
+    "id": "5a4653a34c84",
+    "agencySlug": "8020",
+    "title": "vanta",
+    "url": "https://www.8020.inc/case-studies/vanta",
+    "image": "/case-studies/8020/5a4653a34c84.webp",
+    "capturedAt": "2026-08-05T12:58:03.706Z"
+  },
+  {
+    "id": "20bb21b2f773",
+    "agencySlug": "473-agency",
+    "title": "Boreal | Branding by 473 Agency",
+    "url": "https://www.473.agency/projects/boreal",
+    "image": "/case-studies/473-agency/20bb21b2f773.webp",
+    "capturedAt": "2026-08-05T12:58:03.383Z"
+  },
+  {
+    "id": "5c141f109955",
+    "agencySlug": "a-color-bright",
+    "title": "Mobile screen showing the Radicle website with the headline “Collaborate, share, and grow projects on radicle” and a Get started button above an app preview. User profile card showing a colorful geometric avatar, the name “marta,” role “ACB Dev,” and small icons with counts at the bottom.",
+    "url": "https://www.acolorbright.com/work/radicle",
+    "image": "/case-studies/a-color-bright/5c141f109955.webp",
+    "capturedAt": "2026-08-05T12:58:03.098Z"
+  },
+  {
+    "id": "63c52ee0b2cf",
+    "agencySlug": "8020",
+    "title": "Huberman Lab",
+    "url": "https://www.8020.inc/case-studies/huberman-lab",
+    "image": "/case-studies/8020/63c52ee0b2cf.webp",
+    "capturedAt": "2026-08-05T12:58:00.926Z"
+  },
+  {
+    "id": "732fc06a6256",
+    "agencySlug": "87-studio",
+    "title": "Illustration with man walking his dog in a park",
+    "url": "https://www.87-studio.com/work/better",
+    "image": "/case-studies/87-studio/732fc06a6256.webp",
+    "capturedAt": "2026-08-05T12:57:46.939Z"
+  },
+  {
+    "id": "f5bd888cdc4e",
+    "agencySlug": "27b",
+    "title": "NEON Rated",
+    "url": "https://27-b.com/projects/neon",
+    "image": "/case-studies/27b/f5bd888cdc4e.webp",
+    "capturedAt": "2026-08-05T12:57:41.811Z"
+  },
+  {
+    "id": "af7e9653953d",
+    "agencySlug": "87-studio",
+    "title": "Local logo on top of an image of New York city",
+    "url": "https://www.87-studio.com/work/local",
+    "image": "/case-studies/87-studio/af7e9653953d.webp",
+    "capturedAt": "2026-08-05T12:57:40.959Z"
+  },
+  {
+    "id": "90dfb4cfa36f",
+    "agencySlug": "87-studio",
+    "title": "Person sitting on a couch interactive with a laptop showing the COPI website",
+    "url": "https://www.87-studio.com/work/copi",
+    "image": "/case-studies/87-studio/90dfb4cfa36f.webp",
+    "capturedAt": "2026-08-05T12:57:37.465Z"
+  },
+  {
+    "id": "e3d729dec4f7",
+    "agencySlug": "27b",
+    "title": "NEON, Campaigns",
+    "url": "https://27-b.com/projects/neon-campaigns",
+    "image": "/case-studies/27b/e3d729dec4f7.webp",
+    "capturedAt": "2026-08-05T12:57:36.095Z"
+  },
+  {
+    "id": "f6ca802dd68e",
+    "agencySlug": "87-studio",
+    "title": "The Credian website design shown inside an iPad lying on a couch.",
+    "url": "https://www.87-studio.com/work/credian",
+    "image": "/case-studies/87-studio/f6ca802dd68e.webp",
+    "capturedAt": "2026-08-05T12:57:30.766Z"
+  },
+  {
+    "id": "c7eb2a750fb7",
+    "agencySlug": "27b",
+    "title": "i-d.co",
+    "url": "https://27-b.com/projects/i-d",
+    "image": "/case-studies/27b/c7eb2a750fb7.webp",
+    "capturedAt": "2026-08-05T12:57:30.498Z"
+  },
+  {
+    "id": "f7044dde4745",
+    "agencySlug": "27b",
+    "title": "i-D Spotlight",
+    "url": "https://27-b.com/projects/i-d-spotlight",
+    "image": "/case-studies/27b/f7044dde4745.webp",
+    "capturedAt": "2026-08-05T12:57:24.255Z"
+  },
+  {
+    "id": "bfe079e5776a",
+    "agencySlug": "87-studio",
+    "title": "An elevated online experience for one of the biggest companies in the automotive industry.",
+    "url": "https://www.87-studio.com/work/volkswagen",
+    "image": "/case-studies/87-studio/bfe079e5776a.webp",
+    "capturedAt": "2026-08-05T12:57:22.966Z"
+  },
+  {
+    "id": "c3269a8a49ea",
+    "agencySlug": "25ah",
+    "title": "Dadāndi",
+    "url": "https://www.25ah.se/project/dadandi/",
+    "image": "/case-studies/25ah/c3269a8a49ea.webp",
+    "capturedAt": "2026-08-05T12:57:21.870Z"
+  },
+  {
+    "id": "8cdc1e258b41",
+    "agencySlug": "27b",
+    "title": "Marché d’Intérêt Général",
+    "url": "https://27-b.com/projects/m-i-g",
+    "image": "/case-studies/27b/8cdc1e258b41.webp",
+    "capturedAt": "2026-08-05T12:57:18.060Z"
+  },
+  {
+    "id": "8732fdd01fe3",
+    "agencySlug": "25ah",
+    "title": "Djurgårdsbrunn",
+    "url": "https://www.25ah.se/project/djurgardsbrunn/",
+    "image": "/case-studies/25ah/8732fdd01fe3.webp",
+    "capturedAt": "2026-08-05T12:57:15.145Z"
+  },
+  {
+    "id": "9d66c2ca24e8",
+    "agencySlug": "27b",
+    "title": "Labs",
+    "url": "https://27-b.com/labs",
+    "image": "/case-studies/27b/9d66c2ca24e8.webp",
+    "capturedAt": "2026-08-05T12:57:14.292Z"
+  },
+  {
+    "id": "81d5c72bbd19",
+    "agencySlug": "25ah",
+    "title": "Market Art Fair",
+    "url": "https://www.25ah.se/project/market-art-fair/",
+    "image": "/case-studies/25ah/81d5c72bbd19.webp",
+    "capturedAt": "2026-08-05T12:57:08.384Z"
+  },
+  {
+    "id": "2c779effe0cb",
+    "agencySlug": "25ah",
+    "title": "Stockholm International Film Festival 2025",
+    "url": "https://www.25ah.se/project/stockholm-international-film-festival-2025/",
+    "image": "/case-studies/25ah/2c779effe0cb.webp",
+    "capturedAt": "2026-08-05T12:57:01.744Z"
+  },
+  {
+    "id": "94379fbbb0e8",
+    "agencySlug": "25ah",
+    "title": "Brengesjö Metz",
+    "url": "https://www.25ah.se/project/brengesjo-metz/",
+    "image": "/case-studies/25ah/94379fbbb0e8.webp",
+    "capturedAt": "2026-08-05T12:56:57.827Z"
+  },
+  {
+    "id": "8761aba6a7ce",
+    "agencySlug": "1-of-1-studio",
+    "title": "F.Miller",
+    "url": "https://1of1studio.com/projects/f-miller",
+    "image": "/case-studies/1-of-1-studio/8761aba6a7ce.webp",
+    "capturedAt": "2026-08-05T11:40:11.613Z"
+  },
+  {
+    "id": "dc089a112f29",
+    "agencySlug": "1-of-1-studio",
+    "title": "Handcrafted Modern",
+    "url": "https://1of1studio.com/projects/handcrafted-modern",
+    "image": "/case-studies/1-of-1-studio/dc089a112f29.webp",
+    "capturedAt": "2026-08-05T11:40:05.674Z"
+  },
+  {
+    "id": "beef544d4118",
+    "agencySlug": "1-of-1-studio",
+    "title": "Danny Kaplan Studio",
+    "url": "https://1of1studio.com/projects/danny-kaplan-studio",
+    "image": "/case-studies/1-of-1-studio/beef544d4118.webp",
+    "capturedAt": "2026-08-05T11:39:59.714Z"
+  },
+  {
+    "id": "b8a98d66b29e",
+    "agencySlug": "1-of-1-studio",
+    "title": "Ne Geurra",
+    "url": "https://1of1studio.com/projects/ne-geurra",
+    "image": "/case-studies/1-of-1-studio/b8a98d66b29e.webp",
+    "capturedAt": "2026-08-05T11:39:53.780Z"
+  },
+  {
+    "id": "bba72edff390",
+    "agencySlug": "1-of-1-studio",
+    "title": "Simone Bodmer–Turner",
+    "url": "https://1of1studio.com/projects/simone-bodmer-turner",
+    "image": "/case-studies/1-of-1-studio/bba72edff390.webp",
+    "capturedAt": "2026-08-05T11:39:47.854Z"
+  },
+  {
+    "id": "cdfc16cbf96f",
+    "agencySlug": "1-of-1-studio",
+    "title": "Field Studies Flora",
+    "url": "https://1of1studio.com/projects/field-studies-flora",
+    "image": "/case-studies/1-of-1-studio/cdfc16cbf96f.webp",
+    "capturedAt": "2026-08-05T11:39:45.154Z"
+  }
+]

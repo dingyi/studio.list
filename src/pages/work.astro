@@ -1,0 +1,79 @@
+---
+import { ExternalLink } from "lucide-react";
+import PageHeader from "@/components/PageHeader";
+import SiteFooter from "@/components/SiteFooter.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { caseStudiesWithAgency } from "@/lib/case-studies";
+
+const caseStudies = caseStudiesWithAgency();
+---
+
+<BaseLayout
+  title="Work — studio.list"
+  description="Case studies and selected work published by the independent design agencies listed on studio.list."
+>
+  <PageHeader active="work" client:load />
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__inner">
+        <h1 id="hero-title">
+          Explore the work of remarkable, independent design agencies
+        </h1>
+        <p class="hero__copy">
+          Case studies and selected projects, collected from the agencies'
+          official websites and linked straight to the source.
+        </p>
+      </div>
+    </section>
+
+    <section class="directory" aria-labelledby="work-title">
+      <div class="directory-toolbar">
+        <div>
+          <p class="eyebrow" id="work-title">Work</p>
+          <p class="result-count">{caseStudies.length} case studies</p>
+        </div>
+      </div>
+
+      {caseStudies.length === 0 ? (
+        <div class="empty-state">
+          <h2>No case studies yet.</h2>
+          <p>Case studies are being collected from the agencies in the directory.</p>
+        </div>
+      ) : (
+        <div class="agency-grid agency-grid--card">
+          {caseStudies.map((caseStudy) => (
+            <article class="agency-card case-card">
+              <a
+                class="agency-card__main"
+                href={caseStudy.url}
+                target="_blank"
+                rel="noreferrer"
+                aria-label={`Open case study ${caseStudy.title} by ${caseStudy.agency.name}`}
+              >
+                <div class="agency-card__media">
+                  <img
+                    src={caseStudy.image}
+                    alt={`${caseStudy.title} by ${caseStudy.agency.name}`}
+                    loading="lazy"
+                    width="1440"
+                    height="900"
+                  />
+                </div>
+                <div class="agency-card__body">
+                  <div>
+                    <h2>{caseStudy.title}</h2>
+                    <p class="agency-card__location">{caseStudy.agency.name}</p>
+                  </div>
+                </div>
+              </a>
+              <span class="agency-card__external case-card__badge" aria-hidden="true">
+                <ExternalLink size={17} />
+              </span>
+            </article>
+          ))}
+        </div>
+      )}
+    </section>
+  </main>
+  <SiteFooter />
+</BaseLayout>

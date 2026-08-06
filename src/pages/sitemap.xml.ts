@@ -4,6 +4,7 @@ export const GET = () => {
   const base = "https://studio.list";
   const paths = [
     "/",
+    "/work/",
     "/about/",
     ...publishedAgencies.map((agency) => `/agencies/${agency.slug}/`),
   ];
