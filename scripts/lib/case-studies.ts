@@ -17,7 +17,7 @@ const workPathPattern =
   /^\/?(?:selected-)?(?:work|cases?|case-studies|projects?|portfolio)\/?$/i;
 
 const excludedPathPattern =
-  /^\/(?:about|contact|teams?|services?|blog|news|journal|articles?|careers?|jobs?|tags?|[\w-]*categor(?:y|ies)|authors?|search|shop|store|feed|rss|press|faq|process|approach|expertise|clients?|privacy[\w-]*|terms[\w-]*|legal[\w-]*|imprint[\w-]*|cookies?[\w-]*)(\/|$)/i;
+  /^\/(?:about[\w-]*|contact|teams?|services?|blog|news|journal|articles?|insights?|our-story|studio|careers?|jobs?|tags?|[\w-]*categor(?:y|ies)|authors?|search|shop|store|feed|rss|press|faq|process|approach|expertise|clients?|privacy[\w-]*|terms[\w-]*|legal[\w-]*|imprint[\w-]*|cookies?[\w-]*)(\/|$)/i;
 
 const ctaTextPattern =
   /^(?:work with us|get in touch|contact(?: us)?|let'?s talk|start(?: a)? project|say hello|hire us|about(?: us)?|our services|services)$/i;
@@ -38,8 +38,12 @@ function stripContainerBlocks(html: string): string {
 }
 
 function anchorText(innerHtml: string): string {
-  const heading = innerHtml.match(/<h[1-4]\b[^>]*>([\s\S]*?)<\/h[1-4]>/i);
-  const source = heading ? heading[1] : innerHtml;
+  const withoutEmbedded = innerHtml.replace(
+    /<(style|script|svg|noscript)\b[\s\S]*?<\/\1>/gi,
+    " ",
+  );
+  const heading = withoutEmbedded.match(/<h[1-4]\b[^>]*>([\s\S]*?)<\/h[1-4]>/i);
+  const source = heading ? heading[1] : withoutEmbedded;
   const text = source
     .replace(/<img\b[^>]*?\balt\s*=\s*"([^"]*)"[^>]*>/gi, " $1 ")
     .replace(/<img\b[^>]*?\balt\s*=\s*'([^']*)'[^>]*>/gi, " $1 ")
@@ -221,6 +225,40 @@ export function extractCaseStudyLinks(
   }
 
   return results;
+}
+
+/**
+ * Some agency homepages redirect to another agency's official website
+ * (rebrands, mergers, acquisitions). Both directory entries then collect the
+ * same case-study URLs. Keep each URL once: prefer the agency whose Official
+ * Domain matches the case study's host, otherwise keep the first entry.
+ */
+export function dedupeAcrossAgencies<
+  T extends { url: string; agencySlug: string },
+>(entries: T[], websiteBySlug: Map<string, string>): T[] {
+  const hostOf = (value: string): string | null => {
+    try {
+      return normalizeHostname(new URL(value).hostname);
+    } catch {
+      return null;
+    }
+  };
+  const keptByUrl = new Map<string, T>();
+  for (const entry of entries) {
+    const current = keptByUrl.get(entry.url);
+    if (!current) {
+      keptByUrl.set(entry.url, entry);
+      continue;
+    }
+    const entryHost = hostOf(entry.url);
+    const currentMatches =
+      hostOf(websiteBySlug.get(current.agencySlug) ?? "") === entryHost;
+    const entryMatches =
+      hostOf(websiteBySlug.get(entry.agencySlug) ?? "") === entryHost;
+    if (entryMatches && !currentMatches) keptByUrl.set(entry.url, entry);
+  }
+  const kept = new Set(keptByUrl.values());
+  return entries.filter((entry) => kept.has(entry));
 }
 
 export function caseStudyId(url: string): string {

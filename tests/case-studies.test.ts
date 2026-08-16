@@ -3,6 +3,7 @@ import { describe, expect, it } from "vitest";
 import {
   caseStudyId,
   cleanCaseStudyTitle,
+  dedupeAcrossAgencies,
   entriesHash,
   extractCaseStudyLinks,
   findWorkPageUrl,
@@ -126,6 +127,67 @@ describe("extractCaseStudyLinks", () => {
     const html = `<a href="/work/one"><img src="x.jpg" alt="One Project"></a>`;
     const links = extractCaseStudyLinks(html, workPage);
     expect(links[0].title).toBe("One Project");
+  });
+
+  it("excludes studio, insights, story, and about-us pages", () => {
+    const html = `
+      <a href="/work/real-one">Real one</a>
+      <a href="/studio">Studio</a>
+      <a href="/insights">Insights</a>
+      <a href="/our-story">Our Story</a>
+      <a href="/about-us/team">Team</a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.url)).toEqual([
+      "https://example.com/work/real-one",
+    ]);
+  });
+
+  it("ignores style and script content inside anchors", () => {
+    const html = `
+      <a href="/work/one">
+        <style>.slide-in-bottom { overflow: hidden; }</style>
+        <script>console.log("noise");</script>
+        One Project
+      </a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links[0].title).toBe("One Project");
+  });
+});
+
+describe("dedupeAcrossAgencies", () => {
+  const websites = new Map([
+    ["acme", "https://www.acme.com/"],
+    ["globex", "https://globex.io/"],
+  ]);
+
+  it("keeps the entry whose agency domain matches the case study host", () => {
+    const entries = [
+      { url: "https://acme.com/work/one", agencySlug: "globex" },
+      { url: "https://acme.com/work/one", agencySlug: "acme" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual([
+      { url: "https://acme.com/work/one", agencySlug: "acme" },
+    ]);
+  });
+
+  it("keeps the first entry when no agency domain matches", () => {
+    const entries = [
+      { url: "https://other.com/work/one", agencySlug: "acme" },
+      { url: "https://other.com/work/one", agencySlug: "globex" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual([
+      { url: "https://other.com/work/one", agencySlug: "acme" },
+    ]);
+  });
+
+  it("leaves unique URLs untouched and preserves order", () => {
+    const entries = [
+      { url: "https://globex.io/work/b", agencySlug: "globex" },
+      { url: "https://acme.com/work/a", agencySlug: "acme" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual(entries);
   });
 });
 
