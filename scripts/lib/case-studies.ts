@@ -157,6 +157,13 @@ export function isReadableTitle(title: string): boolean {
   if (compact.length < 2) return false;
   // Runs of symbols are decorative ASCII art, not a title.
   if (/[^\p{L}\p{N}\s]{3,}/u.test(title)) return false;
+  // Generic media placeholders (usually from alt text) carry no information.
+  if (/^(?:image|img|video|photo|logo|icon|thumbnail|untitled|link)s?$/i.test(title.trim()))
+    return false;
+  // Letter-spaced animation markup ("H u t t e") is unreadable as a title.
+  const words = title.trim().split(/\s+/);
+  const singleCharWords = words.filter((word) => [...word].length === 1).length;
+  if (words.length >= 4 && singleCharWords / words.length >= 0.7) return false;
   const letters = compact.match(/[\p{L}\p{N}]/gu)?.length ?? 0;
   return letters / compact.length >= 0.5;
 }

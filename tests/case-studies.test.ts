@@ -224,6 +224,21 @@ describe("isReadableTitle", () => {
     expect(isReadableTitle("✶ Experience")).toBe(true);
     expect(isReadableTitle("Dublin Dance Festival 2024")).toBe(true);
   });
+
+  it("rejects generic media placeholders", () => {
+    expect(isReadableTitle("image")).toBe(false);
+    expect(isReadableTitle("Video")).toBe(false);
+    expect(isReadableTitle("Images")).toBe(false);
+    expect(isReadableTitle("Imagery Studio")).toBe(true);
+  });
+
+  it("rejects letter-spaced animation markup", () => {
+    expect(isReadableTitle("H u t t e")).toBe(false);
+    expect(isReadableTitle("04 W o r l d W o r l d")).toBe(false);
+    expect(isReadableTitle("F F E R N")).toBe(false);
+    expect(isReadableTitle("Made by James")).toBe(true);
+    expect(isReadableTitle("A B C")).toBe(true);
+  });
 });
 
 describe("hashes", () => {

@@ -1,5 +1,301 @@
 [
   {
+    "id": "08963798b800",
+    "agencySlug": "firma",
+    "title": "Akaneya A sensory journey into the heart of Japan",
+    "url": "https://www.wearefirma.com/project/akaneya",
+    "image": "/case-studies/firma/08963798b800.webp",
+    "capturedAt": "2026-08-16T20:42:58.016Z"
+  },
+  {
+    "id": "e33fd7685cb7",
+    "agencySlug": "firma",
+    "title": "a girl with a hair product CUPRA Shaping an expansive brand ecosystem",
+    "url": "https://www.wearefirma.com/project/cupra",
+    "image": "/case-studies/firma/e33fd7685cb7.webp",
+    "capturedAt": "2026-08-16T20:42:52.128Z"
+  },
+  {
+    "id": "d9792e453275",
+    "agencySlug": "firma",
+    "title": "Frekuent Transforming how people get paid",
+    "url": "https://www.wearefirma.com/project/frekuent",
+    "image": "/case-studies/firma/d9792e453275.webp",
+    "capturedAt": "2026-08-16T20:42:46.156Z"
+  },
+  {
+    "id": "4056916134d1",
+    "agencySlug": "firma",
+    "title": "Wallapop Revamping the iconic marketplace for an even bigger scale",
+    "url": "https://www.wearefirma.com/project/wallapop",
+    "image": "/case-studies/firma/4056916134d1.webp",
+    "capturedAt": "2026-08-16T20:42:39.681Z"
+  },
+  {
+    "id": "81c5f83f3688",
+    "agencySlug": "firma",
+    "title": "Mahou Uplifting a 5-star brand",
+    "url": "https://www.wearefirma.com/project/mahou",
+    "image": "/case-studies/firma/81c5f83f3688.webp",
+    "capturedAt": "2026-08-16T20:42:33.081Z"
+  },
+  {
+    "id": "835ad0ceec0a",
+    "agencySlug": "firma",
+    "title": "Why us",
+    "url": "https://www.wearefirma.com/why-us",
+    "image": "/case-studies/firma/835ad0ceec0a.webp",
+    "capturedAt": "2026-08-16T20:42:27.317Z"
+  },
+  {
+    "id": "873f04b371ea",
+    "agencySlug": "grant",
+    "title": "Cashew",
+    "url": "https://www.wearegrant.com/work/cashew",
+    "image": "/case-studies/grant/873f04b371ea.webp",
+    "capturedAt": "2026-08-16T20:42:12.792Z"
+  },
+  {
+    "id": "ab48f98b0c18",
+    "agencySlug": "grant",
+    "title": "joni",
+    "url": "https://www.wearegrant.com/work/joni",
+    "image": "/case-studies/grant/ab48f98b0c18.webp",
+    "capturedAt": "2026-08-16T20:42:06.580Z"
+  },
+  {
+    "id": "ec3223e861e9",
+    "agencySlug": "grant",
+    "title": "Forge",
+    "url": "https://www.wearegrant.com/work/forge",
+    "image": "/case-studies/grant/ec3223e861e9.webp",
+    "capturedAt": "2026-08-16T20:41:59.959Z"
+  },
+  {
+    "id": "d7b2d3e34b95",
+    "agencySlug": "grant",
+    "title": "SuperBelly by Blume",
+    "url": "https://www.wearegrant.com/work/superbelly",
+    "image": "/case-studies/grant/d7b2d3e34b95.webp",
+    "capturedAt": "2026-08-16T20:41:58.515Z"
+  },
+  {
+    "id": "9f4e700e117a",
+    "agencySlug": "grant",
+    "title": "Effica",
+    "url": "https://www.wearegrant.com/work/effica",
+    "image": "/case-studies/grant/9f4e700e117a.webp",
+    "capturedAt": "2026-08-16T20:41:51.439Z"
+  },
+  {
+    "id": "c9008e1798d9",
+    "agencySlug": "grant",
+    "title": "Higgie's Pet Mercantile",
+    "url": "https://www.wearegrant.com/work/higgies",
+    "image": "/case-studies/grant/c9008e1798d9.webp",
+    "capturedAt": "2026-08-16T20:41:45.268Z"
+  },
+  {
+    "id": "b39fef362e4b",
+    "agencySlug": "hex",
+    "title": "Video Thumbnail Click for sound",
+    "url": "https://www.hexdigital.com/our-work/birdlife-international",
+    "image": "/case-studies/hex/b39fef362e4b.webp",
+    "capturedAt": "2026-08-16T20:41:30.853Z"
+  },
+  {
+    "id": "53c7b8cbe5bb",
+    "agencySlug": "hex",
+    "title": "Video Thumbnail Click for sound",
+    "url": "https://www.hexdigital.com/our-work/too-good-to-go",
+    "image": "/case-studies/hex/53c7b8cbe5bb.webp",
+    "capturedAt": "2026-08-16T20:41:26.329Z"
+  },
+  {
+    "id": "a6f65ef97060",
+    "agencySlug": "hex",
+    "title": "Video Thumbnail Click for sound",
+    "url": "https://www.hexdigital.com/our-work/hey-alfie",
+    "image": "/case-studies/hex/a6f65ef97060.webp",
+    "capturedAt": "2026-08-16T20:41:23.933Z"
+  },
+  {
+    "id": "ae84d4f091d1",
+    "agencySlug": "hex",
+    "title": "Video Thumbnail Click for sound",
+    "url": "https://www.hexdigital.com/our-work/trustpilot",
+    "image": "/case-studies/hex/ae84d4f091d1.webp",
+    "capturedAt": "2026-08-16T20:41:21.544Z"
+  },
+  {
+    "id": "c82dd77f64b9",
+    "agencySlug": "hex",
+    "title": "Video Thumbnail Click for sound",
+    "url": "https://www.hexdigital.com/our-work/birdlife-datazone",
+    "image": "/case-studies/hex/c82dd77f64b9.webp",
+    "capturedAt": "2026-08-16T20:41:19.163Z"
+  },
+  {
+    "id": "97dce3151fde",
+    "agencySlug": "hex",
+    "title": "Video Thumbnail Click for sound",
+    "url": "https://www.hexdigital.com/our-work/conservation-international",
+    "image": "/case-studies/hex/97dce3151fde.webp",
+    "capturedAt": "2026-08-16T20:41:16.000Z"
+  },
+  {
+    "id": "09764e6ae9fa",
+    "agencySlug": "alleyway-designs",
+    "title": "Social Media",
+    "url": "https://alleywaydesigns.com/social-media",
+    "image": "/case-studies/alleyway-designs/09764e6ae9fa.webp",
+    "capturedAt": "2026-08-16T20:40:08.734Z"
+  },
+  {
+    "id": "e7e1c95bc6ed",
+    "agencySlug": "alphamark",
+    "title": "Marks & Logos Selected logo symbols and wordmarks 2020 - 2023.",
+    "url": "https://alphamark.design/projects/marks-logos",
+    "image": "/case-studies/alphamark/e7e1c95bc6ed.webp",
+    "capturedAt": "2026-08-16T20:39:59.365Z"
+  },
+  {
+    "id": "28b0d5a39768",
+    "agencySlug": "analogue-agency",
+    "title": "Brand identity and website for development agency Ask Phill.",
+    "url": "https://analogueagency.com/case/askphill",
+    "image": "/case-studies/analogue-agency/28b0d5a39768.webp",
+    "capturedAt": "2026-08-16T20:39:52.976Z"
+  },
+  {
+    "id": "c0726879a18e",
+    "agencySlug": "analogue-agency",
+    "title": "A new look for the market-leading and top-ranked cannabis seed bank in the United States",
+    "url": "https://analogueagency.com/case/ilgm",
+    "image": "/case-studies/analogue-agency/c0726879a18e.webp",
+    "capturedAt": "2026-08-16T20:39:51.376Z"
+  },
+  {
+    "id": "1658036c9072",
+    "agencySlug": "analogue-agency",
+    "title": "Identity and website for the all-in-one financial platform for employees.",
+    "url": "https://analogueagency.com/case/equip",
+    "image": "/case-studies/analogue-agency/1658036c9072.webp",
+    "capturedAt": "2026-08-16T20:39:45.558Z"
+  },
+  {
+    "id": "32021172d93f",
+    "agencySlug": "analogue-agency",
+    "title": "Crafting Atomic's 2025 vision, strategy and touchpoints.",
+    "url": "https://analogueagency.com/case/atomic",
+    "image": "/case-studies/analogue-agency/32021172d93f.webp",
+    "capturedAt": "2026-08-16T20:39:43.278Z"
+  },
+  {
+    "id": "077c1db27d81",
+    "agencySlug": "analogue-agency",
+    "title": "Tony's Chocolonely,",
+    "url": "https://analogueagency.com/case/tonyschocolonely",
+    "image": "/case-studies/analogue-agency/077c1db27d81.webp",
+    "capturedAt": "2026-08-16T20:39:40.939Z"
+  },
+  {
+    "id": "5723742db313",
+    "agencySlug": "baseborn",
+    "title": "Being a specialist in combining his knowledge of videography with the thrilling mountain…",
+    "url": "https://www.baseborn.studio/work/take-a-ride-with-me",
+    "image": "/case-studies/baseborn/5723742db313.webp",
+    "capturedAt": "2026-08-16T20:39:32.408Z"
+  },
+  {
+    "id": "437848ac49b8",
+    "agencySlug": "bleed",
+    "title": "Ambassaden",
+    "url": "https://bleed.com/work/ambassaden",
+    "image": "/case-studies/bleed/437848ac49b8.webp",
+    "capturedAt": "2026-08-16T20:39:14.965Z"
+  },
+  {
+    "id": "37f0b188cc79",
+    "agencySlug": "bothrs",
+    "title": "A brand-new banking experience brought to the public in just 15 months.",
+    "url": "https://www.nimblestudio.com/showcases/banx",
+    "image": "/case-studies/bothrs/37f0b188cc79.webp",
+    "capturedAt": "2026-08-16T20:39:04.529Z"
+  },
+  {
+    "id": "614b4aa223c6",
+    "agencySlug": "comet",
+    "title": "KÖKI - Creating a digital mall experience. Work",
+    "url": "https://www.cometstudio.io/work/koki-terminal",
+    "image": "/case-studies/comet/614b4aa223c6.webp",
+    "capturedAt": "2026-08-16T20:38:46.459Z"
+  },
+  {
+    "id": "b81c6254b193",
+    "agencySlug": "dept",
+    "title": "Tech & Data",
+    "url": "https://www.deptagency.com/solutions/tech-data/",
+    "image": "/case-studies/dept/b81c6254b193.webp",
+    "capturedAt": "2026-08-16T20:38:33.659Z"
+  },
+  {
+    "id": "473d7cec6f3c",
+    "agencySlug": "dutchscot",
+    "title": "Gyotaku",
+    "url": "https://dutch.scot/projects/kai-enzo/",
+    "image": "/case-studies/dutchscot/473d7cec6f3c.webp",
+    "capturedAt": "2026-08-16T20:38:22.560Z"
+  },
+  {
+    "id": "2fe734ba72ed",
+    "agencySlug": "noomo",
+    "title": "image",
+    "url": "https://noomoagency.com/work/salesforce-office-of-ethical-and-human-use-website-redesign",
+    "image": "/case-studies/noomo/2fe734ba72ed.webp",
+    "capturedAt": "2026-08-16T20:37:22.495Z"
+  },
+  {
+    "id": "21053caa51fa",
+    "agencySlug": "noomo",
+    "title": "image",
+    "url": "https://noomoagency.com/work/amd-ai-factory-digital-event-experience",
+    "image": "/case-studies/noomo/21053caa51fa.webp",
+    "capturedAt": "2026-08-16T20:37:16.771Z"
+  },
+  {
+    "id": "4168d8ed45db",
+    "agencySlug": "omfgco",
+    "title": "A stone’s throw from the Scioto River, across from Downtown Columbus—The Junto is a…",
+    "url": "https://www.omfgco.com/project/junto",
+    "image": "/case-studies/omfgco/4168d8ed45db.webp",
+    "capturedAt": "2026-08-16T20:37:01.166Z"
+  },
+  {
+    "id": "af08b19bd5fd",
+    "agencySlug": "omfgco",
+    "title": "Frances May is a directional boutique built from a community of independent designers and…",
+    "url": "https://www.omfgco.com/project/frances-may",
+    "image": "/case-studies/omfgco/af08b19bd5fd.webp",
+    "capturedAt": "2026-08-16T20:36:58.585Z"
+  },
+  {
+    "id": "ed595c82173c",
+    "agencySlug": "oosaa",
+    "title": "2023",
+    "url": "https://www.oosaa.com/works/poison-frog/",
+    "image": "/case-studies/oosaa/ed595c82173c.webp",
+    "capturedAt": "2026-08-16T20:36:48.922Z"
+  },
+  {
+    "id": "37210778d583",
+    "agencySlug": "verve",
+    "title": "Bynder, A brand evolution that pulls on the heartstrings",
+    "url": "https://verveagency.com/work/bynder-brand-evolution",
+    "image": "/case-studies/verve/37210778d583.webp",
+    "capturedAt": "2026-08-16T20:36:22.708Z"
+  },
+  {
     "id": "49feb18cfc3a",
     "agencySlug": "red-collar",
     "title": "case",
@@ -672,14 +968,6 @@
     "capturedAt": "2026-08-16T20:26:56.645Z"
   },
   {
-    "id": "633228c6875e",
-    "agencySlug": "verve",
-    "title": "Thoughts",
-    "url": "https://verveagency.com/insights",
-    "image": "/case-studies/verve/633228c6875e.webp",
-    "capturedAt": "2026-08-16T20:26:54.295Z"
-  },
-  {
     "id": "92185abe2ada",
     "agencySlug": "vivid-co",
     "title": "Fintech Company",
@@ -814,14 +1102,6 @@
     "url": "https://underlinestudio.com/works/toronto-symphony-orchestra/",
     "image": "/case-studies/underline/d7e33b38c206.webp",
     "capturedAt": "2026-08-16T20:26:11.454Z"
-  },
-  {
-    "id": "c98797495e1d",
-    "agencySlug": "united-playgrounds",
-    "title": "Insights",
-    "url": "https://www.unitedplaygrounds.nl/insights",
-    "image": "/case-studies/united-playgrounds/c98797495e1d.webp",
-    "capturedAt": "2026-08-16T20:26:08.035Z"
   },
   {
     "id": "5c5dc243f57b",
@@ -3616,14 +3896,6 @@
     "capturedAt": "2026-08-16T20:19:47.004Z"
   },
   {
-    "id": "b20ee9293a95",
-    "agencySlug": "oosaa",
-    "title": "INSIGHTS 观点 .slide-in-bottom { overflow: hidden; padding: 0 4px; height: 1.4em; }…",
-    "url": "https://www.oosaa.com/insights",
-    "image": "/case-studies/oosaa/b20ee9293a95.webp",
-    "capturedAt": "2026-08-16T20:19:46.837Z"
-  },
-  {
     "id": "06da25f7c7b0",
     "agencySlug": "omfgco",
     "title": "Maudine’s: Half caff, half calf, all heart. This café at The Junto blends playful…",
@@ -3760,14 +4032,6 @@
     "capturedAt": "2026-08-16T20:19:29.110Z"
   },
   {
-    "id": "b25fd16e8c68",
-    "agencySlug": "omfgco",
-    "title": "Made in California from local farm ingredients, Veso is a modern aperitif company that…",
-    "url": "https://www.omfgco.com/project/veso",
-    "image": "/case-studies/omfgco/b25fd16e8c68.webp",
-    "capturedAt": "2026-08-16T20:19:27.593Z"
-  },
-  {
     "id": "60227ce8610b",
     "agencySlug": "north-kingdom",
     "title": "Supercell",
@@ -3798,22 +4062,6 @@
     "url": "https://offormdesign.com/cases/cera",
     "image": "/case-studies/offormdesign/ea716135050a.webp",
     "capturedAt": "2026-08-16T20:19:21.192Z"
-  },
-  {
-    "id": "e1e9768bd0c0",
-    "agencySlug": "omfgco",
-    "title": "Studio",
-    "url": "https://www.omfgco.com/studio",
-    "image": "/case-studies/omfgco/e1e9768bd0c0.webp",
-    "capturedAt": "2026-08-16T20:19:20.878Z"
-  },
-  {
-    "id": "09bc6c54932e",
-    "agencySlug": "noomo",
-    "title": "Insights",
-    "url": "https://noomoagency.com/insights",
-    "image": "/case-studies/noomo/09bc6c54932e.webp",
-    "capturedAt": "2026-08-16T20:19:18.579Z"
   },
   {
     "id": "6efde467053a",
@@ -3848,28 +4096,12 @@
     "capturedAt": "2026-08-16T20:19:12.416Z"
   },
   {
-    "id": "088973cf9dfd",
-    "agencySlug": "noomo",
-    "title": "Our Story",
-    "url": "https://noomoagency.com/our-story",
-    "image": "/case-studies/noomo/088973cf9dfd.webp",
-    "capturedAt": "2026-08-16T20:19:10.745Z"
-  },
-  {
     "id": "75c2af0a1a1a",
     "agencySlug": "non-linear-studio",
     "title": "Ozarke",
     "url": "https://non-linear.studio/work/ozarke",
     "image": "/case-studies/non-linear-studio/75c2af0a1a1a.webp",
     "capturedAt": "2026-08-16T20:19:06.547Z"
-  },
-  {
-    "id": "1dfc7be9d223",
-    "agencySlug": "netrix-digital",
-    "title": "Gen Z Broke the Marketing Funnel, a report for Vogue Business / Archrival",
-    "url": "https://noomoagency.com/work/vogue-business-gen-z-report-editorial-website",
-    "image": "/case-studies/netrix-digital/1dfc7be9d223.webp",
-    "capturedAt": "2026-08-16T20:19:01.493Z"
   },
   {
     "id": "1a613aa75c3d",
@@ -3920,14 +4152,6 @@
     "capturedAt": "2026-08-16T20:18:55.708Z"
   },
   {
-    "id": "7e615f2dd9b9",
-    "agencySlug": "netrix-digital",
-    "title": "image",
-    "url": "https://noomoagency.com/work/enterprise-3d-platform-website-salesforce",
-    "image": "/case-studies/netrix-digital/7e615f2dd9b9.webp",
-    "capturedAt": "2026-08-16T20:18:54.942Z"
-  },
-  {
     "id": "201806063e39",
     "agencySlug": "mother-design",
     "title": "Rollr",
@@ -3966,14 +4190,6 @@
     "url": "https://www.motherdesign.com/work/scribd",
     "image": "/case-studies/mother-design/3d58c65f524a.webp",
     "capturedAt": "2026-08-16T20:18:47.109Z"
-  },
-  {
-    "id": "9617af90004f",
-    "agencySlug": "netrix-digital",
-    "title": "image",
-    "url": "https://noomoagency.com/work/microsite-golden-state-warriors-and-coinbase-collectible",
-    "image": "/case-studies/netrix-digital/9617af90004f.webp",
-    "capturedAt": "2026-08-16T20:18:47.085Z"
   },
   {
     "id": "08b7c5a841c5",
@@ -4030,14 +4246,6 @@
     "url": "https://mother.media/work/superm-jopping/",
     "image": "/case-studies/mother/3cccc31923b6.webp",
     "capturedAt": "2026-08-16T20:18:37.469Z"
-  },
-  {
-    "id": "09bc6c54932e",
-    "agencySlug": "netrix-digital",
-    "title": "Insights",
-    "url": "https://noomoagency.com/insights",
-    "image": "/case-studies/netrix-digital/09bc6c54932e.webp",
-    "capturedAt": "2026-08-16T20:18:35.574Z"
   },
   {
     "id": "f6974d978a81",
@@ -4110,14 +4318,6 @@
     "url": "https://movingbrands.com/work/all-about-tea/",
     "image": "/case-studies/moving-brands/4bda122af0c0.webp",
     "capturedAt": "2026-08-16T20:18:15.615Z"
-  },
-  {
-    "id": "088973cf9dfd",
-    "agencySlug": "netrix-digital",
-    "title": "Our Story",
-    "url": "https://noomoagency.com/our-story",
-    "image": "/case-studies/netrix-digital/088973cf9dfd.webp",
-    "capturedAt": "2026-08-16T20:18:13.445Z"
   },
   {
     "id": "24e4b43c34e1",
@@ -4934,14 +5134,6 @@
     "url": "https://www.malvah.co/projects/boring",
     "image": "/case-studies/malvah-studio/7e785edcd8bb.webp",
     "capturedAt": "2026-08-16T20:16:39.543Z"
-  },
-  {
-    "id": "9017318adc24",
-    "agencySlug": "makereign",
-    "title": "Insights 18",
-    "url": "https://www.makereign.com/insights",
-    "image": "/case-studies/makereign/9017318adc24.webp",
-    "capturedAt": "2026-08-16T20:16:38.636Z"
   },
   {
     "id": "a2cd98c57e34",
@@ -6056,14 +6248,6 @@
     "capturedAt": "2026-08-16T20:14:08.271Z"
   },
   {
-    "id": "b39fef362e4b",
-    "agencySlug": "hex",
-    "title": "Video Thumbnail Click for sound @keyframes VOLUME_SMALL_WAVE_FLASH { 0% { opacity: 0; }…",
-    "url": "https://www.hexdigital.com/our-work/birdlife-international",
-    "image": "/case-studies/hex/b39fef362e4b.webp",
-    "capturedAt": "2026-08-16T20:14:07.811Z"
-  },
-  {
     "id": "e1e0ba97f2c3",
     "agencySlug": "hicks",
     "title": "V&A Museum Icon system",
@@ -6086,14 +6270,6 @@
     "url": "https://hex.inc/work/fuser",
     "image": "/case-studies/hex-inc/0df5e41c1ad2.webp",
     "capturedAt": "2026-08-16T20:14:04.031Z"
-  },
-  {
-    "id": "53c7b8cbe5bb",
-    "agencySlug": "hex",
-    "title": "Video Thumbnail Click for sound @keyframes VOLUME_SMALL_WAVE_FLASH { 0% { opacity: 0; }…",
-    "url": "https://www.hexdigital.com/our-work/too-good-to-go",
-    "image": "/case-studies/hex/53c7b8cbe5bb.webp",
-    "capturedAt": "2026-08-16T20:14:02.401Z"
   },
   {
     "id": "ce248c1a8283",
@@ -6136,14 +6312,6 @@
     "capturedAt": "2026-08-16T20:13:58.489Z"
   },
   {
-    "id": "a6f65ef97060",
-    "agencySlug": "hex",
-    "title": "Video Thumbnail Click for sound @keyframes VOLUME_SMALL_WAVE_FLASH { 0% { opacity: 0; }…",
-    "url": "https://www.hexdigital.com/our-work/hey-alfie",
-    "image": "/case-studies/hex/a6f65ef97060.webp",
-    "capturedAt": "2026-08-16T20:13:58.416Z"
-  },
-  {
     "id": "4e75458b7f86",
     "agencySlug": "hey",
     "title": "Women at Work A podcast identity that scans society",
@@ -6182,14 +6350,6 @@
     "url": "https://www.herocollective.co/work/band-aid",
     "image": "/case-studies/hero-collective/6977e32623da.webp",
     "capturedAt": "2026-08-16T20:13:53.289Z"
-  },
-  {
-    "id": "ae84d4f091d1",
-    "agencySlug": "hex",
-    "title": "Video Thumbnail Click for sound @keyframes VOLUME_SMALL_WAVE_FLASH { 0% { opacity: 0; }…",
-    "url": "https://www.hexdigital.com/our-work/trustpilot",
-    "image": "/case-studies/hex/ae84d4f091d1.webp",
-    "capturedAt": "2026-08-16T20:13:52.073Z"
   },
   {
     "id": "cd15551feebd",
@@ -6232,14 +6392,6 @@
     "capturedAt": "2026-08-16T20:13:47.056Z"
   },
   {
-    "id": "c82dd77f64b9",
-    "agencySlug": "hex",
-    "title": "Video Thumbnail Click for sound @keyframes VOLUME_SMALL_WAVE_FLASH { 0% { opacity: 0; }…",
-    "url": "https://www.hexdigital.com/our-work/birdlife-datazone",
-    "image": "/case-studies/hex/c82dd77f64b9.webp",
-    "capturedAt": "2026-08-16T20:13:47.025Z"
-  },
-  {
     "id": "c56ccf54ae61",
     "agencySlug": "hex-inc",
     "title": "HEX SWIPE FILE",
@@ -6262,14 +6414,6 @@
     "url": "https://www.herocollective.co/work/lenovo-yoga",
     "image": "/case-studies/hero-collective/0a772110ccf8.webp",
     "capturedAt": "2026-08-16T20:13:41.082Z"
-  },
-  {
-    "id": "97dce3151fde",
-    "agencySlug": "hex",
-    "title": "Video Thumbnail Click for sound @keyframes VOLUME_SMALL_WAVE_FLASH { 0% { opacity: 0; }…",
-    "url": "https://www.hexdigital.com/our-work/conservation-international",
-    "image": "/case-studies/hex/97dce3151fde.webp",
-    "capturedAt": "2026-08-16T20:13:39.752Z"
   },
   {
     "id": "5b33d65fc12c",
@@ -7000,14 +7144,6 @@
     "capturedAt": "2026-08-16T20:11:40.859Z"
   },
   {
-    "id": "873f04b371ea",
-    "agencySlug": "grant",
-    "title": ".b { fill-rule: evenodd; stroke-width: 0px; fill: currentColor; }",
-    "url": "https://www.wearegrant.com/work/cashew",
-    "image": "/case-studies/grant/873f04b371ea.webp",
-    "capturedAt": "2026-08-16T20:11:39.319Z"
-  },
-  {
     "id": "26a5377f9365",
     "agencySlug": "gretel",
     "title": "Finer Sounds",
@@ -7024,28 +7160,12 @@
     "capturedAt": "2026-08-16T20:11:35.822Z"
   },
   {
-    "id": "770fe3c4b7d6",
-    "agencySlug": "green-chameleon",
-    "title": "04 W o r l d W o r l d",
-    "url": "https://unseen.co/world/",
-    "image": "/case-studies/green-chameleon/770fe3c4b7d6.webp",
-    "capturedAt": "2026-08-16T20:11:34.609Z"
-  },
-  {
     "id": "6676ebb306c9",
     "agencySlug": "goodbe-haviour",
     "title": "Estēe Lauder Reminding the world of sleep's pioneer.",
     "url": "https://www.goodbehaviour.work/projects/estee-lauder",
     "image": "/case-studies/goodbe-haviour/6676ebb306c9.webp",
     "capturedAt": "2026-08-16T20:11:26.938Z"
-  },
-  {
-    "id": "ab48f98b0c18",
-    "agencySlug": "grant",
-    "title": ".b { fill-rule: evenodd; stroke-width: 0px; fill: currentColor; }",
-    "url": "https://www.wearegrant.com/work/joni",
-    "image": "/case-studies/grant/ab48f98b0c18.webp",
-    "capturedAt": "2026-08-16T20:11:26.732Z"
   },
   {
     "id": "9fcfb0b091a0",
@@ -7064,14 +7184,6 @@
     "capturedAt": "2026-08-16T20:11:16.053Z"
   },
   {
-    "id": "ec3223e861e9",
-    "agencySlug": "grant",
-    "title": ".b { fill-rule: evenodd; stroke-width: 0px; fill: currentColor; }",
-    "url": "https://www.wearegrant.com/work/forge",
-    "image": "/case-studies/grant/ec3223e861e9.webp",
-    "capturedAt": "2026-08-16T20:11:13.685Z"
-  },
-  {
     "id": "df6afa69355e",
     "agencySlug": "garden-eight",
     "title": "Roaster",
@@ -7088,14 +7200,6 @@
     "capturedAt": "2026-08-16T20:11:12.646Z"
   },
   {
-    "id": "d7b2d3e34b95",
-    "agencySlug": "grant",
-    "title": ".b { fill-rule: evenodd; stroke-width: 0px; fill: currentColor; }",
-    "url": "https://www.wearegrant.com/work/superbelly",
-    "image": "/case-studies/grant/d7b2d3e34b95.webp",
-    "capturedAt": "2026-08-16T20:11:10.895Z"
-  },
-  {
     "id": "88f049408b91",
     "agencySlug": "goodbe-haviour",
     "title": "POD Journey Unlocking the potential of podcasters.",
@@ -7110,14 +7214,6 @@
     "url": "https://www.goodside.studio/work/spero",
     "image": "/case-studies/goodside/5dba698782ba.webp",
     "capturedAt": "2026-08-16T20:11:08.799Z"
-  },
-  {
-    "id": "9f4e700e117a",
-    "agencySlug": "grant",
-    "title": ".b { fill-rule: evenodd; stroke-width: 0px; fill: currentColor; }",
-    "url": "https://www.wearegrant.com/work/effica",
-    "image": "/case-studies/grant/9f4e700e117a.webp",
-    "capturedAt": "2026-08-16T20:10:38.106Z"
   },
   {
     "id": "e46554bb92c4",
@@ -7584,14 +7680,6 @@
     "capturedAt": "2026-08-16T20:08:20.936Z"
   },
   {
-    "id": "08963798b800",
-    "agencySlug": "firma",
-    "title": ".video-embed { width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0;…",
-    "url": "https://www.wearefirma.com/project/akaneya",
-    "image": "/case-studies/firma/08963798b800.webp",
-    "capturedAt": "2026-08-16T20:08:17.897Z"
-  },
-  {
     "id": "3d77bcdf6e67",
     "agencySlug": "fourth-floor",
     "title": "Website redesign for Understory, an experience platform backed by Smedvig Ventures raising…",
@@ -7646,14 +7734,6 @@
     "url": "https://www.fortnight.studio/work/gener8-ads",
     "image": "/case-studies/fortnight/7f733fd9a4f0.webp",
     "capturedAt": "2026-08-16T20:08:11.329Z"
-  },
-  {
-    "id": "e33fd7685cb7",
-    "agencySlug": "firma",
-    "title": "a girl with a hair product .video-embed { width: 100%; height: 100%; object-fit: cover;…",
-    "url": "https://www.wearefirma.com/project/cupra",
-    "image": "/case-studies/firma/e33fd7685cb7.webp",
-    "capturedAt": "2026-08-16T20:08:10.397Z"
   },
   {
     "id": "88c55b0715cb",
@@ -7728,14 +7808,6 @@
     "capturedAt": "2026-08-16T20:08:00.078Z"
   },
   {
-    "id": "d9792e453275",
-    "agencySlug": "firma",
-    "title": ".video-embed { width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0;…",
-    "url": "https://www.wearefirma.com/project/frekuent",
-    "image": "/case-studies/firma/d9792e453275.webp",
-    "capturedAt": "2026-08-16T20:07:59.833Z"
-  },
-  {
     "id": "88e5599b8d80",
     "agencySlug": "floc",
     "title": "Alchemain Core narrative translated into a complete brand and Framer landing website…",
@@ -7766,14 +7838,6 @@
     "url": "https://fix.studio/work/equinox",
     "image": "/case-studies/fix-studio/586f8dc78ad9.webp",
     "capturedAt": "2026-08-16T20:07:53.283Z"
-  },
-  {
-    "id": "4056916134d1",
-    "agencySlug": "firma",
-    "title": ".video-embed { width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0;…",
-    "url": "https://www.wearefirma.com/project/wallapop",
-    "image": "/case-studies/firma/4056916134d1.webp",
-    "capturedAt": "2026-08-16T20:07:51.164Z"
   },
   {
     "id": "f3c5c44e4e0d",
@@ -7824,14 +7888,6 @@
     "capturedAt": "2026-08-16T20:07:45.223Z"
   },
   {
-    "id": "81c5f83f3688",
-    "agencySlug": "firma",
-    "title": ".video-embed { width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0;…",
-    "url": "https://www.wearefirma.com/project/mahou",
-    "image": "/case-studies/firma/81c5f83f3688.webp",
-    "capturedAt": "2026-08-16T20:07:43.403Z"
-  },
-  {
     "id": "947c81dcd67e",
     "agencySlug": "fix-studio",
     "title": "Alza ( 2023 ) Fix Studio",
@@ -7854,14 +7910,6 @@
     "url": "https://evenodd.studio/koi-x-nike-dont-forget-to-call-home",
     "image": "/case-studies/even-odd/de81c982453f.webp",
     "capturedAt": "2026-08-16T20:07:39.469Z"
-  },
-  {
-    "id": "835ad0ceec0a",
-    "agencySlug": "firma",
-    "title": "Why us",
-    "url": "https://www.wearefirma.com/why-us",
-    "image": "/case-studies/firma/835ad0ceec0a.webp",
-    "capturedAt": "2026-08-16T20:07:37.323Z"
   },
   {
     "id": "3b8fba9266d2",
@@ -8384,14 +8432,6 @@
     "capturedAt": "2026-08-16T20:06:20.968Z"
   },
   {
-    "id": "e0ec32c8fbb2",
-    "agencySlug": "dutchscot",
-    "title": "Studio",
-    "url": "https://dutch.scot/studio/",
-    "image": "/case-studies/dutchscot/e0ec32c8fbb2.webp",
-    "capturedAt": "2026-08-16T20:06:20.603Z"
-  },
-  {
     "id": "cacf4a4889e8",
     "agencySlug": "designups",
     "title": "Ryman Auditorium",
@@ -8734,14 +8774,6 @@
     "url": "https://deeo.studio/work/amz-atlas",
     "image": "/case-studies/deeo/8a331a27eafc.webp",
     "capturedAt": "2026-08-16T20:05:30.926Z"
-  },
-  {
-    "id": "53b2d4e3729e",
-    "agencySlug": "dept",
-    "title": "Insights",
-    "url": "https://www.deptagency.com/insights/",
-    "image": "/case-studies/dept/53b2d4e3729e.webp",
-    "capturedAt": "2026-08-16T20:05:30.309Z"
   },
   {
     "id": "2862212dd355",
@@ -9110,14 +9142,6 @@
     "url": "https://clay.global/work/snapchat",
     "image": "/case-studies/clay/2bc60287b973.webp",
     "capturedAt": "2026-08-16T20:04:07.034Z"
-  },
-  {
-    "id": "0e140afe5fe1",
-    "agencySlug": "comet",
-    "title": "Studio",
-    "url": "https://www.cometstudio.io/studio",
-    "image": "/case-studies/comet/0e140afe5fe1.webp",
-    "capturedAt": "2026-08-16T20:04:07.016Z"
   },
   {
     "id": "b1591e90d781",
@@ -9736,14 +9760,6 @@
     "capturedAt": "2026-08-16T20:02:31.327Z"
   },
   {
-    "id": "80e4e2d19f2b",
-    "agencySlug": "bothrs",
-    "title": "Insights",
-    "url": "https://www.nimblestudio.com/insights",
-    "image": "/case-studies/bothrs/80e4e2d19f2b.webp",
-    "capturedAt": "2026-08-16T20:02:30.742Z"
-  },
-  {
     "id": "6b9deefe66b9",
     "agencySlug": "bold",
     "title": "A New Day for Urban Mobility Arrive Brand Design, Brand Strategy, Brand Activation, +1 A…",
@@ -9966,14 +9982,6 @@
     "url": "https://www.bighuman.com/work/wordibly-case-study",
     "image": "/case-studies/big-human/0e140feeb000.webp",
     "capturedAt": "2026-08-16T20:02:04.291Z"
-  },
-  {
-    "id": "9c0c895a9240",
-    "agencySlug": "bleed",
-    "title": "Bleed blurs design, technology, art and strategy to formulate, strengthen and expand…",
-    "url": "https://bleed.com/studio",
-    "image": "/case-studies/bleed/9c0c895a9240.webp",
-    "capturedAt": "2026-08-16T20:02:02.876Z"
   },
   {
     "id": "b51d61afa83c",
@@ -10542,14 +10550,6 @@
     "url": "https://www.balky.studio/work/vana-spring-24",
     "image": "/case-studies/balky-essentials/99241cbf05f9.webp",
     "capturedAt": "2026-08-16T20:00:39.878Z"
-  },
-  {
-    "id": "5574916deddf",
-    "agencySlug": "baseborn",
-    "title": "Studio",
-    "url": "https://www.baseborn.studio/studio",
-    "image": "/case-studies/baseborn/5574916deddf.webp",
-    "capturedAt": "2026-08-16T20:00:37.467Z"
   },
   {
     "id": "7f8992595272",
@@ -11336,14 +11336,6 @@
     "capturedAt": "2026-08-16T19:58:22.428Z"
   },
   {
-    "id": "c85a477933a0",
-    "agencySlug": "analogue-agency",
-    "title": "Careers",
-    "url": "https://analogueagency.com/about-us/jobs",
-    "image": "/case-studies/analogue-agency/c85a477933a0.webp",
-    "capturedAt": "2026-08-16T19:58:20.933Z"
-  },
-  {
     "id": "d900e8db26cd",
     "agencySlug": "anagram",
     "title": "Jaudi",
@@ -11360,28 +11352,12 @@
     "capturedAt": "2026-08-16T19:58:19.480Z"
   },
   {
-    "id": "8ae3cc3a57c8",
-    "agencySlug": "analogue-agency",
-    "title": "Outcomes",
-    "url": "https://analogueagency.com/about-us/outcomes",
-    "image": "/case-studies/analogue-agency/8ae3cc3a57c8.webp",
-    "capturedAt": "2026-08-16T19:58:18.922Z"
-  },
-  {
     "id": "e6260889102b",
     "agencySlug": "anagram",
     "title": "Gravity",
     "url": "https://anagram.london/work/gravity/",
     "image": "/case-studies/anagram/e6260889102b.webp",
     "capturedAt": "2026-08-16T19:58:17.639Z"
-  },
-  {
-    "id": "7f48405bdd0d",
-    "agencySlug": "analogue-agency",
-    "title": "Team",
-    "url": "https://analogueagency.com/about-us/team",
-    "image": "/case-studies/analogue-agency/7f48405bdd0d.webp",
-    "capturedAt": "2026-08-16T19:58:16.883Z"
   },
   {
     "id": "68ca1354e611",
@@ -11408,28 +11384,12 @@
     "capturedAt": "2026-08-16T19:58:15.252Z"
   },
   {
-    "id": "a2d947518f8e",
-    "agencySlug": "analogue-agency",
-    "title": "Process & Pricing",
-    "url": "https://analogueagency.com/about-us/pricing",
-    "image": "/case-studies/analogue-agency/a2d947518f8e.webp",
-    "capturedAt": "2026-08-16T19:58:15.158Z"
-  },
-  {
     "id": "68065e1f877e",
     "agencySlug": "alt-creative",
     "title": "CHIMERA Project type CHIMERA",
     "url": "https://www.altcinc.com/work/chimera",
     "image": "/case-studies/alt-creative/68065e1f877e.webp",
     "capturedAt": "2026-08-16T19:58:13.605Z"
-  },
-  {
-    "id": "8c5c823c80ce",
-    "agencySlug": "analogue-agency",
-    "title": "Expertise & Capabilities",
-    "url": "https://analogueagency.com/about-us/expertise",
-    "image": "/case-studies/analogue-agency/8c5c823c80ce.webp",
-    "capturedAt": "2026-08-16T19:58:13.540Z"
   },
   {
     "id": "8054ea14dfcc",
@@ -11552,14 +11512,6 @@
     "capturedAt": "2026-08-16T19:57:57.219Z"
   },
   {
-    "id": "b46c3246100c",
-    "agencySlug": "alphamark",
-    "title": "Insights",
-    "url": "https://alphamark.design/insights",
-    "image": "/case-studies/alphamark/b46c3246100c.webp",
-    "capturedAt": "2026-08-16T19:57:57.085Z"
-  },
-  {
     "id": "7c711e91826a",
     "agencySlug": "akqa",
     "title": "Review Routes",
@@ -11590,14 +11542,6 @@
     "url": "https://www.akqa.com/work/bethesda-softworks/indiana-jones-and-the-great-circle/",
     "image": "/case-studies/akqa/26ca48d538c3.webp",
     "capturedAt": "2026-08-16T19:57:50.094Z"
-  },
-  {
-    "id": "c7b85ef7396f",
-    "agencySlug": "alleyway-designs",
-    "title": "Studio + Services",
-    "url": "https://alleywaydesigns.com/studio",
-    "image": "/case-studies/alleyway-designs/c7b85ef7396f.webp",
-    "capturedAt": "2026-08-16T19:57:49.846Z"
   },
   {
     "id": "91d45036ee48",
