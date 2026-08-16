@@ -214,7 +214,7 @@
   "alet": {
     "status": "failed",
     "homepageUrl": "https://aletagency.com/",
-    "capturedAt": "2026-08-16T19:57:38.937Z",
+    "capturedAt": "2026-08-16T20:31:03.535Z",
     "error": "HTTP 500"
   },
   "akfn": {
@@ -280,7 +280,7 @@
   "anagrama": {
     "status": "failed",
     "homepageUrl": "https://www.anagrama.com/",
-    "capturedAt": "2026-08-16T19:58:11.602Z",
+    "capturedAt": "2026-08-16T20:31:08.199Z",
     "error": "HTTP 406"
   },
   "analogue-agency": {
@@ -293,7 +293,7 @@
   "andagain": {
     "status": "failed",
     "homepageUrl": "https://andagain.uk/",
-    "capturedAt": "2026-08-16T19:58:25.893Z",
+    "capturedAt": "2026-08-16T20:31:13.111Z",
     "error": "HTTP 402"
   },
   "anagram": {
@@ -776,7 +776,7 @@
   "brunswicker-studio": {
     "status": "failed",
     "homepageUrl": "https://www.brunswicker.dk/",
-    "capturedAt": "2026-08-16T20:02:57.968Z",
+    "capturedAt": "2026-08-16T20:31:14.440Z",
     "error": "HTTP 404"
   },
   "bou": {
@@ -860,8 +860,8 @@
   "capsule": {
     "status": "failed",
     "homepageUrl": "https://www.capsule-design.studio/",
-    "capturedAt": "2026-08-16T20:03:40.054Z",
-    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.capsule-design.studio/\nCall log:\n\u001b[2m  - navigating to \"https://www.capsule-design.studio/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "capturedAt": "2026-08-16T20:31:16.201Z",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.capsule-design.studio/\nCall log:\n  - navigating to \"https://www.capsule-design.studio/\", waiting until \"domcontentloaded\"\n"
   },
   "bulletproof": {
     "status": "success",
@@ -1592,10 +1592,9 @@
     "capturedAt": "2026-08-16T20:13:29.690Z"
   },
   "here": {
-    "status": "failed",
+    "status": "no-work-page",
     "homepageUrl": "https://www.wearehere.amsterdam/",
-    "capturedAt": "2026-08-16T20:13:14.315Z",
-    "error": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.wearehere.amsterdam/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "capturedAt": "2026-08-16T20:31:17.439Z"
   },
   "hey-low": {
     "status": "no-work-page",
@@ -1814,7 +1813,7 @@
   "koma": {
     "status": "failed",
     "homepageUrl": "http://www.hellokoma.com/",
-    "capturedAt": "2026-08-16T20:15:21.557Z",
+    "capturedAt": "2026-08-16T20:31:31.987Z",
     "error": "HTTP 404"
   },
   "land": {
@@ -2187,7 +2186,7 @@
   "okalpha": {
     "status": "failed",
     "homepageUrl": "https://www.okalpha.co/",
-    "capturedAt": "2026-08-16T20:19:09.958Z",
+    "capturedAt": "2026-08-16T20:31:43.155Z",
     "error": "HTTP 404"
   },
   "old-friends": {
@@ -2356,10 +2355,11 @@
     "capturedAt": "2026-08-16T20:20:50.031Z"
   },
   "red-collar": {
-    "status": "failed",
+    "status": "success",
+    "entriesHash": "82373f1611c5ff868f52930ef726af1f669d03182fe59f3b464f50a09e5c2333",
     "homepageUrl": "https://redcollar.digital/",
-    "capturedAt": "2026-08-16T20:20:38.313Z",
-    "error": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://redcollar.digital/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "workPageUrl": "https://redcollar.co/work",
+    "capturedAt": "2026-08-16T20:31:44.923Z"
   },
   "rare-volume": {
     "status": "success",
@@ -2982,7 +2982,7 @@
   "yummygum": {
     "status": "failed",
     "homepageUrl": "https://yummygum.com/",
-    "capturedAt": "2026-08-16T20:28:02.444Z",
+    "capturedAt": "2026-08-16T20:32:49.403Z",
     "error": "HTTP 403"
   },
   "and-walsh": {
