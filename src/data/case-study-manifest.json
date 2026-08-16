@@ -1,10 +1,10 @@
 {
   "8020": {
     "status": "success",
-    "entriesHash": "1e2deed0f35493f6e9f54b30cab2ebef802fa63d81df3ac0a6acefc19834fa2c",
+    "entriesHash": "17023e54c07fd2b47c160d012dbc3e90de0eff4b7a31afd6a1ad905376c0b212",
     "homepageUrl": "https://www.8020.inc/",
     "workPageUrl": "https://www.8020.inc/case-studies",
-    "capturedAt": "2026-08-05T12:57:49.468Z"
+    "capturedAt": "2026-08-16T19:56:44.952Z"
   },
   "1-of-1-studio": {
     "status": "success",
@@ -16,19 +16,19 @@
   "1-0-design": {
     "status": "no-work-page",
     "homepageUrl": "https://1.0.design/",
-    "capturedAt": "2026-08-05T12:56:29.372Z"
+    "capturedAt": "2026-08-16T19:56:36.221Z"
   },
   "9elements": {
     "status": "no-entries",
     "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "homepageUrl": "https://9elements.com/",
     "workPageUrl": "https://9elements.com/projects/",
-    "capturedAt": "2026-08-05T12:56:29.372Z"
+    "capturedAt": "2026-08-16T19:56:36.222Z"
   },
   "22mc": {
     "status": "no-work-page",
     "homepageUrl": "https://22mc.world/",
-    "capturedAt": "2026-08-05T12:56:39.026Z"
+    "capturedAt": "2026-08-16T19:56:38.675Z"
   },
   "10clouds": {
     "status": "success",
@@ -47,21 +47,21 @@
   "28k": {
     "status": "no-work-page",
     "homepageUrl": "https://28k.studio/",
-    "capturedAt": "2026-08-05T12:57:09.721Z"
+    "capturedAt": "2026-08-16T19:56:40.306Z"
   },
   "14islands": {
     "status": "no-entries",
     "entriesHash": "7ed6214d77dca88c608137c3cb1cf25d07434f9e7ecc2b925d9c1bf8f8f2304f",
     "homepageUrl": "https://14islands.com/",
     "workPageUrl": "https://www.14islands.com/",
-    "capturedAt": "2026-08-05T12:56:33.372Z"
+    "capturedAt": "2026-08-16T19:56:36.223Z"
   },
   "27b": {
     "status": "success",
-    "entriesHash": "cbf9dd973e88c704c60dcefdb38b9caf7af6b40b2917149999fd9974f2cb7e3d",
+    "entriesHash": "04a62eab0e1dc068eb088baa2cce7e2d69df2bc2146f25d01cc5d664f95ce680",
     "homepageUrl": "https://27-b.com/",
     "workPageUrl": "https://27-b.com/projects",
-    "capturedAt": "2026-08-05T12:57:02.930Z"
+    "capturedAt": "2026-08-16T19:56:39.724Z"
   },
   "87-studio": {
     "status": "success",
@@ -82,14 +82,14 @@
     "entriesHash": "a7e3b6451f0c2ea8b118dc6acd69a1a69acfa32faff46c8bdad6c2502bd1ddbe",
     "homepageUrl": "https://www.247studio.co/",
     "workPageUrl": "https://www.247studio.co/",
-    "capturedAt": "2026-08-05T12:57:18.611Z"
+    "capturedAt": "2026-08-16T19:56:41.961Z"
   },
   "a-color-bright": {
     "status": "success",
-    "entriesHash": "53ff6f78e25172f0a434477ee36b9fdc6882cce61b3d0b866cff305d72b5d1ac",
+    "entriesHash": "4ae4e00c93415a4352396df5f1bab212fcf24679756b9e3bf51e1cfbb69900ae",
     "homepageUrl": "https://www.acolorbright.com/",
     "workPageUrl": "https://www.acolorbright.com/work",
-    "capturedAt": "2026-08-05T12:57:53.304Z"
+    "capturedAt": "2026-08-16T19:56:45.835Z"
   },
   "473-agency": {
     "status": "success",
@@ -101,7 +101,7 @@
   "a-lot-of-moving-parts": {
     "status": "no-work-page",
     "homepageUrl": "https://alotofmoving.parts/",
-    "capturedAt": "2026-08-05T12:58:21.075Z"
+    "capturedAt": "2026-08-16T19:56:50.695Z"
   },
   "aad": {
     "status": "success",
@@ -113,50 +113,48 @@
   "aceternity": {
     "status": "no-work-page",
     "homepageUrl": "https://www.aceternity.com/",
-    "capturedAt": "2026-08-05T12:58:46.747Z"
+    "capturedAt": "2026-08-16T19:56:53.748Z"
   },
   "abbreviated-projects": {
-    "status": "success",
-    "entriesHash": "6ba7b3239d428c62caaee62cdf5c31106109df657bfb47b20d8ca43696105529",
+    "status": "no-work-page",
     "homepageUrl": "https://www.abbrprojects.com/",
-    "workPageUrl": "https://www.abbrprojects.com/projects",
-    "capturedAt": "2026-08-05T12:58:28.442Z"
+    "capturedAt": "2026-08-16T19:56:52.242Z"
   },
   "adopt": {
     "status": "no-work-page",
     "homepageUrl": "https://weareadopt.com/",
-    "capturedAt": "2026-08-05T12:58:55.734Z"
+    "capturedAt": "2026-08-16T19:56:56.852Z"
   },
   "a-friend-of-mine": {
     "status": "no-entries",
     "entriesHash": "f55f43f86302f602086af7f76e3db5a9fa104ca6fd0fe1d8f6e237069b9216a4",
     "homepageUrl": "https://afom.com.au/",
     "workPageUrl": "https://afom.com.au/work",
-    "capturedAt": "2026-08-05T12:58:12.498Z"
+    "capturedAt": "2026-08-16T19:56:46.730Z"
   },
   "adoratorio-studio": {
-    "status": "failed",
+    "status": "no-work-page",
     "homepageUrl": "https://adoratorio.studio/",
-    "capturedAt": "2026-08-05T12:59:02.381Z",
-    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://adoratorio.studio/\nCall log:\n\u001b[2m  - navigating to \"https://adoratorio.studio/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "capturedAt": "2026-08-16T19:56:58.276Z"
   },
   "a-line": {
     "status": "no-entries",
     "entriesHash": "b0d40064214bc5179162ab966765587dbf9f50166b1f55866beccaa6d4dcfcac",
     "homepageUrl": "https://www.aline.studio/",
     "workPageUrl": "https://www.aline.studio/work",
-    "capturedAt": "2026-08-05T12:58:18.225Z"
+    "capturedAt": "2026-08-16T19:56:49.848Z"
   },
   "again-studio": {
     "status": "no-work-page",
     "homepageUrl": "https://again.nyc/",
-    "capturedAt": "2026-08-05T12:59:13.021Z"
+    "capturedAt": "2026-08-16T19:57:04.166Z"
   },
   "aerolab": {
-    "status": "failed",
+    "status": "success",
+    "entriesHash": "9aa17df902554f30c17a30b4a82846bd06b28aeb82acbd21c1bef96b65021291",
     "homepageUrl": "https://aerolab.co/",
-    "capturedAt": "2026-08-05T12:59:11.324Z",
-    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://aerolab.co/\nCall log:\n\u001b[2m  - navigating to \"https://aerolab.co/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "workPageUrl": "https://aerolab.co/projects",
+    "capturedAt": "2026-08-16T19:56:59.310Z"
   },
   "acre-studio": {
     "status": "success",
@@ -175,7 +173,7 @@
   "aircord": {
     "status": "no-work-page",
     "homepageUrl": "https://aircord.co.jp/en/",
-    "capturedAt": "2026-08-05T12:59:51.620Z"
+    "capturedAt": "2026-08-16T19:57:32.597Z"
   },
   "aino": {
     "status": "success",
@@ -186,10 +184,10 @@
   },
   "agency-habitat": {
     "status": "success",
-    "entriesHash": "0900e590690eda3a99bc447429ed2800516e8af8859b7fcab8561da50e5348dc",
+    "entriesHash": "e24b8c7f585159405accf60c6def454a4f5aba7661a6f364682a527d2e88bf99",
     "homepageUrl": "https://agencyhabitat.com/",
     "workPageUrl": "https://agencyhabitat.com/work/",
-    "capturedAt": "2026-08-05T12:59:13.076Z"
+    "capturedAt": "2026-08-16T19:57:09.343Z"
   },
   "aircards": {
     "status": "success",
@@ -197,5 +195,2855 @@
     "homepageUrl": "https://www.aircards.co/",
     "workPageUrl": "https://www.aircards.co/work",
     "capturedAt": "2026-08-05T13:18:04.110Z"
+  },
+  "airfoil-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.airfoil.studio/",
+    "capturedAt": "2026-08-16T19:57:34.465Z"
+  },
+  "akaru": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.akaru.fr/",
+    "capturedAt": "2026-08-16T19:57:35.820Z"
+  },
+  "alastair-strong-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://alastairstrong.studio/",
+    "capturedAt": "2026-08-16T19:57:38.078Z"
+  },
+  "alet": {
+    "status": "failed",
+    "homepageUrl": "https://aletagency.com/",
+    "capturedAt": "2026-08-16T20:31:03.535Z",
+    "error": "HTTP 500"
+  },
+  "akfn": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.akufen.ca/en",
+    "capturedAt": "2026-08-16T19:57:37.379Z"
+  },
+  "alex-hunting-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://alexhunting.co.uk/",
+    "capturedAt": "2026-08-16T19:57:41.830Z"
+  },
+  "aline-stuido": {
+    "status": "no-work-page",
+    "homepageUrl": "http://www.alinecreative.com/",
+    "capturedAt": "2026-08-16T19:57:42.325Z"
+  },
+  "almarena": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.almarena.fr/",
+    "capturedAt": "2026-08-16T19:57:48.295Z"
+  },
+  "akqa": {
+    "status": "success",
+    "entriesHash": "4a3e7a4454ef9c99bfe88bfd3ae8e3c032808287c720d3496bed75413867fced",
+    "homepageUrl": "https://www.akqa.com/",
+    "workPageUrl": "https://www.akqa.com/work/",
+    "capturedAt": "2026-08-16T19:57:37.434Z"
+  },
+  "almond": {
+    "status": "no-entries",
+    "entriesHash": "7a91fb5764776ffa4810bb973a6451f60014bc895d55ebbfe7cf1ed9922321a4",
+    "homepageUrl": "https://almond.studio/",
+    "workPageUrl": "https://www.almond.studio/work",
+    "capturedAt": "2026-08-16T19:57:49.450Z"
+  },
+  "alleyway-designs": {
+    "status": "success",
+    "entriesHash": "ca66df43c5a6b268eed2c516c963f907b01254e5bc5f65ab9c40cf120f2f2aca",
+    "homepageUrl": "https://alleywaydesigns.com/",
+    "workPageUrl": "https://alleywaydesigns.com/projects",
+    "capturedAt": "2026-08-16T20:40:02.631Z"
+  },
+  "ammunition": {
+    "status": "no-work-page",
+    "homepageUrl": "https://ammunitiongroup.com/",
+    "capturedAt": "2026-08-16T19:58:09.368Z"
+  },
+  "alphamark": {
+    "status": "success",
+    "entriesHash": "5bc24ee828bb8d5950785628296f927e8fa518a24aa292d197138acbf0017954",
+    "homepageUrl": "https://www.alphamark.design/",
+    "workPageUrl": "https://alphamark.design/projects",
+    "capturedAt": "2026-08-16T20:39:56.450Z"
+  },
+  "altalogy": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://www.altalogy.com/",
+    "workPageUrl": "https://www.altalogy.com/case-studies",
+    "capturedAt": "2026-08-16T19:58:08.886Z"
+  },
+  "anagrama": {
+    "status": "failed",
+    "homepageUrl": "https://www.anagrama.com/",
+    "capturedAt": "2026-08-16T20:31:08.199Z",
+    "error": "HTTP 406"
+  },
+  "analogue-agency": {
+    "status": "success",
+    "entriesHash": "13752ae5d7a4f2b0c89c3921f1bab50490e676cf21df61ad1c0ca3df0fe2266a",
+    "homepageUrl": "https://analogueagency.com/",
+    "workPageUrl": "https://analogueagency.com/",
+    "capturedAt": "2026-08-16T20:39:39.637Z"
+  },
+  "andagain": {
+    "status": "failed",
+    "homepageUrl": "https://andagain.uk/",
+    "capturedAt": "2026-08-16T20:31:13.111Z",
+    "error": "HTTP 402"
+  },
+  "anagram": {
+    "status": "success",
+    "entriesHash": "d06b6b6ae059523bc455b64227cea8a45a7b6ec6ceed04f2d36819043e33a68a",
+    "homepageUrl": "https://anagram.london/",
+    "workPageUrl": "https://anagram.london/",
+    "capturedAt": "2026-08-16T19:58:11.020Z"
+  },
+  "alt-border": {
+    "status": "success",
+    "entriesHash": "dee9c8f6f5aa0ff950e8a7b7158e1c9117fc4768d1d5a8b8bf7bd2849bbf7873",
+    "homepageUrl": "https://www.alt-border.com/",
+    "workPageUrl": "https://www.alt-border.com/projects",
+    "capturedAt": "2026-08-16T19:57:59.376Z"
+  },
+  "alt-creative": {
+    "status": "success",
+    "entriesHash": "917cf2a77be0d21dc863f6033d453c171705f1574f465cb23180e7b9c475d2a7",
+    "homepageUrl": "https://altcinc.com/",
+    "workPageUrl": "https://www.altcinc.com/",
+    "capturedAt": "2026-08-16T19:57:58.533Z"
+  },
+  "ania-et-lucie": {
+    "status": "success",
+    "entriesHash": "f41a34f7a4a8dfbda06f01379623521bbd908ba7f0bdb92df8f5a271c1d443e4",
+    "homepageUrl": "https://aniaetlucie.com/",
+    "workPageUrl": "https://aniaetlucie.com/projects",
+    "capturedAt": "2026-08-16T19:58:30.908Z"
+  },
+  "alright-studio": {
+    "status": "success",
+    "entriesHash": "711f79dcc112583aa2fe1a791dbfcbdc13fda88539638f8793b2876d7630c257",
+    "homepageUrl": "http://alright.studio/",
+    "workPageUrl": "https://alright.studio/work",
+    "capturedAt": "2026-08-16T19:57:58.189Z"
+  },
+  "anti": {
+    "status": "no-work-page",
+    "homepageUrl": "https://anti.as/",
+    "capturedAt": "2026-08-16T19:58:49.672Z"
+  },
+  "and-then-some": {
+    "status": "success",
+    "entriesHash": "78b34eaa1f3ad5aabd9f1d9323b1d38f286e2051a4eaf8a19d7897ed6135cb86",
+    "homepageUrl": "https://andthensome.co.uk/",
+    "workPageUrl": "https://andthensome.co.uk/work/",
+    "capturedAt": "2026-08-16T19:58:20.125Z"
+  },
+  "antoine-enault-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://antoineenault.com/",
+    "capturedAt": "2026-08-16T19:58:51.925Z"
+  },
+  "ang-studio": {
+    "status": "success",
+    "entriesHash": "fe4cfbf3e2f4c1b0fb56691607324464f3df8ad40bccdd67770090b7533ec430",
+    "homepageUrl": "https://ang-studio.com/",
+    "workPageUrl": "https://ang-studio.com/work",
+    "capturedAt": "2026-08-16T19:58:28.791Z"
+  },
+  "anton-and-irene": {
+    "status": "no-work-page",
+    "homepageUrl": "http://www.antonandirene.com/",
+    "capturedAt": "2026-08-16T19:58:57.724Z"
+  },
+  "arcade-labs": {
+    "status": "no-work-page",
+    "homepageUrl": "https://arcade.la/",
+    "capturedAt": "2026-08-16T19:58:59.237Z"
+  },
+  "anyothername": {
+    "status": "no-work-page",
+    "homepageUrl": "https://anyother.name/",
+    "capturedAt": "2026-08-16T19:58:58.222Z"
+  },
+  "animal": {
+    "status": "success",
+    "entriesHash": "d7ad6fac4381023f6f5dae67df223ccd094e5e04db16ce7891cc88b46cbcb3b4",
+    "homepageUrl": "https://animal.cc/",
+    "workPageUrl": "https://www.kurppahosk.com/work",
+    "capturedAt": "2026-08-16T19:58:34.910Z"
+  },
+  "area-technology": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://www.area.tech/",
+    "workPageUrl": "https://www.area.tech/projects",
+    "capturedAt": "2026-08-16T19:59:04.623Z"
+  },
+  "area-17": {
+    "status": "no-work-page",
+    "homepageUrl": "https://area17.com/",
+    "capturedAt": "2026-08-16T19:59:01.052Z"
+  },
+  "artua": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.artua.com/",
+    "capturedAt": "2026-08-16T19:59:08.091Z"
+  },
+  "antfood": {
+    "status": "success",
+    "entriesHash": "6f9d87ad92196aa6a8e455ef327272bad968384b25cff83ceb6ebec885ff0ebb",
+    "homepageUrl": "https://www.antfood.com/",
+    "workPageUrl": "https://www.antfood.com/work/",
+    "capturedAt": "2026-08-16T19:58:43.932Z"
+  },
+  "ark": {
+    "status": "no-work-page",
+    "homepageUrl": "http://www.arkdesign.cn/",
+    "capturedAt": "2026-08-16T19:59:06.220Z"
+  },
+  "article": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://madebyarticle.com/",
+    "workPageUrl": "https://madebyarticle.com/work/",
+    "capturedAt": "2026-08-16T19:59:07.008Z"
+  },
+  "atelieranchor": {
+    "status": "no-work-page",
+    "homepageUrl": "https://atelier-anchor.com/",
+    "capturedAt": "2026-08-16T19:59:12.990Z"
+  },
+  "atlason": {
+    "status": "no-work-page",
+    "homepageUrl": "https://atlason.com/",
+    "capturedAt": "2026-08-16T19:59:16.152Z"
+  },
+  "andhuman": {
+    "status": "success",
+    "entriesHash": "9eca3f28b62cd9550412a4abc7eef3d7362a49dba3a85177e02cc73e1a7c9cb7",
+    "homepageUrl": "https://www.andhuman.co/",
+    "workPageUrl": "https://www.andhuman.co/work",
+    "capturedAt": "2026-08-16T19:58:26.064Z"
+  },
+  "aton": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.aton.is/en",
+    "capturedAt": "2026-08-16T19:59:20.163Z"
+  },
+  "antinomy-studio": {
+    "status": "success",
+    "entriesHash": "ca90a7fc9b35747bcc940853dca11aa9478abd41925051e79661a0b47ad7adad",
+    "homepageUrl": "https://antinomy.studio/",
+    "workPageUrl": "https://www.antinomy.studio/work",
+    "capturedAt": "2026-08-16T19:58:51.421Z"
+  },
+  "attact": {
+    "status": "no-work-page",
+    "homepageUrl": "https://attact.co/",
+    "capturedAt": "2026-08-16T19:59:25.518Z"
+  },
+  "attitude-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://atttd.com/",
+    "capturedAt": "2026-08-16T19:59:26.468Z"
+  },
+  "awkward": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://awkward.co/",
+    "workPageUrl": "https://www.awkward.co/projects",
+    "capturedAt": "2026-08-16T19:59:28.308Z"
+  },
+  "awp": {
+    "status": "no-work-page",
+    "homepageUrl": "https://awp.work/en",
+    "capturedAt": "2026-08-16T19:59:33.353Z"
+  },
+  "atoll-digital": {
+    "status": "success",
+    "entriesHash": "7e14247b9b7af831ddc4e74f946c6deddfef3236bf5199808f341b10692b8279",
+    "homepageUrl": "https://atolldigital.com/",
+    "workPageUrl": "https://atolldigital.com/work/",
+    "capturedAt": "2026-08-16T19:59:17.642Z"
+  },
+  "attck": {
+    "status": "no-entries",
+    "entriesHash": "fb62116704ffcee813d33fa811adf97eba9d0f708f0af2650d0277c6e15f210d",
+    "homepageUrl": "https://attck.com/",
+    "workPageUrl": "https://attck.com/work/",
+    "capturedAt": "2026-08-16T19:59:25.914Z"
+  },
+  "athletics": {
+    "status": "success",
+    "entriesHash": "80470493335ead1369254ba31c8f223d91b6c0680f612aa79abdfeeafeea755c",
+    "homepageUrl": "https://athleticsnyc.com/",
+    "workPageUrl": "https://athleticsnyc.com/work",
+    "capturedAt": "2026-08-16T19:59:13.336Z"
+  },
+  "b-reel": {
+    "status": "no-work-page",
+    "homepageUrl": "https://b-reel.com/",
+    "capturedAt": "2026-08-16T20:00:03.496Z"
+  },
+  "astrae-studio": {
+    "status": "success",
+    "entriesHash": "8fb3769e27e578d8df9a8dc7058fc5e70b153f6e3219591948b43af46f9e64ef",
+    "homepageUrl": "https://astrae.studio/",
+    "workPageUrl": "https://astrae.studio/projects/",
+    "capturedAt": "2026-08-16T19:59:11.266Z"
+  },
+  "ayond": {
+    "status": "no-work-page",
+    "homepageUrl": "https://ayond.jp/",
+    "capturedAt": "2026-08-16T20:00:03.380Z"
+  },
+  "bakers-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.bakers.studio/",
+    "capturedAt": "2026-08-16T20:00:07.523Z"
+  },
+  "awsmd": {
+    "status": "success",
+    "entriesHash": "1d73d228ead8d890abff8909bb873a5a4a20b03e18ffff04f3583f7bc24913c7",
+    "homepageUrl": "https://awsmd.com/",
+    "workPageUrl": "https://awsmd.com/cases",
+    "capturedAt": "2026-08-16T19:59:35.294Z"
+  },
+  "banila-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.banila.studio/",
+    "capturedAt": "2026-08-16T20:00:09.506Z"
+  },
+  "ashfall-studio": {
+    "status": "success",
+    "entriesHash": "975a714c4f0b185ae993db692754851bae809e1b9bb822689da43d37968575be",
+    "homepageUrl": "https://ashfall.studio/",
+    "workPageUrl": "https://ashfall.studio/work",
+    "capturedAt": "2026-08-16T19:59:09.191Z"
+  },
+  "bagage": {
+    "status": "success",
+    "entriesHash": "0b5aebb1a3467b2317ae6bfdc3cdc0f7a4c6bc209d25cd18dfbe5d1c0bd93c9e",
+    "homepageUrl": "https://baga.ge/",
+    "workPageUrl": "https://baga.ge/",
+    "capturedAt": "2026-08-16T20:00:05.898Z"
+  },
+  "baggy": {
+    "status": "no-entries",
+    "entriesHash": "35ddf226394dc3ddab507148722c3bc4a8fa9a54a4b30d7449f0aaee141bafa3",
+    "homepageUrl": "https://baggy.studio/",
+    "workPageUrl": "https://baggy.studio/",
+    "capturedAt": "2026-08-16T20:00:05.982Z"
+  },
+  "bakken-and-b-ck": {
+    "status": "success",
+    "entriesHash": "242b38ca989a415892f659dbabf21dbbdf782dc8d2d15d8e4cdca4d6f1bf858d",
+    "homepageUrl": "https://bakkenbaeck.com/",
+    "workPageUrl": "https://bakkenbaeck.com/work",
+    "capturedAt": "2026-08-16T20:00:08.935Z"
+  },
+  "barbarian": {
+    "status": "success",
+    "entriesHash": "88d8b8a78e494f8d716e2a5550154452887ba6ed8c0953467433888660960d14",
+    "homepageUrl": "https://www.wearebarbarian.com/",
+    "workPageUrl": "https://www.wearebarbarian.com/work/",
+    "capturedAt": "2026-08-16T20:00:12.746Z"
+  },
+  "basecreate": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.basecreate.com/",
+    "capturedAt": "2026-08-16T20:00:29.935Z"
+  },
+  "baton": {
+    "status": "no-work-page",
+    "homepageUrl": "https://ba-ton.kr/",
+    "capturedAt": "2026-08-16T20:00:42.465Z"
+  },
+  "basement": {
+    "status": "no-work-page",
+    "homepageUrl": "https://basement.studio/",
+    "capturedAt": "2026-08-16T20:00:31.846Z"
+  },
+  "balky-essentials": {
+    "status": "success",
+    "entriesHash": "30a9fe8f81844c9f940ccba48244bb2136419c46a2e6ab8ae7bfdac9379509e7",
+    "homepageUrl": "https://www.balky.studio/",
+    "workPageUrl": "https://www.balky.studio/work",
+    "capturedAt": "2026-08-16T20:00:09.400Z"
+  },
+  "barkas": {
+    "status": "no-entries",
+    "entriesHash": "90e1b2dc002477e39bb9f633219cbc96b13b37f612aa9f13c1e68a49a83ebc12",
+    "homepageUrl": "https://barkas.com/",
+    "workPageUrl": "https://barkas.com/projects/",
+    "capturedAt": "2026-08-16T20:00:18.354Z"
+  },
+  "basic": {
+    "status": "success",
+    "entriesHash": "d206996704425d3c6aab1b560e8777dab8b2f504c983a9be4c4ff2f6f9a9ab29",
+    "homepageUrl": "https://basicagency.com/",
+    "workPageUrl": "https://www.basicagency.com/",
+    "capturedAt": "2026-08-16T20:00:41.228Z"
+  },
+  "baseborn": {
+    "status": "success",
+    "entriesHash": "2065f4eda51f65ce3962cc8388c8ddc16a7bb433406abaa9d6de15f00f1d843f",
+    "homepageUrl": "https://www.baseborn.studio/",
+    "workPageUrl": "https://www.baseborn.studio/work",
+    "capturedAt": "2026-08-16T20:39:21.892Z"
+  },
+  "bedow": {
+    "status": "success",
+    "entriesHash": "2488f26f7a387e4a0cb72af2675fe91307178a9edae90473ff8faca77d2dccad",
+    "homepageUrl": "https://www.bedow.se/",
+    "workPageUrl": "https://www.bedow.se/work/",
+    "capturedAt": "2026-08-16T20:01:04.937Z"
+  },
+  "bff": {
+    "status": "no-work-page",
+    "homepageUrl": "https://bff.design/",
+    "capturedAt": "2026-08-16T20:01:26.628Z"
+  },
+  "bielke-and-yang": {
+    "status": "no-work-page",
+    "homepageUrl": "https://bielkeyang.com/",
+    "capturedAt": "2026-08-16T20:01:28.642Z"
+  },
+  "bemo": {
+    "status": "success",
+    "entriesHash": "2bc6b07459b8bd601772419c6413986b589d1681d23b9cf8eeb6a8aafd971c1d",
+    "homepageUrl": "https://www.bemo.studio/",
+    "workPageUrl": "https://www.bemo.studio/work",
+    "capturedAt": "2026-08-16T20:01:08.206Z"
+  },
+  "beans-agency": {
+    "status": "success",
+    "entriesHash": "d5261fe72f83bc374cb31aa0f8bb67952341ac7238ecc93df15a48189cda4697",
+    "homepageUrl": "https://beans.agency/",
+    "workPageUrl": "https://beans.agency/lviv-european-youth-capital-2025/",
+    "capturedAt": "2026-08-16T20:00:49.326Z"
+  },
+  "bcmh": {
+    "status": "success",
+    "entriesHash": "fcca1e520bb514346f11236df623122d5f1a37467b62567edeb6fc167f82170b",
+    "homepageUrl": "https://bcmh.co.uk/",
+    "workPageUrl": "https://bcmh.co.uk/work.php",
+    "capturedAt": "2026-08-16T20:00:47.362Z"
+  },
+  "berger-and-fohr": {
+    "status": "success",
+    "entriesHash": "25b0fb95b68a363bc31816020e139a4f67bd824bd99397298d7a4a36ebf13a9a",
+    "homepageUrl": "https://bergerfohr.com/",
+    "workPageUrl": "https://bergerfohr.com/case-studies",
+    "capturedAt": "2026-08-16T20:01:16.201Z"
+  },
+  "belief-agency": {
+    "status": "success",
+    "entriesHash": "9859211374b784f52401666cddc249c6dd14eb5dedc46a6e0a4cdf153d5edd7c",
+    "homepageUrl": "https://www.beliefagency.com/",
+    "workPageUrl": "https://www.beliefagency.com/work",
+    "capturedAt": "2026-08-16T20:01:07.141Z"
+  },
+  "bito": {
+    "status": "no-work-page",
+    "homepageUrl": "https://bito.tv/",
+    "capturedAt": "2026-08-16T20:01:48.179Z"
+  },
+  "big-fan": {
+    "status": "success",
+    "entriesHash": "afc7659ffd73a842530593940afd23a11ba63cfb29379e21455b944642083985",
+    "homepageUrl": "https://big.fan/",
+    "workPageUrl": "https://big.fan/work",
+    "capturedAt": "2026-08-16T20:01:30.338Z"
+  },
+  "bihua": {
+    "status": "success",
+    "entriesHash": "52a3beec106c8843922378904a71c553f12e71a5e9bd1253817b42cdc58c83fb",
+    "homepageUrl": "https://bihua.fr/",
+    "workPageUrl": "https://bihua.fr/projects",
+    "capturedAt": "2026-08-16T20:01:36.597Z"
+  },
+  "blnk": {
+    "status": "no-work-page",
+    "homepageUrl": "https://blnkdigital.com/",
+    "capturedAt": "2026-08-16T20:01:57.523Z"
+  },
+  "blend": {
+    "status": "no-entries",
+    "entriesHash": "fe1983f4e0682c5355c42e9342879a23162fcb387bc567a38e9f5f07218438a7",
+    "homepageUrl": "https://www.blenddigital.com/",
+    "workPageUrl": "https://www.blenddigital.com/case-studies/",
+    "capturedAt": "2026-08-16T20:01:52.649Z"
+  },
+  "big-human": {
+    "status": "success",
+    "entriesHash": "44ad84f2ec53067e26ea9bd2b2332f5e2ab2c0b1af07c792fbccbe7bc8caa914",
+    "homepageUrl": "https://bighuman.com/",
+    "workPageUrl": "https://www.bighuman.com/work",
+    "capturedAt": "2026-08-16T20:01:32.178Z"
+  },
+  "bleed": {
+    "status": "success",
+    "entriesHash": "7bf1431339982eaf260bc488e6e40b9f30e04888347ec0c965da735437793b90",
+    "homepageUrl": "https://bleed.com/",
+    "workPageUrl": "https://bleed.com/work",
+    "capturedAt": "2026-08-16T20:39:08.504Z"
+  },
+  "bike-bear": {
+    "status": "success",
+    "entriesHash": "592b1ada5ad75a670ce18ca287fb93ef7d1abe190b7434d29f3744b1df6fae92",
+    "homepageUrl": "https://www.bikebear.com.my/",
+    "workPageUrl": "https://www.bikebear.com.my/projects/",
+    "capturedAt": "2026-08-16T20:01:38.908Z"
+  },
+  "bondfire": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.bf.inc/",
+    "capturedAt": "2026-08-16T20:02:13.499Z"
+  },
+  "bones": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.thebonesco.com/",
+    "capturedAt": "2026-08-16T20:02:15.182Z"
+  },
+  "bone": {
+    "status": "no-work-page",
+    "homepageUrl": "https://bone.digital/",
+    "capturedAt": "2026-08-16T20:02:14.402Z"
+  },
+  "bigfish": {
+    "status": "success",
+    "entriesHash": "f24f4e2d23e25d8d6c43a09ff50359fe8212f7b79a1706b87cd983e76b048e2d",
+    "homepageUrl": "https://bigfish.design/",
+    "workPageUrl": "https://bigfish.design/work",
+    "capturedAt": "2026-08-16T20:01:34.345Z"
+  },
+  "bonhomme": {
+    "status": "no-work-page",
+    "homepageUrl": "https://bonhommeparis.com/en/",
+    "capturedAt": "2026-08-16T20:02:16.565Z"
+  },
+  "block": {
+    "status": "success",
+    "entriesHash": "6fcb18fabd0b7f1882f0d2969f695061ec12743bbf860113bd78ade7581b8dcc",
+    "homepageUrl": "https://www.blockbranding.com/",
+    "workPageUrl": "https://www.blockbranding.com/work",
+    "capturedAt": "2026-08-16T20:02:03.455Z"
+  },
+  "bon-temps": {
+    "status": "success",
+    "entriesHash": "280e8b18a6a3be4576c0677e855364824995b5f6321fcf4d55775b70f02e8a64",
+    "homepageUrl": "https://bontemps.agency/",
+    "workPageUrl": "https://www.bontemps.agency/",
+    "capturedAt": "2026-08-16T20:02:12.630Z"
+  },
+  "brand-brothers": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.brandbrothers.fr/en/",
+    "capturedAt": "2026-08-16T20:02:27.349Z"
+  },
+  "break-maiden": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.breakmaiden.co/",
+    "capturedAt": "2026-08-16T20:02:29.805Z"
+  },
+  "bold": {
+    "status": "success",
+    "entriesHash": "29131ddbdf0b249344742e0f3caea04ade18e40b73d6ba0bfb38352109e814c6",
+    "homepageUrl": "https://boldscandinavia.com/",
+    "workPageUrl": "https://boldscandinavia.com/work",
+    "capturedAt": "2026-08-16T20:02:10.585Z"
+  },
+  "brains": {
+    "status": "success",
+    "entriesHash": "54624c806d5afea0c8f7e12af883e4c13ae3459569995ce79834bfe19624facd",
+    "homepageUrl": "https://www.brains.co/",
+    "workPageUrl": "https://www.brains.co/work",
+    "capturedAt": "2026-08-16T20:02:22.288Z"
+  },
+  "bothrs": {
+    "status": "success",
+    "entriesHash": "9308ca0f89cb2004f836198eb613e4b9d2566b5e8908412424c187e621833a64",
+    "homepageUrl": "https://www.bothrs.com/",
+    "workPageUrl": "https://www.nimblestudio.com/work",
+    "capturedAt": "2026-08-16T20:38:53.266Z"
+  },
+  "brunswicker-studio": {
+    "status": "failed",
+    "homepageUrl": "https://www.brunswicker.dk/",
+    "capturedAt": "2026-08-16T20:31:14.440Z",
+    "error": "HTTP 404"
+  },
+  "bou": {
+    "status": "success",
+    "entriesHash": "52aafb7eea5b4f3dd71e0ac44b7535ef177a99d2ff0ac2a74ae1be7f4771d2cb",
+    "homepageUrl": "https://bou.co/",
+    "workPageUrl": "https://bou.co/work",
+    "capturedAt": "2026-08-16T20:02:21.265Z"
+  },
+  "brstudio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://br.studio/en",
+    "capturedAt": "2026-08-16T20:02:56.706Z"
+  },
+  "buka-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://buka.studio/",
+    "capturedAt": "2026-08-16T20:03:03.169Z"
+  },
+  "brokstad-studio": {
+    "status": "success",
+    "entriesHash": "961ad841e1179b0da9369468edcd0f9bb6c17c8d8645776c3b1be0e4176e112e",
+    "homepageUrl": "https://brokstad.studio/",
+    "workPageUrl": "https://brokstad.studio/Work",
+    "capturedAt": "2026-08-16T20:02:45.762Z"
+  },
+  "brand-appart": {
+    "status": "success",
+    "entriesHash": "953dfb28fac6e2871d784de759690ce390b4d725f12b9cb7f36b0f952b02c491",
+    "homepageUrl": "https://www.brandappart.com/",
+    "workPageUrl": "https://www.brandappart.com/",
+    "capturedAt": "2026-08-16T20:02:25.307Z"
+  },
+  "bright": {
+    "status": "no-entries",
+    "entriesHash": "abae0b8c7b9841c29941f0fe638891709ca005cc6bb167e2d011b7400d6e46fd",
+    "homepageUrl": "https://wearebright.studio/",
+    "workPageUrl": "https://wearebright.studio/projects",
+    "capturedAt": "2026-08-16T20:02:30.849Z"
+  },
+  "bunsen": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://www.bunsenstudio.com/",
+    "workPageUrl": "https://www.bunsenstudio.com/work",
+    "capturedAt": "2026-08-16T20:03:08.147Z"
+  },
+  "bus-group": {
+    "status": "no-work-page",
+    "homepageUrl": "https://bus.group/",
+    "capturedAt": "2026-08-16T20:03:11.587Z"
+  },
+  "bykin": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://by-kin.com/",
+    "workPageUrl": "https://by-kin.com/work",
+    "capturedAt": "2026-08-16T20:03:17.461Z"
+  },
+  "build-in-amsterdam": {
+    "status": "success",
+    "entriesHash": "2131e57a4f09425b2e5983b58acfde9285c8a5998464a31ac428261e5087d0a9",
+    "homepageUrl": "http://www.buildinamsterdam.com/",
+    "workPageUrl": "https://www.buildinamsterdam.com/cases",
+    "capturedAt": "2026-08-16T20:03:00.879Z"
+  },
+  "buck": {
+    "status": "success",
+    "entriesHash": "ab051f6e7ef74e629f392897cfa134eb9c81dcda124bca0cccb25ecf52899149",
+    "homepageUrl": "https://www.buck.co/",
+    "workPageUrl": "https://www.buck.co/work",
+    "capturedAt": "2026-08-16T20:02:58.771Z"
+  },
+  "bureau-for-visual-affairs": {
+    "status": "success",
+    "entriesHash": "0c5ed0ca10c44ffc03fefcb760fc8c57733401d065dec1c2ae2b8867c0c88232",
+    "homepageUrl": "https://bureau-va.com/",
+    "workPageUrl": "https://www.bureau-va.com/work",
+    "capturedAt": "2026-08-16T20:03:09.876Z"
+  },
+  "capsule": {
+    "status": "failed",
+    "homepageUrl": "https://www.capsule-design.studio/",
+    "capturedAt": "2026-08-16T20:31:16.201Z",
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.capsule-design.studio/\nCall log:\n  - navigating to \"https://www.capsule-design.studio/\", waiting until \"domcontentloaded\"\n"
+  },
+  "bulletproof": {
+    "status": "success",
+    "entriesHash": "0fc141fa514d13229ef9cd69f5437d8dbc551c7b2bf5f29bfca1160cfacf8772",
+    "homepageUrl": "https://www.wearebulletproof.com/",
+    "workPageUrl": "https://www.wearebulletproof.com/work",
+    "capturedAt": "2026-08-16T20:03:05.553Z"
+  },
+  "caleb-vanden-boom-studio": {
+    "status": "success",
+    "entriesHash": "8ec7a129835b3b582d7ca55d81e6efa86e49cfbe82851e3cf8251350169deec7",
+    "homepageUrl": "https://www.calebvandenboom.studio/",
+    "workPageUrl": "https://www.calebvandenboom.studio/work",
+    "capturedAt": "2026-08-16T20:03:17.819Z"
+  },
+  "cartelle": {
+    "status": "no-work-page",
+    "homepageUrl": "http://www.cartelle.nl/",
+    "capturedAt": "2026-08-16T20:03:42.328Z"
+  },
+  "changers": {
+    "status": "no-work-page",
+    "homepageUrl": "https://changers.studio/",
+    "capturedAt": "2026-08-16T20:03:43.394Z"
+  },
+  "capari": {
+    "status": "success",
+    "entriesHash": "fe6d15e9691424d402993081ea18a6cda6a96555dafafecd09208d7269c8f25d",
+    "homepageUrl": "https://capari.co/",
+    "workPageUrl": "https://capari.co/our-work/",
+    "capturedAt": "2026-08-16T20:03:28.595Z"
+  },
+  "cliff-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://cliff.studio/",
+    "capturedAt": "2026-08-16T20:03:49.324Z"
+  },
+  "collserola": {
+    "status": "no-work-page",
+    "homepageUrl": "https://collserola.com/",
+    "capturedAt": "2026-08-16T20:03:55.005Z"
+  },
+  "caliper-studios": {
+    "status": "success",
+    "entriesHash": "c3e01c3ed1bae9c52247b48e6d4f5eca7628f5285f1bcac200a00b337974a8e5",
+    "homepageUrl": "https://caliper.studio/",
+    "workPageUrl": "https://caliper.studio/work/",
+    "capturedAt": "2026-08-16T20:03:23.309Z"
+  },
+  "canvas": {
+    "status": "no-entries",
+    "entriesHash": "ff1edb6daf0ecff863bd923d03a817061b881b093dfd328c1f217a17a1ce151c",
+    "homepageUrl": "https://canvascreative.co/",
+    "workPageUrl": "https://canvascreative.co/",
+    "capturedAt": "2026-08-16T20:03:27.742Z"
+  },
+  "channel-studio": {
+    "status": "success",
+    "entriesHash": "33c29bf918cc14af26f80b9fe67d7da7b843beec01d7e18efe6325d1ab02057d",
+    "homepageUrl": "https://channel.studio/",
+    "workPageUrl": "https://channel.studio/projects",
+    "capturedAt": "2026-08-16T20:03:47.603Z"
+  },
+  "concrete-club-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://concreteclub.studio/",
+    "capturedAt": "2026-08-16T20:04:23.893Z"
+  },
+  "cosmo-labs": {
+    "status": "no-work-page",
+    "homepageUrl": "https://cosmolabs.design/",
+    "capturedAt": "2026-08-16T20:04:38.062Z"
+  },
+  "carmichael-lynch": {
+    "status": "success",
+    "entriesHash": "79dc41e8e6ad01237a75c799358495b4d4d91452ff070bd6055293793e34392a",
+    "homepageUrl": "https://www.carmichaellynch.com/",
+    "workPageUrl": "https://carmichaellynch.com/work/",
+    "capturedAt": "2026-08-16T20:03:40.136Z"
+  },
+  "companion": {
+    "status": "success",
+    "entriesHash": "6693d9aecaf14342bd0d0140eb33fb12d049d861aeff747c2ef357f2db6040df",
+    "homepageUrl": "https://www.companion.studio/",
+    "workPageUrl": "https://companion.studio/",
+    "capturedAt": "2026-08-16T20:04:03.632Z"
+  },
+  "craftwork-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://craftwork.studio/",
+    "capturedAt": "2026-08-16T20:04:44.439Z"
+  },
+  "creative-nights": {
+    "status": "no-work-page",
+    "homepageUrl": "https://creative-nights.com/",
+    "capturedAt": "2026-08-16T20:04:45.932Z"
+  },
+  "crown-conquer": {
+    "status": "no-work-page",
+    "homepageUrl": "https://crownandconquer.com/",
+    "capturedAt": "2026-08-16T20:04:57.676Z"
+  },
+  "daybreak": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.daybreak.studio/",
+    "capturedAt": "2026-08-16T20:04:59.163Z"
+  },
+  "comet": {
+    "status": "success",
+    "entriesHash": "7bd7198b710ccc3da506f6e6893fcd9f522a2fcbe639990485806af4f63b1de7",
+    "homepageUrl": "https://www.cometstudio.io/",
+    "workPageUrl": "https://www.cometstudio.io/work",
+    "capturedAt": "2026-08-16T20:38:38.407Z"
+  },
+  "concrete": {
+    "status": "success",
+    "entriesHash": "b639f2b736820eff02b4636134650809cd73cd5ddef7629407f903e9bc02ff16",
+    "homepageUrl": "https://concrete.ca/",
+    "workPageUrl": "https://concrete.ca/projects",
+    "capturedAt": "2026-08-16T20:04:23.578Z"
+  },
+  "clay": {
+    "status": "success",
+    "entriesHash": "c6af46b43b62ca6224ac189c4d884326cc5d7ae303d717aef37038067c032d32",
+    "homepageUrl": "https://clay.global/",
+    "workPageUrl": "https://clay.global/work",
+    "capturedAt": "2026-08-16T20:03:48.994Z"
+  },
+  "cotton": {
+    "status": "success",
+    "entriesHash": "0d756f8a0109957255c1107ffaa103f29ef4a151d720d033d05d12af2a451e24",
+    "homepageUrl": "https://cotton.design/",
+    "workPageUrl": "https://cotton.design/work",
+    "capturedAt": "2026-08-16T20:04:39.460Z"
+  },
+  "defijn": {
+    "status": "success",
+    "entriesHash": "7804424e7f38e646f1b288026e40d49ae6c7b56e63a930aba79c7012ac4d0920",
+    "homepageUrl": "https://www.defijn.io/",
+    "workPageUrl": "https://www.defijn.io/work",
+    "capturedAt": "2026-08-16T20:05:07.673Z"
+  },
+  "deeo": {
+    "status": "success",
+    "entriesHash": "7dcbe9caddb778422fca77881bf8928f8079b179f62a7add96a90ae93959f426",
+    "homepageUrl": "https://deeo.studio/",
+    "workPageUrl": "https://deeo.studio/",
+    "capturedAt": "2026-08-16T20:05:00.200Z"
+  },
+  "design-business-company": {
+    "status": "no-work-page",
+    "homepageUrl": "https://dbco.online/",
+    "capturedAt": "2026-08-16T20:05:34.878Z"
+  },
+  "designco": {
+    "status": "no-work-page",
+    "homepageUrl": "https://designco.agency/",
+    "capturedAt": "2026-08-16T20:05:41.567Z"
+  },
+  "crumb": {
+    "status": "success",
+    "entriesHash": "5afce1992a3f3c89899675b365b4993e7d7f016afb6c97b49592706096c5e1ae",
+    "homepageUrl": "https://crumb.tv/",
+    "workPageUrl": "https://crumb.tv/work/",
+    "capturedAt": "2026-08-16T20:04:58.215Z"
+  },
+  "designjoy": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.designjoy.co/",
+    "capturedAt": "2026-08-16T20:05:48.121Z"
+  },
+  "dept": {
+    "status": "success",
+    "entriesHash": "afdb4830b4154edb11b4c0210700cf7860bad2ff754ebba1e37e895187cdffd5",
+    "homepageUrl": "https://www.deptagency.com/",
+    "workPageUrl": "https://www.deptagency.com/work/",
+    "capturedAt": "2026-08-16T20:38:26.592Z"
+  },
+  "deserve-studio": {
+    "status": "success",
+    "entriesHash": "de32569945e4e146794539f1e502852438662ba602df4a3cedf35dc4318e87df",
+    "homepageUrl": "https://deserve.studio/",
+    "workPageUrl": "https://deserve.studio/projects",
+    "capturedAt": "2026-08-16T20:05:19.970Z"
+  },
+  "design-army": {
+    "status": "success",
+    "entriesHash": "24c35a6059b9ebf12e4c42d401f607e25a86ad7047df54b62ad7880c1c7148cb",
+    "homepageUrl": "https://designarmy.com/",
+    "workPageUrl": "https://designarmy.com/work",
+    "capturedAt": "2026-08-16T20:05:30.269Z"
+  },
+  "dgrees": {
+    "status": "no-work-page",
+    "homepageUrl": "https://dgrees.studio/",
+    "capturedAt": "2026-08-16T20:05:55.703Z"
+  },
+  "dm-union": {
+    "status": "no-work-page",
+    "homepageUrl": "http://www.dmunion.com/",
+    "capturedAt": "2026-08-16T20:06:02.263Z"
+  },
+  "deutsche-and-japaner": {
+    "status": "success",
+    "entriesHash": "8dbaf65b5c109dd3a5b200ce5b2d8f0b77a376880a1380a16a7da25d7a4db74f",
+    "homepageUrl": "https://deutscheundjapaner.com/",
+    "workPageUrl": "https://deutscheundjapaner.com/work",
+    "capturedAt": "2026-08-16T20:05:51.102Z"
+  },
+  "dencool": {
+    "status": "success",
+    "entriesHash": "d6f15db5b1f6a50dd5225af81b6352282308eadd42360e039e73df565f869351",
+    "homepageUrl": "https://den.cool/",
+    "workPageUrl": "https://den.cool/",
+    "capturedAt": "2026-08-16T20:05:07.714Z"
+  },
+  "designups": {
+    "status": "success",
+    "entriesHash": "8a51a0a04bf7533d6c9bb036513f000f46c390c189c1f5d052c5085026cfcf1a",
+    "homepageUrl": "https://designups.com/",
+    "workPageUrl": "https://designups.com/our-work/",
+    "capturedAt": "2026-08-16T20:05:49.902Z"
+  },
+  "dine": {
+    "status": "success",
+    "entriesHash": "9f63e4aea04249df085d1a6ca8a6d0df760051c8d2765f459faf53ed9f84ebf2",
+    "homepageUrl": "https://dinehq.com/",
+    "workPageUrl": "https://dinehq.com/work/",
+    "capturedAt": "2026-08-16T20:05:59.366Z"
+  },
+  "dokument": {
+    "status": "success",
+    "entriesHash": "3f600a7ac93b3d59afc3c573103242ec6ecdabb15ba7176d04b1f18e20a01138",
+    "homepageUrl": "https://dokument.studio/",
+    "workPageUrl": "https://dokument.studio/work",
+    "capturedAt": "2026-08-16T20:06:02.334Z"
+  },
+  "eclipse-srl": {
+    "status": "no-entries",
+    "entriesHash": "922c91e9ab13b070073371dd05c56c567fc9fcc5e29560fbc226fcf68de0d1a8",
+    "homepageUrl": "https://www.eclipse.srl/",
+    "workPageUrl": "https://www.eclipse.srl/case-studies",
+    "capturedAt": "2026-08-16T20:06:16.624Z"
+  },
+  "duties-xyz": {
+    "status": "success",
+    "entriesHash": "eed86bb4fa81ce7783334015111fde2d3a42deaf9a44a7df5175c482306aa077",
+    "homepageUrl": "https://www.duties.xyz/",
+    "workPageUrl": "https://www.duties.xyz/projects",
+    "capturedAt": "2026-08-16T20:06:14.874Z"
+  },
+  "eightshapes": {
+    "status": "no-work-page",
+    "homepageUrl": "https://eightshapes.com/",
+    "capturedAt": "2026-08-16T20:06:37.773Z"
+  },
+  "dutchscot": {
+    "status": "success",
+    "entriesHash": "f5a9019d37145dca299609342bbf72ec51ba3e42457af3943c22ce6566828707",
+    "homepageUrl": "https://dutch.scot/",
+    "workPageUrl": "https://dutch.scot/projects/",
+    "capturedAt": "2026-08-16T20:38:15.771Z"
+  },
+  "epic": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.epic.net/",
+    "capturedAt": "2026-08-16T20:06:38.481Z"
+  },
+  "eico": {
+    "status": "no-work-page",
+    "homepageUrl": "http://eicoinc.com/",
+    "capturedAt": "2026-08-16T20:06:37.107Z"
+  },
+  "etc": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://etcagency.co/",
+    "workPageUrl": "https://etcagency.co/our-work",
+    "capturedAt": "2026-08-16T20:06:46.532Z"
+  },
+  "edenspiekermann": {
+    "status": "success",
+    "entriesHash": "abac73b4b4385c1ba6c4aeb3f86cce40748d62cff04545152592d2d865f9b490",
+    "homepageUrl": "https://edenspiekermann.com/",
+    "workPageUrl": "https://www.edenspiekermann.com/work",
+    "capturedAt": "2026-08-16T20:06:27.666Z"
+  },
+  "evil-martians": {
+    "status": "no-work-page",
+    "homepageUrl": "https://evilmartians.com/",
+    "capturedAt": "2026-08-16T20:06:59.512Z"
+  },
+  "ed": {
+    "status": "success",
+    "entriesHash": "5a4665ffe06f6e56533666d099ffb53cb44a688fc789b62e226ac081ff60978b",
+    "homepageUrl": "https://ed.studio/",
+    "workPageUrl": "https://ed.studio/",
+    "capturedAt": "2026-08-16T20:06:26.404Z"
+  },
+  "exo-ape": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://www.exoape.com/",
+    "workPageUrl": "https://www.exoape.com/work",
+    "capturedAt": "2026-08-16T20:07:02.819Z"
+  },
+  "efir-media": {
+    "status": "success",
+    "entriesHash": "70a538c4dbf34eeeefca1c6afbf048908b58353a5e8ff367a4ce06bbd46635d3",
+    "homepageUrl": "https://efirmedia.com/",
+    "workPageUrl": "https://efirmedia.com/cases",
+    "capturedAt": "2026-08-16T20:06:32.162Z"
+  },
+  "faculty": {
+    "status": "success",
+    "entriesHash": "93cad068844fcd0b262845475450e78901e4993880f8466971249cc911c43a7e",
+    "homepageUrl": "https://faculty.com/",
+    "workPageUrl": "https://faculty.com/work",
+    "capturedAt": "2026-08-16T20:07:09.218Z"
+  },
+  "filip-nordin": {
+    "status": "no-work-page",
+    "homepageUrl": "https://filipnordin.com/",
+    "capturedAt": "2026-08-16T20:07:21.686Z"
+  },
+  "finetune": {
+    "status": "no-work-page",
+    "homepageUrl": "https://finetune.co/",
+    "capturedAt": "2026-08-16T20:07:28.677Z"
+  },
+  "est-6": {
+    "status": "success",
+    "entriesHash": "b059260b2e98a6be8310bce7bcebd9c88500ca6c84e68380a37b6086e8205c92",
+    "homepageUrl": "https://estplus6.com/",
+    "workPageUrl": "https://estplus6.com/work/",
+    "capturedAt": "2026-08-16T20:06:39.953Z"
+  },
+  "extract-studio": {
+    "status": "success",
+    "entriesHash": "3674b06050079015c4896671ceeacd04db1d07da53ee7d609d36ae6a2fde98d8",
+    "homepageUrl": "https://extract.studio/",
+    "workPageUrl": "https://www.extract.studio/projects",
+    "capturedAt": "2026-08-16T20:07:04.333Z"
+  },
+  "fleava": {
+    "status": "no-work-page",
+    "homepageUrl": "https://fleava.com/",
+    "capturedAt": "2026-08-16T20:07:33.807Z"
+  },
+  "estudi-image": {
+    "status": "success",
+    "entriesHash": "67ae8bac44ad2d9ba2e7ad4d7daaef715a83ade7aa99bedb3a97bef5e1f532b2",
+    "homepageUrl": "https://estudi-image.com/",
+    "workPageUrl": "https://estudi-image.com/projects/",
+    "capturedAt": "2026-08-16T20:06:44.858Z"
+  },
+  "even-odd": {
+    "status": "success",
+    "entriesHash": "5080a859728a4909c7062b20cdbaa9aee3ab0ffd2b864952318e1013b45d9167",
+    "homepageUrl": "https://evenodd.studio/",
+    "workPageUrl": "https://evenodd.studio/work",
+    "capturedAt": "2026-08-16T20:06:52.219Z"
+  },
+  "field-io": {
+    "status": "success",
+    "entriesHash": "ef8491bca049413c4caccbaf7f0465c4087790306113a82778f2d0f6f60c939f",
+    "homepageUrl": "https://field.io/",
+    "workPageUrl": "https://field.io/work",
+    "capturedAt": "2026-08-16T20:07:20.150Z"
+  },
+  "forge-and-form": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.forgeandform.co/",
+    "capturedAt": "2026-08-16T20:07:42.866Z"
+  },
+  "fix-studio": {
+    "status": "success",
+    "entriesHash": "9989745540f79c0242a83acc1853dea0e768f65eaa1152b4f96ea3361b9490ef",
+    "homepageUrl": "https://fix.studio/",
+    "workPageUrl": "https://fix.studio/work",
+    "capturedAt": "2026-08-16T20:07:31.126Z"
+  },
+  "fortnight": {
+    "status": "success",
+    "entriesHash": "ca99b30265262e17321b8b2cf876bee118bd2d66d7411de874eadbf2f23a6d9e",
+    "homepageUrl": "https://www.fortnight.studio/",
+    "workPageUrl": "https://www.fortnight.studio/work",
+    "capturedAt": "2026-08-16T20:07:51.858Z"
+  },
+  "firma": {
+    "status": "success",
+    "entriesHash": "53d29f1d83041feb8f263f472d450fb84b46f8505c43c8c537ea8da3eec53e47",
+    "homepageUrl": "https://www.wearefirma.com/",
+    "workPageUrl": "https://www.wearefirma.com/work",
+    "capturedAt": "2026-08-16T20:42:21.097Z"
+  },
+  "flow": {
+    "status": "success",
+    "entriesHash": "2d2f2bf3ed318e98691a5ba0dde74676d8dfca44e4ba9a2e3ad97872a1fd535d",
+    "homepageUrl": "https://www.justgowiththeflow.com/",
+    "workPageUrl": "https://www.justgowiththeflow.com/work",
+    "capturedAt": "2026-08-16T20:07:41.339Z"
+  },
+  "floc": {
+    "status": "success",
+    "entriesHash": "637e1e284b5deabe97bafbd0772e8bfed915efea79c66f974d75f2de430d394e",
+    "homepageUrl": "https://wearefloc.com/",
+    "workPageUrl": "https://wearefloc.com/work",
+    "capturedAt": "2026-08-16T20:07:39.922Z"
+  },
+  "frosty": {
+    "status": "no-work-page",
+    "homepageUrl": "https://frosty.inc/",
+    "capturedAt": "2026-08-16T20:08:35.877Z"
+  },
+  "format-3": {
+    "status": "success",
+    "entriesHash": "90f2b2a824196be8236abe0b79bedfaf5c4a8e99f968c2b38c382bf70c224623",
+    "homepageUrl": "https://format-3.co/",
+    "workPageUrl": "https://format-3.co/work",
+    "capturedAt": "2026-08-16T20:07:50.103Z"
+  },
+  "fourth-floor": {
+    "status": "success",
+    "entriesHash": "79ba47780d940dd463351240fa4650544ee37ec73f4230bc0f0fd6960c7fb9ff",
+    "homepageUrl": "https://www.fourthfloor.design/",
+    "workPageUrl": "https://www.fourthfloor.design/work",
+    "capturedAt": "2026-08-16T20:07:57.042Z"
+  },
+  "friendly-studio": {
+    "status": "success",
+    "entriesHash": "2359668706db8481376c068ed21922a58a9f59f7295c3e4190f8455166f27a02",
+    "homepageUrl": "https://www.friendly.studio/",
+    "workPageUrl": "https://www.friendly.studio/work",
+    "capturedAt": "2026-08-16T20:08:22.004Z"
+  },
+  "garbo-studios": {
+    "status": "no-work-page",
+    "homepageUrl": "https://garbo-studios.com/",
+    "capturedAt": "2026-08-16T20:08:41.797Z"
+  },
+  "gardener": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.gardener.nyc/",
+    "capturedAt": "2026-08-16T20:08:48.329Z"
+  },
+  "geex-arts": {
+    "status": "no-work-page",
+    "homepageUrl": "https://geex-arts.com/",
+    "capturedAt": "2026-08-16T20:08:54.387Z"
+  },
+  "future-facility": {
+    "status": "success",
+    "entriesHash": "dbcf7dc9b91f2387e3eff701f29729921d666540dca69806f02db7cc03f97bb1",
+    "homepageUrl": "https://www.futurefacility.co.uk/",
+    "workPageUrl": "https://www.futurefacility.co.uk/",
+    "capturedAt": "2026-08-16T20:08:36.788Z"
+  },
+  "gemagora-studio": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://gemagora.studio/",
+    "workPageUrl": "https://portfolio.adobe.com/",
+    "capturedAt": "2026-08-16T20:09:08.664Z"
+  },
+  "gemini-services": {
+    "status": "no-work-page",
+    "homepageUrl": "https://geminiservic.es/",
+    "capturedAt": "2026-08-16T20:09:12.303Z"
+  },
+  "g-w-studios": {
+    "status": "success",
+    "entriesHash": "1a45467bb482de0bd012e11833a833ccf0d8b05613b2eeb6dbf8ed3f5e5e9564",
+    "homepageUrl": "https://g-w.studio/",
+    "workPageUrl": "https://g-w.studio/work/",
+    "capturedAt": "2026-08-16T20:08:39.354Z"
+  },
+  "gladeye": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.gladeye.com/",
+    "capturedAt": "2026-08-16T20:09:18.956Z"
+  },
+  "from-form": {
+    "status": "success",
+    "entriesHash": "9071be3f9be2f7e64155a97b10ba4b1bf3709d97a6c6b7e43d003243cba7bb34",
+    "homepageUrl": "https://fromform.nl/",
+    "workPageUrl": "https://fromform.nl/",
+    "capturedAt": "2026-08-16T20:46:23.488Z"
+  },
+  "fuzzco": {
+    "status": "success",
+    "entriesHash": "e727d89572c64f923f596d8409bf7be4d9e16ad8e8d86729c8ebee7aaeb6a122",
+    "homepageUrl": "https://fuzzco.com/",
+    "workPageUrl": "https://fuzzco.com/work",
+    "capturedAt": "2026-08-16T20:08:36.929Z"
+  },
+  "good-habit": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.goodhabit.studio/",
+    "capturedAt": "2026-08-16T20:09:26.093Z"
+  },
+  "good-times": {
+    "status": "no-work-page",
+    "homepageUrl": "https://go-od.co/",
+    "capturedAt": "2026-08-16T20:09:33.919Z"
+  },
+  "geist": {
+    "status": "success",
+    "entriesHash": "1308a4d65586878dc4c7f70b27ed3a1fcc73ee87e3db4f40a8993bd02beec2d0",
+    "homepageUrl": "https://geist.co/",
+    "workPageUrl": "https://geist.co/work",
+    "capturedAt": "2026-08-16T20:09:01.188Z"
+  },
+  "gesture-systems": {
+    "status": "success",
+    "entriesHash": "894522b68ff36f8d3516279643e38381e40d71bf6d3d2ab8e508c3decb681985",
+    "homepageUrl": "https://gesturesystems.studio/",
+    "workPageUrl": "https://gesturesystems.studio/",
+    "capturedAt": "2026-08-16T20:09:14.987Z"
+  },
+  "grandarmy": {
+    "status": "no-entries",
+    "entriesHash": "3c5fc9f8e1ba6db220230630f635366038c05d57d1fd02b101b53c5dcf67c9d3",
+    "homepageUrl": "https://www.grandarmy.com/",
+    "workPageUrl": "https://www.grandarmy.com/work",
+    "capturedAt": "2026-08-16T20:09:39.635Z"
+  },
+  "garden-eight": {
+    "status": "success",
+    "entriesHash": "bc154744a9b4d7ab675dfa2dbbaf11b15a2c1e3a7e1b9eca0531100b95919b71",
+    "homepageUrl": "https://garden-eight.com/",
+    "workPageUrl": "https://garden-eight.com/cases/",
+    "capturedAt": "2026-08-16T20:08:43.317Z"
+  },
+  "goodside": {
+    "status": "success",
+    "entriesHash": "75254ce201e8d8fe68d3b924fb223d23477ed7fa39894a4d7ce197f70549b5e2",
+    "homepageUrl": "https://www.goodside.studio/",
+    "workPageUrl": "https://www.goodside.studio/work",
+    "capturedAt": "2026-08-16T20:09:39.478Z"
+  },
+  "greenspace": {
+    "status": "no-work-page",
+    "homepageUrl": "https://thegreenspace.com/",
+    "capturedAt": "2026-08-16T20:11:22.719Z"
+  },
+  "grid-space": {
+    "status": "no-work-page",
+    "homepageUrl": "https://grid-space.co/",
+    "capturedAt": "2026-08-16T20:11:25.937Z"
+  },
+  "goodbe-haviour": {
+    "status": "success",
+    "entriesHash": "b28c6c429599f8f7a5c4c309ca58809dd2dc68c91c0dd6cfe85e0c70c8eaffbd",
+    "homepageUrl": "https://www.goodbehaviour.work/",
+    "workPageUrl": "https://www.goodbehaviour.work/work",
+    "capturedAt": "2026-08-16T20:09:33.922Z"
+  },
+  "grant": {
+    "status": "success",
+    "entriesHash": "1fa8ed6bbfdfbe02b075d4ea5291995ce1ee25498f666e5fbaf73154bdfc5741",
+    "homepageUrl": "https://www.wearegrant.com/",
+    "workPageUrl": "https://www.wearegrant.com/work",
+    "capturedAt": "2026-08-16T20:41:34.764Z"
+  },
+  "green-chameleon": {
+    "status": "success",
+    "entriesHash": "770fe3c4b7d6cf8d2934a2a71423d9f749646aaa190710749e158123c1848ffd",
+    "homepageUrl": "https://www.craftedbygc.com/",
+    "workPageUrl": "https://unseen.co/projects/",
+    "capturedAt": "2026-08-16T20:11:08.654Z"
+  },
+  "groundcrew": {
+    "status": "success",
+    "entriesHash": "06a086ff365d2e3aad5063df049facb0c0de131792508d121d5a3ba0b2bdea32",
+    "homepageUrl": "https://groundcrew.com.au/",
+    "workPageUrl": "https://groundcrew.com.au/work/",
+    "capturedAt": "2026-08-16T20:11:30.097Z"
+  },
+  "gulp-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.gulpstudio.com/",
+    "capturedAt": "2026-08-16T20:12:05.872Z"
+  },
+  "gunner": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.gunner.work/",
+    "capturedAt": "2026-08-16T20:12:07.703Z"
+  },
+  "grizzly": {
+    "status": "success",
+    "entriesHash": "9ed81c38df3d4530fdfeb4bc10cb01fb3940cc9ce7efbd9f90a10d0cb24d3f5f",
+    "homepageUrl": "https://grizzly.co/",
+    "workPageUrl": "https://grizzly.co/work/",
+    "capturedAt": "2026-08-16T20:11:28.653Z"
+  },
+  "gustav-nordebrink": {
+    "status": "no-work-page",
+    "homepageUrl": "https://nordebrink.com/",
+    "capturedAt": "2026-08-16T20:12:09.298Z"
+  },
+  "gretel": {
+    "status": "success",
+    "entriesHash": "26f1b077fc84fc0ebcbe10eed220e7e5f11fa45c03cb3a5fb5e809c418cf2893",
+    "homepageUrl": "https://gretelny.com/",
+    "workPageUrl": "https://gretelny.com/work",
+    "capturedAt": "2026-08-16T20:11:23.733Z"
+  },
+  "halftone": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.halftone.digital/",
+    "capturedAt": "2026-08-16T20:12:14.551Z"
+  },
+  "handsome": {
+    "status": "no-work-page",
+    "homepageUrl": "https://handsome.is/",
+    "capturedAt": "2026-08-16T20:12:16.782Z"
+  },
+  "guy-powell": {
+    "status": "success",
+    "entriesHash": "f8ff59763449ffbbb82f657a91b7a5b8eec34dd00437c7fe38f4cab83dcd5dd1",
+    "homepageUrl": "https://www.guypowell.co.uk/",
+    "workPageUrl": "https://www.guypowell.co.uk/",
+    "capturedAt": "2026-08-16T20:12:10.358Z"
+  },
+  "grove-lust": {
+    "status": "success",
+    "entriesHash": "897d4e0e2d63e6b83ac2fdbd480da8efc12611dfb1485ec48a83c698e86f71a7",
+    "homepageUrl": "https://grovelust.be/",
+    "workPageUrl": "https://grovelust.be/projects",
+    "capturedAt": "2026-08-16T20:11:36.249Z"
+  },
+  "hangar": {
+    "status": "success",
+    "entriesHash": "24d3ae7dde8a772a1cb9ff0da916aec0b877e71c9696c7cbe8b7bc3660cc9215",
+    "homepageUrl": "https://hangar.co/",
+    "workPageUrl": "https://hangar.co/projects",
+    "capturedAt": "2026-08-16T20:12:18.250Z"
+  },
+  "hanzo": {
+    "status": "no-work-page",
+    "homepageUrl": "https://hanzo.es/",
+    "capturedAt": "2026-08-16T20:12:32.767Z"
+  },
+  "harvatt-house": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.harvatt.house/",
+    "capturedAt": "2026-08-16T20:12:39.630Z"
+  },
+  "haptic": {
+    "status": "success",
+    "entriesHash": "b89f819f806c92467465bdfafe0fd9f3a917546da5451a537ccb9fb9e9defe38",
+    "homepageUrl": "https://haptic.studio/",
+    "workPageUrl": "https://www.haptic.studio/",
+    "capturedAt": "2026-08-16T20:12:36.318Z"
+  },
+  "guerilla-suit": {
+    "status": "success",
+    "entriesHash": "4d63e7863d81ea03bda18ae5205d171362bb16ab894539644a36b9878b0c09e7",
+    "homepageUrl": "https://www.guerillasuit.com/",
+    "workPageUrl": "https://www.guerillasuit.com/work-with-us",
+    "capturedAt": "2026-08-16T20:11:50.742Z"
+  },
+  "half-helix": {
+    "status": "success",
+    "entriesHash": "7dc988966507de5583c8ae6f059e7495b366c4bfa39dada4db8b06f33f8194f7",
+    "homepageUrl": "https://www.halfhelix.com/",
+    "workPageUrl": "https://domaineworldwide.com/work",
+    "capturedAt": "2026-08-16T20:12:11.101Z"
+  },
+  "haus": {
+    "status": "success",
+    "entriesHash": "f7d5e7d6d79b94c8c59aa06749552d2a0794fdd07aeb0dae8396d63512bca42d",
+    "homepageUrl": "https://madeinhaus.com/",
+    "workPageUrl": "https://madeinhaus.com/work",
+    "capturedAt": "2026-08-16T20:12:41.386Z"
+  },
+  "heartbeat": {
+    "status": "success",
+    "entriesHash": "48e92d6adae71259bb1cf0e804ed290365165e567e74cec25db2c5bc8680b9a6",
+    "homepageUrl": "https://heartbeat.ua/",
+    "workPageUrl": "https://heartbeat.ua/work",
+    "capturedAt": "2026-08-16T20:12:43.405Z"
+  },
+  "hellohello": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.hellohello.is/",
+    "capturedAt": "2026-08-16T20:13:12.843Z"
+  },
+  "heco": {
+    "status": "success",
+    "entriesHash": "7e1818154946c39e528ef7a23b59837d0acc05b2a114263726d6a640f5c2c95f",
+    "homepageUrl": "https://www.helloheco.com/",
+    "workPageUrl": "https://heco.partners/work",
+    "capturedAt": "2026-08-16T20:12:55.303Z"
+  },
+  "heights": {
+    "status": "no-entries",
+    "entriesHash": "97526cd747436958ea5eebe64685aaf2edab624155bebfecc150f7c960dfcd3c",
+    "homepageUrl": "https://www.heights.agency/",
+    "workPageUrl": "https://www.heights.agency/projects",
+    "capturedAt": "2026-08-16T20:12:56.121Z"
+  },
+  "hello-monday": {
+    "status": "success",
+    "entriesHash": "e22ec353203c447df82f861fca1a924a192cf3a61375dfab017dc77da81a78cd",
+    "homepageUrl": "https://www.hellomonday.com/",
+    "workPageUrl": "https://www.hellomonday.com/work",
+    "capturedAt": "2026-08-16T20:12:58.596Z"
+  },
+  "hello-robo": {
+    "status": "success",
+    "entriesHash": "63ae5c3944662ecafe5143e550a5ce2efe47307965a7765d7d1dfa450a30faee",
+    "homepageUrl": "https://www.hellorobo.co/",
+    "workPageUrl": "https://www.hellorobo.co/work",
+    "capturedAt": "2026-08-16T20:13:00.011Z"
+  },
+  "here-design": {
+    "status": "success",
+    "entriesHash": "5af5fd57a2e159761bd90b28983373f06fdee10d6a83126357d9e436861139e3",
+    "homepageUrl": "https://www.heredesign.com/",
+    "workPageUrl": "https://www.heredesign.com/work",
+    "capturedAt": "2026-08-16T20:13:14.436Z"
+  },
+  "herve": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.herve.paris/",
+    "capturedAt": "2026-08-16T20:13:29.690Z"
+  },
+  "here": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.wearehere.amsterdam/",
+    "capturedAt": "2026-08-16T20:31:17.439Z"
+  },
+  "hey-low": {
+    "status": "no-work-page",
+    "homepageUrl": "https://heylow.world/",
+    "capturedAt": "2026-08-16T20:13:39.360Z"
+  },
+  "gus": {
+    "status": "success",
+    "entriesHash": "61e8fefe8846fc2f4ee6f5bc9728a97f314f88753928ee70e8102620bf8d4411",
+    "homepageUrl": "https://gus.biz/",
+    "workPageUrl": "https://gus.biz/work/",
+    "capturedAt": "2026-08-16T20:12:08.852Z"
+  },
+  "heyjay": {
+    "status": "no-entries",
+    "entriesHash": "e1cf00c163f8f9bf876841ac5cbb94cb3b59224350286c91383ed10e8d14b7a8",
+    "homepageUrl": "https://www.heyjay.studio/",
+    "workPageUrl": "https://www.heyjay.studio/subscribe",
+    "capturedAt": "2026-08-16T20:13:45.393Z"
+  },
+  "hhart": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.hhart.studio/",
+    "capturedAt": "2026-08-16T20:13:56.903Z"
+  },
+  "hey": {
+    "status": "success",
+    "entriesHash": "a5e0c2364693fa68c811ff8e337b429cdf38d078fcdfb396209871375532417a",
+    "homepageUrl": "https://heystudio.es/",
+    "workPageUrl": "https://heystudio.es/work/",
+    "capturedAt": "2026-08-16T20:13:35.958Z"
+  },
+  "hero-collective": {
+    "status": "success",
+    "entriesHash": "f42adee4c9406b43f967b851dec44dc6535d89468d69a74c139b9031181921e9",
+    "homepageUrl": "https://www.herocollective.co/",
+    "workPageUrl": "https://www.herocollective.co/work",
+    "capturedAt": "2026-08-16T20:13:23.994Z"
+  },
+  "holographik": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.holographik.co/",
+    "capturedAt": "2026-08-16T20:14:03.978Z"
+  },
+  "home": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://home.agency/",
+    "workPageUrl": "https://home.agency/cases/",
+    "capturedAt": "2026-08-16T20:14:09.474Z"
+  },
+  "hex": {
+    "status": "success",
+    "entriesHash": "79bb068e8cd40ef8e9b0916f67ba96a621aff05a231b889694b659173e35c7a6",
+    "homepageUrl": "https://hexdigital.com/",
+    "workPageUrl": "https://www.hexdigital.com/our-work",
+    "capturedAt": "2026-08-16T20:41:10.198Z"
+  },
+  "heydays": {
+    "status": "success",
+    "entriesHash": "9fba36226eeb4d8484435cc92be59db68b843a83a10bb85fa7c1ab20b73c2012",
+    "homepageUrl": "https://heydays.no/",
+    "workPageUrl": "https://heydays.no/projects",
+    "capturedAt": "2026-08-16T20:13:40.794Z"
+  },
+  "hex-inc": {
+    "status": "success",
+    "entriesHash": "8952ab6e07eec33d0c4e08d8a8f77ff08e65e589a2f8d2eb801279cf6d28886e",
+    "homepageUrl": "https://www.hex.inc/",
+    "workPageUrl": "https://www.hex.inc/work",
+    "capturedAt": "2026-08-16T20:13:35.883Z"
+  },
+  "hicks": {
+    "status": "success",
+    "entriesHash": "2d85f4d32e3a1a0eec852440c016db917bf2161dfcfef4d72a889e17a70f23c1",
+    "homepageUrl": "https://hicks.design/",
+    "workPageUrl": "https://hicks.design/work",
+    "capturedAt": "2026-08-16T20:14:03.283Z"
+  },
+  "how": {
+    "status": "no-entries",
+    "entriesHash": "688b1903b40710b5e0dc4943aa731921774be0cc01a4eb554d464f546f8dd468",
+    "homepageUrl": "https://how.studio/",
+    "workPageUrl": "https://how.studio/start-a-project",
+    "capturedAt": "2026-08-16T20:14:14.329Z"
+  },
+  "huge": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.hugeinc.com/",
+    "capturedAt": "2026-08-16T20:14:19.775Z"
+  },
+  "h-ly": {
+    "status": "success",
+    "entriesHash": "dc947c33abd8de02e403b32ff3a0629ca4f5341eaea315a3696037ffb6b47512",
+    "homepageUrl": "https://www.holy.gd/",
+    "workPageUrl": "https://www.holy.gd/",
+    "capturedAt": "2026-08-16T20:14:07.871Z"
+  },
+  "houth": {
+    "status": "success",
+    "entriesHash": "e214ee1237f785b6b5a30fc63cf789f7f2fa0efe34bc7f32a0d6b644a8532aa2",
+    "homepageUrl": "https://houth.tw/",
+    "workPageUrl": "https://houth.tw/PROJECT-1",
+    "capturedAt": "2026-08-16T20:14:14.256Z"
+  },
+  "hueso": {
+    "status": "success",
+    "entriesHash": "672ab51eab6182d412394c113ce6488da38c8f09155d470cf0197b6ac7dcc9ec",
+    "homepageUrl": "https://hueso.co/",
+    "workPageUrl": "https://hueso.co/work",
+    "capturedAt": "2026-08-16T20:14:16.419Z"
+  },
+  "hug": {
+    "status": "success",
+    "entriesHash": "033e6e944e6b82d2ed42a65ace48063056e647702cfc577d1d5ae3b7c803c4db",
+    "homepageUrl": "https://h-u-g.co.jp/",
+    "workPageUrl": "https://h-u-g.co.jp/projects",
+    "capturedAt": "2026-08-16T20:45:54.197Z"
+  },
+  "ideo": {
+    "status": "success",
+    "entriesHash": "9207ac11b38baa1cfab24f042972dcf28884c1398b1840e5f43ae4ed57462d3a",
+    "homepageUrl": "https://www.ideo.com/",
+    "workPageUrl": "https://www.ideo.com/work",
+    "capturedAt": "2026-08-16T20:14:29.740Z"
+  },
+  "incite-design-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "http://www.inciteco.com/",
+    "capturedAt": "2026-08-16T20:14:49.481Z"
+  },
+  "incentro": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.incentro.com/en",
+    "capturedAt": "2026-08-16T20:14:47.807Z"
+  },
+  "hugo-and-marie": {
+    "status": "success",
+    "entriesHash": "b6296217df4da38f9145f55099bfd276c20ac4553b66ab4a13c884e5edd25511",
+    "homepageUrl": "https://www.hugoandmarie.com/",
+    "workPageUrl": "https://www.studioandmarie.com/creative",
+    "capturedAt": "2026-08-16T20:14:25.671Z"
+  },
+  "hoodzpah": {
+    "status": "success",
+    "entriesHash": "c6060a92dc2899078e7d7c6e4a00cfcdf4b328d49ee0a8aaf3eb16a34f47b6e8",
+    "homepageUrl": "https://hoodzpahdesign.com/",
+    "workPageUrl": "https://hoodzpahdesign.com/work/",
+    "capturedAt": "2026-08-16T20:14:13.751Z"
+  },
+  "international-magic": {
+    "status": "no-work-page",
+    "homepageUrl": "https://intmagic.com/",
+    "capturedAt": "2026-08-16T20:15:01.764Z"
+  },
+  "jekyll": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://www.jekyll.studio/",
+    "workPageUrl": "https://www.jekyll.studio/weekend",
+    "capturedAt": "2026-08-16T20:15:04.438Z"
+  },
+  "index": {
+    "status": "success",
+    "entriesHash": "1cea914248d6912439f65596cdd93f48813bbd3c7e8da6d2333fcfd34a9b514a",
+    "homepageUrl": "https://index.studio/",
+    "workPageUrl": "https://index.studio/work",
+    "capturedAt": "2026-08-16T20:14:52.159Z"
+  },
+  "kaploom": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.kaploom.com/",
+    "capturedAt": "2026-08-16T20:15:17.090Z"
+  },
+  "kenyon-weston": {
+    "status": "no-work-page",
+    "homepageUrl": "http://kenyonweston.com/",
+    "capturedAt": "2026-08-16T20:15:19.131Z"
+  },
+  "idol": {
+    "status": "success",
+    "entriesHash": "be8f847735e7ae10ea6f3655bcb03352b2cb4a60cda0b658743c01995c78acc4",
+    "homepageUrl": "https://www.idol.partners/",
+    "workPageUrl": "https://www.idol.partners/projects",
+    "capturedAt": "2026-08-16T20:14:32.960Z"
+  },
+  "kaleido-grafik": {
+    "status": "no-work-page",
+    "homepageUrl": "https://kaleidografik.com/",
+    "capturedAt": "2026-08-16T20:15:15.709Z"
+  },
+  "kersvers": {
+    "status": "no-work-page",
+    "homepageUrl": "https://krsvrs.nl/",
+    "capturedAt": "2026-08-16T20:15:19.974Z"
+  },
+  "kind-heart": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.kindheart.design/",
+    "capturedAt": "2026-08-16T20:15:21.282Z"
+  },
+  "instrument": {
+    "status": "no-entries",
+    "entriesHash": "ed92cd37f2c679afa9b3586371a63adbbd3d2e0cea5031bc8a3176df153dc6be",
+    "homepageUrl": "https://www.instrument.com/",
+    "workPageUrl": "https://www.instrument.com/work/",
+    "capturedAt": "2026-08-16T20:14:53.655Z"
+  },
+  "klad-syndicate": {
+    "status": "success",
+    "entriesHash": "6ba3638a9e86b2dc929190192efe512bca986395dcca9ea08c75dbbc007151fb",
+    "homepageUrl": "https://klad.design/",
+    "workPageUrl": "https://klad.design/work",
+    "capturedAt": "2026-08-16T20:15:21.553Z"
+  },
+  "koma": {
+    "status": "failed",
+    "homepageUrl": "http://www.hellokoma.com/",
+    "capturedAt": "2026-08-16T20:31:31.987Z",
+    "error": "HTTP 404"
+  },
+  "land": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.workbyland.com/",
+    "capturedAt": "2026-08-16T20:15:32.649Z"
+  },
+  "les-animals": {
+    "status": "no-work-page",
+    "homepageUrl": "https://lesanimals.digital/",
+    "capturedAt": "2026-08-16T20:15:34.106Z"
+  },
+  "immersive-garden": {
+    "status": "success",
+    "entriesHash": "c690dd06b37fc9466e3bb97c925dc6a9c4233c17b0350915cf28764252c1df03",
+    "homepageUrl": "https://immersive-g.com/",
+    "workPageUrl": "https://immersive-g.com/projects/",
+    "capturedAt": "2026-08-16T20:14:41.631Z"
+  },
+  "lg2": {
+    "status": "no-work-page",
+    "homepageUrl": "https://lg2.com/en/",
+    "capturedAt": "2026-08-16T20:15:38.676Z"
+  },
+  "life-at-frost": {
+    "status": "no-work-page",
+    "homepageUrl": "https://life.frostdesigngroup.com/",
+    "capturedAt": "2026-08-16T20:15:40.861Z"
+  },
+  "lance": {
+    "status": "success",
+    "entriesHash": "b76c6ad7290c7afca09205a87797847b047193f3ec8c4c567802db434cf2ec09",
+    "homepageUrl": "https://lancedraws.com/",
+    "workPageUrl": "https://lancedraws.com/",
+    "capturedAt": "2026-08-16T20:15:31.535Z"
+  },
+  "jam3": {
+    "status": "success",
+    "entriesHash": "060601b6528d74d5dc5013204eb38f675ee453a2cbd569518602015f26e463a2",
+    "homepageUrl": "https://www.jam3.com/",
+    "workPageUrl": "https://www.monks.com/work-inventory",
+    "capturedAt": "2026-08-16T20:15:01.768Z"
+  },
+  "kyan": {
+    "status": "success",
+    "entriesHash": "f649f7d742191ba159f5eac95d7cb2a96b5ed0eb39ae19debb8591baf9818c5e",
+    "homepageUrl": "https://kyan.com/",
+    "workPageUrl": "https://kyan.com/work",
+    "capturedAt": "2026-08-16T20:15:23.392Z"
+  },
+  "liqium": {
+    "status": "success",
+    "entriesHash": "2659d3386e30f044b009a95b059720b9f4fe04db1af081129748fec1e73f81c9",
+    "homepageUrl": "https://www.liqium.com/",
+    "workPageUrl": "https://www.liqium.com/projects.html",
+    "capturedAt": "2026-08-16T20:15:42.545Z"
+  },
+  "konpo": {
+    "status": "success",
+    "entriesHash": "1025194e6508dd57c3234b018ca0031cf0356ea0e2e5eb2d5252e2ad36ae3612",
+    "homepageUrl": "https://www.konpo.studio/",
+    "workPageUrl": "https://www.konpo.studio/work",
+    "capturedAt": "2026-08-16T20:45:19.793Z"
+  },
+  "little-workshop": {
+    "status": "success",
+    "entriesHash": "e1ee3cbdfd5017b51859941b7ebf9939a3c2aca23f4deab4f02b5dc997acd8d9",
+    "homepageUrl": "https://www.littleworkshop.fr/",
+    "workPageUrl": "https://www.littleworkshop.fr/",
+    "capturedAt": "2026-08-16T20:16:05.151Z"
+  },
+  "little-troop": {
+    "status": "success",
+    "entriesHash": "8aef42dd81ae67b1e07d710cbabb84309ae092fcf2d7ffa7bd3313f75fd8e7fa",
+    "homepageUrl": "https://littletroop.com/",
+    "workPageUrl": "https://littletroop.com/",
+    "capturedAt": "2026-08-16T20:15:55.253Z"
+  },
+  "lxu": {
+    "status": "no-work-page",
+    "homepageUrl": "http://www.lxustudio.cn/",
+    "capturedAt": "2026-08-16T20:16:22.234Z"
+  },
+  "lome-studio": {
+    "status": "success",
+    "entriesHash": "169bc7c1c426b377261433b9d6b19f801ee4e61ef86997f4b4481c3bf88d41fe",
+    "homepageUrl": "https://lome.studio/",
+    "workPageUrl": "https://lome.studio/projects/",
+    "capturedAt": "2026-08-16T20:16:06.061Z"
+  },
+  "lynxeye": {
+    "status": "no-work-page",
+    "homepageUrl": "https://lynxeye.com/",
+    "capturedAt": "2026-08-16T20:16:22.236Z"
+  },
+  "lighting-beetle": {
+    "status": "success",
+    "entriesHash": "bca71712ffdb229df18b45ddfedde31587bd61a1d4b30f5fd46c42ebc5cfcab8",
+    "homepageUrl": "https://www.lbstudio.sk/",
+    "workPageUrl": "https://www.lbstudio.sk/work",
+    "capturedAt": "2026-08-16T20:15:41.297Z"
+  },
+  "liquorice": {
+    "status": "success",
+    "entriesHash": "4c90dc07cd935cb3a95f1d3339bc73a6e129d985570419918a28aba8f85fb20b",
+    "homepageUrl": "https://liquorice.com.au/",
+    "workPageUrl": "https://liquorice.com.au/work/",
+    "capturedAt": "2026-08-16T20:15:45.730Z"
+  },
+  "loof-design": {
+    "status": "success",
+    "entriesHash": "a547f8ce32ab4d0797ee4f5b328fc0bbfe801c2bbd238eb72bafcc09b4981c16",
+    "homepageUrl": "https://loof.design/",
+    "workPageUrl": "https://loof.design/work/",
+    "capturedAt": "2026-08-16T20:16:06.163Z"
+  },
+  "makereign": {
+    "status": "success",
+    "entriesHash": "437a29b0b96f971647a8a5c807bcd052e731b7b8f8f7c004cee96f1c1dc8a4f1",
+    "homepageUrl": "https://www.makereign.com/",
+    "workPageUrl": "https://www.makereign.com/work",
+    "capturedAt": "2026-08-16T20:38:07.181Z"
+  },
+  "matter-supply-co": {
+    "status": "no-work-page",
+    "homepageUrl": "https://mattersupply.co/",
+    "capturedAt": "2026-08-16T20:16:41.758Z"
+  },
+  "madebyshape": {
+    "status": "success",
+    "entriesHash": "962a11a91cbd12e7dab7efae28a7ab7047a0a864dd686b03d5f0324608e519b8",
+    "homepageUrl": "https://madebyshape.co.uk/",
+    "workPageUrl": "https://madebyshape.co.uk/work/",
+    "capturedAt": "2026-08-16T20:16:26.276Z"
+  },
+  "mann": {
+    "status": "success",
+    "entriesHash": "fcd7cd2e6a81a24723e55daf38ed5bcadc8babd9d547122681ebbc1b5367c5df",
+    "homepageUrl": "https://www.studiomann.co/",
+    "workPageUrl": "https://studio-mann.webflow.io/work",
+    "capturedAt": "2026-08-16T20:16:39.639Z"
+  },
+  "makemepulse": {
+    "status": "success",
+    "entriesHash": "fe334297d9314690af467c53ef1538b9042a7bcd628680c05e371700360c4e17",
+    "homepageUrl": "http://www.makemepulse.com/",
+    "workPageUrl": "https://www.makemepulse.com/case-studies/",
+    "capturedAt": "2026-08-16T20:16:27.492Z"
+  },
+  "mallard-and-claret": {
+    "status": "success",
+    "entriesHash": "847ccd4dab097ef7f82bb1a85ab72a3635cfde219483f764f0f79a66f1c7ab3b",
+    "homepageUrl": "https://mallardandclaret.com/",
+    "workPageUrl": "https://mallardandclaret.com/work/",
+    "capturedAt": "2026-08-16T20:16:29.835Z"
+  },
+  "malvah-studio": {
+    "status": "success",
+    "entriesHash": "9b2131882abf7bda3f6147ee377097a18aad3f7228946849fc22e13035eae118",
+    "homepageUrl": "https://www.malvah.co/",
+    "workPageUrl": "https://www.malvah.co/projects",
+    "capturedAt": "2026-08-16T20:16:36.605Z"
+  },
+  "merci-michel": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://www.merci-michel.com/",
+    "workPageUrl": "https://www.merci-michel.com/projects",
+    "capturedAt": "2026-08-16T20:16:57.992Z"
+  },
+  "memory-memorystudio": {
+    "status": "success",
+    "entriesHash": "76823b3d7d01c04a4c858650c029ee8e8bbb5c5d6f1b2531d5f85f27069e5508",
+    "homepageUrl": "https://memorystudio.ca/",
+    "workPageUrl": "https://memorystudio.ca/projects/",
+    "capturedAt": "2026-08-16T20:16:54.888Z"
+  },
+  "memory-memory": {
+    "status": "success",
+    "entriesHash": "ba379ee9cb0bdc785db448054dff6b3f007bc5af11db290d03b97f9c26657b6a",
+    "homepageUrl": "https://memory.partners/",
+    "workPageUrl": "https://memory.partners/projects/",
+    "capturedAt": "2026-08-16T20:16:46.678Z"
+  },
+  "mill3": {
+    "status": "no-work-page",
+    "homepageUrl": "https://mill3.studio/en/",
+    "capturedAt": "2026-08-16T20:17:21.969Z"
+  },
+  "metalab": {
+    "status": "success",
+    "entriesHash": "88ccc198c4251b7b31d68d1aa8919ba3dc360fd1899aee296159571b37abd6dc",
+    "homepageUrl": "https://metalab.co/",
+    "workPageUrl": "https://www.metalab.com/work",
+    "capturedAt": "2026-08-16T20:17:04.990Z"
+  },
+  "microfeller": {
+    "status": "success",
+    "entriesHash": "5fbc587a60eac14dcd1a39ac46ce8e764357b8e3ca282884d384e4390933e6a4",
+    "homepageUrl": "https://microfeller.com/",
+    "workPageUrl": "https://microfeller.com/work",
+    "capturedAt": "2026-08-16T20:17:07.566Z"
+  },
+  "ming-labs": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://minglabs.com/",
+    "workPageUrl": "https://www.minglabs.com/work",
+    "capturedAt": "2026-08-16T20:17:30.004Z"
+  },
+  "meat": {
+    "status": "success",
+    "entriesHash": "a7ab05e40006a983f0bdbf26d363057e916a21c039fcbd6b7c539801b50baeb6",
+    "homepageUrl": "https://meat.studio/",
+    "workPageUrl": "https://meat.studio/work",
+    "capturedAt": "2026-08-16T20:16:42.678Z"
+  },
+  "milk-network": {
+    "status": "success",
+    "entriesHash": "eefce6a6936efc7bc127bd67e4f0f3a8ec97f5ea1c6aa8778e713ba6d95b8954",
+    "homepageUrl": "https://milknetwork.com/",
+    "workPageUrl": "https://milknetwork.com/work/",
+    "capturedAt": "2026-08-16T20:17:11.346Z"
+  },
+  "mister": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.mister.studio/",
+    "capturedAt": "2026-08-16T20:17:35.599Z"
+  },
+  "moby-digg": {
+    "status": "no-work-page",
+    "homepageUrl": "https://mobydigg.de/en/",
+    "capturedAt": "2026-08-16T20:17:37.199Z"
+  },
+  "minimum": {
+    "status": "success",
+    "entriesHash": "7ab46caa29c64afafe046eabce9097d29c3ca76d326c00e3319d3d5d5af550f6",
+    "homepageUrl": "https://www.minimum.run/",
+    "workPageUrl": "https://www.minimum.run/our-work",
+    "capturedAt": "2026-08-16T20:17:32.519Z"
+  },
+  "mirage": {
+    "status": "success",
+    "entriesHash": "e9193a0a062233e37c94e5ffaa0fd1189f12b48f5eab075306281f5d9dbc9ad6",
+    "homepageUrl": "https://thisismirage.com/",
+    "workPageUrl": "https://thisismirage.com/work/",
+    "capturedAt": "2026-08-16T20:17:32.823Z"
+  },
+  "milk": {
+    "status": "success",
+    "entriesHash": "342b5c787ae865361bdca0d3e4a3015d589efe9329d75db203ea5ccd976924f9",
+    "homepageUrl": "https://milk.co.nz/",
+    "workPageUrl": "https://milk.co.nz/ourwork",
+    "capturedAt": "2026-08-16T20:17:09.892Z"
+  },
+  "mimosa": {
+    "status": "success",
+    "entriesHash": "bf726393abd638083cb396fbe48e0cd03589e0a0aba35a5b433042094fa5c53b",
+    "homepageUrl": "https://mimosaagency.com/",
+    "workPageUrl": "https://mimosaagency.com/work",
+    "capturedAt": "2026-08-16T20:17:27.944Z"
+  },
+  "more-and-more": {
+    "status": "success",
+    "entriesHash": "f260923aec97722bb4d3610e7c4428cd90a003243ae14a5eda50a1d305c2eb9a",
+    "homepageUrl": "https://moreandmoreltd.com/",
+    "workPageUrl": "https://moreandmoreltd.com/",
+    "capturedAt": "2026-08-16T20:17:47.667Z"
+  },
+  "mococo": {
+    "status": "success",
+    "entriesHash": "d37baa249e69f878c902e5e49c6c8a76c56778c8f2f21fc98e3de115057ed649",
+    "homepageUrl": "https://studiomococo.com/",
+    "workPageUrl": "https://studiomococo.com/work/",
+    "capturedAt": "2026-08-16T20:17:37.203Z"
+  },
+  "mutant": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.mutant.be/",
+    "capturedAt": "2026-08-16T20:17:56.398Z"
+  },
+  "monogram": {
+    "status": "success",
+    "entriesHash": "f2505ff0011943124cf0639b6cd177d0efe5f7728b78861ce575bad205bf9af7",
+    "homepageUrl": "https://monogram.io/",
+    "workPageUrl": "https://monogram.io/work",
+    "capturedAt": "2026-08-16T20:17:38.412Z"
+  },
+  "nessen-company": {
+    "status": "success",
+    "entriesHash": "3fd9120335dbf7443cca897c1c5d30c6c79875e4242eaf15d349331e8dcfff57",
+    "homepageUrl": "https://www.nessen.co/",
+    "workPageUrl": "https://www.nessen.co/work",
+    "capturedAt": "2026-08-16T20:17:58.252Z"
+  },
+  "mother": {
+    "status": "success",
+    "entriesHash": "846cade12ddc64ab2c9e43e4ed72b016f452060d3ecb425681caf46209e3af10",
+    "homepageUrl": "https://mother.media/",
+    "workPageUrl": "https://mother.media/work/",
+    "capturedAt": "2026-08-16T20:17:48.416Z"
+  },
+  "moving-brands": {
+    "status": "success",
+    "entriesHash": "ae9be2d1c08b7ddfbb71e9d88d68b24d5d7bc53dbff3f0eb13af01ef2d1b9521",
+    "homepageUrl": "https://www.movingbrands.com/",
+    "workPageUrl": "https://movingbrands.com/work/",
+    "capturedAt": "2026-08-16T20:17:52.380Z"
+  },
+  "neue": {
+    "status": "no-entries",
+    "entriesHash": "bd4bc08c245cd76c3666f73a6a639e0dc8da81977c27dc50eaf77f196ac02272",
+    "homepageUrl": "https://neue.no/",
+    "workPageUrl": "https://neue.no/work/",
+    "capturedAt": "2026-08-16T20:18:36.942Z"
+  },
+  "nicedesign": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.niceui.cn/",
+    "capturedAt": "2026-08-16T20:18:47.516Z"
+  },
+  "nonspace": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.nonspace.no/",
+    "capturedAt": "2026-08-16T20:18:55.029Z"
+  },
+  "mother-design": {
+    "status": "success",
+    "entriesHash": "c1b43e6b84cbbc32d5c4507e4928e4db0707f1e1d3179d588177c7c4031a6208",
+    "homepageUrl": "https://www.motherdesign.com/",
+    "workPageUrl": "https://www.motherdesign.com/work",
+    "capturedAt": "2026-08-16T20:17:49.271Z"
+  },
+  "normally": {
+    "status": "no-work-page",
+    "homepageUrl": "https://normally.com/",
+    "capturedAt": "2026-08-16T20:19:01.364Z"
+  },
+  "newfolk": {
+    "status": "success",
+    "entriesHash": "91686bc857d15e9dcc599a6103ffd0b1df89eb0b8406249e267f90af8b6c7f28",
+    "homepageUrl": "https://newfolk.jp/",
+    "workPageUrl": "https://newfolk.jp/projects/",
+    "capturedAt": "2026-08-16T20:18:44.312Z"
+  },
+  "netrix-digital": {
+    "status": "success",
+    "entriesHash": "bc7b3daa8da2f61bf7245154f1a53b44adcdbe2ce4f6a566a35cba3b82fa4376",
+    "homepageUrl": "https://www.netrixdigital.com/",
+    "workPageUrl": "https://noomoagency.com/work",
+    "capturedAt": "2026-08-16T20:37:28.483Z"
+  },
+  "neubau": {
+    "status": "success",
+    "entriesHash": "1336e64be23854ac94dd92fde1e3bfb79572d04ab55d15d996002ca57323ea82",
+    "homepageUrl": "https://neubauberlin.com/",
+    "workPageUrl": "https://neubauberlin.com/",
+    "capturedAt": "2026-08-16T20:18:35.170Z"
+  },
+  "o0": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.ozero.design/",
+    "capturedAt": "2026-08-16T20:19:06.411Z"
+  },
+  "oda": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.oda.services/",
+    "capturedAt": "2026-08-16T20:19:08.086Z"
+  },
+  "okalpha": {
+    "status": "failed",
+    "homepageUrl": "https://www.okalpha.co/",
+    "capturedAt": "2026-08-16T20:31:43.155Z",
+    "error": "HTTP 404"
+  },
+  "old-friends": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.oldfriends.studio/",
+    "capturedAt": "2026-08-16T20:19:10.664Z"
+  },
+  "north-kingdom": {
+    "status": "success",
+    "entriesHash": "7b69bcc4afa3b92073842d267dee3a6e916e9f28c019923f7457b70fd353b937",
+    "homepageUrl": "https://www.northkingdom.com/",
+    "workPageUrl": "https://www.northkingdom.com/work",
+    "capturedAt": "2026-08-16T20:19:04.005Z"
+  },
+  "non-linear-studio": {
+    "status": "success",
+    "entriesHash": "0f055dbf22fcca0ac27ccd492c7fb623af5e48887b7df893a3f4c7e15cb22742",
+    "homepageUrl": "https://non-linear.studio/",
+    "workPageUrl": "https://non-linear.studio/work",
+    "capturedAt": "2026-08-16T20:18:51.742Z"
+  },
+  "other-land": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.otherland.studio/",
+    "capturedAt": "2026-08-16T20:19:39.270Z"
+  },
+  "omfgco": {
+    "status": "success",
+    "entriesHash": "2a91417d4bf91801a7b1538858f1d65073318f2fd3e64cdbba7e005c493d8930",
+    "homepageUrl": "https://www.omfgco.com/",
+    "workPageUrl": "https://www.omfgco.com/projects",
+    "capturedAt": "2026-08-16T20:36:56.407Z"
+  },
+  "noomo": {
+    "status": "success",
+    "entriesHash": "bc7b3daa8da2f61bf7245154f1a53b44adcdbe2ce4f6a566a35cba3b82fa4376",
+    "homepageUrl": "https://noomoagency.com/",
+    "workPageUrl": "https://noomoagency.com/work",
+    "capturedAt": "2026-08-16T20:44:16.468Z"
+  },
+  "otherward": {
+    "status": "no-work-page",
+    "homepageUrl": "https://otherward.com/",
+    "capturedAt": "2026-08-16T20:19:48.418Z"
+  },
+  "p22-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.p22.studio/",
+    "capturedAt": "2026-08-16T20:19:50.535Z"
+  },
+  "pam": {
+    "status": "no-work-page",
+    "homepageUrl": "https://thisispam.com/",
+    "capturedAt": "2026-08-16T20:19:54.818Z"
+  },
+  "otherness": {
+    "status": "success",
+    "entriesHash": "f6c794b09dc967060fed0694806113582eabb38d05fca26cc0395353c33b06d5",
+    "homepageUrl": "https://www.otherness.design/",
+    "workPageUrl": "https://www.otherness.design/work",
+    "capturedAt": "2026-08-16T20:19:40.340Z"
+  },
+  "offormdesign": {
+    "status": "success",
+    "entriesHash": "26f9429da906397b29ccc97a38946e4c5602c489f5f57e53eaa8223fba386f04",
+    "homepageUrl": "https://offormdesign.com/",
+    "workPageUrl": "https://offormdesign.com/work",
+    "capturedAt": "2026-08-16T20:19:09.711Z"
+  },
+  "oosaa": {
+    "status": "success",
+    "entriesHash": "c7fd4eb427e9802afe83a6023beb7c4fee54d8c52e95920f904944bcf3fd1100",
+    "homepageUrl": "https://www.oosaa.com/",
+    "workPageUrl": "https://www.oosaa.com/work",
+    "capturedAt": "2026-08-16T20:36:34.088Z"
+  },
+  "oddcommon": {
+    "status": "success",
+    "entriesHash": "d2a6dab79e1c8ff895bdddb63606c4e8881dbf3cb49fc09582fbb5359b6e1871",
+    "homepageUrl": "https://www.oddcommon.com/",
+    "workPageUrl": "https://www.oddcommon.com/work",
+    "capturedAt": "2026-08-16T20:19:09.491Z"
+  },
+  "paseo": {
+    "status": "no-work-page",
+    "homepageUrl": "https://paseo.studio/",
+    "capturedAt": "2026-08-16T20:20:01.932Z"
+  },
+  "pact": {
+    "status": "success",
+    "entriesHash": "4a145e2c56c6961c7d5fa5126062c0b8204e711bf5187cccade0e43e208d4976",
+    "homepageUrl": "https://www.pact.studio/",
+    "workPageUrl": "https://www.pact.studio/work",
+    "capturedAt": "2026-08-16T20:19:50.656Z"
+  },
+  "paravel": {
+    "status": "success",
+    "entriesHash": "64070ec4b9c9102b2f5a6266ee1654da1706ccf2f9ea409ee728dd54631526fa",
+    "homepageUrl": "https://paravelinc.com/",
+    "workPageUrl": "https://paravelinc.com/work/",
+    "capturedAt": "2026-08-16T20:19:59.218Z"
+  },
+  "postnew": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.postnew.xyz/",
+    "capturedAt": "2026-08-16T20:20:13.489Z"
+  },
+  "pill-and-pillow": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.pillandpillow.com/",
+    "capturedAt": "2026-08-16T20:20:06.272Z"
+  },
+  "phunk-creative": {
+    "status": "no-entries",
+    "entriesHash": "d704681e2a0f531063efc6c736b4b0f21e8374e715879d56857799f31084be2e",
+    "homepageUrl": "https://www.phunk.co.uk/",
+    "workPageUrl": "https://www.phunk.com/work",
+    "capturedAt": "2026-08-16T20:20:02.804Z"
+  },
+  "pixelhop": {
+    "status": "success",
+    "entriesHash": "4e5da34447e3666b0c97c6591542c2225624d84fe0bc97b4451a76c4608c4292",
+    "homepageUrl": "https://www.pixelhop.io/",
+    "workPageUrl": "https://pixelhop.io/our-work/",
+    "capturedAt": "2026-08-16T20:20:06.647Z"
+  },
+  "rayray-lab": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.rayraylab.com/",
+    "capturedAt": "2026-08-16T20:20:32.796Z"
+  },
+  "reboot": {
+    "status": "no-work-page",
+    "homepageUrl": "https://reboot.studio/",
+    "capturedAt": "2026-08-16T20:20:34.039Z"
+  },
+  "papertiger": {
+    "status": "success",
+    "entriesHash": "9d0f1b0edae13518b0e0cefdca4efb15f1820fedcb3a228e055e220bd926c1cb",
+    "homepageUrl": "https://papertiger.com/",
+    "workPageUrl": "https://www.papertiger.com/",
+    "capturedAt": "2026-08-16T20:19:59.055Z"
+  },
+  "pizza-pizza": {
+    "status": "no-entries",
+    "entriesHash": "add7b0ac1cd74be6d173ae99f96aee58e9478a1986e9a66feff31044a636c21d",
+    "homepageUrl": "https://pizzapizza.io/",
+    "workPageUrl": "https://pizzapizza.io/work",
+    "capturedAt": "2026-08-16T20:20:13.372Z"
+  },
+  "redo-bureau": {
+    "status": "no-work-page",
+    "homepageUrl": "https://redobureau.com/",
+    "capturedAt": "2026-08-16T20:20:39.864Z"
+  },
+  "raw-studio": {
+    "status": "success",
+    "entriesHash": "27cd3f031887f54999b685900652d211ba654607330a9df5c2c9a13ce1897ee1",
+    "homepageUrl": "https://raw.studio/",
+    "workPageUrl": "https://raw.studio/case-studies/",
+    "capturedAt": "2026-08-16T20:20:17.610Z"
+  },
+  "reflexdesign": {
+    "status": "no-work-page",
+    "homepageUrl": "http://reflexdesign.cn/",
+    "capturedAt": "2026-08-16T20:20:50.031Z"
+  },
+  "red-collar": {
+    "status": "success",
+    "entriesHash": "82373f1611c5ff868f52930ef726af1f669d03182fe59f3b464f50a09e5c2333",
+    "homepageUrl": "https://redcollar.digital/",
+    "workPageUrl": "https://redcollar.co/work",
+    "capturedAt": "2026-08-16T20:31:44.923Z"
+  },
+  "rare-volume": {
+    "status": "success",
+    "entriesHash": "8600a1d67079364334f6ba7c3fe008c8f7eb3a88c193851490ca6ff2001e87df",
+    "homepageUrl": "https://rarevolume.com/",
+    "workPageUrl": "https://rarevolume.com/work",
+    "capturedAt": "2026-08-16T20:20:15.136Z"
+  },
+  "relate-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.relate.studio/",
+    "capturedAt": "2026-08-16T20:21:04.955Z"
+  },
+  "relay-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://relaystudio.co/",
+    "capturedAt": "2026-08-16T20:21:07.292Z"
+  },
+  "ref": {
+    "status": "success",
+    "entriesHash": "309e8490a004d5651bc57012f72e7d0ce8763eb40f337aaf195d00b7427b58d1",
+    "homepageUrl": "https://ref.digital/",
+    "workPageUrl": "https://ref.digital/work/",
+    "capturedAt": "2026-08-16T20:20:45.453Z"
+  },
+  "raxo": {
+    "status": "success",
+    "entriesHash": "bd31035de329410309abe5897f767e79abc738f8745d16bdca71eee8f05605df",
+    "homepageUrl": "https://raxo.co/",
+    "workPageUrl": "https://raxo.co/work",
+    "capturedAt": "2026-08-16T20:20:31.890Z"
+  },
+  "red-antler": {
+    "status": "success",
+    "entriesHash": "6e5deca1100842e560e251d0d988e1353572386aa653d29164b76a6ec1ed82f1",
+    "homepageUrl": "https://www.redantler.com/",
+    "workPageUrl": "https://www.redantler.com/work",
+    "capturedAt": "2026-08-16T20:20:36.568Z"
+  },
+  "rock-paper-design": {
+    "status": "no-work-page",
+    "homepageUrl": "https://rockpaper.design/",
+    "capturedAt": "2026-08-16T20:21:18.816Z"
+  },
+  "regrets-only": {
+    "status": "success",
+    "entriesHash": "3b87b11436a30c53fd6a6d87fa54c0e8df71e52846d03d7dc1825606da538de2",
+    "homepageUrl": "https://regrets-only.com/",
+    "workPageUrl": "https://regretsonly.com/work",
+    "capturedAt": "2026-08-16T20:21:02.174Z"
+  },
+  "rejouice": {
+    "status": "success",
+    "entriesHash": "d5c4ba45196c6e48b71b5e185edc1d78c5dc454a00fe088ec76fefdb16e36ee5",
+    "homepageUrl": "https://www.rejouice.com/",
+    "workPageUrl": "https://www.rejouice.com/work",
+    "capturedAt": "2026-08-16T20:21:03.406Z"
+  },
+  "reversed-digital": {
+    "status": "success",
+    "entriesHash": "61b8ebe508411025302f4eb595f24638b8328e625a39012d07bc780770003f59",
+    "homepageUrl": "https://reverseddigital.com/",
+    "workPageUrl": "https://reverseddigital.com/cases",
+    "capturedAt": "2026-08-16T20:21:13.753Z"
+  },
+  "roandco": {
+    "status": "success",
+    "entriesHash": "e0873f96a4de90500cfa75d8fdbc5be3a937ef43d1e2a3d001197004db0cd45c",
+    "homepageUrl": "https://www.roandcostudio.com/",
+    "workPageUrl": "https://www.roandcostudio.com/work",
+    "capturedAt": "2026-08-16T20:21:18.221Z"
+  },
+  "sciencewerk": {
+    "status": "no-work-page",
+    "homepageUrl": "http://sciencewerk.net/",
+    "capturedAt": "2026-08-16T20:21:37.892Z"
+  },
+  "sanrok-studio": {
+    "status": "success",
+    "entriesHash": "ac4d9745a9e24fead7bf28f5c933ca8686a80b7a9bacdbe41e429b142c57de01",
+    "homepageUrl": "https://sanrokstudio.com/",
+    "workPageUrl": "https://sanrokstudio.com/projects",
+    "capturedAt": "2026-08-16T20:21:26.856Z"
+  },
+  "set-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://set.studio/",
+    "capturedAt": "2026-08-16T20:21:42.567Z"
+  },
+  "sensa": {
+    "status": "success",
+    "entriesHash": "bacddf0c689ab056b6285028668558c3c91f4d1134728055fb63bdaa70c4acb3",
+    "homepageUrl": "https://sensa.co/",
+    "workPageUrl": "https://sensa.co/work",
+    "capturedAt": "2026-08-16T20:21:40.385Z"
+  },
+  "rndr": {
+    "status": "success",
+    "entriesHash": "d1f77d6bfa3f69ddef8db29b463cff43504b5a9685ed34f09307cfaa2a29eb36",
+    "homepageUrl": "https://rndr.studio/",
+    "workPageUrl": "https://rndr.studio/",
+    "capturedAt": "2026-08-16T20:21:17.144Z"
+  },
+  "sea": {
+    "status": "success",
+    "entriesHash": "dd1bd5da7b22e607b85a28a2bfa68936b355fc2e96e824ddf157e7bfab4c2c76",
+    "homepageUrl": "https://seadesign.com/",
+    "workPageUrl": "https://seadesign.com/projects",
+    "capturedAt": "2026-08-16T20:21:39.955Z"
+  },
+  "scandinavian-design-group": {
+    "status": "success",
+    "entriesHash": "9ec39d53013880d305a2a8804821495c4c91a97e1f3c92ce5181082bfbc4949c",
+    "homepageUrl": "https://www.sdg.no/",
+    "workPageUrl": "https://www.sdg.no/work",
+    "capturedAt": "2026-08-16T20:21:31.718Z"
+  },
+  "simplebits": {
+    "status": "no-work-page",
+    "homepageUrl": "https://simplebits.com/",
+    "capturedAt": "2026-08-16T20:22:14.393Z"
+  },
+  "rotate": {
+    "status": "success",
+    "entriesHash": "e8ffc02406c59f2c82dc18608b6793146fc98510e561839041154ff2042dae1b",
+    "homepageUrl": "https://studiorotate.com/",
+    "workPageUrl": "https://studiorotate.com/work",
+    "capturedAt": "2026-08-16T20:21:24.237Z"
+  },
+  "some-days": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.somedays.co/",
+    "capturedAt": "2026-08-16T20:22:20.691Z"
+  },
+  "shape-studio": {
+    "status": "success",
+    "entriesHash": "0516c874c3d9e14124227e7cce1b2fb958d2055137287669d39dbd7e9b677003",
+    "homepageUrl": "https://shapestudio.co.uk/",
+    "workPageUrl": "https://shapestudio.co.uk/",
+    "capturedAt": "2026-08-16T20:21:43.790Z"
+  },
+  "si-digital": {
+    "status": "success",
+    "entriesHash": "5d8659ba597bf5af701c40d658b5b87af0f6f2717de174ed089fddff23b46a0a",
+    "homepageUrl": "https://sidigital.co/",
+    "workPageUrl": "https://sidigital.co/work",
+    "capturedAt": "2026-08-16T20:22:02.424Z"
+  },
+  "source": {
+    "status": "no-work-page",
+    "homepageUrl": "https://source.paris/en/",
+    "capturedAt": "2026-08-16T20:22:23.263Z"
+  },
+  "significa": {
+    "status": "success",
+    "entriesHash": "befc5bf8fb67a0229e8778772a57c016699e0a0626d9169ab14cdf3477b6c59b",
+    "homepageUrl": "https://significa.co/",
+    "workPageUrl": "https://significa.co/projects",
+    "capturedAt": "2026-08-16T20:22:04.631Z"
+  },
+  "soderhavet": {
+    "status": "success",
+    "entriesHash": "fa7d984702e5b7f1b48c9c4d0a0e0fda8dfd996453a0b1a7006cb6a0778afaf4",
+    "homepageUrl": "https://soderhavet.com/",
+    "workPageUrl": "https://soderhavet.com/work/",
+    "capturedAt": "2026-08-16T20:22:15.616Z"
+  },
+  "signifly": {
+    "status": "success",
+    "entriesHash": "72836df48d43e39538d71318fd2245718248b3a086ac3303597b5921737e97a4",
+    "homepageUrl": "https://signifly.com/",
+    "workPageUrl": "https://signifly.com/work",
+    "capturedAt": "2026-08-16T20:22:13.665Z"
+  },
+  "spacelab": {
+    "status": "success",
+    "entriesHash": "0796e37d175fdcba98d22b4a86f5f3b58548d0e3e81319ce21e2ed5702046feb",
+    "homepageUrl": "https://spacelab.co.uk/",
+    "workPageUrl": "https://spacelab.co.uk/work",
+    "capturedAt": "2026-08-16T20:22:25.348Z"
+  },
+  "sounds-like-these": {
+    "status": "success",
+    "entriesHash": "f596b764af7f7631d652975440ba75642df490b79b914a2a88139f4052a13ed8",
+    "homepageUrl": "https://soundslikethese.com/",
+    "workPageUrl": "https://soundslikethese.com/work",
+    "capturedAt": "2026-08-16T20:22:22.239Z"
+  },
+  "some-yellow": {
+    "status": "success",
+    "entriesHash": "592198367bef1696f45ab1e96b1360baad14aba0429508540817bd97c7093d13",
+    "homepageUrl": "https://www.someyellow.co.uk/",
+    "workPageUrl": "https://www.someyellow.co.uk/work",
+    "capturedAt": "2026-08-16T20:22:22.069Z"
+  },
+  "studio-gruhl": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.studiogruhl.com/",
+    "capturedAt": "2026-08-16T20:23:19.682Z"
+  },
+  "spcshp": {
+    "status": "success",
+    "entriesHash": "2c9039063cee05b9c3d76c65b15829a7617e8fba3dfc044042489caf4fec217b",
+    "homepageUrl": "https://www.spcshp.com/",
+    "workPageUrl": "https://www.bigspaceship.com/work",
+    "capturedAt": "2026-08-16T20:22:31.621Z"
+  },
+  "studio-blackburn": {
+    "status": "success",
+    "entriesHash": "bb75e2a9a9673112cbf9ada122bee077c7298f25c92cbaedccd6197ba6bf7b93",
+    "homepageUrl": "https://studioblackburn.com/",
+    "workPageUrl": "https://studioblackburn.com/work",
+    "capturedAt": "2026-08-16T20:22:49.631Z"
+  },
+  "strv": {
+    "status": "success",
+    "entriesHash": "a371d741e94fb78ce669ceaf85595f11f4bfe523ebe2b9e6f0e5f2ebc05c4d93",
+    "homepageUrl": "https://www.strv.com/",
+    "workPageUrl": "https://www.strv.com/our-work",
+    "capturedAt": "2026-08-16T20:22:47.107Z"
+  },
+  "standard-projects": {
+    "status": "success",
+    "entriesHash": "40c3e527b288fc13f674bbced87fc171f04b14dc6827cc5411270283f8310212",
+    "homepageUrl": "https://www.standard-projects.com/",
+    "workPageUrl": "https://www.standard-projects.com/work/",
+    "capturedAt": "2026-08-16T20:22:36.347Z"
+  },
+  "studio-tumulte": {
+    "status": "no-work-page",
+    "homepageUrl": "https://studio-tumulte.com/",
+    "capturedAt": "2026-08-16T20:23:45.880Z"
+  },
+  "studio-bruch": {
+    "status": "success",
+    "entriesHash": "d96e6ac6455db95fb12e08b29d9eb618e34b9f7acffa1a410f04c599ab7b6adc",
+    "homepageUrl": "https://studiobruch.com/en/",
+    "workPageUrl": "https://studiobruch.com/en/",
+    "capturedAt": "2026-08-16T20:23:17.345Z"
+  },
+  "studio-tyrrell": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.studiotyrrell.com/",
+    "capturedAt": "2026-08-16T20:23:47.859Z"
+  },
+  "studio-heed": {
+    "status": "success",
+    "entriesHash": "ba46bcd457ff1444d377d9c30f5f85c9da5480197e30f2695fd795c0ff0ea084",
+    "homepageUrl": "https://www.studioheed.com/",
+    "workPageUrl": "https://www.studioheed.com/",
+    "capturedAt": "2026-08-16T20:23:29.004Z"
+  },
+  "studio-treble": {
+    "status": "success",
+    "entriesHash": "11abc0b04a4eacc349464f2157e213830527a77b26fe796ee9cd882f19076649",
+    "homepageUrl": "https://www.studiotreble.com/",
+    "workPageUrl": "https://www.studiotreble.com/",
+    "capturedAt": "2026-08-16T20:23:38.401Z"
+  },
+  "studio-wtf": {
+    "status": "no-work-page",
+    "homepageUrl": "https://studio.wtf/",
+    "capturedAt": "2026-08-16T20:23:49.327Z"
+  },
+  "stuff-nonsense": {
+    "status": "success",
+    "entriesHash": "0921ff730f210e7bf7ec8edf0a1b285fef68e80e3ed05db32666403636271f5d",
+    "homepageUrl": "https://stuffandnonsense.co.uk/",
+    "workPageUrl": "https://stuffandnonsense.co.uk/design",
+    "capturedAt": "2026-08-16T20:23:51.551Z"
+  },
+  "studio-lp": {
+    "status": "success",
+    "entriesHash": "a7495574becfa1763f4b6ceaa7f4c992a3bcebeb251128e70dfa22b888f94cbc",
+    "homepageUrl": "https://www.studio-lp.com/",
+    "workPageUrl": "https://www.studio-lp.com/projects",
+    "capturedAt": "2026-08-16T20:23:35.702Z"
+  },
+  "supercreative": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.supercreative.design/",
+    "capturedAt": "2026-08-16T20:24:05.310Z"
+  },
+  "stuurmen": {
+    "status": "no-entries",
+    "entriesHash": "103440ba65e9fcece5ff290395d38f09be6ccab57e135a3410c5bee3b1f54134",
+    "homepageUrl": "https://stuur.men/",
+    "workPageUrl": "https://stuur.men/",
+    "capturedAt": "2026-08-16T20:23:52.513Z"
+  },
+  "studio-oker": {
+    "status": "success",
+    "entriesHash": "efca3866f7311c96f10eaa76f16b28a32e5119ccc3cab5eea10de3a44c7fdf0d",
+    "homepageUrl": "https://oker.com/",
+    "workPageUrl": "https://oker.com/work/",
+    "capturedAt": "2026-08-16T20:23:37.214Z"
+  },
+  "synchronized": {
+    "status": "no-work-page",
+    "homepageUrl": "https://synchronized.studio/",
+    "capturedAt": "2026-08-16T20:24:15.259Z"
+  },
+  "super-giant": {
+    "status": "success",
+    "entriesHash": "5e863185dcaf35a332d94d19c0d125c6cdbe666cdfb450759092fcdcefc08981",
+    "homepageUrl": "https://www.studiosupergiant.com/",
+    "workPageUrl": "https://www.studiosupergiant.com/work",
+    "capturedAt": "2026-08-16T20:23:55.840Z"
+  },
+  "tavern": {
+    "status": "no-work-page",
+    "homepageUrl": "https://tavern.agency/",
+    "capturedAt": "2026-08-16T20:24:16.988Z"
+  },
+  "styles-and-partners": {
+    "status": "no-entries",
+    "entriesHash": "d01b52405fbef51b3b9f151e1308bda693411a7ea47755ff668c066945ed30f4",
+    "homepageUrl": "https://www.stylesandpartners.com/",
+    "workPageUrl": "https://www.stylesandpartners.com/work",
+    "capturedAt": "2026-08-16T20:23:55.004Z"
+  },
+  "sydopia": {
+    "status": "success",
+    "entriesHash": "51a1d635942e6286a1e0eb1f44b2007de39bb7d6cb996046516e0d3dcb468248",
+    "homepageUrl": "https://sydopia.com/",
+    "workPageUrl": "https://sydopia.com/",
+    "capturedAt": "2026-08-16T20:24:09.922Z"
+  },
+  "thatthing": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.thatthing.com/",
+    "capturedAt": "2026-08-16T20:24:30.294Z"
+  },
+  "the-couch": {
+    "status": "no-work-page",
+    "homepageUrl": "https://thecouch.nyc/",
+    "capturedAt": "2026-08-16T20:24:32.375Z"
+  },
+  "sweatpants-studio": {
+    "status": "success",
+    "entriesHash": "061c511e722aefd6f447cdaf3b64a4b7d7d48b3f9bf727c8b73ac06045ead9e7",
+    "homepageUrl": "https://www.sweatpants.studio/",
+    "workPageUrl": "https://www.sweatpants.studio/projects",
+    "capturedAt": "2026-08-16T20:24:07.107Z"
+  },
+  "svzdesign": {
+    "status": "success",
+    "entriesHash": "55be553f96d96d09ca2a752310ed0de54d6ee443f6245db6117346fb287e382e",
+    "homepageUrl": "https://www.svz.io/",
+    "workPageUrl": "https://www.svz.io/projects",
+    "capturedAt": "2026-08-16T20:24:06.539Z"
+  },
+  "the-bang": {
+    "status": "success",
+    "entriesHash": "d82dd86f7efb16f65c7adf087177c0c3c515a23b820051ff6d2c895373be8181",
+    "homepageUrl": "https://www.thebang.com/",
+    "workPageUrl": "https://www.thebang.com/work",
+    "capturedAt": "2026-08-16T20:24:30.868Z"
+  },
+  "taxi-studio": {
+    "status": "success",
+    "entriesHash": "e402c9843c74a56c50639f637c932394903df1901ff8114dc80b18863b839792",
+    "homepageUrl": "https://taxistudio.com/",
+    "workPageUrl": "https://taxistudio.com/work",
+    "capturedAt": "2026-08-16T20:24:20.575Z"
+  },
+  "templo": {
+    "status": "success",
+    "entriesHash": "79bbe4e1032908aed1a7975483591b20567655fa34842a67bcae20925708fccb",
+    "homepageUrl": "https://templo.co.uk/",
+    "workPageUrl": "https://templo.co.uk/work",
+    "capturedAt": "2026-08-16T20:24:22.418Z"
+  },
+  "the-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.the-studio.se/",
+    "capturedAt": "2026-08-16T20:24:50.998Z"
+  },
+  "the-new-company": {
+    "status": "success",
+    "entriesHash": "666e2e3ad5e218507dffdbb7a19e85c2989007b1b6b3ded59c91aefb9da393a5",
+    "homepageUrl": "https://www.thenewcompany.com/",
+    "workPageUrl": "https://www.thenewcompany.com/",
+    "capturedAt": "2026-08-16T20:24:36.665Z"
+  },
+  "the-power-of-friendship": {
+    "status": "success",
+    "entriesHash": "5c8104082d972ac7fda8d3f3593a32e0c5a2dacb3cd3a4696966ab50f9373cfc",
+    "homepageUrl": "https://www.tpof.studio/",
+    "workPageUrl": "https://www.tpof.studio/work",
+    "capturedAt": "2026-08-16T20:24:44.686Z"
+  },
+  "toil": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.toil.studio/",
+    "capturedAt": "2026-08-16T20:25:09.003Z"
+  },
+  "the-line-studio": {
+    "status": "success",
+    "entriesHash": "3454586921c1dac82d9c638b36b00f56564d298d60db5b50b06a16449e4e5818",
+    "homepageUrl": "https://thelinestudio.com/",
+    "workPageUrl": "https://thelinestudio.com/work",
+    "capturedAt": "2026-08-16T20:24:34.017Z"
+  },
+  "tinloof": {
+    "status": "success",
+    "entriesHash": "07b5590f9d9777475096d32795cfa6a9045b212f66b95e043e29b4d6d6b0e70c",
+    "homepageUrl": "https://tinloof.com/",
+    "workPageUrl": "https://tinloof.com/",
+    "capturedAt": "2026-08-16T20:24:54.372Z"
+  },
+  "triboro": {
+    "status": "success",
+    "entriesHash": "9e667e4f633810ecdb520042af1f72cb7a0aa890d4134b7ced7fd83297dc8ff5",
+    "homepageUrl": "https://triborodesign.com/",
+    "workPageUrl": "https://triborodesign.com/",
+    "capturedAt": "2026-08-16T20:25:18.681Z"
+  },
+  "thus": {
+    "status": "success",
+    "entriesHash": "f4913e79de825963b99c0b80ab628a4981ad93af3a4abb6cd2cb014e0d90e823",
+    "homepageUrl": "https://thuscn.com/",
+    "workPageUrl": "https://thuscn.com/case/",
+    "capturedAt": "2026-08-16T20:24:54.269Z"
+  },
+  "toward": {
+    "status": "success",
+    "entriesHash": "b06105e310adb6e64f7ddd178c9e1e92c3dfd5eaa9cb9f6f4c3c58196cbf21cc",
+    "homepageUrl": "https://toward.studio/",
+    "workPageUrl": "https://toward.studio/work",
+    "capturedAt": "2026-08-16T20:25:09.711Z"
+  },
+  "twks": {
+    "status": "no-work-page",
+    "homepageUrl": "https://twks.ch/en",
+    "capturedAt": "2026-08-16T20:25:44.741Z"
+  },
+  "toyfight": {
+    "status": "success",
+    "entriesHash": "c12cbb57eb7c9e6482e56b443aa35c50b0f54322aba10f5512bc80dec021d7e2",
+    "homepageUrl": "https://toyfight.co/",
+    "workPageUrl": "https://toyfight.co/work",
+    "capturedAt": "2026-08-16T20:25:11.002Z"
+  },
+  "this-january": {
+    "status": "success",
+    "entriesHash": "bac9543b815359ca42935f205cb54a6493c21ebe155ff9259a0a802ee660c03a",
+    "homepageUrl": "https://www.thisjanuary.com/",
+    "workPageUrl": "https://www.thisjanuary.com/work",
+    "capturedAt": "2026-08-16T20:24:52.142Z"
+  },
+  "twenty-six-design": {
+    "status": "success",
+    "entriesHash": "015c76eafe2e5689efd407c6d22cf51913fd7c8c20f54100f27ad96f36ab88e7",
+    "homepageUrl": "https://twenty-six.design/",
+    "workPageUrl": "https://twenty-six.design/work",
+    "capturedAt": "2026-08-16T20:25:41.392Z"
+  },
+  "ueno": {
+    "status": "no-work-page",
+    "homepageUrl": "https://ueno.co/",
+    "capturedAt": "2026-08-16T20:25:54.876Z"
+  },
+  "uberdosis": {
+    "status": "no-work-page",
+    "homepageUrl": "https://ueberdosis.io/",
+    "capturedAt": "2026-08-16T20:25:53.650Z"
+  },
+  "tubik-studio": {
+    "status": "success",
+    "entriesHash": "372da504e2d28cfbf8a38f64393f20c65df9fa47549a36f8ceb072612ed529a2",
+    "homepageUrl": "https://tubikstudio.com/",
+    "workPageUrl": "https://tubikstudio.com/works",
+    "capturedAt": "2026-08-16T20:25:30.070Z"
+  },
+  "two-create-studio": {
+    "status": "success",
+    "entriesHash": "69435a2613761fedec1b2d0dae5499837c826c08291bc2d7841f3fb00317875f",
+    "homepageUrl": "https://www.twocreate.com/",
+    "workPageUrl": "https://www.twocreate.com/",
+    "capturedAt": "2026-08-16T20:25:48.284Z"
+  },
+  "turnstyle": {
+    "status": "no-entries",
+    "entriesHash": "d727bb00d5ccb5b669ac87a203e93f97a0e30cf520d6803ffed7c34daef81e23",
+    "homepageUrl": "https://turnstyle.studio/",
+    "workPageUrl": "https://turnstyle.studio/work",
+    "capturedAt": "2026-08-16T20:25:40.602Z"
+  },
+  "universal-favourite": {
+    "status": "no-entries",
+    "entriesHash": "2f3aae55bc8588e70cacbea080c5d852e01baecd2360d0ac0616f41568a90b41",
+    "homepageUrl": "https://universalfavourite.com.au/",
+    "workPageUrl": "https://universalfavourite.com.au/work",
+    "capturedAt": "2026-08-16T20:26:06.495Z"
+  },
+  "united-playgrounds": {
+    "status": "success",
+    "entriesHash": "c0483a6bf217aacea47cc4a3ece4791a100061638cf4e075aff9f3cdc12c7b45",
+    "homepageUrl": "https://www.unitedplaygrounds.nl/",
+    "workPageUrl": "https://www.unitedplaygrounds.nl/work",
+    "capturedAt": "2026-08-16T20:36:26.169Z"
+  },
+  "unset": {
+    "status": "success",
+    "entriesHash": "b9a43636fbd22df352fb4283a68765a88644a3dc5c230f4cdcac855e8d8853c1",
+    "homepageUrl": "https://www.unset.studio/",
+    "workPageUrl": "https://unset.studio/work",
+    "capturedAt": "2026-08-16T20:26:15.796Z"
+  },
+  "two-times-elliott": {
+    "status": "no-entries",
+    "entriesHash": "89071c895067fd775f79710a04f90e183657e9c64e84a2cbc04d99328afdb332",
+    "homepageUrl": "https://xx.studio/",
+    "workPageUrl": "https://xx.studio/",
+    "capturedAt": "2026-08-16T20:25:52.102Z"
+  },
+  "verse": {
+    "status": "no-work-page",
+    "homepageUrl": "https://madebyverse.com/",
+    "capturedAt": "2026-08-16T20:26:43.602Z"
+  },
+  "untitled-macao": {
+    "status": "no-work-page",
+    "homepageUrl": "https://untitledmacao.com/",
+    "capturedAt": "2026-08-16T20:26:42.592Z"
+  },
+  "underline": {
+    "status": "success",
+    "entriesHash": "7b5644a5b5b155448ccbed987e23e98b8f4ee046be4be5bfe9382898d1e6f8e0",
+    "homepageUrl": "https://underlinestudio.com/",
+    "workPageUrl": "https://underlinestudio.com/work/",
+    "capturedAt": "2026-08-16T20:25:57.789Z"
+  },
+  "unseen-studio": {
+    "status": "success",
+    "entriesHash": "770fe3c4b7d6cf8d2934a2a71423d9f749646aaa190710749e158123c1848ffd",
+    "homepageUrl": "https://unseen.co/",
+    "workPageUrl": "https://unseen.co/projects/",
+    "capturedAt": "2026-08-16T20:44:54.630Z"
+  },
+  "watson": {
+    "status": "no-work-page",
+    "homepageUrl": "https://watson.la/",
+    "capturedAt": "2026-08-16T20:26:57.433Z"
+  },
+  "vivid-co": {
+    "status": "success",
+    "entriesHash": "388d8621f2b2d0cbac1731d4e2ae8c9fa6dd832d6ee47bb54100788ed4ef7d86",
+    "homepageUrl": "https://vividand.co/",
+    "workPageUrl": "https://vividand.co/",
+    "capturedAt": "2026-08-16T20:26:46.823Z"
+  },
+  "verve": {
+    "status": "success",
+    "entriesHash": "1e3161454dcd77089154609651e79f67d2a203388e1989ef3363749ece201c3e",
+    "homepageUrl": "https://verveagency.com/",
+    "workPageUrl": "https://verveagency.com/work",
+    "capturedAt": "2026-08-16T20:36:19.394Z"
+  },
+  "we-go-again": {
+    "status": "success",
+    "entriesHash": "66a9177caf1cf3969db9e88469f5ba04e986d258eb35e487951926eb8c2ef972",
+    "homepageUrl": "https://we-go-again.com/",
+    "workPageUrl": "https://we-go-again.com/work",
+    "capturedAt": "2026-08-16T20:27:01.491Z"
+  },
+  "whatever-studio": {
+    "status": "success",
+    "entriesHash": "1a293580752a2a65193e2531022cebc0e08f7a975dc0ca511ca9313f03dbffcf",
+    "homepageUrl": "https://whatever.studio/",
+    "workPageUrl": "https://whatever.studio/",
+    "capturedAt": "2026-08-16T20:27:13.150Z"
+  },
+  "untangld": {
+    "status": "no-entries",
+    "entriesHash": "6b717b83cb137de571099005d4e2e1c8755218dba2cb886d06716005181b36c6",
+    "homepageUrl": "https://untangld.co/",
+    "workPageUrl": "https://untangld.co/cases/",
+    "capturedAt": "2026-08-16T20:26:42.492Z"
+  },
+  "upperquad": {
+    "status": "success",
+    "entriesHash": "d4da79a2dba32013005fc2abc97872e2ba6f87cc3896147432bf3ac686ef24a8",
+    "homepageUrl": "https://upperquad.com/",
+    "workPageUrl": "https://upperquad.com/work",
+    "capturedAt": "2026-08-16T20:26:43.186Z"
+  },
+  "w-rks": {
+    "status": "success",
+    "entriesHash": "f222ee626e7657525fe9bf2885d403022e8f832b9ae2515e1e7e5554af309281",
+    "homepageUrl": "https://works.studio/",
+    "workPageUrl": "https://works.studio/",
+    "capturedAt": "2026-08-16T20:27:28.440Z"
+  },
+  "worth-agency": {
+    "status": "success",
+    "entriesHash": "d00f3272103e1a4fa6d740f9228c3414ae6a093fd28575c1fb60beafa73d6133",
+    "homepageUrl": "https://worth.agency/",
+    "workPageUrl": "https://worth.agency/projects",
+    "capturedAt": "2026-08-16T20:27:31.148Z"
+  },
+  "wonderworks": {
+    "status": "success",
+    "entriesHash": "924be3886fc004b493c30d2cf00e7ce888f37e01b0a1275e86c28d74e6c13fb9",
+    "homepageUrl": "https://workbyworks.studio/",
+    "workPageUrl": "https://workbyworks.studio/",
+    "capturedAt": "2026-08-16T20:27:22.610Z"
+  },
+  "xicons-studio": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.xicons.studio/",
+    "capturedAt": "2026-08-16T20:27:54.434Z"
+  },
+  "yiz": {
+    "status": "no-work-page",
+    "homepageUrl": "https://yiz.design/",
+    "capturedAt": "2026-08-16T20:27:55.151Z"
+  },
+  "yummygum": {
+    "status": "failed",
+    "homepageUrl": "https://yummygum.com/",
+    "capturedAt": "2026-08-16T20:32:49.403Z",
+    "error": "HTTP 403"
+  },
+  "and-walsh": {
+    "status": "success",
+    "entriesHash": "2164f280873ab05c03b1b4d760162c3dec75c669fecaeea0ce6ecbc3875ab20c",
+    "homepageUrl": "https://andwalsh.com/",
+    "workPageUrl": "https://andwalsh.com/work/",
+    "capturedAt": "2026-08-16T20:47:33.001Z"
+  },
+  "zacht-studios-bv": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://www.zacht.studio/",
+    "workPageUrl": "https://www.zacht.studio/projects",
+    "capturedAt": "2026-08-16T20:28:02.802Z"
+  },
+  "without": {
+    "status": "no-entries",
+    "entriesHash": "0f7cff80a55865dd51e06ad56831708aaf5a95b237d5bc5a0aed47549ff3b68b",
+    "homepageUrl": "https://without.studio/",
+    "workPageUrl": "https://without.studio/work/",
+    "capturedAt": "2026-08-16T20:27:17.271Z"
+  },
+  "zizo": {
+    "status": "no-work-page",
+    "homepageUrl": "https://wearezizo.com/",
+    "capturedAt": "2026-08-16T20:28:11.038Z"
+  },
+  "wrs": {
+    "status": "success",
+    "entriesHash": "cc06d625476b203e7086aa2e6d9b46c330c00c915b42f23caec4f71c9a60a8d7",
+    "homepageUrl": "https://wrs.design/",
+    "workPageUrl": "https://wrs.design/",
+    "capturedAt": "2026-08-16T20:27:46.828Z"
+  },
+  "wouq": {
+    "status": "success",
+    "entriesHash": "f49aa69a871fe2365ccde5216e6f4f835051c79b4b6d0fc2f71714ecf9328906",
+    "homepageUrl": "https://wearewouq.com/",
+    "workPageUrl": "https://wearewouq.com/work",
+    "capturedAt": "2026-08-16T20:27:36.590Z"
+  },
+  "zeus-jones": {
+    "status": "success",
+    "entriesHash": "800c5f59f1d82367977aad2ef48711afc2445fb9e1c395a7f8c2c3eb8f0cbb9a",
+    "homepageUrl": "https://zeusjones.com/",
+    "workPageUrl": "https://zeusjones.com/work",
+    "capturedAt": "2026-08-16T20:28:03.758Z"
+  },
+  "your-creative": {
+    "status": "success",
+    "entriesHash": "38c2ded850f6721a6d8676ffbd36b8c41f36b629365fd2bea3356ffb35cef7e1",
+    "homepageUrl": "https://yourcreative.com.au/",
+    "workPageUrl": "https://yourcreative.com.au/projects",
+    "capturedAt": "2026-08-16T20:27:56.200Z"
+  },
+  "zypsy": {
+    "status": "success",
+    "entriesHash": "85bfed7c08f1ed93dafe270bcd44b8c52a6bdc02b85b22e6689800894262deef",
+    "homepageUrl": "https://www.zypsy.com/",
+    "workPageUrl": "https://www.zypsy.com/work",
+    "capturedAt": "2026-08-16T20:28:14.002Z"
   }
 }

@@ -3,6 +3,7 @@ import { describe, expect, it } from "vitest";
 import {
   caseStudyId,
   cleanCaseStudyTitle,
+  dedupeAcrossAgencies,
   entriesHash,
   extractCaseStudyLinks,
   findWorkPageUrl,
@@ -127,6 +128,67 @@ describe("extractCaseStudyLinks", () => {
     const links = extractCaseStudyLinks(html, workPage);
     expect(links[0].title).toBe("One Project");
   });
+
+  it("excludes studio, insights, story, and about-us pages", () => {
+    const html = `
+      <a href="/work/real-one">Real one</a>
+      <a href="/studio">Studio</a>
+      <a href="/insights">Insights</a>
+      <a href="/our-story">Our Story</a>
+      <a href="/about-us/team">Team</a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.url)).toEqual([
+      "https://example.com/work/real-one",
+    ]);
+  });
+
+  it("ignores style and script content inside anchors", () => {
+    const html = `
+      <a href="/work/one">
+        <style>.slide-in-bottom { overflow: hidden; }</style>
+        <script>console.log("noise");</script>
+        One Project
+      </a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links[0].title).toBe("One Project");
+  });
+});
+
+describe("dedupeAcrossAgencies", () => {
+  const websites = new Map([
+    ["acme", "https://www.acme.com/"],
+    ["globex", "https://globex.io/"],
+  ]);
+
+  it("keeps the entry whose agency domain matches the case study host", () => {
+    const entries = [
+      { url: "https://acme.com/work/one", agencySlug: "globex" },
+      { url: "https://acme.com/work/one", agencySlug: "acme" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual([
+      { url: "https://acme.com/work/one", agencySlug: "acme" },
+    ]);
+  });
+
+  it("keeps the first entry when no agency domain matches", () => {
+    const entries = [
+      { url: "https://other.com/work/one", agencySlug: "acme" },
+      { url: "https://other.com/work/one", agencySlug: "globex" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual([
+      { url: "https://other.com/work/one", agencySlug: "acme" },
+    ]);
+  });
+
+  it("leaves unique URLs untouched and preserves order", () => {
+    const entries = [
+      { url: "https://globex.io/work/b", agencySlug: "globex" },
+      { url: "https://acme.com/work/a", agencySlug: "acme" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual(entries);
+  });
 });
 
 describe("cleanCaseStudyTitle", () => {
@@ -161,6 +223,21 @@ describe("isReadableTitle", () => {
     expect(isReadableTitle("")).toBe(false);
     expect(isReadableTitle("✶ Experience")).toBe(true);
     expect(isReadableTitle("Dublin Dance Festival 2024")).toBe(true);
+  });
+
+  it("rejects generic media placeholders", () => {
+    expect(isReadableTitle("image")).toBe(false);
+    expect(isReadableTitle("Video")).toBe(false);
+    expect(isReadableTitle("Images")).toBe(false);
+    expect(isReadableTitle("Imagery Studio")).toBe(true);
+  });
+
+  it("rejects letter-spaced animation markup", () => {
+    expect(isReadableTitle("H u t t e")).toBe(false);
+    expect(isReadableTitle("04 W o r l d W o r l d")).toBe(false);
+    expect(isReadableTitle("F F E R N")).toBe(false);
+    expect(isReadableTitle("Made by James")).toBe(true);
+    expect(isReadableTitle("A B C")).toBe(true);
   });
 });
 

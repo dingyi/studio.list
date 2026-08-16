@@ -10,6 +10,7 @@ import screenshotManifestData from "../src/data/screenshot-manifest.json";
 import {
   caseStudyId,
   cleanCaseStudyTitle,
+  dedupeAcrossAgencies,
   entriesHash,
   extractCaseStudyLinks,
   findWorkPageUrl,
@@ -381,9 +382,15 @@ try {
   await browser.close();
 }
 
-const allEntries = Array.from(entriesBySlug.values())
-  .flat()
-  .sort((left, right) => right.capturedAt.localeCompare(left.capturedAt));
+const websiteBySlug = new Map(
+  agencies.map((agency) => [agency.slug, agency.website]),
+);
+const allEntries = dedupeAcrossAgencies(
+  Array.from(entriesBySlug.values())
+    .flat()
+    .sort((left, right) => right.capturedAt.localeCompare(left.capturedAt)),
+  websiteBySlug,
+);
 const temporaryDataPath = `${dataPath}.${process.pid}.${Date.now()}.tmp`;
 await writeFile(temporaryDataPath, `${JSON.stringify(allEntries, null, 2)}\n`);
 await rename(temporaryDataPath, dataPath);
