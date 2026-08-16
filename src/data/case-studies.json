@@ -1,5 +1,245 @@
 [
   {
+    "id": "99089c099fb7",
+    "agencySlug": "and-walsh",
+    "title": "Olly",
+    "url": "https://andwalsh.com/work/all/olly/",
+    "image": "/case-studies/and-walsh/99089c099fb7.webp",
+    "capturedAt": "2026-08-16T20:48:27.577Z"
+  },
+  {
+    "id": "e3fe6b3a943a",
+    "agencySlug": "and-walsh",
+    "title": "Up in Arms",
+    "url": "https://andwalsh.com/work/all/up-in-arms/",
+    "image": "/case-studies/and-walsh/e3fe6b3a943a.webp",
+    "capturedAt": "2026-08-16T20:48:19.405Z"
+  },
+  {
+    "id": "7c36f5fe11ff",
+    "agencySlug": "and-walsh",
+    "title": "BATCH",
+    "url": "https://andwalsh.com/work/all/batch/",
+    "image": "/case-studies/and-walsh/7c36f5fe11ff.webp",
+    "capturedAt": "2026-08-16T20:48:11.384Z"
+  },
+  {
+    "id": "125b9490933b",
+    "agencySlug": "and-walsh",
+    "title": "Coolhaus",
+    "url": "https://andwalsh.com/work/all/coolhaus/",
+    "image": "/case-studies/and-walsh/125b9490933b.webp",
+    "capturedAt": "2026-08-16T20:48:03.734Z"
+  },
+  {
+    "id": "c121490bb86a",
+    "agencySlug": "and-walsh",
+    "title": "GoodRx",
+    "url": "https://andwalsh.com/work/all/goodrx/",
+    "image": "/case-studies/and-walsh/c121490bb86a.webp",
+    "capturedAt": "2026-08-16T20:47:55.554Z"
+  },
+  {
+    "id": "6a9524415254",
+    "agencySlug": "and-walsh",
+    "title": "Coconut Cult",
+    "url": "https://andwalsh.com/work/all/coconut-cult/",
+    "image": "/case-studies/and-walsh/6a9524415254.webp",
+    "capturedAt": "2026-08-16T20:47:48.035Z"
+  },
+  {
+    "id": "438298f3a7cb",
+    "agencySlug": "from-form",
+    "title": "Fairphone 6 Launch Film",
+    "url": "https://fromform.nl/project/fairphone-6/",
+    "image": "/case-studies/from-form/438298f3a7cb.webp",
+    "capturedAt": "2026-08-16T20:47:01.904Z"
+  },
+  {
+    "id": "f1af664faac7",
+    "agencySlug": "from-form",
+    "title": "Tempo What Does Thinking Mean to You?",
+    "url": "https://fromform.nl/project/tempo-what-does-thinking-mean-to-you/",
+    "image": "/case-studies/from-form/f1af664faac7.webp",
+    "capturedAt": "2026-08-16T20:46:55.383Z"
+  },
+  {
+    "id": "ef86740e4b71",
+    "agencySlug": "from-form",
+    "title": "fern an orchard stroll",
+    "url": "https://fromform.nl/project/fern-an-orchard-stroll/",
+    "image": "/case-studies/from-form/ef86740e4b71.webp",
+    "capturedAt": "2026-08-16T20:46:48.539Z"
+  },
+  {
+    "id": "d0ab75845ee1",
+    "agencySlug": "from-form",
+    "title": "Amsterdam Museum",
+    "url": "https://fromform.nl/project/amsterdam-museum-night-campaign-2025/",
+    "image": "/case-studies/from-form/d0ab75845ee1.webp",
+    "capturedAt": "2026-08-16T20:46:43.257Z"
+  },
+  {
+    "id": "f5d8f133fa77",
+    "agencySlug": "from-form",
+    "title": "AUDEMARS PIGUET",
+    "url": "https://fromform.nl/project/audemars-piguet-where-time-begins/",
+    "image": "/case-studies/from-form/f5d8f133fa77.webp",
+    "capturedAt": "2026-08-16T20:46:36.473Z"
+  },
+  {
+    "id": "7b5bf0090f1a",
+    "agencySlug": "from-form",
+    "title": "ffern the seed guardians",
+    "url": "https://fromform.nl/project/ffern-the-seed-guardians/",
+    "image": "/case-studies/from-form/7b5bf0090f1a.webp",
+    "capturedAt": "2026-08-16T20:46:29.854Z"
+  },
+  {
+    "id": "7e21507e19a7",
+    "agencySlug": "hug",
+    "title": "HEAP pop up store @ SHIBUYA PARCO",
+    "url": "https://h-u-g.co.jp/projects/1927",
+    "image": "/case-studies/hug/7e21507e19a7.webp",
+    "capturedAt": "2026-08-16T20:46:18.801Z"
+  },
+  {
+    "id": "c9dd75df2078",
+    "agencySlug": "hug",
+    "title": "Podcast 「月曜、朝のさかだち」 by ORBIS",
+    "url": "https://h-u-g.co.jp/projects/1505",
+    "image": "/case-studies/hug/c9dd75df2078.webp",
+    "capturedAt": "2026-08-16T20:46:14.818Z"
+  },
+  {
+    "id": "144bd7e1adf5",
+    "agencySlug": "hug",
+    "title": "Podcast 「take me high(er)」",
+    "url": "https://h-u-g.co.jp/projects/1503",
+    "image": "/case-studies/hug/144bd7e1adf5.webp",
+    "capturedAt": "2026-08-16T20:46:11.518Z"
+  },
+  {
+    "id": "2eb64dc08c0c",
+    "agencySlug": "hug",
+    "title": "2227",
+    "url": "https://h-u-g.co.jp/projects/2227",
+    "image": "/case-studies/hug/2eb64dc08c0c.webp",
+    "capturedAt": "2026-08-16T20:46:08.033Z"
+  },
+  {
+    "id": "87d6c0f58f50",
+    "agencySlug": "hug",
+    "title": "⼋⽊華／James Perolls Exhibition「Distance 反射する眼差し」",
+    "url": "https://h-u-g.co.jp/projects/2237",
+    "image": "/case-studies/hug/87d6c0f58f50.webp",
+    "capturedAt": "2026-08-16T20:46:04.401Z"
+  },
+  {
+    "id": "edf3228694d8",
+    "agencySlug": "hug",
+    "title": "Moeka Shiotsuka Jaguar® moni",
+    "url": "https://h-u-g.co.jp/projects/2256",
+    "image": "/case-studies/hug/edf3228694d8.webp",
+    "capturedAt": "2026-08-16T20:46:01.900Z"
+  },
+  {
+    "id": "4db72b2a38bf",
+    "agencySlug": "konpo",
+    "title": "Design for DevOps in Salesforce",
+    "url": "https://www.konpo.studio/work/hutte",
+    "image": "/case-studies/konpo/4db72b2a38bf.webp",
+    "capturedAt": "2026-08-16T20:45:46.863Z"
+  },
+  {
+    "id": "184ef29aa813",
+    "agencySlug": "konpo",
+    "title": "Swiss Precision for Hair & Skin",
+    "url": "https://www.konpo.studio/work/hair-skin",
+    "image": "/case-studies/konpo/184ef29aa813.webp",
+    "capturedAt": "2026-08-16T20:45:42.245Z"
+  },
+  {
+    "id": "552242018fc4",
+    "agencySlug": "konpo",
+    "title": "The Strength Machine for Modern Life",
+    "url": "https://www.konpo.studio/work/amp",
+    "image": "/case-studies/konpo/552242018fc4.webp",
+    "capturedAt": "2026-08-16T20:45:36.265Z"
+  },
+  {
+    "id": "cecc8e48540c",
+    "agencySlug": "konpo",
+    "title": "A Search Engine Designed from Right to Left.",
+    "url": "https://www.konpo.studio/work/fyler-search-engine",
+    "image": "/case-studies/konpo/cecc8e48540c.webp",
+    "capturedAt": "2026-08-16T20:45:34.143Z"
+  },
+  {
+    "id": "cd06493f961c",
+    "agencySlug": "konpo",
+    "title": "Playground",
+    "url": "https://www.konpo.studio/playground",
+    "image": "/case-studies/konpo/cd06493f961c.webp",
+    "capturedAt": "2026-08-16T20:45:32.225Z"
+  },
+  {
+    "id": "b315f871e23c",
+    "agencySlug": "konpo",
+    "title": "New Case Study",
+    "url": "https://www.konpo.studio/work/coachable",
+    "image": "/case-studies/konpo/b315f871e23c.webp",
+    "capturedAt": "2026-08-16T20:45:26.044Z"
+  },
+  {
+    "id": "770fe3c4b7d6",
+    "agencySlug": "unseen-studio",
+    "title": "Unseen World",
+    "url": "https://unseen.co/world/",
+    "image": "/case-studies/unseen-studio/770fe3c4b7d6.webp",
+    "capturedAt": "2026-08-16T20:45:07.295Z"
+  },
+  {
+    "id": "2fe734ba72ed",
+    "agencySlug": "noomo",
+    "title": "Salesforce OEHU Website Redesign",
+    "url": "https://noomoagency.com/work/salesforce-office-of-ethical-and-human-use-website-redesign",
+    "image": "/case-studies/noomo/2fe734ba72ed.webp",
+    "capturedAt": "2026-08-16T20:44:49.630Z"
+  },
+  {
+    "id": "21053caa51fa",
+    "agencySlug": "noomo",
+    "title": "AMD AI Factory Event Experience",
+    "url": "https://noomoagency.com/work/amd-ai-factory-digital-event-experience",
+    "image": "/case-studies/noomo/21053caa51fa.webp",
+    "capturedAt": "2026-08-16T20:44:43.814Z"
+  },
+  {
+    "id": "1dfc7be9d223",
+    "agencySlug": "noomo",
+    "title": "Gen Z Broke the Marketing Funnel, a report for Vogue Business / Archrival",
+    "url": "https://noomoagency.com/work/vogue-business-gen-z-report-editorial-website",
+    "image": "/case-studies/noomo/1dfc7be9d223.webp",
+    "capturedAt": "2026-08-16T20:44:38.028Z"
+  },
+  {
+    "id": "7e615f2dd9b9",
+    "agencySlug": "noomo",
+    "title": "Salesforce 3D Platform Design",
+    "url": "https://noomoagency.com/work/enterprise-3d-platform-website-salesforce",
+    "image": "/case-studies/noomo/7e615f2dd9b9.webp",
+    "capturedAt": "2026-08-16T20:44:34.639Z"
+  },
+  {
+    "id": "9617af90004f",
+    "agencySlug": "noomo",
+    "title": "Warriors and Coinbase Fan Collectible",
+    "url": "https://noomoagency.com/work/microsite-golden-state-warriors-and-coinbase-collectible",
+    "image": "/case-studies/noomo/9617af90004f.webp",
+    "capturedAt": "2026-08-16T20:44:28.902Z"
+  },
+  {
     "id": "08963798b800",
     "agencySlug": "firma",
     "title": "Akaneya A sensory journey into the heart of Japan",
@@ -246,22 +486,6 @@
     "url": "https://dutch.scot/projects/kai-enzo/",
     "image": "/case-studies/dutchscot/473d7cec6f3c.webp",
     "capturedAt": "2026-08-16T20:38:22.560Z"
-  },
-  {
-    "id": "2fe734ba72ed",
-    "agencySlug": "noomo",
-    "title": "image",
-    "url": "https://noomoagency.com/work/salesforce-office-of-ethical-and-human-use-website-redesign",
-    "image": "/case-studies/noomo/2fe734ba72ed.webp",
-    "capturedAt": "2026-08-16T20:37:22.495Z"
-  },
-  {
-    "id": "21053caa51fa",
-    "agencySlug": "noomo",
-    "title": "image",
-    "url": "https://noomoagency.com/work/amd-ai-factory-digital-event-experience",
-    "image": "/case-studies/noomo/21053caa51fa.webp",
-    "capturedAt": "2026-08-16T20:37:16.771Z"
   },
   {
     "id": "4168d8ed45db",
@@ -560,14 +784,6 @@
     "capturedAt": "2026-08-16T20:28:02.754Z"
   },
   {
-    "id": "99089c099fb7",
-    "agencySlug": "and-walsh",
-    "title": "Thumbnail",
-    "url": "https://andwalsh.com/work/all/olly/",
-    "image": "/case-studies/and-walsh/99089c099fb7.webp",
-    "capturedAt": "2026-08-16T20:27:53.580Z"
-  },
-  {
     "id": "af7214956f3d",
     "agencySlug": "wrs",
     "title": "Rekonfa",
@@ -622,14 +838,6 @@
     "url": "https://worth.agency/projects/merry-berry",
     "image": "/case-studies/worth-agency/2fa102ad4316.webp",
     "capturedAt": "2026-08-16T20:27:45.024Z"
-  },
-  {
-    "id": "e3fe6b3a943a",
-    "agencySlug": "and-walsh",
-    "title": "Thumbnail",
-    "url": "https://andwalsh.com/work/all/up-in-arms/",
-    "image": "/case-studies/and-walsh/e3fe6b3a943a.webp",
-    "capturedAt": "2026-08-16T20:27:44.683Z"
   },
   {
     "id": "b859e29b5256",
@@ -696,14 +904,6 @@
     "capturedAt": "2026-08-16T20:27:36.994Z"
   },
   {
-    "id": "7c36f5fe11ff",
-    "agencySlug": "and-walsh",
-    "title": "Thumbnail",
-    "url": "https://andwalsh.com/work/all/batch/",
-    "image": "/case-studies/and-walsh/7c36f5fe11ff.webp",
-    "capturedAt": "2026-08-16T20:27:36.069Z"
-  },
-  {
     "id": "c5c3102af2cb",
     "agencySlug": "wonderworks",
     "title": "More",
@@ -768,14 +968,6 @@
     "capturedAt": "2026-08-16T20:27:26.418Z"
   },
   {
-    "id": "125b9490933b",
-    "agencySlug": "and-walsh",
-    "title": "Thumbnail",
-    "url": "https://andwalsh.com/work/all/coolhaus/",
-    "image": "/case-studies/and-walsh/125b9490933b.webp",
-    "capturedAt": "2026-08-16T20:27:24.711Z"
-  },
-  {
     "id": "caaf037b75d9",
     "agencySlug": "whatever-studio",
     "title": "Universal Diamonds",
@@ -822,14 +1014,6 @@
     "url": "https://whatever.studio/project/teddy-baldassarre",
     "image": "/case-studies/whatever-studio/950ab5dcd2ca.webp",
     "capturedAt": "2026-08-16T20:27:17.313Z"
-  },
-  {
-    "id": "c121490bb86a",
-    "agencySlug": "and-walsh",
-    "title": "Thumbnail",
-    "url": "https://andwalsh.com/work/all/goodrx/",
-    "image": "/case-studies/and-walsh/c121490bb86a.webp",
-    "capturedAt": "2026-08-16T20:27:17.257Z"
   },
   {
     "id": "0ba2f43b2de8",
@@ -886,14 +1070,6 @@
     "url": "https://we-go-again.com/work/battle-of-the-baddest",
     "image": "/case-studies/we-go-again/1aa2ae084ddb.webp",
     "capturedAt": "2026-08-16T20:27:10.844Z"
-  },
-  {
-    "id": "6a9524415254",
-    "agencySlug": "and-walsh",
-    "title": "Thumbnail",
-    "url": "https://andwalsh.com/work/all/coconut-cult/",
-    "image": "/case-studies/and-walsh/6a9524415254.webp",
-    "capturedAt": "2026-08-16T20:27:09.572Z"
   },
   {
     "id": "278d0b56b6f9",
@@ -1006,14 +1182,6 @@
     "url": "https://unset.studio/work/yambo-studio",
     "image": "/case-studies/unset/98b1408f58b2.webp",
     "capturedAt": "2026-08-16T20:26:38.597Z"
-  },
-  {
-    "id": "770fe3c4b7d6",
-    "agencySlug": "unseen-studio",
-    "title": "04 W o r l d W o r l d",
-    "url": "https://unseen.co/world/",
-    "image": "/case-studies/unseen-studio/770fe3c4b7d6.webp",
-    "capturedAt": "2026-08-16T20:26:37.940Z"
   },
   {
     "id": "74bd7d09d8cb",
@@ -3912,14 +4080,6 @@
     "capturedAt": "2026-08-16T20:19:43.875Z"
   },
   {
-    "id": "1dfc7be9d223",
-    "agencySlug": "noomo",
-    "title": "Gen Z Broke the Marketing Funnel, a report for Vogue Business / Archrival",
-    "url": "https://noomoagency.com/work/vogue-business-gen-z-report-editorial-website",
-    "image": "/case-studies/noomo/1dfc7be9d223.webp",
-    "capturedAt": "2026-08-16T20:19:43.844Z"
-  },
-  {
     "id": "f44fc1fe11fd",
     "agencySlug": "oddcommon",
     "title": "Snap Agency Adventure Helping Snap disrupt the media roadshow with a throwback to 8-bit…",
@@ -3942,14 +4102,6 @@
     "url": "https://www.omfgco.com/project/bar-velvet",
     "image": "/case-studies/omfgco/f10bfcbf6185.webp",
     "capturedAt": "2026-08-16T20:19:38.418Z"
-  },
-  {
-    "id": "7e615f2dd9b9",
-    "agencySlug": "noomo",
-    "title": "image",
-    "url": "https://noomoagency.com/work/enterprise-3d-platform-website-salesforce",
-    "image": "/case-studies/noomo/7e615f2dd9b9.webp",
-    "capturedAt": "2026-08-16T20:19:37.712Z"
   },
   {
     "id": "b68ad6f98a21",
@@ -4014,14 +4166,6 @@
     "url": "https://www.omfgco.com/project/quincy",
     "image": "/case-studies/omfgco/0ae52a6f4cfb.webp",
     "capturedAt": "2026-08-16T20:19:30.847Z"
-  },
-  {
-    "id": "9617af90004f",
-    "agencySlug": "noomo",
-    "title": "image",
-    "url": "https://noomoagency.com/work/microsite-golden-state-warriors-and-coinbase-collectible",
-    "image": "/case-studies/noomo/9617af90004f.webp",
-    "capturedAt": "2026-08-16T20:19:30.639Z"
   },
   {
     "id": "5ea0af34a3c0",
@@ -5480,14 +5624,6 @@
     "capturedAt": "2026-08-16T20:16:00.659Z"
   },
   {
-    "id": "4db72b2a38bf",
-    "agencySlug": "konpo",
-    "title": "H u t t e",
-    "url": "https://www.konpo.studio/work/hutte",
-    "image": "/case-studies/konpo/4db72b2a38bf.webp",
-    "capturedAt": "2026-08-16T20:15:59.613Z"
-  },
-  {
     "id": "47fcf460e594",
     "agencySlug": "liquorice",
     "title": "Lighting the way for primary health care nurses",
@@ -5510,14 +5646,6 @@
     "url": "https://kyan.com/work/28x",
     "image": "/case-studies/kyan/13afd7dc79f6.webp",
     "capturedAt": "2026-08-16T20:15:54.587Z"
-  },
-  {
-    "id": "184ef29aa813",
-    "agencySlug": "konpo",
-    "title": "H a i r & S k i n",
-    "url": "https://www.konpo.studio/work/hair-skin",
-    "image": "/case-studies/konpo/184ef29aa813.webp",
-    "capturedAt": "2026-08-16T20:15:53.419Z"
   },
   {
     "id": "b4062bf719b8",
@@ -5560,14 +5688,6 @@
     "capturedAt": "2026-08-16T20:15:47.783Z"
   },
   {
-    "id": "552242018fc4",
-    "agencySlug": "konpo",
-    "title": "The Strength Machine for Modern Life",
-    "url": "https://www.konpo.studio/work/amp",
-    "image": "/case-studies/konpo/552242018fc4.webp",
-    "capturedAt": "2026-08-16T20:15:47.183Z"
-  },
-  {
     "id": "cb756a573f1c",
     "agencySlug": "jam3",
     "title": "Causal Impact Analysis",
@@ -5584,14 +5704,6 @@
     "capturedAt": "2026-08-16T20:15:44.416Z"
   },
   {
-    "id": "cecc8e48540c",
-    "agencySlug": "konpo",
-    "title": "F y l e r",
-    "url": "https://www.konpo.studio/work/fyler-search-engine",
-    "image": "/case-studies/konpo/cecc8e48540c.webp",
-    "capturedAt": "2026-08-16T20:15:44.097Z"
-  },
-  {
     "id": "1c9940cb2489",
     "agencySlug": "lance",
     "title": "agro logo",
@@ -5606,14 +5718,6 @@
     "url": "https://lancedraws.com/work/bankjoy",
     "image": "/case-studies/lance/761ccef42847.webp",
     "capturedAt": "2026-08-16T20:15:41.986Z"
-  },
-  {
-    "id": "cd06493f961c",
-    "agencySlug": "konpo",
-    "title": "Playground",
-    "url": "https://www.konpo.studio/playground",
-    "image": "/case-studies/konpo/cd06493f961c.webp",
-    "capturedAt": "2026-08-16T20:15:40.657Z"
   },
   {
     "id": "8fd1ba3eab6f",
@@ -5662,14 +5766,6 @@
     "url": "https://lancedraws.com/work/bmrks",
     "image": "/case-studies/lance/03c122e3e120.webp",
     "capturedAt": "2026-08-16T20:15:33.669Z"
-  },
-  {
-    "id": "b315f871e23c",
-    "agencySlug": "konpo",
-    "title": "New Case Study",
-    "url": "https://www.konpo.studio/work/coachable",
-    "image": "/case-studies/konpo/b315f871e23c.webp",
-    "capturedAt": "2026-08-16T20:15:32.580Z"
   },
   {
     "id": "e13679ceebd9",
@@ -5888,14 +5984,6 @@
     "capturedAt": "2026-08-16T20:14:45.666Z"
   },
   {
-    "id": "7e21507e19a7",
-    "agencySlug": "hug",
-    "title": "HEAP pop up store @ SHIBUYA PARCO",
-    "url": "https://h-u-g.co.jp/projects/1927",
-    "image": "/case-studies/hug/7e21507e19a7.webp",
-    "capturedAt": "2026-08-16T20:14:43.807Z"
-  },
-  {
     "id": "894f37cec0db",
     "agencySlug": "ideo",
     "title": "An in-store experience for the digital era",
@@ -5918,14 +6006,6 @@
     "url": "https://www.ideo.com/case-study/ford",
     "image": "/case-studies/ideo/8a92b0eb466f.webp",
     "capturedAt": "2026-08-16T20:14:39.460Z"
-  },
-  {
-    "id": "c9dd75df2078",
-    "agencySlug": "hug",
-    "title": "Podcast 「月曜、朝のさかだち」 by ORBIS",
-    "url": "https://h-u-g.co.jp/projects/1505",
-    "image": "/case-studies/hug/c9dd75df2078.webp",
-    "capturedAt": "2026-08-16T20:14:39.310Z"
   },
   {
     "id": "f9641fb0b435",
@@ -5976,14 +6056,6 @@
     "capturedAt": "2026-08-16T20:14:36.100Z"
   },
   {
-    "id": "144bd7e1adf5",
-    "agencySlug": "hug",
-    "title": "Podcast 「take me high(er)」",
-    "url": "https://h-u-g.co.jp/projects/1503",
-    "image": "/case-studies/hug/144bd7e1adf5.webp",
-    "capturedAt": "2026-08-16T20:14:36.087Z"
-  },
-  {
     "id": "8c26841b16f7",
     "agencySlug": "ideo",
     "title": "Accelerating the future of air travel",
@@ -6016,14 +6088,6 @@
     "capturedAt": "2026-08-16T20:14:32.890Z"
   },
   {
-    "id": "2eb64dc08c0c",
-    "agencySlug": "hug",
-    "title": "羊文学 「D o n ‘ t L a u g h I t O f f」 AL artwork",
-    "url": "https://h-u-g.co.jp/projects/2227",
-    "image": "/case-studies/hug/2eb64dc08c0c.webp",
-    "capturedAt": "2026-08-16T20:14:32.168Z"
-  },
-  {
     "id": "f2ff208cdcd5",
     "agencySlug": "hoodzpah",
     "title": "Branding",
@@ -6046,14 +6110,6 @@
     "url": "https://houth.tw/Flo-Flow-Flower",
     "image": "/case-studies/houth/014d47e55358.webp",
     "capturedAt": "2026-08-16T20:14:29.652Z"
-  },
-  {
-    "id": "87d6c0f58f50",
-    "agencySlug": "hug",
-    "title": "⼋⽊華／James Perolls Exhibition「Distance 反射する眼差し」",
-    "url": "https://h-u-g.co.jp/projects/2237",
-    "image": "/case-studies/hug/87d6c0f58f50.webp",
-    "capturedAt": "2026-08-16T20:14:28.637Z"
   },
   {
     "id": "190c382264b2",
@@ -6086,14 +6142,6 @@
     "url": "https://www.holy.gd/projects/useberry",
     "image": "/case-studies/h-ly/5801a7194996.webp",
     "capturedAt": "2026-08-16T20:14:26.342Z"
-  },
-  {
-    "id": "edf3228694d8",
-    "agencySlug": "hug",
-    "title": "Moeka Shiotsuka Jaguar® moni",
-    "url": "https://h-u-g.co.jp/projects/2256",
-    "image": "/case-studies/hug/edf3228694d8.webp",
-    "capturedAt": "2026-08-16T20:14:26.279Z"
   },
   {
     "id": "16c53e6fa82e",
@@ -7336,14 +7384,6 @@
     "capturedAt": "2026-08-16T20:09:18.014Z"
   },
   {
-    "id": "438298f3a7cb",
-    "agencySlug": "from-form",
-    "title": "Fairphone 6 Launch Film",
-    "url": "https://fromform.nl/project/fairphone-6/",
-    "image": "/case-studies/from-form/438298f3a7cb.webp",
-    "capturedAt": "2026-08-16T20:09:16.234Z"
-  },
-  {
     "id": "db433010c8ed",
     "agencySlug": "garden-eight",
     "title": "Anai Wood",
@@ -7416,14 +7456,6 @@
     "capturedAt": "2026-08-16T20:09:07.298Z"
   },
   {
-    "id": "f1af664faac7",
-    "agencySlug": "from-form",
-    "title": "Tempo What Does Thinking Mean to You?",
-    "url": "https://fromform.nl/project/tempo-what-does-thinking-mean-to-you/",
-    "image": "/case-studies/from-form/f1af664faac7.webp",
-    "capturedAt": "2026-08-16T20:09:07.292Z"
-  },
-  {
     "id": "e0d56088448c",
     "agencySlug": "future-facility",
     "title": "Learn more",
@@ -7464,28 +7496,12 @@
     "capturedAt": "2026-08-16T20:09:01.786Z"
   },
   {
-    "id": "ef86740e4b71",
-    "agencySlug": "from-form",
-    "title": "F F E R N",
-    "url": "https://fromform.nl/project/fern-an-orchard-stroll/",
-    "image": "/case-studies/from-form/ef86740e4b71.webp",
-    "capturedAt": "2026-08-16T20:08:59.994Z"
-  },
-  {
     "id": "696f2fece9c4",
     "agencySlug": "garden-eight",
     "title": "Takamitsu Motoyoshi",
     "url": "https://garden-eight.com/cases/photoyoshi/",
     "image": "/case-studies/garden-eight/696f2fece9c4.webp",
     "capturedAt": "2026-08-16T20:08:59.264Z"
-  },
-  {
-    "id": "d0ab75845ee1",
-    "agencySlug": "from-form",
-    "title": "Amsterdam Museum",
-    "url": "https://fromform.nl/project/amsterdam-museum-night-campaign-2025/",
-    "image": "/case-studies/from-form/d0ab75845ee1.webp",
-    "capturedAt": "2026-08-16T20:08:55.590Z"
   },
   {
     "id": "78c799128759",
@@ -7544,14 +7560,6 @@
     "capturedAt": "2026-08-16T20:08:41.390Z"
   },
   {
-    "id": "f5d8f133fa77",
-    "agencySlug": "from-form",
-    "title": "AUDEMARS PIGUET",
-    "url": "https://fromform.nl/project/audemars-piguet-where-time-begins/",
-    "image": "/case-studies/from-form/f5d8f133fa77.webp",
-    "capturedAt": "2026-08-16T20:08:40.790Z"
-  },
-  {
     "id": "30e6eeebdaa8",
     "agencySlug": "friendly-studio",
     "title": "Enhancing the Superpowered experience with a new design system",
@@ -7582,14 +7590,6 @@
     "url": "https://www.friendly.studio/work/clava",
     "image": "/case-studies/friendly-studio/fc988f874b86.webp",
     "capturedAt": "2026-08-16T20:08:35.045Z"
-  },
-  {
-    "id": "7b5bf0090f1a",
-    "agencySlug": "from-form",
-    "title": "F F E R N",
-    "url": "https://fromform.nl/project/ffern-the-seed-guardians/",
-    "image": "/case-studies/from-form/7b5bf0090f1a.webp",
-    "capturedAt": "2026-08-16T20:08:33.191Z"
   },
   {
     "id": "b9e6b11354ea",
