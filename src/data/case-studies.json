@@ -1,5 +1,53 @@
 [
   {
+    "id": "560fd3a1177c",
+    "agencySlug": "little-plains",
+    "title": "Rise Plasma",
+    "url": "https://littleplains.com/projects/riseplasma",
+    "image": "/case-studies/little-plains/560fd3a1177c.webp",
+    "capturedAt": "2026-08-17T14:17:56.161Z"
+  },
+  {
+    "id": "3eecc79d0291",
+    "agencySlug": "little-plains",
+    "title": "Camber",
+    "url": "https://littleplains.com/projects/camber",
+    "image": "/case-studies/little-plains/3eecc79d0291.webp",
+    "capturedAt": "2026-08-17T14:17:53.557Z"
+  },
+  {
+    "id": "3987bcbb46fa",
+    "agencySlug": "little-plains",
+    "title": "Catalog",
+    "url": "https://littleplains.com/projects/catalog",
+    "image": "/case-studies/little-plains/3987bcbb46fa.webp",
+    "capturedAt": "2026-08-17T14:17:51.222Z"
+  },
+  {
+    "id": "bb30a580df0c",
+    "agencySlug": "little-plains",
+    "title": "Odessia",
+    "url": "https://littleplains.com/projects/odessia",
+    "image": "/case-studies/little-plains/bb30a580df0c.webp",
+    "capturedAt": "2026-08-17T14:17:48.710Z"
+  },
+  {
+    "id": "5827449f83e7",
+    "agencySlug": "little-plains",
+    "title": "Eden",
+    "url": "https://littleplains.com/projects/eden",
+    "image": "/case-studies/little-plains/5827449f83e7.webp",
+    "capturedAt": "2026-08-17T14:17:46.152Z"
+  },
+  {
+    "id": "9be9c6ad7138",
+    "agencySlug": "little-plains",
+    "title": "Ease",
+    "url": "https://littleplains.com/projects/ease",
+    "image": "/case-studies/little-plains/9be9c6ad7138.webp",
+    "capturedAt": "2026-08-17T14:16:12.641Z"
+  },
+  {
     "id": "c68947efd848",
     "agencySlug": "made-by-aran",
     "title": "HighCohesion Rebrand",

@@ -211,5 +211,12 @@
     "homepageUrl": "https://www.madebyaran.com/",
     "workPageUrl": "https://www.madebyaran.com/projects",
     "capturedAt": "2026-08-17T04:27:50.226Z"
+  },
+  "little-plains": {
+    "status": "success",
+    "entriesHash": "7abc80599761819ca6a4458cfbfa62d42f95eb8ae7ebffe47672eecf54c3f6fa",
+    "homepageUrl": "https://littleplains.com/",
+    "workPageUrl": "https://littleplains.com/projects",
+    "capturedAt": "2026-08-17T14:17:38.014Z"
   }
 }
