@@ -6040,6 +6040,35 @@
     ]
   },
   {
+    "id": "ec1a97e37e896432",
+    "slug": "essen",
+    "name": "Essen",
+    "aliases": [],
+    "description": "We develop and manage brands for ambitious owners and teams",
+    "website": "https://esseninternational.com/",
+    "officialDomain": "esseninternational.com",
+    "locations": [
+      {
+        "code": "NL",
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "code": "SE",
+        "name": "Sweden",
+        "flag": "🇸🇪"
+      },
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/essen.webp",
+    "sourceLines": []
+  },
+  {
     "id": "c254f0b53a92e613",
     "slug": "est-6",
     "name": "EST+6",
@@ -11040,6 +11069,25 @@
     "sourceLines": [
       2578
     ]
+  },
+  {
+    "id": "168f0d9c099b0f82",
+    "slug": "made-by-aran",
+    "name": "Made by Aran",
+    "aliases": [],
+    "description": "We're a creative studio shaping how brands move through the world with intention.",
+    "website": "https://www.madebyaran.com/",
+    "officialDomain": "madebyaran.com",
+    "locations": [
+      {
+        "code": "ES",
+        "name": "Spain",
+        "flag": "🇪🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/made-by-aran.webp",
+    "sourceLines": []
   },
   {
     "id": "e3c52e1723af4d10",

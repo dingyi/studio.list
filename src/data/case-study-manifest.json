@@ -197,5 +197,19 @@
     "homepageUrl": "https://www.aircards.co/",
     "workPageUrl": "https://www.aircards.co/work",
     "capturedAt": "2026-08-05T13:18:04.110Z"
+  },
+  "essen": {
+    "status": "success",
+    "entriesHash": "3d29087d1537d67c8ae5f022da32129667f0914a04f0063b819272935fe0672f",
+    "homepageUrl": "https://esseninternational.com/",
+    "workPageUrl": "https://esseninternational.com/work/",
+    "capturedAt": "2026-08-17T04:27:21.800Z"
+  },
+  "made-by-aran": {
+    "status": "success",
+    "entriesHash": "210d19fc31290f7264118a5f8cdb287afa688f781886ff16bea2438a08e8422d",
+    "homepageUrl": "https://www.madebyaran.com/",
+    "workPageUrl": "https://www.madebyaran.com/projects",
+    "capturedAt": "2026-08-17T04:27:50.226Z"
   }
 }
