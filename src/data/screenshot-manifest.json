@@ -7008,5 +7008,19 @@
     "capturedAt": "2026-07-15T16:26:30.556Z",
     "requestedUrl": "https://yummygum.com/",
     "finalUrl": "https://yummygum.com/"
+  },
+  "essen": {
+    "status": "success",
+    "path": "/screenshots/essen.webp",
+    "capturedAt": "2026-08-17T04:26:52.456Z",
+    "requestedUrl": "https://esseninternational.com/",
+    "finalUrl": "https://esseninternational.com/"
+  },
+  "made-by-aran": {
+    "status": "success",
+    "path": "/screenshots/made-by-aran.webp",
+    "capturedAt": "2026-08-17T04:26:56.890Z",
+    "requestedUrl": "https://www.madebyaran.com/",
+    "finalUrl": "https://www.madebyaran.com/"
   }
 }
