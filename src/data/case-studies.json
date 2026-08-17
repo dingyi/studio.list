@@ -1,5 +1,101 @@
 [
   {
+    "id": "c68947efd848",
+    "agencySlug": "made-by-aran",
+    "title": "HighCohesion Rebrand",
+    "url": "https://www.madebyaran.com/projects/highcohesion",
+    "image": "/case-studies/made-by-aran/c68947efd848.webp",
+    "capturedAt": "2026-08-17T04:28:07.909Z"
+  },
+  {
+    "id": "b3a67a7a9b2c",
+    "agencySlug": "made-by-aran",
+    "title": "Flodesk Brand Refresh",
+    "url": "https://www.madebyaran.com/projects/flodesk-brand-refresh",
+    "image": "/case-studies/made-by-aran/b3a67a7a9b2c.webp",
+    "capturedAt": "2026-08-17T04:28:06.003Z"
+  },
+  {
+    "id": "4cb260c0c7d2",
+    "agencySlug": "made-by-aran",
+    "title": "VHIO Divulga",
+    "url": "https://www.madebyaran.com/projects/vhio-divulga",
+    "image": "/case-studies/made-by-aran/4cb260c0c7d2.webp",
+    "capturedAt": "2026-08-17T04:28:04.062Z"
+  },
+  {
+    "id": "77548521f534",
+    "agencySlug": "made-by-aran",
+    "title": "Mi Matrona",
+    "url": "https://www.madebyaran.com/projects/mi-matrona",
+    "image": "/case-studies/made-by-aran/77548521f534.webp",
+    "capturedAt": "2026-08-17T04:28:01.653Z"
+  },
+  {
+    "id": "07ddf8b14003",
+    "agencySlug": "made-by-aran",
+    "title": "OTSU",
+    "url": "https://www.madebyaran.com/projects/otsu",
+    "image": "/case-studies/made-by-aran/07ddf8b14003.webp",
+    "capturedAt": "2026-08-17T04:27:59.207Z"
+  },
+  {
+    "id": "bc2dd82c4c63",
+    "agencySlug": "made-by-aran",
+    "title": "Ensenyat Tarrida Arquitectes",
+    "url": "https://www.madebyaran.com/projects/ensenyat-tarrida-arquitectes",
+    "image": "/case-studies/made-by-aran/bc2dd82c4c63.webp",
+    "capturedAt": "2026-08-17T04:27:52.935Z"
+  },
+  {
+    "id": "17adcc4faff0",
+    "agencySlug": "essen",
+    "title": "SYENEX",
+    "url": "https://esseninternational.com/work/syenex/",
+    "image": "/case-studies/essen/17adcc4faff0.webp",
+    "capturedAt": "2026-08-17T04:27:43.127Z"
+  },
+  {
+    "id": "3f98b04afb19",
+    "agencySlug": "essen",
+    "title": "GEIA",
+    "url": "https://esseninternational.com/work/geia/",
+    "image": "/case-studies/essen/3f98b04afb19.webp",
+    "capturedAt": "2026-08-17T04:27:40.761Z"
+  },
+  {
+    "id": "898ab6022736",
+    "agencySlug": "essen",
+    "title": "NOOS",
+    "url": "https://esseninternational.com/work/noos/",
+    "image": "/case-studies/essen/898ab6022736.webp",
+    "capturedAt": "2026-08-17T04:27:34.727Z"
+  },
+  {
+    "id": "886ac94ef15d",
+    "agencySlug": "essen",
+    "title": "VARNA",
+    "url": "https://esseninternational.com/work/varna/",
+    "image": "/case-studies/essen/886ac94ef15d.webp",
+    "capturedAt": "2026-08-17T04:27:32.452Z"
+  },
+  {
+    "id": "94ca0f4dd1b7",
+    "agencySlug": "essen",
+    "title": "VISIT",
+    "url": "https://esseninternational.com/work/visit/",
+    "image": "/case-studies/essen/94ca0f4dd1b7.webp",
+    "capturedAt": "2026-08-17T04:27:30.201Z"
+  },
+  {
+    "id": "8182c42210fe",
+    "agencySlug": "essen",
+    "title": "AUDRIA",
+    "url": "https://esseninternational.com/work/audria/",
+    "image": "/case-studies/essen/8182c42210fe.webp",
+    "capturedAt": "2026-08-17T04:27:27.729Z"
+  },
+  {
     "id": "e4896d0d044d",
     "agencySlug": "aino",
     "title": "All Blues",
