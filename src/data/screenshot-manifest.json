@@ -7022,5 +7022,146 @@
     "capturedAt": "2026-08-17T04:26:56.890Z",
     "requestedUrl": "https://www.madebyaran.com/",
     "finalUrl": "https://www.madebyaran.com/"
+  },
+  "locomotive": {
+    "status": "success",
+    "path": "/screenshots/locomotive.webp",
+    "capturedAt": "2026-08-17T06:15:26.104Z",
+    "requestedUrl": "https://locomotive.ca/",
+    "finalUrl": "https://locomotive.ca/en"
+  },
+  "scale-and-form": {
+    "status": "success",
+    "path": "/screenshots/scale-and-form.webp",
+    "capturedAt": "2026-08-17T06:15:52.671Z",
+    "requestedUrl": "https://scfo.de/",
+    "finalUrl": "https://scfo.de/"
+  },
+  "stuffed-dog-digital": {
+    "status": "success",
+    "path": "/screenshots/stuffed-dog-digital.webp",
+    "capturedAt": "2026-08-17T06:15:55.715Z",
+    "requestedUrl": "https://www.stuffeddogdigital.com/",
+    "finalUrl": "https://stuffeddogdigital.com/"
+  },
+  "px-push": {
+    "status": "success",
+    "path": "/screenshots/px-push.webp",
+    "capturedAt": "2026-08-17T06:16:06.216Z",
+    "requestedUrl": "https://pxpush.com/",
+    "finalUrl": "https://pxpush.com/"
+  },
+  "pear": {
+    "status": "success",
+    "path": "/screenshots/pear.webp",
+    "capturedAt": "2026-08-17T06:16:24.471Z",
+    "requestedUrl": "https://pear.no/",
+    "finalUrl": "https://pear.no/"
+  },
+  "fuselab-creative": {
+    "status": "success",
+    "path": "/screenshots/fuselab-creative.webp",
+    "capturedAt": "2026-08-17T06:16:44.933Z",
+    "requestedUrl": "https://fuselabcreative.com/",
+    "finalUrl": "https://fuselabcreative.com/"
+  },
+  "motiondeep": {
+    "status": "failed",
+    "capturedAt": "2026-08-17T06:22:40.174Z",
+    "requestedUrl": "https://www.motiondeep.com/",
+    "finalUrl": "https://www.motiondeep.com/",
+    "error": "The WebGL homepage renders blank in the headless capture environment; no authentic capture available."
+  },
+  "okc-media": {
+    "status": "success",
+    "path": "/screenshots/okc-media.webp",
+    "capturedAt": "2026-08-17T06:20:58.107Z",
+    "requestedUrl": "https://okc.media/en/",
+    "finalUrl": "https://okc.media/en/"
+  },
+  "brikken-co": {
+    "status": "success",
+    "path": "/screenshots/brikken-co.webp",
+    "capturedAt": "2026-08-17T06:17:27.437Z",
+    "requestedUrl": "https://www.brikken.co/",
+    "finalUrl": "https://www.brikken.co/"
+  },
+  "orma-games": {
+    "status": "success",
+    "path": "/screenshots/orma-games.webp",
+    "capturedAt": "2026-08-17T06:23:32.115Z",
+    "requestedUrl": "https://orma.games/",
+    "finalUrl": "https://orma.games/"
+  },
+  "projectone": {
+    "status": "success",
+    "path": "/screenshots/projectone.webp",
+    "capturedAt": "2026-08-17T06:17:36.762Z",
+    "requestedUrl": "https://www.projectone.website/",
+    "finalUrl": "https://www.projectone.website/"
+  },
+  "lut-studios": {
+    "status": "success",
+    "path": "/screenshots/lut-studios.webp",
+    "capturedAt": "2026-08-17T06:17:40.084Z",
+    "requestedUrl": "https://lutstudios.com/",
+    "finalUrl": "https://lutstudios.com/"
+  },
+  "harrison-carloss": {
+    "status": "success",
+    "path": "/screenshots/harrison-carloss.webp",
+    "capturedAt": "2026-08-17T06:17:51.222Z",
+    "requestedUrl": "https://harrisoncarloss.com/",
+    "finalUrl": "https://harrisoncarloss.com/"
+  },
+  "a-lign-studio": {
+    "status": "success",
+    "path": "/screenshots/a-lign-studio.webp",
+    "capturedAt": "2026-08-17T06:23:10.492Z",
+    "requestedUrl": "https://www.a-lign.studio/",
+    "finalUrl": "https://www.a-lign.studio/"
+  },
+  "boc-studio": {
+    "status": "success",
+    "path": "/screenshots/boc-studio.webp",
+    "capturedAt": "2026-08-17T06:18:05.164Z",
+    "requestedUrl": "https://boc.studio/",
+    "finalUrl": "https://boc.studio/"
+  },
+  "nothin": {
+    "status": "success",
+    "path": "/screenshots/nothin.webp",
+    "capturedAt": "2026-08-17T06:21:03.611Z",
+    "requestedUrl": "https://www.noth.in/",
+    "finalUrl": "https://www.noth.in/"
+  },
+  "y-vision": {
+    "status": "success",
+    "path": "/screenshots/y-vision.webp",
+    "capturedAt": "2026-08-17T06:18:20.016Z",
+    "requestedUrl": "https://y-vision.co.kr/",
+    "finalUrl": "https://y-vision.co.kr/"
+  },
+  "sly": {
+    "status": "success",
+    "path": "/screenshots/sly.webp",
+    "capturedAt": "2026-08-17T06:18:23.994Z",
+    "requestedUrl": "https://sly.systems/",
+    "finalUrl": "https://sly.systems/"
+  },
+  "produx-design": {
+    "status": "success",
+    "capturedAt": "2026-08-17T06:18:34.011Z",
+    "requestedUrl": "https://www.produx.design/",
+    "finalUrl": "https://www.produx.design/",
+    "path": "/screenshots/produx-design.webp",
+    "reviewedAt": "2026-08-17T06:19:38.906Z"
+  },
+  "ghost-pitcher": {
+    "status": "success",
+    "path": "/screenshots/ghost-pitcher.webp",
+    "capturedAt": "2026-08-17T06:18:39.734Z",
+    "requestedUrl": "https://www.ghost-pitcher.com/",
+    "finalUrl": "https://www.ghost-pitcher.com/"
   }
 }
