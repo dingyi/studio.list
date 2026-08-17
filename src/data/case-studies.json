@@ -1,5 +1,173 @@
 [
   {
+    "id": "54a89c0f194d",
+    "agencySlug": "fuselab-creative",
+    "title": "ClyHealth Healthcare Dashboard Design and AI Interface",
+    "url": "https://fuselabcreative.com/our-projects/clyhealth-dashboard-design/",
+    "image": "/case-studies/fuselab-creative/54a89c0f194d.webp",
+    "capturedAt": "2026-08-17T06:30:28.291Z"
+  },
+  {
+    "id": "015f77ec15b5",
+    "agencySlug": "fuselab-creative",
+    "title": "Stardog Voicebox Conversational AI Interface Design",
+    "url": "https://fuselabcreative.com/our-projects/stardog-conversational-ai/",
+    "image": "/case-studies/fuselab-creative/015f77ec15b5.webp",
+    "capturedAt": "2026-08-17T06:30:21.242Z"
+  },
+  {
+    "id": "115dad2903d1",
+    "agencySlug": "fuselab-creative",
+    "title": "Spectra Stadium",
+    "url": "https://fuselabcreative.com/our-projects/spectra-stadium/",
+    "image": "/case-studies/fuselab-creative/115dad2903d1.webp",
+    "capturedAt": "2026-08-17T06:30:14.097Z"
+  },
+  {
+    "id": "a2ac42cc6d27",
+    "agencySlug": "fuselab-creative",
+    "title": "CyberDefend",
+    "url": "https://fuselabcreative.com/our-projects/cyberdefend/",
+    "image": "/case-studies/fuselab-creative/a2ac42cc6d27.webp",
+    "capturedAt": "2026-08-17T06:30:06.505Z"
+  },
+  {
+    "id": "7a3da378877e",
+    "agencySlug": "fuselab-creative",
+    "title": "Control Ai",
+    "url": "https://fuselabcreative.com/our-projects/control-ai/",
+    "image": "/case-studies/fuselab-creative/7a3da378877e.webp",
+    "capturedAt": "2026-08-17T06:30:03.477Z"
+  },
+  {
+    "id": "9285a50b6c6d",
+    "agencySlug": "fuselab-creative",
+    "title": "Drone Forge",
+    "url": "https://fuselabcreative.com/our-projects/drone-forge-uav-mission-control/",
+    "image": "/case-studies/fuselab-creative/9285a50b6c6d.webp",
+    "capturedAt": "2026-08-17T06:30:02.105Z"
+  },
+  {
+    "id": "ee6ddb901791",
+    "agencySlug": "boc-studio",
+    "title": "Yaba",
+    "url": "https://boc.studio/work/yaba",
+    "image": "/case-studies/boc-studio/ee6ddb901791.webp",
+    "capturedAt": "2026-08-17T06:27:24.196Z"
+  },
+  {
+    "id": "1bc6a13d9b06",
+    "agencySlug": "boc-studio",
+    "title": "Sport",
+    "url": "https://boc.studio/work/sport",
+    "image": "/case-studies/boc-studio/1bc6a13d9b06.webp",
+    "capturedAt": "2026-08-17T06:27:21.549Z"
+  },
+  {
+    "id": "bda7d7ee7f93",
+    "agencySlug": "boc-studio",
+    "title": "Alien Audi",
+    "url": "https://boc.studio/work/alien",
+    "image": "/case-studies/boc-studio/bda7d7ee7f93.webp",
+    "capturedAt": "2026-08-17T06:27:19.037Z"
+  },
+  {
+    "id": "1f74c261a155",
+    "agencySlug": "boc-studio",
+    "title": "Chocovic",
+    "url": "https://boc.studio/work/chocovic",
+    "image": "/case-studies/boc-studio/1f74c261a155.webp",
+    "capturedAt": "2026-08-17T06:27:16.369Z"
+  },
+  {
+    "id": "8c96e9f78515",
+    "agencySlug": "boc-studio",
+    "title": "Marmota Audi",
+    "url": "https://boc.studio/work/marmota",
+    "image": "/case-studies/boc-studio/8c96e9f78515.webp",
+    "capturedAt": "2026-08-17T06:27:13.395Z"
+  },
+  {
+    "id": "f1a5bdbe186e",
+    "agencySlug": "boc-studio",
+    "title": "CE Europa",
+    "url": "https://boc.studio/work/europa",
+    "image": "/case-studies/boc-studio/f1a5bdbe186e.webp",
+    "capturedAt": "2026-08-17T06:27:10.348Z"
+  },
+  {
+    "id": "1a70b6628fbd",
+    "agencySlug": "a-lign-studio",
+    "title": "Kuga Studio",
+    "url": "https://www.a-lign.studio/work/kuga-studio",
+    "image": "/case-studies/a-lign-studio/1a70b6628fbd.webp",
+    "capturedAt": "2026-08-17T06:27:00.031Z"
+  },
+  {
+    "id": "880277558e97",
+    "agencySlug": "a-lign-studio",
+    "title": "The Webflow Symphony",
+    "url": "https://www.a-lign.studio/work/the-webflow-symphony",
+    "image": "/case-studies/a-lign-studio/880277558e97.webp",
+    "capturedAt": "2026-08-17T06:26:57.410Z"
+  },
+  {
+    "id": "eb306eaffd24",
+    "agencySlug": "a-lign-studio",
+    "title": "Osnova",
+    "url": "https://www.a-lign.studio/work/osnova",
+    "image": "/case-studies/a-lign-studio/eb306eaffd24.webp",
+    "capturedAt": "2026-08-17T06:26:55.164Z"
+  },
+  {
+    "id": "2f5be7b272a1",
+    "agencySlug": "a-lign-studio",
+    "title": "Waldorf Kindergarten",
+    "url": "https://www.a-lign.studio/work/waldorf-kindergarten",
+    "image": "/case-studies/a-lign-studio/2f5be7b272a1.webp",
+    "capturedAt": "2026-08-17T06:26:52.885Z"
+  },
+  {
+    "id": "361ec60de412",
+    "agencySlug": "a-lign-studio",
+    "title": "FEED Agency",
+    "url": "https://www.a-lign.studio/work/feed-agency",
+    "image": "/case-studies/a-lign-studio/361ec60de412.webp",
+    "capturedAt": "2026-08-17T06:26:50.789Z"
+  },
+  {
+    "id": "c6644e23ea18",
+    "agencySlug": "a-lign-studio",
+    "title": "Reyou Medical Treatments",
+    "url": "https://www.a-lign.studio/work/reyou-medical-treatments",
+    "image": "/case-studies/a-lign-studio/c6644e23ea18.webp",
+    "capturedAt": "2026-08-17T06:26:48.127Z"
+  },
+  {
+    "id": "b852407ad3d2",
+    "agencySlug": "harrison-carloss",
+    "title": "YMCA England & Wales",
+    "url": "https://harrisoncarloss.com/projects/ymca-england-and-wales/",
+    "image": "/case-studies/harrison-carloss/b852407ad3d2.webp",
+    "capturedAt": "2026-08-17T06:26:39.570Z"
+  },
+  {
+    "id": "066c068a5bbe",
+    "agencySlug": "harrison-carloss",
+    "title": "West Midlands Safari Park",
+    "url": "https://harrisoncarloss.com/projects/west-midlands-safari-park/",
+    "image": "/case-studies/harrison-carloss/066c068a5bbe.webp",
+    "capturedAt": "2026-08-17T06:26:33.329Z"
+  },
+  {
+    "id": "fecb84ec24d3",
+    "agencySlug": "stuffed-dog-digital",
+    "title": "College Athletics",
+    "url": "https://stuffeddogdigital.com/portfolio/college-athletics/",
+    "image": "/case-studies/stuffed-dog-digital/fecb84ec24d3.webp",
+    "capturedAt": "2026-08-17T06:25:05.046Z"
+  },
+  {
     "id": "c68947efd848",
     "agencySlug": "made-by-aran",
     "title": "HighCohesion Rebrand",

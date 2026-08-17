@@ -211,5 +211,112 @@
     "homepageUrl": "https://www.madebyaran.com/",
     "workPageUrl": "https://www.madebyaran.com/projects",
     "capturedAt": "2026-08-17T04:27:50.226Z"
+  },
+  "locomotive": {
+    "status": "no-work-page",
+    "homepageUrl": "https://locomotive.ca/",
+    "capturedAt": "2026-08-17T06:24:41.841Z"
+  },
+  "scale-and-form": {
+    "status": "no-work-page",
+    "homepageUrl": "https://scfo.de/",
+    "capturedAt": "2026-08-17T06:24:44.642Z"
+  },
+  "stuffed-dog-digital": {
+    "status": "success",
+    "entriesHash": "fecb84ec24d3a01ec855177f84b2066228785f9a887cc4a31ad0721689a50453",
+    "homepageUrl": "https://www.stuffeddogdigital.com/",
+    "workPageUrl": "https://stuffeddogdigital.com/work/",
+    "capturedAt": "2026-08-17T06:24:46.559Z"
+  },
+  "px-push": {
+    "status": "no-work-page",
+    "homepageUrl": "https://pxpush.com/",
+    "capturedAt": "2026-08-17T06:25:13.080Z"
+  },
+  "pear": {
+    "status": "no-work-page",
+    "homepageUrl": "https://pear.no/",
+    "capturedAt": "2026-08-17T06:25:22.789Z"
+  },
+  "fuselab-creative": {
+    "status": "success",
+    "entriesHash": "fc05b5e79a1ff7b3cd879b1409abd6c95d23b9aced4e6abf834ace6377467f0b",
+    "homepageUrl": "https://fuselabcreative.com/",
+    "workPageUrl": "https://fuselabcreative.com/our-projects/",
+    "capturedAt": "2026-08-17T06:29:56.340Z"
+  },
+  "okc-media": {
+    "status": "no-work-page",
+    "homepageUrl": "https://okc.media/en/",
+    "capturedAt": "2026-08-17T06:25:51.156Z"
+  },
+  "brikken-co": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.brikken.co/",
+    "capturedAt": "2026-08-17T06:25:55.616Z"
+  },
+  "orma-games": {
+    "status": "no-work-page",
+    "homepageUrl": "https://orma.games/",
+    "capturedAt": "2026-08-17T06:26:00.567Z"
+  },
+  "projectone": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.projectone.website/",
+    "capturedAt": "2026-08-17T06:26:02.890Z"
+  },
+  "lut-studios": {
+    "status": "no-work-page",
+    "homepageUrl": "https://lutstudios.com/",
+    "capturedAt": "2026-08-17T06:26:05.375Z"
+  },
+  "harrison-carloss": {
+    "status": "success",
+    "entriesHash": "d40143b8cab2ce96d4954e6e9fe1d4c20bbe524ee4fc32635b6eb9e57645ac46",
+    "homepageUrl": "https://harrisoncarloss.com/",
+    "workPageUrl": "https://harrisoncarloss.com/projects/",
+    "capturedAt": "2026-08-17T06:26:12.055Z"
+  },
+  "a-lign-studio": {
+    "status": "success",
+    "entriesHash": "7121e3032e492f0da151f19e68ecd7e91634fd2d61407255f2d3407a4d6183a3",
+    "homepageUrl": "https://www.a-lign.studio/",
+    "workPageUrl": "https://www.a-lign.studio/work",
+    "capturedAt": "2026-08-17T06:26:44.551Z"
+  },
+  "boc-studio": {
+    "status": "success",
+    "entriesHash": "0d2cea173c71d5dd66b0e6213585ee30168311797ace7b082c8fcde71427d17e",
+    "homepageUrl": "https://boc.studio/",
+    "workPageUrl": "https://boc.studio/work",
+    "capturedAt": "2026-08-17T06:27:03.916Z"
+  },
+  "nothin": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.noth.in/",
+    "capturedAt": "2026-08-17T06:27:27.963Z"
+  },
+  "y-vision": {
+    "status": "no-work-page",
+    "homepageUrl": "https://y-vision.co.kr/",
+    "capturedAt": "2026-08-17T06:27:34.262Z"
+  },
+  "sly": {
+    "status": "no-work-page",
+    "homepageUrl": "https://sly.systems/",
+    "capturedAt": "2026-08-17T06:27:37.053Z"
+  },
+  "produx-design": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://www.produx.design/",
+    "workPageUrl": "https://www.produx.design/work",
+    "capturedAt": "2026-08-17T06:27:44.189Z"
+  },
+  "ghost-pitcher": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.ghost-pitcher.com/",
+    "capturedAt": "2026-08-17T06:27:52.410Z"
   }
 }
