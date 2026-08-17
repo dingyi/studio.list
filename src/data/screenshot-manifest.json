@@ -3284,10 +3284,11 @@
     "error": "page.goto: net::ERR_CONNECTION_RESET at https://www.limbo.works/\nCall log:\n\u001b[2m  - navigating to \"https://www.limbo.works/\", waiting until \"domcontentloaded\"\u001b[22m\n"
   },
   "little-plains": {
-    "status": "failed",
-    "capturedAt": "2026-07-15T16:45:27.995Z",
-    "requestedUrl": "https://www.littleplains.co/",
-    "error": "page.goto: net::ERR_CONNECTION_RESET at https://www.littleplains.co/\nCall log:\n\u001b[2m  - navigating to \"https://www.littleplains.co/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "status": "success",
+    "path": "/screenshots/little-plains.webp",
+    "capturedAt": "2026-08-17T14:14:54.339Z",
+    "requestedUrl": "https://littleplains.com/",
+    "finalUrl": "https://littleplains.com/"
   },
   "little-troop": {
     "status": "success",
