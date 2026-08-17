@@ -425,6 +425,25 @@
     ]
   },
   {
+    "id": "80841ae1dbde9d5e",
+    "slug": "a-lign-studio",
+    "name": "a-lign studio",
+    "aliases": [],
+    "description": "Web design and development studio. Strategy-first websites for founders and teams.",
+    "website": "https://www.a-lign.studio/",
+    "officialDomain": "a-lign.studio",
+    "locations": [
+      {
+        "code": "SI",
+        "name": "Slovenia",
+        "flag": "🇸🇮"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/a-lign-studio.webp",
+    "sourceLines": []
+  },
+  {
     "id": "8c69a60b03267180",
     "slug": "a-d-b",
     "name": "A.D.B",
@@ -2881,6 +2900,25 @@
     ]
   },
   {
+    "id": "c36c577ade0a1014",
+    "slug": "boc-studio",
+    "name": "Boc.Studio",
+    "aliases": [],
+    "description": "A Barcelona creative brand studio. We create, refresh and boost brands through identity, creative direction, motion design and AI production.",
+    "website": "https://boc.studio/",
+    "officialDomain": "boc.studio",
+    "locations": [
+      {
+        "code": "ES",
+        "name": "Spain",
+        "flag": "🇪🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/boc-studio.webp",
+    "sourceLines": []
+  },
+  {
     "id": "aa007b3c0e26caca",
     "slug": "bold",
     "name": "Bold",
@@ -3194,6 +3232,25 @@
     "sourceLines": [
       749
     ]
+  },
+  {
+    "id": "fab8ff931cab292f",
+    "slug": "brikken-co",
+    "name": "Brikken+Co",
+    "aliases": [],
+    "description": "a founder-led strategic design studio connecting strategy, brand and product",
+    "website": "https://www.brikken.co/",
+    "officialDomain": "brikken.co",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/brikken-co.webp",
+    "sourceLines": []
   },
   {
     "id": "e53280898aba115d",
@@ -7369,6 +7426,25 @@
     ]
   },
   {
+    "id": "b3b0e2a47adab3bf",
+    "slug": "fuselab-creative",
+    "name": "Fuselab Creative",
+    "aliases": [],
+    "description": "a UI/UX design and digital product agency based in McLean, Virginia",
+    "website": "https://fuselabcreative.com/",
+    "officialDomain": "fuselabcreative.com",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/fuselab-creative.webp",
+    "sourceLines": []
+  },
+  {
     "id": "4e4efcdd2ded1604",
     "slug": "future-facility",
     "name": "Future Facility",
@@ -7634,6 +7710,25 @@
     "sourceLines": [
       1774
     ]
+  },
+  {
+    "id": "da9e04854262b1e5",
+    "slug": "ghost-pitcher",
+    "name": "Ghost Pitcher",
+    "aliases": [],
+    "description": "Treatment design, pitch decks, mood research and AI film for commercials, music videos, movies & shows",
+    "website": "https://www.ghost-pitcher.com/",
+    "officialDomain": "ghost-pitcher.com",
+    "locations": [
+      {
+        "code": "DE",
+        "name": "Germany",
+        "flag": "🇩🇪"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/ghost-pitcher.webp",
+    "sourceLines": []
   },
   {
     "id": "cc40effb9b00c433",
@@ -8216,6 +8311,25 @@
     "sourceLines": [
       1909
     ]
+  },
+  {
+    "id": "b5364d86c101b5b9",
+    "slug": "harrison-carloss",
+    "name": "Harrison Carloss",
+    "aliases": [],
+    "description": "a strategy-first creative & digital agency with a track record in problem-solving",
+    "website": "https://harrisoncarloss.com/",
+    "officialDomain": "harrisoncarloss.com",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/harrison-carloss.webp",
+    "sourceLines": []
   },
   {
     "id": "f1786e0f91306b0e",
@@ -10696,6 +10810,25 @@
     ]
   },
   {
+    "id": "22731d3b530a0a21",
+    "slug": "locomotive",
+    "name": "Locomotive",
+    "aliases": [],
+    "description": "Digital-first Design Agency based in Montreal, Canada",
+    "website": "https://locomotive.ca/",
+    "officialDomain": "locomotive.ca",
+    "locations": [
+      {
+        "code": "CA",
+        "name": "Canada",
+        "flag": "🇨🇦"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/locomotive.webp",
+    "sourceLines": []
+  },
+  {
     "id": "5af999c44ffbda12",
     "slug": "logic-and-rhythm",
     "name": "Logic & Rhythm",
@@ -10954,6 +11087,30 @@
     "sourceLines": [
       2553
     ]
+  },
+  {
+    "id": "f5b7d67f38dc9c17",
+    "slug": "lut-studios",
+    "name": "LUT Studios",
+    "aliases": [],
+    "description": "a multidisciplinary creative production studio based in Yerevan, Armenia",
+    "website": "https://lutstudios.com/",
+    "officialDomain": "lutstudios.com",
+    "locations": [
+      {
+        "code": "AM",
+        "name": "Armenia",
+        "flag": "🇦🇲"
+      },
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/lut-studios.webp",
+    "sourceLines": []
   },
   {
     "id": "487f765b1acae15d",
@@ -12510,6 +12667,25 @@
     ]
   },
   {
+    "id": "be64c8bb8bb457d9",
+    "slug": "motiondeep",
+    "name": "Motiondeep",
+    "aliases": [],
+    "description": "Motion Design, Game Dev & Experiential 3D",
+    "website": "https://www.motiondeep.com/",
+    "officialDomain": "motiondeep.com",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/motiondeep.webp",
+    "sourceLines": []
+  },
+  {
     "id": "19fa818c5b298d0a",
     "slug": "motto",
     "name": "Motto",
@@ -13625,6 +13801,25 @@
     ]
   },
   {
+    "id": "e6f35100b68e852b",
+    "slug": "nothin",
+    "name": "NOTHIN'",
+    "aliases": [],
+    "description": "A protean augmented-creative studio in Paris",
+    "website": "https://www.noth.in/",
+    "officialDomain": "noth.in",
+    "locations": [
+      {
+        "code": "FR",
+        "name": "France",
+        "flag": "🇫🇷"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/nothin.webp",
+    "sourceLines": []
+  },
+  {
     "id": "768b09f10b254338",
     "slug": "november-five",
     "name": "November Five",
@@ -14030,6 +14225,25 @@
     "sourceLines": [
       3258
     ]
+  },
+  {
+    "id": "57207eb811016a79",
+    "slug": "okc-media",
+    "name": "OKC Media",
+    "aliases": [],
+    "description": "We create and grow digital products people use every day. Since 2001.",
+    "website": "https://okc.media/en/",
+    "officialDomain": "okc.media",
+    "locations": [
+      {
+        "code": "RU",
+        "name": "Russia",
+        "flag": "🇷🇺"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/okc-media.webp",
+    "sourceLines": []
   },
   {
     "id": "15f5356a65376f36",
@@ -14605,6 +14819,25 @@
     "sourceLines": [
       3408
     ]
+  },
+  {
+    "id": "cdc8cc3ef4f56546",
+    "slug": "orma-games",
+    "name": "orma.games",
+    "aliases": [],
+    "description": "Piccoli giochi, grande cuore.",
+    "website": "https://orma.games/",
+    "officialDomain": "orma.games",
+    "locations": [
+      {
+        "code": "IT",
+        "name": "Italy",
+        "flag": "🇮🇹"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/orma-games.webp",
+    "sourceLines": []
   },
   {
     "id": "eb2a17a80ed9e284",
@@ -15245,6 +15478,25 @@
     "sourceLines": [
       3563
     ]
+  },
+  {
+    "id": "41f989838d9577d2",
+    "slug": "pear",
+    "name": "Pear",
+    "aliases": [],
+    "description": "Not an agency on the clock, a partner in the upside",
+    "website": "https://pear.no/",
+    "officialDomain": "pear.no",
+    "locations": [
+      {
+        "code": "NO",
+        "name": "Norway",
+        "flag": "🇳🇴"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/pear.webp",
+    "sourceLines": []
   },
   {
     "id": "af78241a5a5f16c5",
@@ -15966,6 +16218,49 @@
     ]
   },
   {
+    "id": "87805ed4f8c162db",
+    "slug": "produx-design",
+    "name": "Produx Design",
+    "aliases": [],
+    "description": "You feel the brand before it speaks®",
+    "website": "https://www.produx.design/",
+    "officialDomain": "produx.design",
+    "locations": [
+      {
+        "code": "ES",
+        "name": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/produx-design.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "9f508810c859ecfe",
+    "slug": "projectone",
+    "name": "ProjectOne",
+    "aliases": [],
+    "description": "Custom, done-for-you websites for small businesses",
+    "website": "https://www.projectone.website/",
+    "officialDomain": "projectone.website",
+    "locations": [
+      {
+        "code": "CA",
+        "name": "Canada",
+        "flag": "🇨🇦"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/projectone.webp",
+    "sourceLines": []
+  },
+  {
     "id": "03d62355f4aea3f4",
     "slug": "protein-agency",
     "name": "Protein Agency",
@@ -16077,6 +16372,25 @@
     "sourceLines": [
       3763
     ]
+  },
+  {
+    "id": "cb1f4e2959af4c5a",
+    "slug": "px-push",
+    "name": "PX PUSH",
+    "aliases": [],
+    "description": "On–Demand Design Department",
+    "website": "https://pxpush.com/",
+    "officialDomain": "pxpush.com",
+    "locations": [
+      {
+        "code": "BG",
+        "name": "Bulgaria",
+        "flag": "🇧🇬"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/px-push.webp",
+    "sourceLines": []
   },
   {
     "id": "9f191c13f755151f",
@@ -17396,6 +17710,25 @@
     ]
   },
   {
+    "id": "e6f615b773719576",
+    "slug": "scale-and-form",
+    "name": "Scale & Form",
+    "aliases": [],
+    "description": "Webdesign, das Marken größer macht",
+    "website": "https://scfo.de/",
+    "officialDomain": "scfo.de",
+    "locations": [
+      {
+        "code": "DE",
+        "name": "Germany",
+        "flag": "🇩🇪"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/scale-and-form.webp",
+    "sourceLines": []
+  },
+  {
     "id": "5dab9951123d7dc1",
     "slug": "scandinavian-design-group",
     "name": "Scandinavian Design Group",
@@ -17927,6 +18260,19 @@
     "sourceLines": [
       4198
     ]
+  },
+  {
+    "id": "c7bb25eca8679634",
+    "slug": "sly",
+    "name": "SLY",
+    "aliases": [],
+    "description": "We find the opportunity hiding in your business, then design and ship the custom AI software that captures it.",
+    "website": "https://sly.systems/",
+    "officialDomain": "sly.systems",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/sly.webp",
+    "sourceLines": []
   },
   {
     "id": "0ca1a915bb64458f",
@@ -19333,6 +19679,25 @@
     "sourceLines": [
       4533
     ]
+  },
+  {
+    "id": "373b9c054ef243cb",
+    "slug": "stuffed-dog-digital",
+    "name": "Stuffed Dog Digital",
+    "aliases": [],
+    "description": "We Don’t Just Build Brands. We Build Belief.",
+    "website": "https://www.stuffeddogdigital.com/",
+    "officialDomain": "stuffeddogdigital.com",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/stuffed-dog-digital.webp",
+    "sourceLines": []
   },
   {
     "id": "52e9e71713234c00",
@@ -22616,6 +22981,25 @@
     "sourceLines": [
       5303
     ]
+  },
+  {
+    "id": "a1f3d40af80304a7",
+    "slug": "y-vision",
+    "name": "Y-VISION",
+    "aliases": [],
+    "description": "최소한의 비용으로 최대한의 매출을 만들어드립니다",
+    "website": "https://y-vision.co.kr/",
+    "officialDomain": "y-vision.co.kr",
+    "locations": [
+      {
+        "code": "KR",
+        "name": "South Korea",
+        "flag": "🇰🇷"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/y-vision.webp",
+    "sourceLines": []
   },
   {
     "id": "5132a29062209074",
