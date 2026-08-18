@@ -9,7 +9,6 @@ import {
   publishedAgencies,
   type Agency,
 } from "@/lib/catalog";
-import { withBase } from "@/lib/paths";
 
 export function getStaticPaths() {
   const total = publishedAgencies.length;
@@ -33,7 +32,6 @@ const positionLabel = String(position).padStart(counterWidth, "0");
 const totalLabel = String(total).padStart(counterWidth, "0");
 const monogram = agency.name.trim().slice(0, 1).toUpperCase();
 const similarAgencies = getSimilarAgencies(agency);
-const directoryUrl = withBase("/#directory");
 ---
 
 <BaseLayout title={`${agency.name} — studio.list`} description={description} image={agency.screenshot}>
@@ -42,7 +40,7 @@ const directoryUrl = withBase("/#directory");
     <div class="detail-utility">
       <a
         class="detail-close"
-        href={directoryUrl}
+        href="/#directory"
         aria-label="Close agency detail"
         aria-keyshortcuts="Escape"
         data-detail-close
@@ -52,7 +50,7 @@ const directoryUrl = withBase("/#directory");
       </a>
       <div class="detail-logo">
         {agency.logo
-          ? <img src={withBase(agency.logo)} alt={`${agency.name} logo`} />
+          ? <img src={agency.logo} alt={`${agency.name} logo`} />
           : <span class="detail-logo__fallback" aria-hidden="true">{monogram}</span>}
       </div>
       <p class="detail-counter" aria-label={`Agency ${position} of ${total}`}>
@@ -62,7 +60,7 @@ const directoryUrl = withBase("/#directory");
 
     <article class="detail-profile" aria-labelledby="agency-title">
       <figure class="detail-media">
-        <img src={withBase(agency.screenshot)} alt={`Homepage screenshot of ${agency.name}`} width="1440" height="900" />
+        <img src={agency.screenshot} alt={`Homepage screenshot of ${agency.name}`} width="1440" height="900" />
       </figure>
 
       <h1 id="agency-title">{agency.name}</h1>
@@ -101,12 +99,12 @@ const directoryUrl = withBase("/#directory");
           <article class="agency-card agency-card--card">
             <a
               class="agency-card__main"
-              href={withBase(`/agencies/${similarAgency.slug}/`)}
+              href={`/agencies/${similarAgency.slug}/`}
               aria-label={`View ${similarAgency.name}`}
             >
               <div class="agency-card__media">
                 <img
-                  src={withBase(similarAgency.screenshot)}
+                  src={similarAgency.screenshot}
                   alt={`${similarAgency.name} website homepage`}
                   loading="lazy"
                   width="1440"
@@ -138,7 +136,7 @@ const directoryUrl = withBase("/#directory");
   </main>
   <SiteFooter />
 
-  <script define:vars={{ directoryUrl }}>
+  <script>
     const closeLink = document.querySelector<HTMLAnchorElement>("[data-detail-close]");
 
     function returnFromDetail() {
@@ -153,7 +151,7 @@ const directoryUrl = withBase("/#directory");
         window.history.back();
         return;
       }
-      window.location.assign(directoryUrl);
+      window.location.assign("/#directory");
     }
 
     closeLink?.addEventListener("click", (event) => {
