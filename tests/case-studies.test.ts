@@ -85,6 +85,7 @@ describe("extractCaseStudyLinks", () => {
         <a href="/work/real-one">Real one</a>
         <a href="/about">About</a>
         <a href="/blog/post">Blog</a>
+        <a href="/writings">Writings</a>
         <a href="/work/page/2">Next</a>
       </main>
       <footer><a href="/work/footer-noise">Footer noise</a></footer>
