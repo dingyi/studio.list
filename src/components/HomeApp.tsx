@@ -25,7 +25,6 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import type { Agency } from "@/lib/catalog";
-import { withBase } from "@/lib/paths";
 import { countryFlagPath, formatLocations } from "@/lib/catalog";
 import {
   clampPage,
@@ -74,7 +73,7 @@ function AgencyCard({ agency, view }: { agency: Agency; view: View }) {
     <article className={`agency-card agency-card--${view}`}>
       <a
         className="agency-card__main"
-        href={withBase(`/agencies/${agency.slug}/`)}
+        href={`/agencies/${agency.slug}/`}
         aria-label={`View ${agency.name}`}
         data-agency-slug={agency.slug}
         onClick={(event) => {
@@ -102,7 +101,7 @@ function AgencyCard({ agency, view }: { agency: Agency; view: View }) {
       >
         <div className="agency-card__media">
           <img
-            src={withBase(agency.screenshot)}
+            src={agency.screenshot}
             alt={`${agency.name} website homepage`}
             loading="lazy"
             width="1440"

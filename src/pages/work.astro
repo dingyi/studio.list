@@ -4,7 +4,6 @@ import PageHeader from "@/components/PageHeader";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { caseStudiesWithAgency } from "@/lib/case-studies";
-import { withBase } from "@/lib/paths";
 
 const caseStudies = caseStudiesWithAgency();
 ---
@@ -53,7 +52,7 @@ const caseStudies = caseStudiesWithAgency();
               >
                 <div class="agency-card__media">
                   <img
-                    src={withBase(caseStudy.image)}
+                    src={caseStudy.image}
                     alt={`${caseStudy.title} by ${caseStudy.agency.name}`}
                     loading="lazy"
                     width="1440"

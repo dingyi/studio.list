@@ -2,7 +2,6 @@ import { Search } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
 import { Input } from "@/components/ui/input";
-import { withBase } from "@/lib/paths";
 
 export interface AgencySearchItem {
   name: string;
@@ -42,7 +41,7 @@ export default function AgencySearch({
 
   function chooseResult(index: number) {
     const result = results[index];
-    if (result) window.location.href = withBase(`/agencies/${result.slug}/`);
+    if (result) window.location.href = `/agencies/${result.slug}/`;
   }
 
   return (
@@ -110,7 +109,7 @@ export default function AgencySearch({
             results.map((result, index) => (
               <a
                 className={`search-result${index === activeIndex ? " is-active" : ""}`}
-                href={withBase(`/agencies/${result.slug}/`)}
+                href={`/agencies/${result.slug}/`}
                 onMouseEnter={() => setActiveIndex(index)}
                 key={result.slug}
               >
