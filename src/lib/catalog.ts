@@ -1,5 +1,6 @@
 import agenciesData from "../data/agencies.json";
 import manifestData from "../data/screenshot-manifest.json";
+import { withBase } from "./paths";
 
 export interface AgencyLocation {
   code: string;
@@ -34,7 +35,7 @@ export const publishedAgencies = allAgencies.filter(
 );
 
 export function countryFlagPath(code: string) {
-  return `/flags/${code.toLocaleLowerCase()}.svg`;
+  return withBase(`/flags/${code.toLocaleLowerCase()}.svg`);
 }
 
 export function formatLocations(agency: Agency) {
