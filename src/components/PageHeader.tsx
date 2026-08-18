@@ -4,6 +4,7 @@ import { useCallback, useEffect, useState } from "react";
 import AgencySearch, {
   type AgencySearchItem,
 } from "@/components/AgencySearch";
+import { withBase } from "@/lib/paths";
 import {
   Dialog,
   DialogContent,
@@ -62,7 +63,7 @@ export default function PageHeader({
     if (homeSearch || !searchOpen || searchItems.length) return;
     let ignore = false;
     setSearchLoading(true);
-    fetch("/search-index.json")
+    fetch(withBase("/search-index.json"))
       .then((response) => {
         if (!response.ok) throw new Error("Search index unavailable");
         return response.json() as Promise<AgencySearchItem[]>;
@@ -86,27 +87,27 @@ export default function PageHeader({
       <header className="site-header" data-header-ready={ready}>
         <nav className="site-nav" aria-label="Primary navigation">
           <div className="nav-left">
-            <a className="wordmark" href="/" aria-label="studio.list home">
+            <a className="wordmark" href={withBase("/")} aria-label="studio.list home">
               studio.list
             </a>
             <div className="desktop-nav">
               <a
                 className={active === "discover" ? "is-active" : ""}
-                href="/"
+                href={withBase("/")}
                 aria-current={active === "discover" ? "page" : undefined}
               >
                 Discover
               </a>
               <a
                 className={active === "work" ? "is-active" : ""}
-                href="/work/"
+                href={withBase("/work/")}
                 aria-current={active === "work" ? "page" : undefined}
               >
                 Work
               </a>
               <a
                 className={active === "about" ? "is-active" : ""}
-                href="/about/"
+                href={withBase("/about/")}
                 aria-current={active === "about" ? "page" : undefined}
               >
                 About
@@ -147,21 +148,21 @@ export default function PageHeader({
             <nav className="mobile-nav" aria-label="Mobile navigation">
               <a
                 className={active === "discover" ? "is-active" : ""}
-                href="/"
+                href={withBase("/")}
                 aria-current={active === "discover" ? "page" : undefined}
               >
                 Discover
               </a>
               <a
                 className={active === "work" ? "is-active" : ""}
-                href="/work/"
+                href={withBase("/work/")}
                 aria-current={active === "work" ? "page" : undefined}
               >
                 Work
               </a>
               <a
                 className={active === "about" ? "is-active" : ""}
-                href="/about/"
+                href={withBase("/about/")}
                 aria-current={active === "about" ? "page" : undefined}
               >
                 About

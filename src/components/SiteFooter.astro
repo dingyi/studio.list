@@ -1,11 +1,13 @@
 ---
+import { withBase } from "@/lib/paths";
+
 const year = new Date().getFullYear();
 ---
 
 <footer class="site-footer">
-  <a class="wordmark footer-mark" href="/">studio.list</a>
+  <a class="wordmark footer-mark" href={withBase("/")}>studio.list</a>
   <nav class="footer-nav" aria-label="Footer navigation">
-    <a href="/about/">About</a>
+    <a href={withBase("/about/")}>About</a>
     <span aria-hidden="true">·</span>
     <button data-submit-notice type="button">Submit ↗</button>
     <span aria-hidden="true">·</span>
