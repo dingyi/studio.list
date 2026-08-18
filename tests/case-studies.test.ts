@@ -96,6 +96,19 @@ describe("extractCaseStudyLinks", () => {
     ]);
   });
 
+  it("excludes tag and category listing pages, including prefixed ones", () => {
+    const html = `
+      <a href="/our-projects-tags/software-design">Software Design</a>
+      <a href="/tags/branding">Branding</a>
+      <a href="/work-category/web">Web</a>
+      <a href="/projects/acme">Acme</a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.url)).toEqual([
+      "https://example.com/projects/acme",
+    ]);
+  });
+
   it("requires nested paths when the work page is the homepage", () => {
     const html = `
       <a href="/archive">Archive</a>

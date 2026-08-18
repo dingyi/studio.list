@@ -17,7 +17,7 @@ const workPathPattern =
   /^\/?(?:selected-)?(?:work|cases?|case-studies|projects?|portfolio)\/?$/i;
 
 const excludedPathPattern =
-  /^\/(?:about|contact|teams?|services?|blog|news|journal|articles?|writings?|careers?|jobs?|tags?|[\w-]*categor(?:y|ies)|authors?|search|shop|store|feed|rss|press|faq|process|approach|expertise|clients?|privacy[\w-]*|terms[\w-]*|legal[\w-]*|imprint[\w-]*|cookies?[\w-]*)(\/|$)/i;
+  /^\/(?:about|contact|teams?|services?|blog|news|journal|articles?|writings?|careers?|jobs?|[\w-]*tags?|[\w-]*categor(?:y|ies)|authors?|search|shop|store|feed|rss|press|faq|process|approach|expertise|clients?|privacy[\w-]*|terms[\w-]*|legal[\w-]*|imprint[\w-]*|cookies?[\w-]*)(\/|$)/i;
 
 const ctaTextPattern =
   /^(?:work with us|get in touch|contact(?: us)?|let'?s talk|start(?: a)? project|say hello|hire us|about(?: us)?|our services|services)$/i;
