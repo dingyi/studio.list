@@ -1,0 +1,25 @@
+src/data/screenshot-manifest.json
+  s_0b8640585938d7::t_1e0ddabaf2260a 10776-10782
+  s_0b8640585938d7::t_58e787f5c28fc2 10754-10775
+src/data/agencies.json
+  s_0b8640585938d7::t_58e787f5c28fc2 774-795,9304-9321,13789,24272-24283
+  s_0b8640585938d7::t_6ba73bd98bcb77 9322,13790-13803,24284
+src/data/case-study-manifest.json
+  s_0b8640585938d7::t_25cad0ca591a38 8496-8500
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "44d83aeeda09322d9e21334456f1b58a73235d6f",
+  "prompts": {},
+  "sessions": {
+    "s_0b8640585938d7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f887c-b2a8-7230-9ddc-6f8b4aa0f4a5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
