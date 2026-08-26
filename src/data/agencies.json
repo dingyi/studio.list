@@ -772,6 +772,28 @@
     "sourceLines": []
   },
   {
+    "id": "a1a3d01633959087",
+    "slug": "afternow",
+    "name": "Afternow",
+    "aliases": [
+      "BB Agency",
+      "Balkan Brothers"
+    ],
+    "description": "Afternow creates the digital systems brilliant companies are built on, from strategy and identity to web and product design.",
+    "website": "https://afternow.co/",
+    "officialDomain": "afternow.co",
+    "locations": [
+      {
+        "code": "HR",
+        "name": "Croatia",
+        "flag": "🇭🇷"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/afternow.webp",
+    "sourceLines": []
+  },
+  {
     "id": "638f45326e9663c4",
     "slug": "again-studio",
     "name": "Again Studio",
@@ -9280,6 +9302,25 @@
     ]
   },
   {
+    "id": "1ae8f0113354aaac",
+    "slug": "found-studio",
+    "name": "Found Studio",
+    "aliases": [],
+    "description": "From global campaigns to expansive design systems, Found creates transformative content that shapes what is next.",
+    "website": "https://www.found-studio.com/",
+    "officialDomain": "found-studio.com",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/found-studio.webp",
+    "sourceLines": []
+  },
+  {
     "id": "6fa4928ed04e7853",
     "slug": "fourth-floor",
     "name": "Fourth Floor",
@@ -13744,6 +13785,21 @@
     "sourceLines": [
       2409
     ]
+  },
+  {
+    "id": "c87d7803db8e9437",
+    "slug": "lee-steffen",
+    "name": "Lee Steffen",
+    "aliases": [
+      "Steffen Studio"
+    ],
+    "description": "A creative director helping visionary companies bring ideas to life.",
+    "website": "https://steffenstudio.com/",
+    "officialDomain": "steffenstudio.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/lee-steffen.webp",
+    "sourceLines": []
   },
   {
     "id": "cc47b9b6426c957c",
@@ -24212,6 +24268,19 @@
     "sourceLines": [
       4318
     ]
+  },
+  {
+    "id": "a949704bf0bf160f",
+    "slug": "stewdio",
+    "name": "Stewdio",
+    "aliases": [],
+    "description": "A creative agency for tech companies specializing in motion graphics, marketing assets, and branding.",
+    "website": "https://www.stewdio.ai/",
+    "officialDomain": "stewdio.ai",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/stewdio.webp",
+    "sourceLines": []
   },
   {
     "id": "c603a2faeafe94d2",

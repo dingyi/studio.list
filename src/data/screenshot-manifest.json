@@ -10751,5 +10751,34 @@
     "capturedAt": "2026-08-17T10:43:13.289Z",
     "requestedUrl": "https://zerotrillion.com/",
     "finalUrl": "https://zerotrillion.com/"
+  },
+  "afternow": {
+    "status": "success",
+    "capturedAt": "2026-07-22T06:26:07.532Z",
+    "requestedUrl": "https://afternow.co/",
+    "finalUrl": "https://afternow.co/",
+    "path": "/screenshots/afternow.webp",
+    "reviewedAt": "2026-07-22T06:27:24.767Z"
+  },
+  "found-studio": {
+    "status": "success",
+    "path": "/screenshots/found-studio.webp",
+    "capturedAt": "2026-07-22T06:27:34.447Z",
+    "requestedUrl": "https://www.found-studio.com/",
+    "finalUrl": "https://www.found-studio.com/"
+  },
+  "stewdio": {
+    "status": "success",
+    "path": "/screenshots/stewdio.webp",
+    "capturedAt": "2026-07-22T06:27:54.414Z",
+    "requestedUrl": "https://www.stewdio.ai/",
+    "finalUrl": "https://www.stewdio.ai/"
+  },
+  "lee-steffen": {
+    "status": "success",
+    "path": "/screenshots/lee-steffen.webp",
+    "capturedAt": "2026-08-26T10:39:22.187Z",
+    "requestedUrl": "https://steffenstudio.com/",
+    "finalUrl": "https://steffenstudio.com/"
   }
 }
