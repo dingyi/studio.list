@@ -1,51 +1,51 @@
 [
   {
-    "id": "560fd3a1177c",
-    "agencySlug": "little-plains",
-    "title": "Rise Plasma",
-    "url": "https://littleplains.com/projects/riseplasma",
-    "image": "/case-studies/little-plains/560fd3a1177c.webp",
-    "capturedAt": "2026-08-17T14:17:56.161Z"
+    "id": "4a74393bb6dc",
+    "agencySlug": "bureau-tonalli",
+    "title": "Libre Berry Crush Digital Capsule",
+    "url": "https://www.bureautonalli.com/projects/libre-berry-crush-digital-capsule",
+    "image": "/case-studies/bureau-tonalli/4a74393bb6dc.webp",
+    "capturedAt": "2026-08-30T14:33:15.037Z"
   },
   {
-    "id": "3eecc79d0291",
-    "agencySlug": "little-plains",
-    "title": "Camber",
-    "url": "https://littleplains.com/projects/camber",
-    "image": "/case-studies/little-plains/3eecc79d0291.webp",
-    "capturedAt": "2026-08-17T14:17:53.557Z"
+    "id": "40e7d31d6326",
+    "agencySlug": "bureau-tonalli",
+    "title": "List",
+    "url": "https://www.bureautonalli.com/projects-list",
+    "image": "/case-studies/bureau-tonalli/40e7d31d6326.webp",
+    "capturedAt": "2026-08-30T14:33:12.216Z"
   },
   {
-    "id": "3987bcbb46fa",
-    "agencySlug": "little-plains",
-    "title": "Catalog",
-    "url": "https://littleplains.com/projects/catalog",
-    "image": "/case-studies/little-plains/3987bcbb46fa.webp",
-    "capturedAt": "2026-08-17T14:17:51.222Z"
+    "id": "e88085e09c5d",
+    "agencySlug": "bureau-tonalli",
+    "title": "AI-powered Creation & Innovation",
+    "url": "https://www.bureautonalli.com/projects/expertise/ai",
+    "image": "/case-studies/bureau-tonalli/e88085e09c5d.webp",
+    "capturedAt": "2026-08-30T14:33:10.109Z"
   },
   {
-    "id": "bb30a580df0c",
-    "agencySlug": "little-plains",
-    "title": "Odessia",
-    "url": "https://littleplains.com/projects/odessia",
-    "image": "/case-studies/little-plains/bb30a580df0c.webp",
-    "capturedAt": "2026-08-17T14:17:48.710Z"
+    "id": "e5a721494945",
+    "agencySlug": "bureau-tonalli",
+    "title": "Object & Spatial Design",
+    "url": "https://www.bureautonalli.com/projects/expertise/objects-spaces",
+    "image": "/case-studies/bureau-tonalli/e5a721494945.webp",
+    "capturedAt": "2026-08-30T14:33:07.979Z"
   },
   {
-    "id": "5827449f83e7",
-    "agencySlug": "little-plains",
-    "title": "Eden",
-    "url": "https://littleplains.com/projects/eden",
-    "image": "/case-studies/little-plains/5827449f83e7.webp",
-    "capturedAt": "2026-08-17T14:17:46.152Z"
+    "id": "3da4aca898c0",
+    "agencySlug": "bureau-tonalli",
+    "title": "Visual Content & Short Film",
+    "url": "https://www.bureautonalli.com/projects/expertise/visual-content",
+    "image": "/case-studies/bureau-tonalli/3da4aca898c0.webp",
+    "capturedAt": "2026-08-30T14:33:05.805Z"
   },
   {
-    "id": "9be9c6ad7138",
-    "agencySlug": "little-plains",
-    "title": "Ease",
-    "url": "https://littleplains.com/projects/ease",
-    "image": "/case-studies/little-plains/9be9c6ad7138.webp",
-    "capturedAt": "2026-08-17T14:16:12.641Z"
+    "id": "f4fee90a097e",
+    "agencySlug": "bureau-tonalli",
+    "title": "Campaign Strategy & Creative Direction",
+    "url": "https://www.bureautonalli.com/projects/expertise/campaigns",
+    "image": "/case-studies/bureau-tonalli/f4fee90a097e.webp",
+    "capturedAt": "2026-08-30T14:33:03.108Z"
   },
   {
     "id": "949289440017",
@@ -3280,19 +3280,19 @@
     "capturedAt": "2026-08-17T14:18:01.881Z"
   },
   {
-    "id": "fbacd00be75b",
-    "agencySlug": "tubik-studio",
-    "title": "Planetoño",
-    "url": "https://tubikstudio.com/works/planetono",
-    "image": "/case-studies/tubik-studio/fbacd00be75b.webp",
-    "capturedAt": "2026-08-17T14:18:00.111Z"
-  },
-  {
     "id": "ae175e386a8d",
     "agencySlug": "twistudio",
     "title": "Noyce",
     "url": "https://www.twistudio.fr/work/noyce",
     "image": "/case-studies/twistudio/ae175e386a8d.webp",
+    "capturedAt": "2026-08-17T14:18:00.111Z"
+  },
+  {
+    "id": "fbacd00be75b",
+    "agencySlug": "tubik-studio",
+    "title": "Planetoño",
+    "url": "https://tubikstudio.com/works/planetono",
+    "image": "/case-studies/tubik-studio/fbacd00be75b.webp",
     "capturedAt": "2026-08-17T14:18:00.111Z"
   },
   {
@@ -3336,6 +3336,14 @@
     "capturedAt": "2026-08-17T14:17:56.781Z"
   },
   {
+    "id": "560fd3a1177c",
+    "agencySlug": "little-plains",
+    "title": "Rise Plasma",
+    "url": "https://littleplains.com/projects/riseplasma",
+    "image": "/case-studies/little-plains/560fd3a1177c.webp",
+    "capturedAt": "2026-08-17T14:17:56.161Z"
+  },
+  {
     "id": "3154235b7a3c",
     "agencySlug": "trollback-company",
     "title": "Experiential",
@@ -3366,6 +3374,14 @@
     "url": "https://www.twistudio.fr/work/justine-clenquet",
     "image": "/case-studies/twistudio/e72f0e0eaac9.webp",
     "capturedAt": "2026-08-17T14:17:53.791Z"
+  },
+  {
+    "id": "3eecc79d0291",
+    "agencySlug": "little-plains",
+    "title": "Camber",
+    "url": "https://littleplains.com/projects/camber",
+    "image": "/case-studies/little-plains/3eecc79d0291.webp",
+    "capturedAt": "2026-08-17T14:17:53.557Z"
   },
   {
     "id": "f8246533164a",
@@ -3408,12 +3424,28 @@
     "capturedAt": "2026-08-17T14:17:51.373Z"
   },
   {
+    "id": "3987bcbb46fa",
+    "agencySlug": "little-plains",
+    "title": "Catalog",
+    "url": "https://littleplains.com/projects/catalog",
+    "image": "/case-studies/little-plains/3987bcbb46fa.webp",
+    "capturedAt": "2026-08-17T14:17:51.222Z"
+  },
+  {
     "id": "57b49ce8ea10",
     "agencySlug": "twenty-six-design",
     "title": "Where Must Design Go Next? Content Print",
     "url": "https://twenty-six.design/where-must-design-go-next",
     "image": "/case-studies/twenty-six-design/57b49ce8ea10.webp",
     "capturedAt": "2026-08-17T14:17:49.476Z"
+  },
+  {
+    "id": "bb30a580df0c",
+    "agencySlug": "little-plains",
+    "title": "Odessia",
+    "url": "https://littleplains.com/projects/odessia",
+    "image": "/case-studies/little-plains/bb30a580df0c.webp",
+    "capturedAt": "2026-08-17T14:17:48.710Z"
   },
   {
     "id": "d22c1fa1ec30",
@@ -3438,6 +3470,14 @@
     "url": "https://tubikstudio.com/works/the-alabama-solution",
     "image": "/case-studies/tubik-studio/00fae17fda67.webp",
     "capturedAt": "2026-08-17T14:17:46.862Z"
+  },
+  {
+    "id": "5827449f83e7",
+    "agencySlug": "little-plains",
+    "title": "Eden",
+    "url": "https://littleplains.com/projects/eden",
+    "image": "/case-studies/little-plains/5827449f83e7.webp",
+    "capturedAt": "2026-08-17T14:17:46.152Z"
   },
   {
     "id": "96998764b6c0",
@@ -4086,6 +4126,14 @@
     "url": "https://www.thisjanuary.com/work/millie-moon-ms-rachel",
     "image": "/case-studies/this-january/7a456c89a8ec.webp",
     "capturedAt": "2026-08-17T14:16:13.779Z"
+  },
+  {
+    "id": "9be9c6ad7138",
+    "agencySlug": "little-plains",
+    "title": "Ease",
+    "url": "https://littleplains.com/projects/ease",
+    "image": "/case-studies/little-plains/9be9c6ad7138.webp",
+    "capturedAt": "2026-08-17T14:16:12.641Z"
   },
   {
     "id": "33dfeb6cd60d",
@@ -16504,19 +16552,19 @@
     "capturedAt": "2026-08-17T12:02:33.739Z"
   },
   {
-    "id": "9a3f4e36572d",
-    "agencySlug": "lolo-agency",
-    "title": "s e e p r o j e c t",
-    "url": "https://loloagency.com/work/e11even",
-    "image": "/case-studies/lolo-agency/9a3f4e36572d.webp",
-    "capturedAt": "2026-08-17T12:02:32.695Z"
-  },
-  {
     "id": "3c75339c66f9",
     "agencySlug": "love-and-money",
     "title": "Dough Eyes Dough Eyes",
     "url": "https://loveandmoney.com/work/dough-eyes",
     "image": "/case-studies/love-and-money/3c75339c66f9.webp",
+    "capturedAt": "2026-08-17T12:02:32.695Z"
+  },
+  {
+    "id": "9a3f4e36572d",
+    "agencySlug": "lolo-agency",
+    "title": "s e e p r o j e c t",
+    "url": "https://loloagency.com/work/e11even",
+    "image": "/case-studies/lolo-agency/9a3f4e36572d.webp",
     "capturedAt": "2026-08-17T12:02:32.695Z"
   },
   {

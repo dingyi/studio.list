@@ -4356,6 +4356,25 @@
     ]
   },
   {
+    "id": "fa5725df9f1bc485",
+    "slug": "bureau-tonalli",
+    "name": "Bureau Tonalli",
+    "aliases": [],
+    "description": "CGI studio in Paris specializing in creative direction & CGI production, delivering 3D motion, FOOH & premium assets for luxury & lifestyle.",
+    "website": "https://www.bureautonalli.com/",
+    "officialDomain": "bureautonalli.com",
+    "locations": [
+      {
+        "code": "FR",
+        "name": "France",
+        "flag": "🇫🇷"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/bureau-tonalli.webp",
+    "sourceLines": []
+  },
+  {
     "id": "b529826288f2f686",
     "slug": "bureaux",
     "name": "Bureaux",

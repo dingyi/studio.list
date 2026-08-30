@@ -8498,5 +8498,12 @@
     "status": "no-work-page",
     "homepageUrl": "https://steffenstudio.com/",
     "capturedAt": "2026-08-26T10:39:41.171Z"
+  },
+  "bureau-tonalli": {
+    "status": "success",
+    "entriesHash": "a91bf5b0cda3375ab4494a383c1ae437096b1c4c1a82634ff675dc51c997b268",
+    "homepageUrl": "https://www.bureautonalli.com/",
+    "workPageUrl": "https://www.bureautonalli.com/projects",
+    "capturedAt": "2026-08-30T14:32:52.051Z"
   }
 }

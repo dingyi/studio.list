@@ -10780,5 +10780,12 @@
     "capturedAt": "2026-08-26T10:39:22.187Z",
     "requestedUrl": "https://steffenstudio.com/",
     "finalUrl": "https://steffenstudio.com/"
+  },
+  "bureau-tonalli": {
+    "status": "success",
+    "path": "/screenshots/bureau-tonalli.webp",
+    "capturedAt": "2026-08-30T14:30:07.736Z",
+    "requestedUrl": "https://www.bureautonalli.com/",
+    "finalUrl": "https://www.bureautonalli.com/"
   }
 }
