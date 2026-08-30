@@ -1,0 +1,27 @@
+src/data/agencies.json
+  s_0b8640585938d7::t_58fdfa3d5eebca 4359-4376
+  s_0b8640585938d7::t_f3d0ce51ddab21 4358
+src/data/screenshot-manifest.json
+  s_0b8640585938d7::t_b25e326bea4929 10783-10789
+src/data/case-studies.json
+  s_0b8640585938d7::t_3a2d4d3f516e14 3-8,11-16,19-24,27-32,35-40,43-48,3290-3297,3338-3345,3378-3385,3426-3433,3442-3449,3474-3481,4130-4137,16562-16567
+  s_0b8640585938d7::t_fd079414166a33 16568-16569
+src/data/case-study-manifest.json
+  s_0b8640585938d7::t_3a2d4d3f516e14 8501-8507
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "f8836d49fa31a293d78cdd3e30da76683d1359d8",
+  "prompts": {},
+  "sessions": {
+    "s_0b8640585938d7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f887c-b2a8-7230-9ddc-6f8b4aa0f4a5",
+        "model": "opencode-go/kimi-k3"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
