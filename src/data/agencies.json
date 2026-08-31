@@ -1115,6 +1115,25 @@
     ]
   },
   {
+    "id": "0a59a0c65408faeb",
+    "slug": "alaska-alaska",
+    "name": "Alaska Alaska",
+    "aliases": [],
+    "description": "A research based design & creative service practice rooted in contemporary landscapes.",
+    "website": "https://alaska---alaska.com/",
+    "officialDomain": "alaska---alaska.com",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/alaska-alaska.webp",
+    "sourceLines": []
+  },
+  {
     "id": "804807515e3fc7f9",
     "slug": "alastair-strong-studio",
     "name": "Alastair Strong Studio",
@@ -3564,6 +3583,25 @@
     "sourceLines": []
   },
   {
+    "id": "4eda75c0628cc0f7",
+    "slug": "bmd",
+    "name": "BMD",
+    "aliases": [],
+    "description": "Multidisciplinary studio crafting bold brand experiences globally.",
+    "website": "https://www.brucemaudesign.com/",
+    "officialDomain": "brucemaudesign.com",
+    "locations": [
+      {
+        "code": "CA",
+        "name": "Canada",
+        "flag": "🇨🇦"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/bmd.webp",
+    "sourceLines": []
+  },
+  {
     "id": "c36c577ade0a1014",
     "slug": "boc-studio",
     "name": "Boc.Studio",
@@ -3636,6 +3674,25 @@
     "sourceLines": [
       704
     ]
+  },
+  {
+    "id": "dec722eb0ef00517",
+    "slug": "bond-ny",
+    "name": "BOND NY",
+    "aliases": [],
+    "description": "New York studio for architecture and interiors.",
+    "website": "https://bond-ny.com/projects/",
+    "officialDomain": "bond-ny.com",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/bond-ny.webp",
+    "sourceLines": []
   },
   {
     "id": "eb1ddfa79afade40",
@@ -6747,6 +6804,30 @@
     "sourceLines": [
       1224
     ]
+  },
+  {
+    "id": "e8c3bef81dfc050b",
+    "slug": "dia",
+    "name": "DIA",
+    "aliases": [],
+    "description": "Design studio creating kinetic identities through typography systems and motion.",
+    "website": "https://www.dia.studio/",
+    "officialDomain": "dia.studio",
+    "locations": [
+      {
+        "code": "FR",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/dia.webp",
+    "sourceLines": []
   },
   {
     "id": "2816c470862e4ab9",
@@ -18414,6 +18495,25 @@
     "sourceLines": [
       3238
     ]
+  },
+  {
+    "id": "38e6c5b4cc4d2e4f",
+    "slug": "offgrid",
+    "name": "Offgrid",
+    "aliases": [],
+    "description": "Offgrid is an international brand design studio based in Rotterdam, The Netherlands.",
+    "website": "https://offgrid.inc/",
+    "officialDomain": "offgrid.inc",
+    "locations": [
+      {
+        "code": "NL",
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/offgrid.webp",
+    "sourceLines": []
   },
   {
     "id": "7397ba8c4722f523",

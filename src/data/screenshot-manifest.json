@@ -10787,5 +10787,41 @@
     "capturedAt": "2026-08-30T14:30:07.736Z",
     "requestedUrl": "https://www.bureautonalli.com/",
     "finalUrl": "https://www.bureautonalli.com/"
+  },
+  "alaska-alaska": {
+    "status": "success",
+    "path": "/screenshots/alaska-alaska.webp",
+    "capturedAt": "2026-08-30T18:28:40.659Z",
+    "requestedUrl": "https://alaska---alaska.com/",
+    "finalUrl": "https://alaska---alaska.com/"
+  },
+  "bmd": {
+    "status": "success",
+    "path": "/screenshots/bmd.webp",
+    "capturedAt": "2026-08-30T18:28:57.357Z",
+    "requestedUrl": "https://www.brucemaudesign.com/",
+    "finalUrl": "https://www.brucemaudesign.com/"
+  },
+  "bond-ny": {
+    "status": "success",
+    "path": "/screenshots/bond-ny.webp",
+    "capturedAt": "2026-08-30T18:29:17.032Z",
+    "requestedUrl": "https://bond-ny.com/projects/",
+    "finalUrl": "https://bond-ny.com/projects/"
+  },
+  "dia": {
+    "status": "success",
+    "capturedAt": "2026-08-30T18:29:36.365Z",
+    "requestedUrl": "https://www.dia.studio/",
+    "finalUrl": "https://www.dia.studio/",
+    "path": "/screenshots/dia.webp",
+    "reviewedAt": "2026-08-30T18:30:43.332Z"
+  },
+  "offgrid": {
+    "status": "success",
+    "path": "/screenshots/offgrid.webp",
+    "capturedAt": "2026-08-30T18:29:52.843Z",
+    "requestedUrl": "https://offgrid.inc/",
+    "finalUrl": "https://offgrid.inc/"
   }
 }

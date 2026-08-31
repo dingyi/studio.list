@@ -8505,5 +8505,38 @@
     "homepageUrl": "https://www.bureautonalli.com/",
     "workPageUrl": "https://www.bureautonalli.com/projects",
     "capturedAt": "2026-08-30T14:32:52.051Z"
+  },
+  "alaska-alaska": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "https://alaska---alaska.com/",
+    "workPageUrl": "https://alaska---alaska.com/projects",
+    "capturedAt": "2026-08-30T18:30:50.233Z"
+  },
+  "bmd": {
+    "status": "success",
+    "entriesHash": "b60d031fffe9b96fff8a95f180b1845954a7c3871271bebd5f3ff588b6c3af72",
+    "homepageUrl": "https://www.brucemaudesign.com/",
+    "workPageUrl": "https://www.brucemaudesign.com/work",
+    "capturedAt": "2026-08-30T18:31:04.049Z"
+  },
+  "bond-ny": {
+    "status": "success",
+    "entriesHash": "60eb8b080587e463399e7a6665d3e17816661c64098ee044052a9ad327d5d0fa",
+    "homepageUrl": "https://bond-ny.com/projects/",
+    "workPageUrl": "https://bond-ny.com/projects/",
+    "capturedAt": "2026-08-30T18:31:52.843Z"
+  },
+  "dia": {
+    "status": "no-entries",
+    "entriesHash": "4e6e1a28ceb0bd7e86e809129eccd726af5fc825ae3743bac3957602b4a0dd68",
+    "homepageUrl": "https://www.dia.studio/",
+    "workPageUrl": "https://www.dia.studio/",
+    "capturedAt": "2026-08-30T18:32:19.966Z"
+  },
+  "offgrid": {
+    "status": "no-work-page",
+    "homepageUrl": "https://offgrid.inc/",
+    "capturedAt": "2026-08-30T18:33:23.051Z"
   }
 }

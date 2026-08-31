@@ -1,5 +1,101 @@
 [
   {
+    "id": "1e6c12c63856",
+    "agencySlug": "bond-ny",
+    "title": "Pines Art House Residential",
+    "url": "https://bond-ny.com/project/pines-art-house/",
+    "image": "/case-studies/bond-ny/1e6c12c63856.webp",
+    "capturedAt": "2026-08-30T18:32:08.540Z"
+  },
+  {
+    "id": "0e5a9c6cdefc",
+    "agencySlug": "bond-ny",
+    "title": "Ocean House Residential",
+    "url": "https://bond-ny.com/project/ocean-house/",
+    "image": "/case-studies/bond-ny/0e5a9c6cdefc.webp",
+    "capturedAt": "2026-08-30T18:32:06.320Z"
+  },
+  {
+    "id": "477bf5194a23",
+    "agencySlug": "bond-ny",
+    "title": "Company Gallery Art",
+    "url": "https://bond-ny.com/project/company-gallery/",
+    "image": "/case-studies/bond-ny/477bf5194a23.webp",
+    "capturedAt": "2026-08-30T18:32:04.330Z"
+  },
+  {
+    "id": "3e7457ce9d50",
+    "agencySlug": "bond-ny",
+    "title": "Collector’s Loft Residential",
+    "url": "https://bond-ny.com/project/collectors-loft/",
+    "image": "/case-studies/bond-ny/3e7457ce9d50.webp",
+    "capturedAt": "2026-08-30T18:32:02.138Z"
+  },
+  {
+    "id": "570110c0a351",
+    "agencySlug": "bond-ny",
+    "title": "Valley Apartment Residential",
+    "url": "https://bond-ny.com/project/valley-apartment/",
+    "image": "/case-studies/bond-ny/570110c0a351.webp",
+    "capturedAt": "2026-08-30T18:31:59.756Z"
+  },
+  {
+    "id": "1981dc705dc5",
+    "agencySlug": "bond-ny",
+    "title": "Pines Beach Cabin Residential",
+    "url": "https://bond-ny.com/project/pines-beach-cabin/",
+    "image": "/case-studies/bond-ny/1981dc705dc5.webp",
+    "capturedAt": "2026-08-30T18:31:57.263Z"
+  },
+  {
+    "id": "476a7f06dd0a",
+    "agencySlug": "bmd",
+    "title": "Zayed National Museum Brand identity for the first national museum for the UAE",
+    "url": "https://www.brucemaudesign.com/work/zayed-national-museum",
+    "image": "/case-studies/bmd/476a7f06dd0a.webp",
+    "capturedAt": "2026-08-30T18:31:38.610Z"
+  },
+  {
+    "id": "c9d25a771435",
+    "agencySlug": "bmd",
+    "title": "The National Ballet of Canada A new brand identity to drive change at one of the world's…",
+    "url": "https://www.brucemaudesign.com/work/the-national-ballet-of-canada",
+    "image": "/case-studies/bmd/c9d25a771435.webp",
+    "capturedAt": "2026-08-30T18:31:35.377Z"
+  },
+  {
+    "id": "50769143cc7f",
+    "agencySlug": "bmd",
+    "title": "Kolm Kolm Brand Identity for a multi-sensory wellness experience",
+    "url": "https://www.brucemaudesign.com/work/kolm",
+    "image": "/case-studies/bmd/50769143cc7f.webp",
+    "capturedAt": "2026-08-30T18:31:29.476Z"
+  },
+  {
+    "id": "8ce5205588b0",
+    "agencySlug": "bmd",
+    "title": "Biophi Biophi A brand identity for a new horticultural innovation hub",
+    "url": "https://www.brucemaudesign.com/work/biophi",
+    "image": "/case-studies/bmd/8ce5205588b0.webp",
+    "capturedAt": "2026-08-30T18:31:23.406Z"
+  },
+  {
+    "id": "8ef48fe174dc",
+    "agencySlug": "bmd",
+    "title": "Toronto Pearson Airport Branding Canada's largest airport",
+    "url": "https://www.brucemaudesign.com/work/toronto-pearson-airport",
+    "image": "/case-studies/bmd/8ef48fe174dc.webp",
+    "capturedAt": "2026-08-30T18:31:21.125Z"
+  },
+  {
+    "id": "8069b7de38c2",
+    "agencySlug": "bmd",
+    "title": "McMichael McMichael A contemporary brand refresh for a beloved historical art museum",
+    "url": "https://www.brucemaudesign.com/work/mcmichael",
+    "image": "/case-studies/bmd/8069b7de38c2.webp",
+    "capturedAt": "2026-08-30T18:31:17.831Z"
+  },
+  {
     "id": "4a74393bb6dc",
     "agencySlug": "bureau-tonalli",
     "title": "Libre Berry Crush Digital Capsule",
