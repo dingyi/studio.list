@@ -1,0 +1,48 @@
+src/data/case-studies.json
+  s_0b8640585938d7::t_b992c325f81021 2,51-97
+  s_0b8640585938d7::t_70219fd4f604ac 3-50
+src/data/agencies.json
+  s_0b8640585938d7::t_276381c24f278d 1118-1135
+  s_0b8640585938d7::t_cf27a16b7b38cb 3586-3603
+  s_0b8640585938d7::t_5cbe30bbd0a048 6809-6831
+  s_0b8640585938d7::t_8029ce609299c9 3679-3696
+  s_0b8640585938d7::t_1a7a74b691f323 18500-18517
+  s_eadd2856dac3a1::t_a7f6513059bd03 1117,3585,3678,6808,18499
+src/data/case-study-manifest.json
+  s_0b8640585938d7::t_65d834864ebd53 8508-8514
+  s_0b8640585938d7::t_95743c8c88974d 8529-8535
+  s_0b8640585938d7::t_14513e77e0167d 8536-8540
+  s_0b8640585938d7::t_b992c325f81021 8515-8521
+  s_0b8640585938d7::t_70219fd4f604ac 8522-8528
+src/data/screenshot-manifest.json
+  s_0b8640585938d7::t_42cf0f6f769f40 10790-10796
+  s_0b8640585938d7::t_9e16e82ed3d55a 10804-10810
+  s_0b8640585938d7::t_20e24e4f267301 10811-10812,10814-10816
+  s_0b8640585938d7::t_adce3bc2744ee9 10819-10825
+  s_0b8640585938d7::t_6b8af950b6fdd9 10813,10817-10818
+  s_0b8640585938d7::t_9751bda3899eef 10797-10803
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "b146d87198022eb000176381373ca8dc42371218",
+  "prompts": {},
+  "sessions": {
+    "s_0b8640585938d7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f887c-b2a8-7230-9ddc-6f8b4aa0f4a5",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    },
+    "s_eadd2856dac3a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8931-ef65-7763-8ea4-7dd7dc6071b8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
