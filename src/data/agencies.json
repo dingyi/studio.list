@@ -4056,6 +4056,25 @@
     "sourceLines": []
   },
   {
+    "id": "d576f6cedb4fbb3d",
+    "slug": "brenden",
+    "name": "BRENDEN",
+    "aliases": [],
+    "description": "BRENDEN is a brand creative group. We are a group of directors, designers, planners, and creators who respect the value of diversity and believe that the sum is the root of novelty.",
+    "website": "https://brenden.kr/",
+    "officialDomain": "brenden.kr",
+    "locations": [
+      {
+        "code": "KR",
+        "name": "South Korea",
+        "flag": "🇰🇷"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/brenden.webp",
+    "sourceLines": []
+  },
+  {
     "id": "fdbc0082d1638f88",
     "slug": "bright",
     "name": "BRIGHT",
@@ -19255,6 +19274,25 @@
       3403,
       4713
     ]
+  },
+  {
+    "id": "11a5d43c6ea4f23e",
+    "slug": "orgcaos",
+    "name": "Orgcaos",
+    "aliases": [],
+    "description": "At Orgcaos, we design for good. We are a creative design studio focused on purpose-driven graphic design and interactive web design.",
+    "website": "https://www.orgcaos.com/",
+    "officialDomain": "orgcaos.com",
+    "locations": [
+      {
+        "code": "EE",
+        "name": "Estonia",
+        "flag": "🇪🇪"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/orgcaos.webp",
+    "sourceLines": []
   },
   {
     "id": "38d3bb00e5455337",

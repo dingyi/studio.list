@@ -1,5 +1,53 @@
 [
   {
+    "id": "7e4eed6a7aa7",
+    "agencySlug": "brenden",
+    "title": "Naver Maps Rebranding Project",
+    "url": "https://brenden.kr/project/naver-maps",
+    "image": "/case-studies/brenden/7e4eed6a7aa7.webp",
+    "capturedAt": "2026-08-31T13:54:05.300Z"
+  },
+  {
+    "id": "ba421152c51e",
+    "agencySlug": "orgcaos",
+    "title": "Designing for a movement that helped change policy",
+    "url": "https://www.orgcaos.com/work/prochorao-sexed",
+    "image": "/case-studies/orgcaos/ba421152c51e.webp",
+    "capturedAt": "2026-08-31T13:34:39.365Z"
+  },
+  {
+    "id": "f2416ee312b5",
+    "agencySlug": "orgcaos",
+    "title": "Branding a brand program that had no brand (yet)",
+    "url": "https://www.orgcaos.com/work/branding-ma-in-brand-experience-design",
+    "image": "/case-studies/orgcaos/f2416ee312b5.webp",
+    "capturedAt": "2026-08-31T13:34:33.009Z"
+  },
+  {
+    "id": "2e00ef473f76",
+    "agencySlug": "orgcaos",
+    "title": "Vikerlased. A unified visual language for Baltic’s first LGBT+ choir",
+    "url": "https://www.orgcaos.com/work/vikerlased-choir-estonia",
+    "image": "/case-studies/orgcaos/2e00ef473f76.webp",
+    "capturedAt": "2026-08-31T13:34:26.073Z"
+  },
+  {
+    "id": "648ec6367a37",
+    "agencySlug": "orgcaos",
+    "title": "Dust in Cyprus. A clearer picture of air quality",
+    "url": "https://www.orgcaos.com/work/dust-in-cyprus",
+    "image": "/case-studies/orgcaos/648ec6367a37.webp",
+    "capturedAt": "2026-08-31T13:34:20.022Z"
+  },
+  {
+    "id": "cdfaaaef02af",
+    "agencySlug": "orgcaos",
+    "title": "Stefanson. A visual identity that ties it all together",
+    "url": "https://www.orgcaos.com/work/stefanson-visual-identity",
+    "image": "/case-studies/orgcaos/cdfaaaef02af.webp",
+    "capturedAt": "2026-08-31T13:34:13.734Z"
+  },
+  {
     "id": "1e6c12c63856",
     "agencySlug": "bond-ny",
     "title": "Pines Art House Residential",

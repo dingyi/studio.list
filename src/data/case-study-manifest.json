@@ -8538,5 +8538,19 @@
     "status": "no-work-page",
     "homepageUrl": "https://offgrid.inc/",
     "capturedAt": "2026-08-30T18:33:23.051Z"
+  },
+  "orgcaos": {
+    "status": "success",
+    "entriesHash": "51239db871b6cc062dc052ac46fa8d74cfdfe35f82eb4cc94edc2c16a3ef3d41",
+    "homepageUrl": "https://www.orgcaos.com/",
+    "workPageUrl": "https://www.orgcaos.com/work",
+    "capturedAt": "2026-08-31T13:33:53.185Z"
+  },
+  "brenden": {
+    "status": "success",
+    "entriesHash": "7e4eed6a7aa7db739dbdbaee46a1c18d5f98dd2df691d2ffc4e5a586376543f9",
+    "homepageUrl": "https://brenden.kr/",
+    "workPageUrl": "https://brenden.kr/project",
+    "capturedAt": "2026-08-31T13:54:05.300Z"
   }
 }
