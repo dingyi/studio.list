@@ -1,0 +1,25 @@
+---
+import FreeFontDirectory from "@/components/FreeFontDirectory";
+import PageHeader from "@/components/PageHeader";
+import SiteFooter from "@/components/SiteFooter.astro";
+import freeFonts from "@/data/free-fonts.json";
+import type { FreeFont } from "@/lib/fonts";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Free Fonts — studio.list"
+  description="Browse a searchable index of commercial-use and open-source Chinese and English fonts."
+>
+  <PageHeader active="fonts" client:load />
+  <FreeFontDirectory fonts={freeFonts as FreeFont[]} client:load />
+  <SiteFooter />
+  <script is:inline>
+    if (window.location.search) {
+      const meta = document.createElement("meta");
+      meta.name = "robots";
+      meta.content = "noindex,follow";
+      document.head.appendChild(meta);
+    }
+  </script>
+</BaseLayout>

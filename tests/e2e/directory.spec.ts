@@ -197,7 +197,7 @@ test("exposes the mobile navigation and direct website action", async ({
 test("shows the submission notice from the footer", async ({ page }) => {
   await openReadyPage(page, "/about/");
   await expect(page.locator(".site-footer .footer-top")).toHaveCount(0);
-  await expect(page.locator(".footer-nav").getByRole("link")).toHaveCount(2);
+  await expect(page.locator(".footer-nav").getByRole("link")).toHaveCount(3);
   await page
     .locator(".site-footer")
     .getByRole("button", { name: "Submit" })
@@ -205,6 +205,30 @@ test("shows the submission notice from the footer", async ({ page }) => {
   await expect(
     page.getByRole("heading", { name: "Submissions are opening soon." }),
   ).toBeVisible();
+});
+
+test("filters and searches the free font directory", async ({
+  page,
+}, testInfo) => {
+  await openReadyPage(page, "/free-fonts/");
+  await expect(page.locator('[data-font-directory-ready="true"]')).toBeVisible();
+  await expect(
+    page.locator('.desktop-nav a[href="/free-fonts/"]'),
+  ).toHaveAttribute("aria-current", "page");
+  await expect(page.getByText("1048 fonts", { exact: true })).toBeVisible();
+  await expect(page.locator(".free-font-card")).toHaveCount(36);
+
+  const gridColumns = await page.locator(".free-font-grid").evaluate(
+    (grid) => getComputedStyle(grid).gridTemplateColumns.split(" ").length,
+  );
+  expect(gridColumns).toBe(testInfo.project.name === "mobile" ? 1 : 4);
+
+  await page.getByRole("button", { name: "English" }).click();
+  await expect(page).toHaveURL(/category=english/);
+  await page.getByRole("searchbox", { name: "Search fonts" }).fill("NegaTape");
+  await expect(page.locator(".free-font-card")).toHaveCount(1);
+  await expect(page.locator(".free-font-card").first()).toContainText("NegaTape");
+  await expect(page).toHaveURL(/q=NegaTape/);
 });
 
 test("presents the About page as a narrow editorial index", async ({ page }) => {
