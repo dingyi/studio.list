@@ -1,0 +1,38 @@
+src/data/case-study-manifest.json
+  s_0b8640585938d7::t_08dea6823a4c75 8562-8568
+  s_0b8640585938d7::t_5b53a7df1e4764 8555-8561
+src/data/case-studies.json
+  s_0b8640585938d7::t_08dea6823a4c75 3-50
+  s_0b8640585938d7::t_5b53a7df1e4764 2,51-97
+src/data/agencies.json
+  s_0b8640585938d7::t_2e9199b15e1628 8467-8484
+  s_0b8640585938d7::t_498c8c6b366272 19116-19133
+  s_e405229fcfe638::t_6ae09ca36447d5 8466,19115
+src/data/screenshot-manifest.json
+  s_0b8640585938d7::t_a6998c2a5c4537 10839-10845
+  s_0b8640585938d7::t_9795e47ade4705 10846-10852
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "44a44fc7adcbc0c41c0397acbb39c903ea6a66e0",
+  "prompts": {},
+  "sessions": {
+    "s_0b8640585938d7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f887c-b2a8-7230-9ddc-6f8b4aa0f4a5",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    },
+    "s_e405229fcfe638": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5984-f341-7ef1-b08d-8b7acdce841f",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Ding Yi <dingyimac@gmail.com>"
+    }
+  }
+}
