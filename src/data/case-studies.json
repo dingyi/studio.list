@@ -1,5 +1,101 @@
 [
   {
+    "id": "75b48e9d201e",
+    "agencySlug": "optical-arts",
+    "title": "Odyssey for Telstra",
+    "url": "https://opticalarts.studio/work/telstra",
+    "image": "/case-studies/optical-arts/75b48e9d201e.webp",
+    "capturedAt": "2026-09-06T10:04:33.125Z"
+  },
+  {
+    "id": "f62d6b6c4cef",
+    "agencySlug": "optical-arts",
+    "title": "Idents for Cancer Research UK & Channel 4",
+    "url": "https://opticalarts.studio/work/cruk",
+    "image": "/case-studies/optical-arts/f62d6b6c4cef.webp",
+    "capturedAt": "2026-09-06T10:04:26.685Z"
+  },
+  {
+    "id": "72ee3a057453",
+    "agencySlug": "optical-arts",
+    "title": "Supersonic R & Jasper Plum for Dyson",
+    "url": "https://opticalarts.studio/work/dyson-supersonic-r",
+    "image": "/case-studies/optical-arts/72ee3a057453.webp",
+    "capturedAt": "2026-09-06T10:04:20.415Z"
+  },
+  {
+    "id": "db6920aeaf16",
+    "agencySlug": "optical-arts",
+    "title": "Apricot Topaz for Dyson",
+    "url": "https://opticalarts.studio/work/dyson-apricot-topaz",
+    "image": "/case-studies/optical-arts/db6920aeaf16.webp",
+    "capturedAt": "2026-09-06T10:04:13.974Z"
+  },
+  {
+    "id": "bb5fb9fa86de",
+    "agencySlug": "optical-arts",
+    "title": "Idents for Channel 4",
+    "url": "https://opticalarts.studio/work/channel-4-idents",
+    "image": "/case-studies/optical-arts/bb5fb9fa86de.webp",
+    "capturedAt": "2026-09-06T10:04:07.542Z"
+  },
+  {
+    "id": "5a9564015de4",
+    "agencySlug": "optical-arts",
+    "title": "Apple TV",
+    "url": "https://opticalarts.studio/work/appletv",
+    "image": "/case-studies/optical-arts/5a9564015de4.webp",
+    "capturedAt": "2026-09-06T10:04:01.387Z"
+  },
+  {
+    "id": "351a98597b53",
+    "agencySlug": "family-office",
+    "title": "L’eggs Reestablishing an iconic American brand.",
+    "url": "https://familyoffice.is/work/leggs",
+    "image": "/case-studies/family-office/351a98597b53.webp",
+    "capturedAt": "2026-09-02T11:45:29.854Z"
+  },
+  {
+    "id": "cb5fc3f508e7",
+    "agencySlug": "family-office",
+    "title": "Devotion For brands worth worshipping.",
+    "url": "https://familyoffice.is/work/devotion",
+    "image": "/case-studies/family-office/cb5fc3f508e7.webp",
+    "capturedAt": "2026-09-02T11:45:26.528Z"
+  },
+  {
+    "id": "8828fd6455c8",
+    "agencySlug": "family-office",
+    "title": "Scope3 For a safe, sustainable ad tech.",
+    "url": "https://familyoffice.is/work/scope3",
+    "image": "/case-studies/family-office/8828fd6455c8.webp",
+    "capturedAt": "2026-09-02T11:45:22.515Z"
+  },
+  {
+    "id": "0c02e314f2bc",
+    "agencySlug": "family-office",
+    "title": "Bonside Defining the brick-and-mortar economy.",
+    "url": "https://familyoffice.is/work/bonside",
+    "image": "/case-studies/family-office/0c02e314f2bc.webp",
+    "capturedAt": "2026-09-02T11:45:19.607Z"
+  },
+  {
+    "id": "410e5c4a2578",
+    "agencySlug": "family-office",
+    "title": "Mecado Changing mechanical engineering, forever.",
+    "url": "https://familyoffice.is/work/mecado",
+    "image": "/case-studies/family-office/410e5c4a2578.webp",
+    "capturedAt": "2026-09-02T11:45:12.831Z"
+  },
+  {
+    "id": "9dbba0b9a313",
+    "agencySlug": "family-office",
+    "title": "Halo Powerful care for private practices.",
+    "url": "https://familyoffice.is/work/halo",
+    "image": "/case-studies/family-office/9dbba0b9a313.webp",
+    "capturedAt": "2026-09-02T11:45:06.000Z"
+  },
+  {
     "id": "7e4eed6a7aa7",
     "agencySlug": "brenden",
     "title": "Naver Maps Rebranding Project",

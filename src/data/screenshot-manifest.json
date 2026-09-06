@@ -10836,5 +10836,19 @@
     "capturedAt": "2026-08-31T13:41:22.814Z",
     "requestedUrl": "https://brenden.kr/",
     "error": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://brenden.kr/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  "family-office": {
+    "status": "success",
+    "path": "/screenshots/family-office.webp",
+    "capturedAt": "2026-09-02T11:44:43.760Z",
+    "requestedUrl": "https://familyoffice.is/",
+    "finalUrl": "https://familyoffice.is/"
+  },
+  "optical-arts": {
+    "status": "success",
+    "path": "/screenshots/optical-arts.webp",
+    "capturedAt": "2026-09-06T10:03:24.161Z",
+    "requestedUrl": "https://opticalarts.studio/",
+    "finalUrl": "https://opticalarts.studio/"
   }
 }

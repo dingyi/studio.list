@@ -8552,5 +8552,19 @@
     "homepageUrl": "https://brenden.kr/",
     "workPageUrl": "https://brenden.kr/project",
     "capturedAt": "2026-08-31T13:54:05.300Z"
+  },
+  "family-office": {
+    "status": "success",
+    "entriesHash": "4057c25d90f4521804a299bcc09308dd1bbb4c7ed730eb1d1780156a3db659c7",
+    "homepageUrl": "https://familyoffice.is/",
+    "workPageUrl": "https://familyoffice.is/work",
+    "capturedAt": "2026-09-02T11:44:55.862Z"
+  },
+  "optical-arts": {
+    "status": "success",
+    "entriesHash": "61a4002651c6ee1fbb7cc448e2ca6ef42326ee3b90f20ec3346b4bb3300d9e69",
+    "homepageUrl": "https://opticalarts.studio/",
+    "workPageUrl": "https://opticalarts.studio/work",
+    "capturedAt": "2026-09-06T10:03:46.853Z"
   }
 }

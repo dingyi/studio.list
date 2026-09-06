@@ -8464,6 +8464,25 @@
     ]
   },
   {
+    "id": "333519c362c5cabc",
+    "slug": "family-office",
+    "name": "Family Office",
+    "aliases": [],
+    "description": "Founded by Diego Segura, Family Office designs brand identities, crafts user interfaces, and writes company-defining essays, manifestos, and brand strategy.",
+    "website": "https://familyoffice.is/",
+    "officialDomain": "familyoffice.is",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/family-office.webp",
+    "sourceLines": []
+  },
+  {
     "id": "f6af7f2bbf5b30a5",
     "slug": "family-style",
     "name": "Family Style",
@@ -19092,6 +19111,25 @@
     "sourceLines": [
       3363
     ]
+  },
+  {
+    "id": "ebcaa4de269151ab",
+    "slug": "optical-arts",
+    "name": "Optical Arts",
+    "aliases": [],
+    "description": "Optical Arts is a creative studio based in London. With an experimental approach and a collective spirit we explore new ways to tell visual stories, applying innovative techniques to live action, digital and print.",
+    "website": "https://opticalarts.studio/",
+    "officialDomain": "opticalarts.studio",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/optical-arts.webp",
+    "sourceLines": []
   },
   {
     "id": "681cdcc807d72e18",
