@@ -10850,5 +10850,12 @@
     "capturedAt": "2026-09-06T10:03:24.161Z",
     "requestedUrl": "https://opticalarts.studio/",
     "finalUrl": "https://opticalarts.studio/"
+  },
+  "lotipa": {
+    "status": "success",
+    "path": "/screenshots/lotipa.webp",
+    "capturedAt": "2026-09-07T02:13:27.577Z",
+    "requestedUrl": "https://www.lotipa.com/",
+    "finalUrl": "https://www.lotipa.com/"
   }
 }

@@ -8566,5 +8566,12 @@
     "homepageUrl": "https://opticalarts.studio/",
     "workPageUrl": "https://opticalarts.studio/work",
     "capturedAt": "2026-09-06T10:03:46.853Z"
+  },
+  "lotipa": {
+    "status": "success",
+    "entriesHash": "bdfb0ebff4b024b67ceb0650fdde9a998d41926e907b52f4ec31fc4792910fa8",
+    "homepageUrl": "https://www.lotipa.com/",
+    "workPageUrl": "https://www.lotipa.com/",
+    "capturedAt": "2026-09-07T02:15:48.000Z"
   }
 }
