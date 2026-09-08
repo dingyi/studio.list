@@ -10857,5 +10857,19 @@
     "capturedAt": "2026-09-07T02:13:27.577Z",
     "requestedUrl": "https://www.lotipa.com/",
     "finalUrl": "https://www.lotipa.com/"
+  },
+  "alt-shift": {
+    "status": "success",
+    "path": "/screenshots/alt-shift.webp",
+    "capturedAt": "2026-09-07T13:43:56.806Z",
+    "requestedUrl": "https://altshiftstudio.com/",
+    "finalUrl": "https://altshiftstudio.com/"
+  },
+  "aparelho": {
+    "status": "success",
+    "path": "/screenshots/aparelho.webp",
+    "capturedAt": "2026-09-08T10:45:35.000Z",
+    "requestedUrl": "https://aparelho.studio/",
+    "finalUrl": "https://aparelho.studio/"
   }
 }

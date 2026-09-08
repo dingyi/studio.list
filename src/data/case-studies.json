@@ -31806,5 +31806,53 @@
     "url": "https://www.lotipa.com/featured-work/harley-meds",
     "image": "/case-studies/lotipa/e6a7e4eb9185.webp",
     "capturedAt": "2026-09-07T02:15:48.000Z"
+  },
+  {
+    "id": "17794dfd8cb4",
+    "agencySlug": "alt-shift",
+    "title": "Grand",
+    "url": "https://altshiftstudio.com/work/grand",
+    "image": "/case-studies/alt-shift/17794dfd8cb4.webp",
+    "capturedAt": "2026-09-07T13:44:46.034Z"
+  },
+  {
+    "id": "64dde42602e1",
+    "agencySlug": "alt-shift",
+    "title": "Scene",
+    "url": "https://altshiftstudio.com/work/scene",
+    "image": "/case-studies/alt-shift/64dde42602e1.webp",
+    "capturedAt": "2026-09-07T13:44:46.034Z"
+  },
+  {
+    "id": "05c93f8b99df",
+    "agencySlug": "aparelho",
+    "title": "Panorama Art Advisory",
+    "url": "https://aparelho.studio/projects/panorama-art-advisory/",
+    "image": "/case-studies/aparelho/05c93f8b99df.webp",
+    "capturedAt": "2026-09-08T10:45:35.000Z"
+  },
+  {
+    "id": "3a42589697d8",
+    "agencySlug": "aparelho",
+    "title": "Dom Maria",
+    "url": "https://aparelho.studio/projects/dom-maria/",
+    "image": "/case-studies/aparelho/3a42589697d8.webp",
+    "capturedAt": "2026-09-08T10:45:35.000Z"
+  },
+  {
+    "id": "a9b2318664dd",
+    "agencySlug": "aparelho",
+    "title": "Osklen Digital Flagship",
+    "url": "https://aparelho.studio/projects/osklen-flagship/",
+    "image": "/case-studies/aparelho/a9b2318664dd.webp",
+    "capturedAt": "2026-09-08T10:45:35.000Z"
+  },
+  {
+    "id": "3a130f4b0ee1",
+    "agencySlug": "aparelho",
+    "title": "Kunumi Institute",
+    "url": "https://aparelho.studio/projects/kunumi-institute/",
+    "image": "/case-studies/aparelho/3a130f4b0ee1.webp",
+    "capturedAt": "2026-09-08T10:45:35.000Z"
   }
 ]

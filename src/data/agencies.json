@@ -1452,6 +1452,19 @@
     ]
   },
   {
+    "id": "8d798b752333b0ad",
+    "slug": "alt-shift",
+    "name": "alt-shift",
+    "aliases": [],
+    "description": "A design studio that embeds with your team to untangle complex problems and design B2B products. 0-1 and beyond.",
+    "website": "https://altshiftstudio.com/",
+    "officialDomain": "altshiftstudio.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/alt-shift.webp",
+    "sourceLines": []
+  },
+  {
     "id": "9f43b16a7776e751",
     "slug": "amardenvox",
     "name": "Amardenvox",
@@ -1961,6 +1974,19 @@
     ],
     "logo": null,
     "screenshot": "/screenshots/ap-studio.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "d991b06cd6f7a4e8",
+    "slug": "aparelho",
+    "name": "Aparelho Studio",
+    "aliases": [],
+    "description": "A design and strategy studio that merges a deeply experimental approach with rigorous technological expertise to create consistently meaningful experiences.",
+    "website": "https://aparelho.studio/",
+    "officialDomain": "aparelho.studio",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/aparelho.webp",
     "sourceLines": []
   },
   {
