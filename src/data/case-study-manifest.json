@@ -3047,10 +3047,10 @@
     "capturedAt": "2026-08-16T20:28:14.002Z"
   },
   "smith-and-diction": {
-    "status": "no-entries",
-    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "captures-failed",
+    "entriesHash": "e5741c5768b9b1a99b006837a5ba57eb4dff88c0f57ed8464490d2bb5fb34d0e",
     "homepageUrl": "http://smith-diction.com/",
     "workPageUrl": "https://smith-diction.com/work",
-    "capturedAt": "2026-09-14T06:40:41.828Z"
+    "capturedAt": "2026-09-14T06:48:00.120Z"
   }
 }

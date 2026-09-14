@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 
 import {
+  agencyPublicationUrl,
   caseStudyId,
   cleanCaseStudyTitle,
   dedupeAcrossAgencies,
@@ -153,6 +154,118 @@ describe("extractCaseStudyLinks", () => {
     `;
     const links = extractCaseStudyLinks(html, workPage);
     expect(links[0].title).toBe("One Project");
+  });
+});
+
+describe("agencyPublicationUrl", () => {
+  const agency = {
+    officialDomain: "smith-diction.com",
+    name: "Smith & Diction",
+  };
+  const workPage = "https://smith-diction.com/work";
+
+  it("accepts posts inside the agency's own Medium publication", () => {
+    expect(
+      agencyPublicationUrl(
+        "https://medium.com/smith-diction/branding-alma-25f352285455",
+        workPage,
+        agency,
+      )?.toString(),
+    ).toBe("https://medium.com/smith-diction/branding-alma-25f352285455");
+    expect(
+      agencyPublicationUrl(
+        "https://smith-diction.medium.com/rockin-the-suburbs-896091b7d41",
+        workPage,
+        agency,
+      )?.toString(),
+    ).toBe("https://smith-diction.medium.com/rockin-the-suburbs-896091b7d41");
+  });
+
+  it("matches handles derived from the agency name", () => {
+    expect(
+      agencyPublicationUrl(
+        "https://medium.com/@smithdiction/branding-alma",
+        workPage,
+        agency,
+      ),
+    ).not.toBeNull();
+    expect(
+      agencyPublicationUrl(
+        "https://smithdiction.substack.com/p/branding-alma",
+        workPage,
+        agency,
+      ),
+    ).not.toBeNull();
+  });
+
+  it("strips tracking parameters that duplicate the same post", () => {
+    expect(
+      agencyPublicationUrl(
+        "https://medium.com/smith-diction/part-i-4756f2af430f?source=friends_link&sk=3abfd50d",
+        workPage,
+        agency,
+      )?.toString(),
+    ).toBe("https://medium.com/smith-diction/part-i-4756f2af430f");
+  });
+
+  it("rejects other publications, client sites, and index pages", () => {
+    expect(
+      agencyPublicationUrl(
+        "https://medium.com/other-studio/their-post",
+        workPage,
+        agency,
+      ),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl("https://medium.com/p/8c57f970bead", workPage, agency),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl("https://medium.com/smith-diction", workPage, agency),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl("https://mintednewyork.com/", workPage, agency),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl("https://calendly.com/", workPage, agency),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl(
+        "https://smithdiction.substack.com/about",
+        workPage,
+        agency,
+      ),
+    ).toBeNull();
+  });
+});
+
+describe("extractCaseStudyLinks with an agency publication", () => {
+  const agency = {
+    officialDomain: "smith-diction.com",
+    name: "Smith & Diction",
+  };
+
+  it("collects owned publication posts alongside same-site entries", () => {
+    const html = `
+      <a href="/work/onsite">Onsite Project</a>
+      <a href="https://medium.com/smith-diction/branding-alma-25f352285455">Alma</a>
+      <a href="https://medium.com/other-studio/not-ours">Not ours</a>
+      <a href="https://mintednewyork.com/">Minted New York</a>
+      <a href="https://www.instagram.com/smith_diction/">Instagram</a>
+    `;
+    const links = extractCaseStudyLinks(html, "https://smith-diction.com/work", {
+      agency,
+    });
+    expect(links.map((link) => link.url)).toEqual([
+      "https://smith-diction.com/work/onsite",
+      "https://medium.com/smith-diction/branding-alma-25f352285455",
+    ]);
+  });
+
+  it("ignores off-site links when no agency identity is given", () => {
+    const html = `<a href="https://medium.com/smith-diction/branding-alma">Alma</a>`;
+    expect(
+      extractCaseStudyLinks(html, "https://smith-diction.com/work"),
+    ).toEqual([]);
   });
 });
 

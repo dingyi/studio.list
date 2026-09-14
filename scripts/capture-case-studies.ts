@@ -27,7 +27,12 @@ interface CaseStudyEntry {
   capturedAt: string;
 }
 
-type CaseStudyStatus = "success" | "no-work-page" | "no-entries" | "failed";
+type CaseStudyStatus =
+  | "success"
+  | "no-work-page"
+  | "no-entries"
+  | "captures-failed"
+  | "failed";
 
 interface ManifestEntry {
   status: CaseStudyStatus;
@@ -298,6 +303,10 @@ async function worker(workerIndex: number) {
       const links = extractCaseStudyLinks(await page.content(), page.url(), {
         limit: perAgencyLimit,
         requireNested: workIsHomepage,
+        agency: {
+          officialDomain: agency.officialDomain,
+          name: agency.name,
+        },
       });
       const hash = entriesHash(links);
       const previous = manifest[agency.slug];
@@ -345,7 +354,9 @@ async function worker(workerIndex: number) {
 
       entriesBySlug.set(agency.slug, captured);
       manifest[agency.slug] = {
-        status: captured.length ? "success" : "no-entries",
+        // Entries were found, so an empty result means every capture failed
+        // (bot protection, timeouts) rather than an empty work page.
+        status: captured.length ? "success" : "captures-failed",
         entriesHash: hash,
         homepageUrl: agency.website,
         workPageUrl,

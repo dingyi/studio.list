@@ -88,6 +88,72 @@ function normalizedPath(url: URL): string {
   return url.pathname.replace(/\/+$/, "") || "/";
 }
 
+export interface AgencyIdentity {
+  officialDomain: string;
+  name: string;
+}
+
+const trackingParamPattern =
+  /^(?:source|sk|sharedUserId|ref|si|utm_[\w-]+)$/i;
+
+function handleKey(value: string): string {
+  return value.toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
+function agencyHandles(agency: AgencyIdentity): Set<string> {
+  const domainBase = normalizeHostname(agency.officialDomain).split(".")[0];
+  return new Set([
+    handleKey(domainBase),
+    handleKey(agency.name),
+    handleKey(agency.name.replace(/&|\band\b/gi, "")),
+  ]);
+}
+
+/**
+ * Some studios publish their case studies on a publishing platform instead of
+ * their own domain. Accept such a link only when it sits inside a publication
+ * space whose handle matches the agency's own identity — a work page also
+ * links to client websites and booking tools, which are not case studies.
+ */
+export function agencyPublicationUrl(
+  href: string,
+  baseUrl: string,
+  agency: AgencyIdentity,
+): URL | null {
+  let url: URL;
+  try {
+    url = new URL(href, baseUrl);
+  } catch {
+    return null;
+  }
+  if (url.protocol !== "http:" && url.protocol !== "https:") return null;
+
+  const host = normalizeHostname(url.hostname);
+  const segments = url.pathname.split("/").filter(Boolean);
+  const handles = agencyHandles(agency);
+  const owned = (candidate: string) => handles.has(handleKey(candidate));
+
+  if (host === "medium.com") {
+    // medium.com/<publication>/<post>; the publication root is an index.
+    if (segments.length < 2) return null;
+    if (!owned(segments[0].replace(/^@/, ""))) return null;
+  } else if (host.endsWith(".medium.com")) {
+    if (segments.length < 1) return null;
+    if (!owned(host.slice(0, -".medium.com".length))) return null;
+  } else if (host.endsWith(".substack.com")) {
+    if (segments[0] !== "p" || segments.length < 2) return null;
+    if (!owned(host.slice(0, -".substack.com".length))) return null;
+  } else {
+    return null;
+  }
+
+  url.hash = "";
+  for (const key of [...url.searchParams.keys()]) {
+    if (trackingParamPattern.test(key)) url.searchParams.delete(key);
+  }
+  return url;
+}
+
 export function findWorkPageUrl(
   html: string,
   baseUrl: string,
@@ -203,7 +269,11 @@ export function cleanCaseStudyTitle(value: string): string {
 export function extractCaseStudyLinks(
   html: string,
   workPageUrl: string,
-  { limit = 6, requireNested = false }: { limit?: number; requireNested?: boolean } = {},
+  {
+    limit = 6,
+    requireNested = false,
+    agency,
+  }: { limit?: number; requireNested?: boolean; agency?: AgencyIdentity } = {},
 ): CaseStudyLink[] {
   const work = new URL(workPageUrl);
   const workPath = normalizedPath(work);
@@ -211,17 +281,25 @@ export function extractCaseStudyLinks(
   const seen = new Set<string>();
 
   for (const anchor of extractAnchors(stripContainerBlocks(html))) {
-    const url = sameSiteUrl(anchor.href, workPageUrl);
+    let url = sameSiteUrl(anchor.href, workPageUrl);
+    const publication = url
+      ? null
+      : agency
+        ? agencyPublicationUrl(anchor.href, workPageUrl, agency)
+        : null;
+    url ??= publication;
     if (!url) continue;
     const path = normalizedPath(url);
-    if (path === "/" || path === workPath) continue;
-    if (excludedPathPattern.test(path) || paginationPattern.test(path))
-      continue;
-    const segments = path.split("/").filter(Boolean).length;
-    if (!segments) continue;
-    // On a homepage-as-work-page, single-segment links (/about, /archive)
-    // are navigation, not case studies.
-    if (requireNested && segments < 2) continue;
+    if (!publication) {
+      if (path === "/" || path === workPath) continue;
+      if (excludedPathPattern.test(path) || paginationPattern.test(path))
+        continue;
+      const segments = path.split("/").filter(Boolean).length;
+      if (!segments) continue;
+      // On a homepage-as-work-page, single-segment links (/about, /archive)
+      // are navigation, not case studies.
+      if (requireNested && segments < 2) continue;
+    }
     if (ctaTextPattern.test(cleanCaseStudyTitle(anchor.text))) continue;
 
     const key = url.toString();
