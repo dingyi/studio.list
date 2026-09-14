@@ -15,6 +15,7 @@ import {
   extractCaseStudyLinks,
   findWorkPageUrl,
   isReadableTitle,
+  looksLikeDescription,
   type CaseStudyLink,
 } from "./lib/case-studies";
 
@@ -230,8 +231,11 @@ async function captureEntry(
     .toFile(resolve(root, `public${image}`));
 
   let title = link.title;
-  if (!isReadableTitle(title))
-    title = cleanCaseStudyTitle(await readPageTitle(page));
+  if (!isReadableTitle(title) || looksLikeDescription(title)) {
+    const pageTitle = cleanCaseStudyTitle(await readPageTitle(page));
+    if (isReadableTitle(pageTitle) && !looksLikeDescription(pageTitle))
+      title = pageTitle;
+  }
   if (!isReadableTitle(title)) {
     title = new URL(link.url).pathname.split("/").filter(Boolean).pop() ?? "";
     title = title.replace(/[-_]+/g, " ").trim();

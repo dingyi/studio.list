@@ -9,6 +9,7 @@ import {
   extractCaseStudyLinks,
   findWorkPageUrl,
   isReadableTitle,
+  looksLikeDescription,
 } from "../scripts/lib/case-studies";
 
 describe("findWorkPageUrl", () => {
@@ -351,6 +352,31 @@ describe("isReadableTitle", () => {
     expect(isReadableTitle("F F E R N")).toBe(false);
     expect(isReadableTitle("Made by James")).toBe(true);
     expect(isReadableTitle("A B C")).toBe(true);
+  });
+});
+
+describe("looksLikeDescription", () => {
+  it("flags long alt-text sentences describing an image", () => {
+    expect(
+      looksLikeDescription(
+        "A hand holding a mobile phone displaying Fr8Hub's mobile app in front of trucks",
+      ),
+    ).toBe(true);
+    expect(
+      looksLikeDescription(
+        "Image of a figure sitting at a laptop viewing the OnScreen platform",
+      ),
+    ).toBe(true);
+  });
+
+  it("keeps short titles and real project names", () => {
+    expect(looksLikeDescription("The Beca")).toBe(false);
+    expect(looksLikeDescription("Academy Museum")).toBe(false);
+    expect(
+      looksLikeDescription(
+        "Gen Z Broke the Marketing Funnel, a report for Vogue Business",
+      ),
+    ).toBe(false);
   });
 });
 

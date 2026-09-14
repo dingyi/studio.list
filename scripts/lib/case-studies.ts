@@ -234,6 +234,18 @@ export function isReadableTitle(title: string): boolean {
   return letters / compact.length >= 0.5;
 }
 
+/**
+ * Image alt text describes the picture instead of naming the project ("A hand
+ * holding a mobile phone displaying …"). Such a value is readable but makes a
+ * poor card title, so the capture prefers the project page's own heading.
+ */
+export function looksLikeDescription(title: string): boolean {
+  if (title.length <= 45) return false;
+  return /^(?:an?|the|image|images|photo|photos|picture|screenshot|screengrab|view|close-?up|illustration|portrait|shot)\b/i.test(
+    title.trim(),
+  );
+}
+
 export function cleanCaseStudyTitle(value: string): string {
   let title = decodeEntities(value).replace(/\s+/g, " ").trim();
   // SEO titles are usually "Page title | Site name".
