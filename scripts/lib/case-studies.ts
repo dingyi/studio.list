@@ -280,6 +280,41 @@ export function titleFromUrl(url: string): string {
     .trim();
 }
 
+/**
+ * Animated or duplicated markup repeats a phrase verbatim ("Walden Robotics
+ * Walden Robotics AI, Robotics"). Collapse adjacent repeats of two or more
+ * words wherever they occur, keeping short brand repetitions like
+ * "Samsøe Samsøe" intact.
+ */
+function collapseRepeatedPhrases(title: string): string {
+  let words = title.split(" ");
+  for (let unit = Math.floor(words.length / 2); unit >= 2; unit--) {
+    for (let start = 0; start + 2 * unit <= words.length; start++) {
+      const phrase = words.slice(start, start + unit);
+      let repeats = 1;
+      while (
+        start + (repeats + 1) * unit <= words.length &&
+        words
+          .slice(start + repeats * unit, start + (repeats + 1) * unit)
+          .every(
+            (word, index) =>
+              word.toLowerCase() === phrase[index].toLowerCase(),
+          )
+      ) {
+        repeats++;
+      }
+      if (repeats >= 2) {
+        words = [
+          ...words.slice(0, start + unit),
+          ...words.slice(start + repeats * unit),
+        ];
+        start = -1;
+      }
+    }
+  }
+  return words.join(" ").replace(/\s+/g, " ").trim();
+}
+
 export function cleanCaseStudyTitle(value: string): string {
   let title = decodeEntities(value).replace(/\s+/g, " ").trim();
   // SEO titles are usually "Page title | Site name".
@@ -289,22 +324,7 @@ export function cleanCaseStudyTitle(value: string): string {
   // Animated or duplicated markup often repeats the same phrase verbatim
   // ("Nike - On Air Nike - On Air Nike - On Air"). Collapse leading exact
   // repeats, but keep short legit repetitions like "Samsøe Samsøe".
-  const words = title.split(" ");
-  for (let unit = 3; unit <= words.length / 2; unit++) {
-    let repeats = 1;
-    while (
-      (repeats + 1) * unit <= words.length &&
-      words
-        .slice(repeats * unit, (repeats + 1) * unit)
-        .every((word, index) => word === words[index])
-    ) {
-      repeats++;
-    }
-    if (repeats >= 2) {
-      title = [...words.slice(0, unit), ...words.slice(repeats * unit)].join(" ");
-      break;
-    }
-  }
+  title = collapseRepeatedPhrases(title);
   if (title.length > 90) {
     const cut = title.lastIndexOf(" ", 90);
     title = `${title.slice(0, cut > 40 ? cut : 90).trimEnd()}…`;

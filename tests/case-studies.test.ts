@@ -317,7 +317,7 @@ describe("cleanCaseStudyTitle", () => {
 
   it("cuts SEO site-name suffixes and caps length", () => {
     expect(cleanCaseStudyTitle("Trust Stamp | 10Clouds")).toBe("Trust Stamp");
-    const long = `Project ${"word ".repeat(30)}`.trim();
+    const long = `Project ${Array.from({ length: 30 }, (_, index) => `word${index}`).join(" ")}`;
     const cleaned = cleanCaseStudyTitle(long);
     expect(cleaned.length).toBeLessThanOrEqual(91);
     expect(cleaned.endsWith("…")).toBe(true);
@@ -328,6 +328,20 @@ describe("cleanCaseStudyTitle", () => {
       "Nike - On Air",
     );
     expect(cleanCaseStudyTitle("Samsøe Samsøe")).toBe("Samsøe Samsøe");
+  });
+
+  it("collapses repeats that start mid-title", () => {
+    expect(cleanCaseStudyTitle("Walden Robotics Walden Robotics AI, Robotics")).toBe(
+      "Walden Robotics AI, Robotics",
+    );
+    expect(
+      cleanCaseStudyTitle(
+        "Designs we did for Graduate Hotels Graduate Hotels Developing a suite",
+      ),
+    ).toBe("Designs we did for Graduate Hotels Developing a suite");
+    expect(cleanCaseStudyTitle("Shield AI Shield AI Building the future")).toBe(
+      "Shield AI Building the future",
+    );
   });
 });
 
