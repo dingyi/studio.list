@@ -167,12 +167,12 @@
     "finalUrl": "https://weareadopt.com/"
   },
   "active-theory": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/active-theory.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:48:40.101Z",
     "requestedUrl": "https://activetheory.com/home",
     "finalUrl": "https://activetheory.net/unsupported",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:36.719Z"
   },
   "adoratorio-studio": {
     "status": "success",
@@ -484,12 +484,12 @@
     "finalUrl": "https://www.anagrama.com/"
   },
   "antoni": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/antoni.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:27:50.892Z",
     "requestedUrl": "https://antoni.de/",
     "finalUrl": "https://antoni.de/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/antoni.webp",
+    "reviewedAt": "2026-09-14T07:05:07.293Z"
   },
   "anyways-creative": {
     "status": "failed",
@@ -589,12 +589,12 @@
     "finalUrl": "https://athleticsnyc.com/"
   },
   "art-and-graft": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/art-and-graft.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:28:10.263Z",
     "requestedUrl": "https://artandgraft.com/",
     "finalUrl": "https://artandgraft.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/art-and-graft.webp",
+    "reviewedAt": "2026-09-14T07:05:07.975Z"
   },
   "atoll-digital": {
     "status": "success",
@@ -714,12 +714,12 @@
     "finalUrl": "https://baggy.studio/"
   },
   "balkan-brothers": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/balkan-brothers.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:29:57.829Z",
     "requestedUrl": "http://www.balkan-brothers.com/",
     "finalUrl": "https://afternow.co/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/balkan-brothers.webp",
+    "reviewedAt": "2026-09-14T07:05:08.666Z"
   },
   "balky-essentials": {
     "status": "success",
@@ -799,12 +799,12 @@
     "finalUrl": "https://beans.agency/"
   },
   "bb-agency": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/bb-agency.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:30:30.672Z",
     "requestedUrl": "https://bb.agency/",
     "finalUrl": "https://afternow.co/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/bb-agency.webp",
+    "reviewedAt": "2026-09-14T07:05:09.354Z"
   },
   "belief-agency": {
     "status": "success",
@@ -905,12 +905,12 @@
     "finalUrl": "https://bito.tv/"
   },
   "bizup": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/bizup.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:48:40.387Z",
     "requestedUrl": "https://www.bizupagency.com/en/",
     "finalUrl": "https://www.bizupagency.com/en/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/bizup.webp",
+    "reviewedAt": "2026-09-14T07:05:10.048Z"
   },
   "bleed": {
     "status": "success",
@@ -1108,12 +1108,12 @@
     "finalUrl": "https://www.bureau-va.com/"
   },
   "bureau-oberhaeuser": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/bureau-oberhaeuser.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:48:40.962Z",
     "requestedUrl": "https://oberhaeuser.info/",
     "finalUrl": "https://oberhaeuser.info/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:37.401Z"
   },
   "bureaux": {
     "status": "failed",
@@ -1296,12 +1296,12 @@
     "finalUrl": "https://clearleft.com/"
   },
   "clever-franke": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/clever-franke.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:48:55.897Z",
     "requestedUrl": "https://www.cleverfranke.com/",
     "finalUrl": "https://www.cleverfranke.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/clever-franke.webp",
+    "reviewedAt": "2026-09-14T07:05:10.731Z"
   },
   "cliff-studio": {
     "status": "success",
@@ -1318,12 +1318,12 @@
     "finalUrl": "https://studioclim.com/"
   },
   "code-and-theory": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/code-and-theory.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:48:59.415Z",
     "requestedUrl": "https://www.codeandtheory.com/",
     "finalUrl": "https://www.codeandtheory.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/code-and-theory.webp",
+    "reviewedAt": "2026-09-14T07:05:11.413Z"
   },
   "cm-supply": {
     "status": "success",
@@ -1340,12 +1340,12 @@
     "finalUrl": "https://codeastudio.com/"
   },
   "cokau-lab": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/cokau-lab.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:49:05.710Z",
     "requestedUrl": "https://cokaulab.com/",
     "finalUrl": "https://cokaulab.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:38.108Z"
   },
   "collins": {
     "status": "success",
@@ -1460,12 +1460,12 @@
     "finalUrl": "https://convergences.studio/"
   },
   "craft": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/craft.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:35:27.817Z",
     "requestedUrl": "http://craftagency.co.uk/",
     "finalUrl": "https://itscraft.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/craft.webp",
+    "reviewedAt": "2026-09-14T07:05:12.148Z"
   },
   "craftwork-studio": {
     "status": "success",
@@ -1614,12 +1614,12 @@
     "finalUrl": "https://den.cool/"
   },
   "denise-agency": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/denise-agency.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:49:22.326Z",
     "requestedUrl": "https://denise-agency.com/",
     "finalUrl": "https://denise-agency.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/denise-agency.webp",
+    "reviewedAt": "2026-09-14T07:05:12.832Z"
   },
   "depo-studio": {
     "status": "success",
@@ -1685,12 +1685,12 @@
     "finalUrl": "https://designups.com/"
   },
   "dhnn": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/dhnn.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:21:09.015Z",
     "requestedUrl": "https://dhnn.com/",
     "finalUrl": "https://dhnn.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/dhnn.webp",
+    "reviewedAt": "2026-09-14T07:05:13.517Z"
   },
   "diko": {
     "status": "success",
@@ -1830,20 +1830,20 @@
     "finalUrl": "https://doze.studio/fr"
   },
   "drawhistory": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/drawhistory.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:49:41.565Z",
     "requestedUrl": "https://drawhistory.com/",
     "finalUrl": "https://drawhistory.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:38.817Z"
   },
   "drool": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/drool.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:49:42.287Z",
     "requestedUrl": "https://www.drooldesignstudio.com/",
     "finalUrl": "https://www.drool.design/.well-known/sgcaptcha/?r=%2F&y=ipr:34.195.13.132:1789368583.989",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:39.501Z"
   },
   "dutchscot": {
     "status": "success",
@@ -1922,12 +1922,12 @@
     "finalUrl": "https://www.helloelva.com/"
   },
   "dogstudio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/dogstudio.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:21:14.062Z",
     "requestedUrl": "https://dogstudio.co/",
     "finalUrl": "https://dogstudio.co/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/dogstudio.webp",
+    "reviewedAt": "2026-09-14T07:05:14.204Z"
   },
   "empty-shelf": {
     "status": "success",
@@ -2055,20 +2055,20 @@
     "finalUrl": "https://fathomanddraft.com/"
   },
   "femme-fatale-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/femme-fatale-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:49:55.961Z",
     "requestedUrl": "https://www.femmefatale.paris/en",
     "finalUrl": "https://www.femmefatale.paris/en",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/femme-fatale-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:15.573Z"
   },
   "fay": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/fay.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:49:55.691Z",
     "requestedUrl": "https://fay.design/",
     "finalUrl": "https://fay.design/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/fay.webp",
+    "reviewedAt": "2026-09-14T07:05:14.889Z"
   },
   "exo-ape": {
     "status": "success",
@@ -2153,12 +2153,12 @@
     "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.firstborn.com/\nCall log:\n  - navigating to \"https://www.firstborn.com/\", waiting until \"domcontentloaded\"\n"
   },
   "flod": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/flod.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:02.086Z",
     "requestedUrl": "https://www.weareflod.com/",
     "finalUrl": "https://weareflod.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/flod.webp",
+    "reviewedAt": "2026-09-14T07:05:16.257Z"
   },
   "flow": {
     "status": "success",
@@ -2175,12 +2175,12 @@
     "finalUrl": "https://flowstage.studio/lander"
   },
   "focus-lab": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/focus-lab.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:05.178Z",
     "requestedUrl": "https://focuslab.agency/",
     "finalUrl": "https://www.focuslab.agency/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/focus-lab.webp",
+    "reviewedAt": "2026-09-14T07:05:16.949Z"
   },
   "fol": {
     "status": "success",
@@ -2371,12 +2371,12 @@
     "finalUrl": "https://www.funsize.co/"
   },
   "futuredeluxe": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/futuredeluxe.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:50:25.006Z",
     "requestedUrl": "https://futuredeluxe.com/",
     "finalUrl": "https://futuredeluxe.com/.well-known/sgcaptcha/?r=%2F&y=ipr:34.232.125.200:1789368625.386",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:40.194Z"
   },
   "fuzzco": {
     "status": "success",
@@ -2807,12 +2807,12 @@
     "finalUrl": "https://hanzo.es/"
   },
   "hochburg": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/hochburg.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:42:47.617Z",
     "requestedUrl": "https://www.hochburg.design/",
     "finalUrl": "https://www.hochburg.design/en/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/hochburg.webp",
+    "reviewedAt": "2026-09-14T07:05:17.661Z"
   },
   "hicks": {
     "status": "success",
@@ -2913,12 +2913,12 @@
     "finalUrl": "https://huskyfox.com/"
   },
   "hymn": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/hymn.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:32.525Z",
     "requestedUrl": "https://www.hymn.design/",
     "finalUrl": "https://www.hymn.design/en",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/hymn.webp",
+    "reviewedAt": "2026-09-14T07:05:18.347Z"
   },
   "hype-type-studio": {
     "status": "success",
@@ -2949,12 +2949,12 @@
     "finalUrl": "https://www.ideo.com/"
   },
   "iamstatic": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/iamstatic.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:37.420Z",
     "requestedUrl": "https://iamstatic.com/",
     "finalUrl": "https://iamstatic.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/iamstatic.webp",
+    "reviewedAt": "2026-09-14T07:05:19.054Z"
   },
   "idol": {
     "status": "success",
@@ -2992,12 +2992,12 @@
     "finalUrl": "https://illo.tv/"
   },
   "impero": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/impero.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:41.459Z",
     "requestedUrl": "https://www.weareimpero.com/",
     "finalUrl": "https://www.weareimpero.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/impero.webp",
+    "reviewedAt": "2026-09-14T07:05:19.745Z"
   },
   "immersive-garden": {
     "status": "success",
@@ -3105,12 +3105,12 @@
     "finalUrl": "https://www.studio-juicebox.com/"
   },
   "justified": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/justified.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:50.815Z",
     "requestedUrl": "https://justified.studio/",
     "finalUrl": "https://www.justified.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/justified.webp",
+    "reviewedAt": "2026-09-14T07:05:20.427Z"
   },
   "kenyon-weston": {
     "status": "success",
@@ -3127,12 +3127,12 @@
     "finalUrl": "https://kaleidografik.com/"
   },
   "k72": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/k72.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:51.322Z",
     "requestedUrl": "https://k72.ca/",
     "finalUrl": "https://k72.ca/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/k72.webp",
+    "reviewedAt": "2026-09-14T07:05:21.118Z"
   },
   "kersvers": {
     "status": "success",
@@ -3163,12 +3163,12 @@
     "finalUrl": "https://klad.design/"
   },
   "klik": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/klik.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:50:52.570Z",
     "requestedUrl": "https://klik.studio/",
     "finalUrl": "https://forsale.godaddy.com/forsale/klik.studio?utm_source=TDFS_BINNS&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns_base&traffic_type=TDFS_BINNS&traffic_id=binns&",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:40.877Z"
   },
   "koal-studio": {
     "status": "success",
@@ -3178,12 +3178,12 @@
     "finalUrl": "https://www.koal.ch/"
   },
   "kommigraphics": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/kommigraphics.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:54.184Z",
     "requestedUrl": "https://kommigraphics.com/en/",
     "finalUrl": "https://kommigraphics.com/en/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/kommigraphics.webp",
+    "reviewedAt": "2026-09-14T07:05:21.805Z"
   },
   "kaploom": {
     "status": "success",
@@ -3200,20 +3200,20 @@
     "finalUrl": "http://ww547.komnata.agency/?tkn=19vnMT3S"
   },
   "kota": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/kota.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:57.431Z",
     "requestedUrl": "https://kota.co.uk/",
     "finalUrl": "https://kota.co.uk/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/kota.webp",
+    "reviewedAt": "2026-09-14T07:05:22.493Z"
   },
   "koto": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/koto.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:50:57.845Z",
     "requestedUrl": "https://koto.studio/",
     "finalUrl": "https://koto.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/koto.webp",
+    "reviewedAt": "2026-09-14T07:05:23.178Z"
   },
   "international-magic": {
     "status": "success",
@@ -3347,12 +3347,12 @@
     "finalUrl": "https://lemma.studio/"
   },
   "le-fruit-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/le-fruit-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:51:13.151Z",
     "requestedUrl": "https://lefruitstudio.fr/en/",
     "finalUrl": "https://lefruitstudio.fr/en/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/le-fruit-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:23.869Z"
   },
   "legacy-studio": {
     "status": "failed",
@@ -3501,12 +3501,12 @@
     "finalUrl": "https://www.callmelord.com/"
   },
   "lovework-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/lovework-studio.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:51:39.469Z",
     "requestedUrl": "https://www.lovework.studio/",
     "finalUrl": "https://www.lovework.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:41.561Z"
   },
   "lunar-saloon": {
     "status": "success",
@@ -3565,12 +3565,12 @@
     "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
   },
   "mad": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/mad.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:51:58.134Z",
     "requestedUrl": "https://www.mad.ac/",
     "finalUrl": "https://mad.ac/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/mad.webp",
+    "reviewedAt": "2026-09-14T07:05:24.561Z"
   },
   "made-by-on": {
     "status": "failed",
@@ -3636,12 +3636,12 @@
     "finalUrl": "https://www.makemepulse.com/"
   },
   "makebardo": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/makebardo.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:52:32.461Z",
     "requestedUrl": "https://www.makebardo.com/",
     "finalUrl": "https://www.makebardo.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/makebardo.webp",
+    "reviewedAt": "2026-09-14T07:05:25.238Z"
   },
   "makkaihang-design": {
     "status": "failed",
@@ -3685,20 +3685,20 @@
     "finalUrl": "https://studio-mann.webflow.io/"
   },
   "manual": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/manual.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:52:34.130Z",
     "requestedUrl": "https://manualcreative.com/",
     "finalUrl": "https://manual.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:42.246Z"
   },
   "mariko-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/mariko-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:52:40.508Z",
     "requestedUrl": "https://www.marikostudio.com/",
     "finalUrl": "https://www.marikostudio.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/mariko-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:25.913Z"
   },
   "markiewicz-studio": {
     "status": "failed",
@@ -3729,12 +3729,12 @@
     "finalUrl": "https://www.wearematey.com/"
   },
   "maven-creative": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/maven-creative.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:52:42.494Z",
     "requestedUrl": "https://www.mavencreative.com/",
     "finalUrl": "https://www.mavencreative.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:42.905Z"
   },
   "mayven-studios": {
     "status": "success",
@@ -3821,12 +3821,12 @@
     "error": "HTTP 522"
   },
   "milkink-creative-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/milkink-creative-studio.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:50:08.111Z",
     "requestedUrl": "https://milkinkstudio.com/",
     "finalUrl": "https://milkinkstudio.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/milkink-creative-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:26.586Z"
   },
   "mimosa": {
     "status": "success",
@@ -3939,12 +3939,12 @@
     "finalUrl": "https://www.molly.studio/"
   },
   "monogrid": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/monogrid.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:53:21.884Z",
     "requestedUrl": "http://mono-grid.com/",
     "finalUrl": "https://monogrid.com/en/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/monogrid.webp",
+    "reviewedAt": "2026-09-14T07:05:27.273Z"
   },
   "monogram": {
     "status": "success",
@@ -3961,12 +3961,12 @@
     "finalUrl": "https://monolif.co/"
   },
   "monopo": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/monopo.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:53:24.168Z",
     "requestedUrl": "https://monopo.co.jp/",
     "finalUrl": "https://monopo.co.jp/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/monopo.webp",
+    "reviewedAt": "2026-09-14T07:05:27.959Z"
   },
   "monolith": {
     "status": "success",
@@ -4059,12 +4059,12 @@
     "finalUrl": "https://movingstudio.co.uk/"
   },
   "moxy": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/moxy.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:53:35.517Z",
     "requestedUrl": "https://moxy.studio/",
     "finalUrl": "https://moxy.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:43.642Z"
   },
   "moving-brands": {
     "status": "success",
@@ -4087,20 +4087,20 @@
     "error": "HTTP 429"
   },
   "mubien-brands": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/mubien-brands.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:53:37.150Z",
     "requestedUrl": "https://mubien.com/",
     "finalUrl": "https://mubien.com/.well-known/sgcaptcha/?r=%2F&y=ipr:34.195.13.132:1789368817.586",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:44.333Z"
   },
   "mucho": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/mucho.webp",
+    "status": "failed",
     "capturedAt": "2026-07-15T16:51:18.903Z",
     "requestedUrl": "https://wearemucho.com/",
     "finalUrl": "https://wearemucho.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:45.033Z"
   },
   "more-and-more": {
     "status": "success",
@@ -4165,12 +4165,12 @@
     "finalUrl": "https://multivitamin.studio/"
   },
   "narative": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/narative.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:53:43.874Z",
     "requestedUrl": "https://www.narative.co/",
     "finalUrl": "https://forsale.godaddy.com/forsale/www.narative.co?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:45.733Z"
   },
   "navarra": {
     "status": "failed",
@@ -4193,12 +4193,12 @@
     "finalUrl": "https://www.motherdesign.com/"
   },
   "nerdo-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/nerdo-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:53:45.264Z",
     "requestedUrl": "https://www.nerdo.tv/",
     "finalUrl": "https://www.nerdo.tv/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/nerdo-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:29.333Z"
   },
   "netrix-digital": {
     "status": "success",
@@ -4215,12 +4215,12 @@
     "finalUrl": "https://neubauberlin.com/"
   },
   "naam": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/naam.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:53:43.406Z",
     "requestedUrl": "https://studionaam.com/",
     "finalUrl": "https://studionaam.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/naam.webp",
+    "reviewedAt": "2026-09-14T07:05:28.651Z"
   },
   "netguru": {
     "status": "success",
@@ -4244,20 +4244,20 @@
     "finalUrl": "https://neversitstill.com/"
   },
   "never-before-seen": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/never-before-seen.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:53:49.001Z",
     "requestedUrl": "https://www.neverbeforeseen.co/",
     "finalUrl": "https://neverbeforeseen.co/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/never-before-seen.webp",
+    "reviewedAt": "2026-09-14T07:05:30.030Z"
   },
   "neverbland": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/neverbland.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:53:50.511Z",
     "requestedUrl": "https://neverbland.com/",
     "finalUrl": "https://neverbland.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/neverbland.webp",
+    "reviewedAt": "2026-09-14T07:05:30.731Z"
   },
   "new-apology": {
     "status": "success",
@@ -4273,20 +4273,20 @@
     "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.newassociation.co/\nCall log:\n  - navigating to \"https://www.newassociation.co/\", waiting until \"domcontentloaded\"\n"
   },
   "new-genre": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/new-genre.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:53:54.029Z",
     "requestedUrl": "https://newgenre.studio/",
     "finalUrl": "https://www.newgenre.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/new-genre.webp",
+    "reviewedAt": "2026-09-14T07:05:31.414Z"
   },
   "new-territory": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/new-territory.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:51:55.242Z",
     "requestedUrl": "https://newterritory.studio/",
     "finalUrl": "https://newterritory.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/new-territory.webp",
+    "reviewedAt": "2026-09-14T07:05:32.101Z"
   },
   "newkid": {
     "status": "success",
@@ -4310,12 +4310,12 @@
     "finalUrl": "https://niceandserious.com/"
   },
   "nightjar": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/nightjar.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:53:56.878Z",
     "requestedUrl": "https://nightjar.co/",
     "finalUrl": "https://nightjar.co/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/nightjar.webp",
+    "reviewedAt": "2026-09-14T07:05:32.781Z"
   },
   "no-plans-studio": {
     "status": "success",
@@ -4466,12 +4466,12 @@
     "finalUrl": "https://obys.agency/"
   },
   "octoplus-group": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/octoplus-group.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:54:09.654Z",
     "requestedUrl": "https://octoplus.ch/",
     "finalUrl": "https://say.social/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/octoplus-group.webp",
+    "reviewedAt": "2026-09-14T07:05:33.489Z"
   },
   "oda": {
     "status": "success",
@@ -4495,12 +4495,12 @@
     "finalUrl": "https://offormdesign.com/"
   },
   "off-brand": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/off-brand.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:54:09.931Z",
     "requestedUrl": "https://www.itsoffbrand.com/",
     "finalUrl": "https://www.itsoffbrand.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:46.413Z"
   },
   "off-menu": {
     "status": "success",
@@ -4517,12 +4517,12 @@
     "finalUrl": "https://normally.com/"
   },
   "ohmy": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/ohmy.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:54:12.345Z",
     "requestedUrl": "https://www.ohmy.studio/",
     "finalUrl": "https://www.ohmy.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/ohmy.webp",
+    "reviewedAt": "2026-09-14T07:05:34.201Z"
   },
   "norgram": {
     "status": "success",
@@ -4581,12 +4581,12 @@
     "finalUrl": "https://olssonbarbieri.com/"
   },
   "onda-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/onda-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:54:21.050Z",
     "requestedUrl": "https://www.ondastudio.co/",
     "finalUrl": "https://www.ondastudio.co/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/onda-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:34.877Z"
   },
   "onehalf": {
     "status": "failed",
@@ -4692,12 +4692,12 @@
     "finalUrl": "https://okcclabs.com/"
   },
   "orbyt-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/orbyt-studio.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:54:32.227Z",
     "requestedUrl": "https://orbyt.studio/",
     "finalUrl": "https://orbyt.studio/.well-known/sgcaptcha/?r=%2F&y=ipr:34.195.13.132:1789368872.613",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:47.101Z"
   },
   "orchidea": {
     "status": "success",
@@ -4784,12 +4784,12 @@
     "finalUrl": "https://otoh.agency/"
   },
   "ouiwill": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/ouiwill.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:54:48.989Z",
     "requestedUrl": "https://www.ouiwill.com/",
     "finalUrl": "https://www.ouiwill.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/ouiwill.webp",
+    "reviewedAt": "2026-09-14T07:05:35.569Z"
   },
   "our-lifes-work": {
     "status": "success",
@@ -4806,12 +4806,12 @@
     "finalUrl": "https://our-revolution.com/"
   },
   "outcrowd": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/outcrowd.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:53:14.413Z",
     "requestedUrl": "https://www.outcrowd.io/",
     "finalUrl": "https://www.outcrowd.io/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/outcrowd.webp",
+    "reviewedAt": "2026-09-14T07:05:36.261Z"
   },
   "outpost": {
     "status": "success",
@@ -4926,12 +4926,12 @@
     "finalUrl": "https://paravelinc.com/"
   },
   "parker-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/parker-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:55:13.686Z",
     "requestedUrl": "https://parker.studio/",
     "finalUrl": "https://www.parker.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/parker-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:36.953Z"
   },
   "partnom-creative": {
     "status": "success",
@@ -4975,12 +4975,12 @@
     "finalUrl": "https://www.permanent.is/"
   },
   "phantom": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/phantom.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:55:24.862Z",
     "requestedUrl": "https://phantom.land/",
     "finalUrl": "https://www.phantom.land/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/phantom.webp",
+    "reviewedAt": "2026-09-14T07:05:37.659Z"
   },
   "phenomenon": {
     "status": "success",
@@ -5131,12 +5131,12 @@
     "finalUrl": "https://designbypraline.com/"
   },
   "powell-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/powell-studio.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:55:39.505Z",
     "requestedUrl": "https://www.powell-studio.com/",
     "finalUrl": "https://powell-studio.com/",
-    "error": "The captured viewport appears visually blank and requires manual review."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:47.782Z"
   },
   "precious": {
     "status": "success",
@@ -5209,20 +5209,20 @@
     "finalUrl": "https://www.prowlstud.io/"
   },
   "pudding-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/pudding-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:55:52.157Z",
     "requestedUrl": "https://www.pudding.studio/",
     "finalUrl": "https://www.pudding.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/pudding-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:38.353Z"
   },
   "purple-rock-scissors": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/purple-rock-scissors.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:55:53.121Z",
     "requestedUrl": "https://purplerockscissors.com/",
     "finalUrl": "https://www.purplerockscissors.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/purple-rock-scissors.webp",
+    "reviewedAt": "2026-09-14T07:05:39.038Z"
   },
   "qcrn-studio": {
     "status": "success",
@@ -5357,12 +5357,12 @@
     "finalUrl": "https://raw.studio/"
   },
   "refokus": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/refokus.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:56:25.743Z",
     "requestedUrl": "https://www.refokus.com/",
     "finalUrl": "https://www.refokus.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/refokus.webp",
+    "reviewedAt": "2026-09-14T07:05:40.410Z"
   },
   "reform-collective": {
     "status": "success",
@@ -5449,12 +5449,12 @@
     "finalUrl": "https://reflexdesign.cn/"
   },
   "reveal-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/reveal-studio.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:56:47.772Z",
     "requestedUrl": "https://www.revealstudio.co/",
     "finalUrl": "https://www.sebastienplisson.fr/",
-    "error": "The captured viewport appears visually blank and requires manual review."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:48.461Z"
   },
   "reversed-digital": {
     "status": "success",
@@ -5470,12 +5470,12 @@
     "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.revolvestudio.co/\nCall log:\n  - navigating to \"https://www.revolvestudio.co/\", waiting until \"domcontentloaded\"\n"
   },
   "reed": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/reed.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:56:25.679Z",
     "requestedUrl": "https://www.reed.be/en/",
     "finalUrl": "https://www.reed.be/en/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/reed.webp",
+    "reviewedAt": "2026-09-14T07:05:39.733Z"
   },
   "rezo-zero": {
     "status": "success",
@@ -5505,12 +5505,12 @@
     "finalUrl": "https://raxo.co/"
   },
   "rogue-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/rogue-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:56:54.806Z",
     "requestedUrl": "https://rogue.studio/",
     "finalUrl": "https://rogue.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/rogue-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:41.103Z"
   },
   "roandco": {
     "status": "success",
@@ -5527,12 +5527,12 @@
     "finalUrl": "https://studiorotate.com/"
   },
   "rudo-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/rudo-studio.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:56:59.142Z",
     "requestedUrl": "https://rudo.studio/",
     "finalUrl": "https://rudo.studio/.well-known/sgcaptcha/?r=%2F&y=ipr:34.232.125.200:1789369019.478",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:49.148Z"
   },
   "roll-studio": {
     "status": "success",
@@ -5577,12 +5577,12 @@
     "finalUrl": "https://sagmeisterwalsh.com/"
   },
   "saint-friend": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/saint-friend.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:57:05.609Z",
     "requestedUrl": "https://www.saintfriend.co/",
     "finalUrl": "https://www.saintfriend.co/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/saint-friend.webp",
+    "reviewedAt": "2026-09-14T07:05:41.799Z"
   },
   "resn": {
     "status": "success",
@@ -5807,12 +5807,12 @@
     "finalUrl": "https://studio-size.com/"
   },
   "skinn": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/skinn.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:57:26.098Z",
     "requestedUrl": "https://www.skinn.agency/",
     "finalUrl": "https://www.skinn.agency/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/skinn.webp",
+    "reviewedAt": "2026-09-14T07:05:42.484Z"
   },
   "smith-and-diction": {
     "status": "success",
@@ -6026,12 +6026,12 @@
     "finalUrl": "https://strangefamily.co/"
   },
   "studio-ahremark": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/studio-ahremark.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:57:53.107Z",
     "requestedUrl": "https://www.studioahremark.com/",
     "finalUrl": "https://www.studioahremark.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/studio-ahremark.webp",
+    "reviewedAt": "2026-09-14T07:05:43.869Z"
   },
   "studio-blackburn": {
     "status": "success",
@@ -6048,12 +6048,12 @@
     "finalUrl": "https://www.studiobrot.de/"
   },
   "spring-summer": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/spring-summer.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:25:01.592Z",
     "requestedUrl": "https://springsummer.dk/",
     "finalUrl": "https://springsummer.dk/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/spring-summer.webp",
+    "reviewedAt": "2026-09-14T07:05:43.176Z"
   },
   "studio-bruch": {
     "status": "success",
@@ -6118,12 +6118,12 @@
     "finalUrl": "https://www.studioheed.com/"
   },
   "studio-herrstrom": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/studio-herrstrom.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:58:02.434Z",
     "requestedUrl": "https://studioherrstrom.com/",
     "finalUrl": "https://www.studioherrstrom.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/studio-herrstrom.webp",
+    "reviewedAt": "2026-09-14T07:05:44.557Z"
   },
   "studio-kiln": {
     "status": "success",
@@ -6154,12 +6154,12 @@
     "finalUrl": "https://leichtfried.com/"
   },
   "studio-nand": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/studio-nand.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:58:10.688Z",
     "requestedUrl": "https://nand.io/",
     "finalUrl": "https://www.nand.io/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/studio-nand.webp",
+    "reviewedAt": "2026-09-14T07:05:45.256Z"
   },
   "studio-null": {
     "status": "failed",
@@ -6371,12 +6371,12 @@
     "finalUrl": "https://www.superformula.com/"
   },
   "swamp": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/swamp.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:59:01.942Z",
     "requestedUrl": "https://www.swampexperience.com/",
     "finalUrl": "https://www.swampexperience.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/swamp.webp",
+    "reviewedAt": "2026-09-14T07:05:45.938Z"
   },
   "svzdesign": {
     "status": "success",
@@ -6554,12 +6554,12 @@
     "finalUrl": "https://theshift.tokyo/en/"
   },
   "the-stone-twins": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/the-stone-twins.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:59:16.096Z",
     "requestedUrl": "https://www.stonetwins.com/",
     "finalUrl": "https://www.stonetwins.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/the-stone-twins.webp",
+    "reviewedAt": "2026-09-14T07:05:46.636Z"
   },
   "the-variable": {
     "status": "success",
@@ -6688,12 +6688,12 @@
     "finalUrl": "https://tomorrow-happens.studio/"
   },
   "tomyum": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/tomyum.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:59:31.799Z",
     "requestedUrl": "https://www.tomyum.co/",
     "finalUrl": "https://forsale.godaddy.com/forsale/www.tomyum.co?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:49.833Z"
   },
   "tool": {
     "status": "success",
@@ -6703,12 +6703,12 @@
     "finalUrl": "https://toolofna.com/"
   },
   "toormix": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/toormix.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:59:34.917Z",
     "requestedUrl": "https://toormix.com/en/",
     "finalUrl": "https://toormix.com/en/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:50.521Z"
   },
   "touch": {
     "status": "success",
@@ -6733,12 +6733,12 @@
     "reviewedAt": "2026-07-15T17:02:11.622Z"
   },
   "tric-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/tric-studio.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:59:35.849Z",
     "requestedUrl": "https://tric.studio/",
     "finalUrl": "https://tric.studio/.well-known/sgcaptcha/?r=%2F&y=ipr:34.195.13.132:1789369176.617",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:51.201Z"
   },
   "toil": {
     "status": "success",
@@ -6812,12 +6812,12 @@
     "reviewedAt": "2026-07-15T17:02:11.916Z"
   },
   "trionn": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/trionn.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T06:59:37.238Z",
     "requestedUrl": "https://trionn.com/",
     "finalUrl": "https://trionn.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:51.880Z"
   },
   "toyfight": {
     "status": "success",
@@ -6875,12 +6875,12 @@
     "finalUrl": "https://tubikstudio.com/"
   },
   "underbelly": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/underbelly.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:59:54.181Z",
     "requestedUrl": "https://underbelly.is/",
     "finalUrl": "https://www.underbelly.is/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/underbelly.webp",
+    "reviewedAt": "2026-09-14T07:05:47.326Z"
   },
   "ultra": {
     "status": "failed",
@@ -6903,20 +6903,20 @@
     "finalUrl": "https://www.unfold.co/"
   },
   "uniforma-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/uniforma-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T06:59:55.257Z",
     "requestedUrl": "https://www.uniforma.pl/",
     "finalUrl": "https://www.uniforma.pl/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/uniforma-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:48.013Z"
   },
   "uniko": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/uniko.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:58:21.307Z",
     "requestedUrl": "https://www.unikostudio.co/",
     "finalUrl": "https://www.unikostudio.co/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/uniko.webp",
+    "reviewedAt": "2026-09-14T07:05:48.701Z"
   },
   "two-times-elliott": {
     "status": "success",
@@ -6989,12 +6989,12 @@
     "finalUrl": "https://untitledmacao.com/"
   },
   "unveil": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/unveil.webp",
+    "status": "failed",
     "capturedAt": "2026-09-14T07:00:01.053Z",
     "requestedUrl": "https://unveil.fr/",
     "finalUrl": "https://unveil.fr/",
-    "error": "The captured viewport appears visually blank and requires manual review."
+    "error": "Rejected during manual screenshot review.",
+    "reviewedAt": "2026-09-14T07:04:52.565Z"
   },
   "upstatement": {
     "status": "success",
@@ -7011,12 +7011,12 @@
     "finalUrl": "https://usta.agency/"
   },
   "ustwo": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/ustwo.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T07:00:03.938Z",
     "requestedUrl": "http://ustwo.com/",
     "finalUrl": "https://ustwo.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/ustwo.webp",
+    "reviewedAt": "2026-09-14T07:05:49.403Z"
   },
   "underline": {
     "status": "success",
@@ -7040,20 +7040,20 @@
     "finalUrl": "https://universalfavourite.com.au/"
   },
   "vendredi-society": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/vendredi-society.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T07:00:04.230Z",
     "requestedUrl": "https://vendredi-society.com/",
     "finalUrl": "https://vendredi-society.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/vendredi-society.webp",
+    "reviewedAt": "2026-09-14T07:05:50.091Z"
   },
   "versett": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/versett.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T07:00:06.148Z",
     "requestedUrl": "https://versett.com/",
     "finalUrl": "https://versett.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/versett.webp",
+    "reviewedAt": "2026-09-14T07:05:50.769Z"
   },
   "veza-digital": {
     "status": "success",
@@ -7084,12 +7084,12 @@
     "finalUrl": "https://upperquad.com/"
   },
   "violaine-and-jeremy": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/violaine-and-jeremy.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T07:00:10.224Z",
     "requestedUrl": "https://www.violaineetjeremy.fr/",
     "finalUrl": "https://www.violaineetjeremy.fr/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/violaine-and-jeremy.webp",
+    "reviewedAt": "2026-09-14T07:05:51.457Z"
   },
   "visor": {
     "status": "success",
@@ -7127,12 +7127,12 @@
     "finalUrl": "https://studiovoila.com/lander"
   },
   "vovi": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/vovi.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T07:00:17.127Z",
     "requestedUrl": "https://www.vovi.studio/",
     "finalUrl": "https://www.vovi.studio/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/vovi.webp",
+    "reviewedAt": "2026-09-14T07:05:52.136Z"
   },
   "vrtl-wrld": {
     "status": "success",
@@ -7219,12 +7219,12 @@
     "finalUrl": "http://weirdsgn.com/"
   },
   "werklig": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/werklig.webp",
+    "status": "success",
     "capturedAt": "2026-07-15T16:59:11.608Z",
     "requestedUrl": "https://werklig.com/",
     "finalUrl": "https://www.werklig.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/werklig.webp",
+    "reviewedAt": "2026-09-14T07:05:52.837Z"
   },
   "whatever-studio": {
     "status": "success",
@@ -7374,12 +7374,12 @@
     "finalUrl": "https://xkm.studio/"
   },
   "yambo-studio": {
-    "status": "review",
-    "reviewPath": "/screenshots/review/yambo-studio.webp",
+    "status": "success",
     "capturedAt": "2026-09-14T07:00:37.696Z",
     "requestedUrl": "https://www.yambo-studio.com/",
     "finalUrl": "https://www.yambo-studio.com/",
-    "error": "A browser, consent, or subscription blocker may obstruct the homepage."
+    "path": "/screenshots/yambo-studio.webp",
+    "reviewedAt": "2026-09-14T07:05:53.521Z"
   },
   "yes-and-no": {
     "status": "success",
