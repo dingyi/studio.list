@@ -1,11 +1,123 @@
 [
   {
+    "id": "3812c212b46f",
+    "agencySlug": "right-to-left",
+    "title": "Sketchbook",
+    "url": "https://rightoleft.co.uk/Sketchbook",
+    "image": "/case-studies/right-to-left/3812c212b46f.webp",
+    "capturedAt": "2026-09-14T11:01:48.285Z"
+  },
+  {
+    "id": "794109e6bd39",
+    "agencySlug": "right-to-left",
+    "title": "Right to Left",
+    "url": "https://rightoleft.co.uk/Landing-Page-Updated-Live",
+    "image": "/case-studies/right-to-left/794109e6bd39.webp",
+    "capturedAt": "2026-09-14T11:01:46.975Z"
+  },
+  {
+    "id": "e192c426898b",
+    "agencySlug": "right-to-left",
+    "title": "TypeMap",
+    "url": "https://rightoleft.co.uk/TypeMap",
+    "image": "/case-studies/right-to-left/e192c426898b.webp",
+    "capturedAt": "2026-09-14T11:01:45.145Z"
+  },
+  {
+    "id": "f5bd888cdc4e",
+    "agencySlug": "27b",
+    "title": "NEON Rated",
+    "url": "https://27-b.com/projects/neon",
+    "image": "/case-studies/27b/f5bd888cdc4e.webp",
+    "capturedAt": "2026-09-14T10:54:56.605Z"
+  },
+  {
+    "id": "e1dfa85d2280",
+    "agencySlug": "27b",
+    "title": "Sentimental Value",
+    "url": "https://27-b.com/projects/sentimental-value",
+    "image": "/case-studies/27b/e1dfa85d2280.webp",
+    "capturedAt": "2026-09-14T10:54:50.598Z"
+  },
+  {
+    "id": "c7eb2a750fb7",
+    "agencySlug": "27b",
+    "title": "i-d.co",
+    "url": "https://27-b.com/projects/i-d",
+    "image": "/case-studies/27b/c7eb2a750fb7.webp",
+    "capturedAt": "2026-09-14T10:54:46.128Z"
+  },
+  {
+    "id": "f7044dde4745",
+    "agencySlug": "27b",
+    "title": "i-D Spotlight",
+    "url": "https://27-b.com/projects/i-d-spotlight",
+    "image": "/case-studies/27b/f7044dde4745.webp",
+    "capturedAt": "2026-09-14T10:54:40.297Z"
+  },
+  {
+    "id": "8cdc1e258b41",
+    "agencySlug": "27b",
+    "title": "Marché d’Intérêt Général",
+    "url": "https://27-b.com/projects/m-i-g",
+    "image": "/case-studies/27b/8cdc1e258b41.webp",
+    "capturedAt": "2026-09-14T10:54:34.367Z"
+  },
+  {
+    "id": "9d66c2ca24e8",
+    "agencySlug": "27b",
+    "title": "New inquiries: inquiries@27-b.com",
+    "url": "https://27-b.com/labs",
+    "image": "/case-studies/27b/9d66c2ca24e8.webp",
+    "capturedAt": "2026-09-14T10:54:31.805Z"
+  },
+  {
+    "id": "014d47e55358",
+    "agencySlug": "houth",
+    "title": "Flo Flow Flower — HOUTH",
+    "url": "https://houth.tw/Flo-Flow-Flower",
+    "image": "/case-studies/houth/014d47e55358.webp",
+    "capturedAt": "2026-09-14T10:54:25.171Z"
+  },
+  {
+    "id": "7fee7948ece4",
+    "agencySlug": "houth",
+    "title": "Exhibition",
+    "url": "https://houth.tw/Exhibition-2",
+    "image": "/case-studies/houth/7fee7948ece4.webp",
+    "capturedAt": "2026-09-14T10:54:22.419Z"
+  },
+  {
+    "id": "50f5b7d7a412",
+    "agencySlug": "houth",
+    "title": "INFO",
+    "url": "https://houth.tw/info-1",
+    "image": "/case-studies/houth/50f5b7d7a412.webp",
+    "capturedAt": "2026-09-14T10:54:20.459Z"
+  },
+  {
+    "id": "bea19c55b79c",
+    "agencySlug": "houth",
+    "title": "vi — HOUTH",
+    "url": "https://houth.tw/vi",
+    "image": "/case-studies/houth/bea19c55b79c.webp",
+    "capturedAt": "2026-09-14T10:54:17.768Z"
+  },
+  {
+    "id": "13ea5d3e0dac",
+    "agencySlug": "houth",
+    "title": "HOUTH",
+    "url": "https://houth.tw/HOUTH",
+    "image": "/case-studies/houth/13ea5d3e0dac.webp",
+    "capturedAt": "2026-09-14T10:54:15.194Z"
+  },
+  {
     "id": "a70e4106e797",
     "agencySlug": "lets-bond",
     "title": "How to love the ordinary",
     "url": "https://www.thisisbond.com/work/valio-yogurt",
     "image": "/case-studies/lets-bond/a70e4106e797.webp",
-    "capturedAt": "2026-09-14T10:47:05.321Z"
+    "capturedAt": "2026-09-14T10:53:48.320Z"
   },
   {
     "id": "30065dbb6c14",
@@ -13,7 +125,7 @@
     "title": "EDIT",
     "url": "https://www.thisisbond.com/work/edit",
     "image": "/case-studies/lets-bond/30065dbb6c14.webp",
-    "capturedAt": "2026-09-14T10:47:02.117Z"
+    "capturedAt": "2026-09-14T10:53:46.356Z"
   },
   {
     "id": "12d9054eb2a0",
@@ -21,7 +133,7 @@
     "title": "Saaristo",
     "url": "https://www.thisisbond.com/work/saaristo",
     "image": "/case-studies/lets-bond/12d9054eb2a0.webp",
-    "capturedAt": "2026-09-14T10:46:58.690Z"
+    "capturedAt": "2026-09-14T10:53:41.332Z"
   },
   {
     "id": "0ad620e51a44",
@@ -29,7 +141,7 @@
     "title": "Hartwall Novelle Fresh",
     "url": "https://www.thisisbond.com/work/hartwall-novelle-fresh",
     "image": "/case-studies/lets-bond/0ad620e51a44.webp",
-    "capturedAt": "2026-09-14T10:46:56.325Z"
+    "capturedAt": "2026-09-14T10:53:39.688Z"
   },
   {
     "id": "318a8d98796a",
@@ -37,7 +149,7 @@
     "title": "Lab",
     "url": "https://www.thisisbond.com/work/lab",
     "image": "/case-studies/lets-bond/318a8d98796a.webp",
-    "capturedAt": "2026-09-14T10:46:54.285Z"
+    "capturedAt": "2026-09-14T10:53:37.042Z"
   },
   {
     "id": "4e3187146a4b",
@@ -45,31 +157,151 @@
     "title": "Norrin",
     "url": "https://www.thisisbond.com/work/norrin",
     "image": "/case-studies/lets-bond/4e3187146a4b.webp",
-    "capturedAt": "2026-09-14T10:46:51.143Z"
+    "capturedAt": "2026-09-14T10:53:32.698Z"
   },
   {
-    "id": "61d47614c077",
-    "agencySlug": "guerilla-suit",
-    "title": "just say hi",
-    "url": "https://www.guerillasuit.com/say-hi",
-    "image": "/case-studies/guerilla-suit/61d47614c077.webp",
-    "capturedAt": "2026-09-14T10:46:32.068Z"
+    "id": "120edec8c91c",
+    "agencySlug": "block",
+    "title": "Kimbara A wagyu born of two worlds",
+    "url": "https://www.blockbranding.com/work/kimbara",
+    "image": "/case-studies/block/120edec8c91c.webp",
+    "capturedAt": "2026-09-14T10:53:22.358Z"
   },
   {
-    "id": "2c480281ec6e",
-    "agencySlug": "guerilla-suit",
-    "title": "join the team",
-    "url": "https://www.guerillasuit.com/join-the-team",
-    "image": "/case-studies/guerilla-suit/2c480281ec6e.webp",
-    "capturedAt": "2026-09-14T10:46:25.276Z"
+    "id": "4dac7a9d4d6e",
+    "agencySlug": "block",
+    "title": "Southern Cross Care Your extraordinary",
+    "url": "https://www.blockbranding.com/work/southern-cross-care",
+    "image": "/case-studies/block/4dac7a9d4d6e.webp",
+    "capturedAt": "2026-09-14T10:53:20.183Z"
   },
   {
-    "id": "0aca563d2947",
-    "agencySlug": "guerilla-suit",
-    "title": "CULTURE",
-    "url": "https://www.guerillasuit.com/culture",
-    "image": "/case-studies/guerilla-suit/0aca563d2947.webp",
-    "capturedAt": "2026-09-14T10:46:11.323Z"
+    "id": "fd10de8ccf19",
+    "agencySlug": "block",
+    "title": "Denada Indulge more, sugar less",
+    "url": "https://www.blockbranding.com/work/denada",
+    "image": "/case-studies/block/fd10de8ccf19.webp",
+    "capturedAt": "2026-09-14T10:53:17.966Z"
+  },
+  {
+    "id": "aef1650e72ed",
+    "agencySlug": "block",
+    "title": "Pardoo Wagyu A Provenance of Purity",
+    "url": "https://www.blockbranding.com/work/pardoo-wagyu",
+    "image": "/case-studies/block/aef1650e72ed.webp",
+    "capturedAt": "2026-09-14T10:53:15.841Z"
+  },
+  {
+    "id": "303f8a61ee23",
+    "agencySlug": "block",
+    "title": "Dept of Water & Environmental Regulation RETREE",
+    "url": "https://www.blockbranding.com/work/retree",
+    "image": "/case-studies/block/303f8a61ee23.webp",
+    "capturedAt": "2026-09-14T10:53:13.484Z"
+  },
+  {
+    "id": "f402db9b5c7b",
+    "agencySlug": "block",
+    "title": "Heyder & Shears The Perfect Alchemy",
+    "url": "https://www.blockbranding.com/work/heyderandshears",
+    "image": "/case-studies/block/f402db9b5c7b.webp",
+    "capturedAt": "2026-09-14T10:53:10.667Z"
+  },
+  {
+    "id": "b40a6793f89f",
+    "agencySlug": "super",
+    "title": "Milca Visage",
+    "url": "https://super-studio.ca/portfolio/milcavisage",
+    "image": "/case-studies/super/b40a6793f89f.webp",
+    "capturedAt": "2026-09-14T10:52:48.206Z"
+  },
+  {
+    "id": "56266ba4639b",
+    "agencySlug": "super",
+    "title": "Galerie Berthelet.art",
+    "url": "https://super-studio.ca/portfolio/berthelet",
+    "image": "/case-studies/super/56266ba4639b.webp",
+    "capturedAt": "2026-09-14T10:52:45.758Z"
+  },
+  {
+    "id": "594599192894",
+    "agencySlug": "super",
+    "title": "Mezcal Taqueria",
+    "url": "https://super-studio.ca/portfolio/mezcal",
+    "image": "/case-studies/super/594599192894.webp",
+    "capturedAt": "2026-09-14T10:52:42.291Z"
+  },
+  {
+    "id": "b21b768de2af",
+    "agencySlug": "super",
+    "title": "Weekend Warrior",
+    "url": "https://super-studio.ca/portfolio/weekendwarrior",
+    "image": "/case-studies/super/b21b768de2af.webp",
+    "capturedAt": "2026-09-14T10:52:39.537Z"
+  },
+  {
+    "id": "7dc3fe5dc5a0",
+    "agencySlug": "super",
+    "title": "Dashi Ramen",
+    "url": "https://super-studio.ca/portfolio/dashi",
+    "image": "/case-studies/super/7dc3fe5dc5a0.webp",
+    "capturedAt": "2026-09-14T10:52:35.895Z"
+  },
+  {
+    "id": "43ac0d4e51f1",
+    "agencySlug": "super",
+    "title": "Rose",
+    "url": "https://super-studio.ca/portfolio/rose",
+    "image": "/case-studies/super/43ac0d4e51f1.webp",
+    "capturedAt": "2026-09-14T10:52:33.085Z"
+  },
+  {
+    "id": "1d5c62572225",
+    "agencySlug": "milk",
+    "title": "Larry RTD Living the life of Larry",
+    "url": "https://milk.co.nz/larry",
+    "image": "/case-studies/milk/1d5c62572225.webp",
+    "capturedAt": "2026-09-14T10:51:49.939Z"
+  },
+  {
+    "id": "e3be190c3d19",
+    "agencySlug": "milk",
+    "title": "Flock Birds of a feather flock together",
+    "url": "https://milk.co.nz/flock",
+    "image": "/case-studies/milk/e3be190c3d19.webp",
+    "capturedAt": "2026-09-14T10:51:46.889Z"
+  },
+  {
+    "id": "957f0edccf8a",
+    "agencySlug": "milk",
+    "title": "Major Major Bringing light to the dark",
+    "url": "https://milk.co.nz/majormajor",
+    "image": "/case-studies/milk/957f0edccf8a.webp",
+    "capturedAt": "2026-09-14T10:51:44.062Z"
+  },
+  {
+    "id": "84fc203326bd",
+    "agencySlug": "milk",
+    "title": "Weet-Bix Simple is good",
+    "url": "https://milk.co.nz/weetbix",
+    "image": "/case-studies/milk/84fc203326bd.webp",
+    "capturedAt": "2026-09-14T10:51:40.810Z"
+  },
+  {
+    "id": "2e9879d2bdd3",
+    "agencySlug": "milk",
+    "title": "Tegel — Brand & Packaging Case Study",
+    "url": "https://milk.co.nz/tegel",
+    "image": "/case-studies/milk/2e9879d2bdd3.webp",
+    "capturedAt": "2026-09-14T10:51:33.565Z"
+  },
+  {
+    "id": "e86bcb3cc875",
+    "agencySlug": "milk",
+    "title": "So Good The joy of the moment",
+    "url": "https://milk.co.nz/so-good",
+    "image": "/case-studies/milk/e86bcb3cc875.webp",
+    "capturedAt": "2026-09-14T10:51:30.597Z"
   },
   {
     "id": "5115e343c879",
@@ -77,7 +309,55 @@
     "title": "Guerilla Suit",
     "url": "https://www.guerillasuit.com/tab/work",
     "image": "/case-studies/guerilla-suit/5115e343c879.webp",
-    "capturedAt": "2026-09-14T10:45:57.817Z"
+    "capturedAt": "2026-09-14T10:50:04.655Z"
+  },
+  {
+    "id": "6f5783f01d47",
+    "agencySlug": "stockholm-design-lab",
+    "title": "Oracle Red Bull Racing",
+    "url": "https://www.stockholmdesignlab.se/work/orbr",
+    "image": "/case-studies/stockholm-design-lab/6f5783f01d47.webp",
+    "capturedAt": "2026-09-14T10:49:49.640Z"
+  },
+  {
+    "id": "e9a419087ece",
+    "agencySlug": "stockholm-design-lab",
+    "title": "W+",
+    "url": "https://www.stockholmdesignlab.se/work/w-plus",
+    "image": "/case-studies/stockholm-design-lab/e9a419087ece.webp",
+    "capturedAt": "2026-09-14T10:49:48.132Z"
+  },
+  {
+    "id": "109f6ecdc4c6",
+    "agencySlug": "stockholm-design-lab",
+    "title": "Polestar",
+    "url": "https://www.stockholmdesignlab.se/work/polestar",
+    "image": "/case-studies/stockholm-design-lab/109f6ecdc4c6.webp",
+    "capturedAt": "2026-09-14T10:49:42.321Z"
+  },
+  {
+    "id": "886758c949ca",
+    "agencySlug": "stockholm-design-lab",
+    "title": "Haglöfs",
+    "url": "https://www.stockholmdesignlab.se/work/hagloefs",
+    "image": "/case-studies/stockholm-design-lab/886758c949ca.webp",
+    "capturedAt": "2026-09-14T10:49:40.421Z"
+  },
+  {
+    "id": "7fd5b6f576fa",
+    "agencySlug": "stockholm-design-lab",
+    "title": "Stockholm Design Lab: 1998–2025",
+    "url": "https://www.stockholmdesignlab.se/work/sdl-1998-2025",
+    "image": "/case-studies/stockholm-design-lab/7fd5b6f576fa.webp",
+    "capturedAt": "2026-09-14T10:49:39.014Z"
+  },
+  {
+    "id": "3e4de645762f",
+    "agencySlug": "stockholm-design-lab",
+    "title": "Sigma",
+    "url": "https://www.stockholmdesignlab.se/work/sigma",
+    "image": "/case-studies/stockholm-design-lab/3e4de645762f.webp",
+    "capturedAt": "2026-09-14T10:49:37.439Z"
   },
   {
     "id": "f191997cfd3f",
@@ -126,54 +406,6 @@
     "url": "https://www.473.agency/projects/boreal",
     "image": "/case-studies/473-agency/20bb21b2f773.webp",
     "capturedAt": "2026-09-14T10:45:41.576Z"
-  },
-  {
-    "id": "6f5783f01d47",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Oracle Red Bull Racing",
-    "url": "https://www.stockholmdesignlab.se/work/orbr",
-    "image": "/case-studies/stockholm-design-lab/6f5783f01d47.webp",
-    "capturedAt": "2026-09-14T10:45:32.863Z"
-  },
-  {
-    "id": "e9a419087ece",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt W+",
-    "url": "https://www.stockholmdesignlab.se/work/w-plus",
-    "image": "/case-studies/stockholm-design-lab/e9a419087ece.webp",
-    "capturedAt": "2026-09-14T10:45:31.305Z"
-  },
-  {
-    "id": "109f6ecdc4c6",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Polestar",
-    "url": "https://www.stockholmdesignlab.se/work/polestar",
-    "image": "/case-studies/stockholm-design-lab/109f6ecdc4c6.webp",
-    "capturedAt": "2026-09-14T10:45:25.489Z"
-  },
-  {
-    "id": "886758c949ca",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Haglöfs",
-    "url": "https://www.stockholmdesignlab.se/work/hagloefs",
-    "image": "/case-studies/stockholm-design-lab/886758c949ca.webp",
-    "capturedAt": "2026-09-14T10:45:22.372Z"
-  },
-  {
-    "id": "7fd5b6f576fa",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Stockholm Design Lab: 1998–2025",
-    "url": "https://www.stockholmdesignlab.se/work/sdl-1998-2025",
-    "image": "/case-studies/stockholm-design-lab/7fd5b6f576fa.webp",
-    "capturedAt": "2026-09-14T10:45:20.908Z"
-  },
-  {
-    "id": "3e4de645762f",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Sigma",
-    "url": "https://www.stockholmdesignlab.se/work/sigma",
-    "image": "/case-studies/stockholm-design-lab/3e4de645762f.webp",
-    "capturedAt": "2026-09-14T10:45:19.230Z"
   },
   {
     "id": "99ef9d9fe571",
@@ -2662,54 +2894,6 @@
     "url": "https://mallardandclaret.com/work/henry-smith-foundation/",
     "image": "/case-studies/mallard-and-claret/ba72667385eb.webp",
     "capturedAt": "2026-09-14T09:14:02.131Z"
-  },
-  {
-    "id": "e3be190c3d19",
-    "agencySlug": "milk",
-    "title": "Flock Birds of a feather flock together",
-    "url": "https://milk.co.nz/flock",
-    "image": "/case-studies/milk/e3be190c3d19.webp",
-    "capturedAt": "2026-09-14T09:13:54.460Z"
-  },
-  {
-    "id": "957f0edccf8a",
-    "agencySlug": "milk",
-    "title": "Major Major Bringing light to the dark",
-    "url": "https://milk.co.nz/majormajor",
-    "image": "/case-studies/milk/957f0edccf8a.webp",
-    "capturedAt": "2026-09-14T09:13:51.107Z"
-  },
-  {
-    "id": "84fc203326bd",
-    "agencySlug": "milk",
-    "title": "Weet-Bix Simple is good",
-    "url": "https://milk.co.nz/weetbix",
-    "image": "/case-studies/milk/84fc203326bd.webp",
-    "capturedAt": "2026-09-14T09:13:47.556Z"
-  },
-  {
-    "id": "2e9879d2bdd3",
-    "agencySlug": "milk",
-    "title": "Tegel — Brand & Packaging Case Study",
-    "url": "https://milk.co.nz/tegel",
-    "image": "/case-studies/milk/2e9879d2bdd3.webp",
-    "capturedAt": "2026-09-14T09:13:40.781Z"
-  },
-  {
-    "id": "e86bcb3cc875",
-    "agencySlug": "milk",
-    "title": "So Good The joy of the moment",
-    "url": "https://milk.co.nz/so-good",
-    "image": "/case-studies/milk/e86bcb3cc875.webp",
-    "capturedAt": "2026-09-14T09:13:37.843Z"
-  },
-  {
-    "id": "f8a5d7a333e6",
-    "agencySlug": "milk",
-    "title": "Milk",
-    "url": "https://milk.co.nz/cart",
-    "image": "/case-studies/milk/f8a5d7a333e6.webp",
-    "capturedAt": "2026-09-14T09:13:34.770Z"
   },
   {
     "id": "8660e4cd8262",
@@ -7128,14 +7312,6 @@
     "capturedAt": "2026-09-14T07:42:36.775Z"
   },
   {
-    "id": "e459a7624e45",
-    "agencySlug": "underbelly",
-    "title": "Continue to Checkout",
-    "url": "https://www.underbelly.is/checkout",
-    "image": "/case-studies/underbelly/e459a7624e45.webp",
-    "capturedAt": "2026-09-14T07:42:36.271Z"
-  },
-  {
     "id": "9d575a9a5877",
     "agencySlug": "unfold",
     "title": "Solana Summer Camp",
@@ -7888,14 +8064,6 @@
     "capturedAt": "2026-09-14T07:39:16.298Z"
   },
   {
-    "id": "56266ba4639b",
-    "agencySlug": "super",
-    "title": "Galerie Berthelet.art",
-    "url": "https://super-studio.ca/portfolio/berthelet",
-    "image": "/case-studies/super/56266ba4639b.webp",
-    "capturedAt": "2026-09-14T07:39:14.920Z"
-  },
-  {
     "id": "836b85eebfe3",
     "agencySlug": "superformula",
     "title": "Getting Hagerty Self-Service Back on the Road",
@@ -7910,14 +8078,6 @@
     "url": "https://www.superkeen.studio/work/mister-jius",
     "image": "/case-studies/super-keen/64522468a148.webp",
     "capturedAt": "2026-09-14T07:39:10.932Z"
-  },
-  {
-    "id": "594599192894",
-    "agencySlug": "super",
-    "title": "Mezcal Taqueria",
-    "url": "https://super-studio.ca/portfolio/mezcal",
-    "image": "/case-studies/super/594599192894.webp",
-    "capturedAt": "2026-09-14T07:39:10.591Z"
   },
   {
     "id": "b5a8c850ae98",
@@ -7936,14 +8096,6 @@
     "capturedAt": "2026-09-14T07:39:07.553Z"
   },
   {
-    "id": "b21b768de2af",
-    "agencySlug": "super",
-    "title": "Weekend Warrior",
-    "url": "https://super-studio.ca/portfolio/weekendwarrior",
-    "image": "/case-studies/super/b21b768de2af.webp",
-    "capturedAt": "2026-09-14T07:39:06.705Z"
-  },
-  {
     "id": "1ff33957bf3b",
     "agencySlug": "study-hall",
     "title": "GoogleOlympics",
@@ -7952,36 +8104,12 @@
     "capturedAt": "2026-09-14T07:39:02.969Z"
   },
   {
-    "id": "7dc3fe5dc5a0",
-    "agencySlug": "super",
-    "title": "Dashi Ramen",
-    "url": "https://super-studio.ca/portfolio/dashi",
-    "image": "/case-studies/super/7dc3fe5dc5a0.webp",
-    "capturedAt": "2026-09-14T07:39:02.760Z"
-  },
-  {
     "id": "336f0edfa821",
     "agencySlug": "studio-rodrigo",
     "title": "OPENSPACE",
     "url": "https://www.studiorodrigo.com/work/openspace",
     "image": "/case-studies/studio-rodrigo/336f0edfa821.webp",
     "capturedAt": "2026-09-14T07:39:00.209Z"
-  },
-  {
-    "id": "43ac0d4e51f1",
-    "agencySlug": "super",
-    "title": "Rose",
-    "url": "https://super-studio.ca/portfolio/rose",
-    "image": "/case-studies/super/43ac0d4e51f1.webp",
-    "capturedAt": "2026-09-14T07:38:59.407Z"
-  },
-  {
-    "id": "f2206b209772",
-    "agencySlug": "super",
-    "title": "SUPER STUDIO",
-    "url": "https://super-studio.ca/cart",
-    "image": "/case-studies/super/f2206b209772.webp",
-    "capturedAt": "2026-09-14T07:38:57.519Z"
   },
   {
     "id": "73f02e5626f3",
@@ -9168,22 +9296,6 @@
     "capturedAt": "2026-09-14T07:34:43.784Z"
   },
   {
-    "id": "3812c212b46f",
-    "agencySlug": "right-to-left",
-    "title": "Sketchbook",
-    "url": "https://rightoleft.co.uk/Sketchbook",
-    "image": "/case-studies/right-to-left/3812c212b46f.webp",
-    "capturedAt": "2026-09-14T07:34:33.761Z"
-  },
-  {
-    "id": "794109e6bd39",
-    "agencySlug": "right-to-left",
-    "title": "Right to Left",
-    "url": "https://rightoleft.co.uk/Landing-Page-Updated-Live",
-    "image": "/case-studies/right-to-left/794109e6bd39.webp",
-    "capturedAt": "2026-09-14T07:34:31.439Z"
-  },
-  {
     "id": "9b402d00e33c",
     "agencySlug": "rezo-zero",
     "title": "Unanime",
@@ -9198,14 +9310,6 @@
     "url": "https://studioretama.co/project/carboncrop",
     "image": "/case-studies/retama/63def4d44574.webp",
     "capturedAt": "2026-09-14T07:34:29.327Z"
-  },
-  {
-    "id": "e192c426898b",
-    "agencySlug": "right-to-left",
-    "title": "TypeMap",
-    "url": "https://rightoleft.co.uk/TypeMap",
-    "image": "/case-studies/right-to-left/e192c426898b.webp",
-    "capturedAt": "2026-09-14T07:34:28.237Z"
   },
   {
     "id": "a46ba3455dcc",
@@ -9238,14 +9342,6 @@
     "url": "https://studioretama.co/project/helene-sandberg",
     "image": "/case-studies/retama/d6d0afced7b4.webp",
     "capturedAt": "2026-09-14T07:34:25.714Z"
-  },
-  {
-    "id": "9c17bec77565",
-    "agencySlug": "right-to-left",
-    "title": "Menu",
-    "url": "https://rightoleft.co.uk/Menu",
-    "image": "/case-studies/right-to-left/9c17bec77565.webp",
-    "capturedAt": "2026-09-14T07:34:25.525Z"
   },
   {
     "id": "8d0359d67e71",
@@ -13288,14 +13384,6 @@
     "capturedAt": "2026-09-14T07:16:38.154Z"
   },
   {
-    "id": "71797a4b3416",
-    "agencySlug": "freytag-anderson",
-    "title": "Freytag Anderson",
-    "url": "https://www.freytaganderson.com/cart",
-    "image": "/case-studies/freytag-anderson/71797a4b3416.webp",
-    "capturedAt": "2026-09-14T07:16:31.107Z"
-  },
-  {
     "id": "b51b8951f362",
     "agencySlug": "frog",
     "title": "By Sector",
@@ -14920,14 +15008,6 @@
     "capturedAt": "2026-09-14T07:09:34.149Z"
   },
   {
-    "id": "f402db9b5c7b",
-    "agencySlug": "block",
-    "title": "Heyder & Shears The Perfect Alchemy",
-    "url": "https://www.blockbranding.com/work/heyderandshears",
-    "image": "/case-studies/block/f402db9b5c7b.webp",
-    "capturedAt": "2026-09-14T07:09:26.895Z"
-  },
-  {
     "id": "452e04b626bc",
     "agencySlug": "bgn",
     "title": "Connectd",
@@ -15126,14 +15206,6 @@
     "url": "https://aerolab.co/pitch",
     "image": "/case-studies/aerolab/c5e3d869ef7d.webp",
     "capturedAt": "2026-09-14T07:07:04.463Z"
-  },
-  {
-    "id": "e1dfa85d2280",
-    "agencySlug": "27b",
-    "title": "Sentimental Value",
-    "url": "https://27-b.com/projects/sentimental-value",
-    "image": "/case-studies/27b/e1dfa85d2280.webp",
-    "capturedAt": "2026-09-14T07:06:39.887Z"
   },
   {
     "id": "99089c099fb7",
@@ -19040,14 +19112,6 @@
     "capturedAt": "2026-08-16T20:14:30.299Z"
   },
   {
-    "id": "014d47e55358",
-    "agencySlug": "houth",
-    "title": "Flo Flow Flower — HOUTH",
-    "url": "https://houth.tw/Flo-Flow-Flower",
-    "image": "/case-studies/houth/014d47e55358.webp",
-    "capturedAt": "2026-08-16T20:14:29.652Z"
-  },
-  {
     "id": "190c382264b2",
     "agencySlug": "hugo-and-marie",
     "title": "EE72",
@@ -19062,14 +19126,6 @@
     "url": "https://hoodzpahdesign.com/cart/",
     "image": "/case-studies/hoodzpah/78be4e3fbd35.webp",
     "capturedAt": "2026-08-16T20:14:27.700Z"
-  },
-  {
-    "id": "7fee7948ece4",
-    "agencySlug": "houth",
-    "title": "Exhibition",
-    "url": "https://houth.tw/Exhibition-2",
-    "image": "/case-studies/houth/7fee7948ece4.webp",
-    "capturedAt": "2026-08-16T20:14:27.101Z"
   },
   {
     "id": "5801a7194996",
@@ -19088,14 +19144,6 @@
     "capturedAt": "2026-08-16T20:14:24.954Z"
   },
   {
-    "id": "50f5b7d7a412",
-    "agencySlug": "houth",
-    "title": "INFO",
-    "url": "https://houth.tw/info-1",
-    "image": "/case-studies/houth/50f5b7d7a412.webp",
-    "capturedAt": "2026-08-16T20:14:24.423Z"
-  },
-  {
     "id": "87937adfd16d",
     "agencySlug": "hueso",
     "title": "Dinamo / La Vida es en Bici _Branding Dinamo / La Vida es en Bici",
@@ -19112,28 +19160,12 @@
     "capturedAt": "2026-08-16T20:14:22.726Z"
   },
   {
-    "id": "bea19c55b79c",
-    "agencySlug": "houth",
-    "title": "WORKS",
-    "url": "https://houth.tw/vi",
-    "image": "/case-studies/houth/bea19c55b79c.webp",
-    "capturedAt": "2026-08-16T20:14:21.804Z"
-  },
-  {
     "id": "1f02654d55f6",
     "agencySlug": "hueso",
     "title": "WhatsApp / Brand Design Refresh _Design & Animation WhatsApp / Brand Design Refresh",
     "url": "https://hueso.co/work/whatsapp-sizzle",
     "image": "/case-studies/hueso/1f02654d55f6.webp",
     "capturedAt": "2026-08-16T20:14:20.604Z"
-  },
-  {
-    "id": "13ea5d3e0dac",
-    "agencySlug": "houth",
-    "title": "HOUTH",
-    "url": "https://houth.tw/HOUTH",
-    "image": "/case-studies/houth/13ea5d3e0dac.webp",
-    "capturedAt": "2026-08-16T20:14:19.273Z"
   },
   {
     "id": "c456c0a727fd",
@@ -21408,28 +21440,12 @@
     "capturedAt": "2026-08-16T20:02:21.244Z"
   },
   {
-    "id": "4dac7a9d4d6e",
-    "agencySlug": "block",
-    "title": "Southern Cross Care Your extraordinary",
-    "url": "https://www.blockbranding.com/work/southern-cross-care",
-    "image": "/case-studies/block/4dac7a9d4d6e.webp",
-    "capturedAt": "2026-08-16T20:02:20.412Z"
-  },
-  {
     "id": "ae891e71c19f",
     "agencySlug": "bon-temps",
     "title": "In The Park",
     "url": "https://www.bontemps.agency/work/in-the-park/",
     "image": "/case-studies/bon-temps/ae891e71c19f.webp",
     "capturedAt": "2026-08-16T20:02:19.126Z"
-  },
-  {
-    "id": "fd10de8ccf19",
-    "agencySlug": "block",
-    "title": "Denada Indulge more, sugar less",
-    "url": "https://www.blockbranding.com/work/denada",
-    "image": "/case-studies/block/fd10de8ccf19.webp",
-    "capturedAt": "2026-08-16T20:02:17.494Z"
   },
   {
     "id": "5b637e13bda8",
@@ -21448,14 +21464,6 @@
     "capturedAt": "2026-08-16T20:02:14.670Z"
   },
   {
-    "id": "aef1650e72ed",
-    "agencySlug": "block",
-    "title": "Pardoo Wagyu A Provenance of Purity",
-    "url": "https://www.blockbranding.com/work/pardoo-wagyu",
-    "image": "/case-studies/block/aef1650e72ed.webp",
-    "capturedAt": "2026-08-16T20:02:14.358Z"
-  },
-  {
     "id": "fbfa76d5f291",
     "agencySlug": "bike-bear",
     "title": "PEACHYBUM",
@@ -21464,28 +21472,12 @@
     "capturedAt": "2026-08-16T20:02:11.402Z"
   },
   {
-    "id": "303f8a61ee23",
-    "agencySlug": "block",
-    "title": "Dept of Water & Environmental Regulation RETREE",
-    "url": "https://www.blockbranding.com/work/retree",
-    "image": "/case-studies/block/303f8a61ee23.webp",
-    "capturedAt": "2026-08-16T20:02:10.268Z"
-  },
-  {
     "id": "1c2916f9a490",
     "agencySlug": "bleed",
     "title": "Skyfall Ventures",
     "url": "https://bleed.com/work/skyfall",
     "image": "/case-studies/bleed/1c2916f9a490.webp",
     "capturedAt": "2026-08-16T20:02:09.279Z"
-  },
-  {
-    "id": "aebeb9985146",
-    "agencySlug": "block",
-    "title": "Block",
-    "url": "https://www.blockbranding.com/cart",
-    "image": "/case-studies/block/aebeb9985146.webp",
-    "capturedAt": "2026-08-16T20:02:08.345Z"
   },
   {
     "id": "1ebbbcc6ecf9",
@@ -22952,30 +22944,6 @@
     "capturedAt": "2026-08-05T12:58:00.926Z"
   },
   {
-    "id": "f5bd888cdc4e",
-    "agencySlug": "27b",
-    "title": "NEON Rated",
-    "url": "https://27-b.com/projects/neon",
-    "image": "/case-studies/27b/f5bd888cdc4e.webp",
-    "capturedAt": "2026-08-05T12:57:41.811Z"
-  },
-  {
-    "id": "c7eb2a750fb7",
-    "agencySlug": "27b",
-    "title": "i-d.co",
-    "url": "https://27-b.com/projects/i-d",
-    "image": "/case-studies/27b/c7eb2a750fb7.webp",
-    "capturedAt": "2026-08-05T12:57:30.498Z"
-  },
-  {
-    "id": "f7044dde4745",
-    "agencySlug": "27b",
-    "title": "i-D Spotlight",
-    "url": "https://27-b.com/projects/i-d-spotlight",
-    "image": "/case-studies/27b/f7044dde4745.webp",
-    "capturedAt": "2026-08-05T12:57:24.255Z"
-  },
-  {
     "id": "c3269a8a49ea",
     "agencySlug": "25ah",
     "title": "Dadāndi",
@@ -22984,28 +22952,12 @@
     "capturedAt": "2026-08-05T12:57:21.870Z"
   },
   {
-    "id": "8cdc1e258b41",
-    "agencySlug": "27b",
-    "title": "Marché d’Intérêt Général",
-    "url": "https://27-b.com/projects/m-i-g",
-    "image": "/case-studies/27b/8cdc1e258b41.webp",
-    "capturedAt": "2026-08-05T12:57:18.060Z"
-  },
-  {
     "id": "8732fdd01fe3",
     "agencySlug": "25ah",
     "title": "Djurgårdsbrunn",
     "url": "https://www.25ah.se/project/djurgardsbrunn/",
     "image": "/case-studies/25ah/8732fdd01fe3.webp",
     "capturedAt": "2026-08-05T12:57:15.145Z"
-  },
-  {
-    "id": "9d66c2ca24e8",
-    "agencySlug": "27b",
-    "title": "Labs",
-    "url": "https://27-b.com/labs",
-    "image": "/case-studies/27b/9d66c2ca24e8.webp",
-    "capturedAt": "2026-08-05T12:57:14.292Z"
   },
   {
     "id": "81d5c72bbd19",

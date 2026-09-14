@@ -61,7 +61,7 @@
     "entriesHash": "14bc6eef8cb910c12963eafb6307be2ec36d92185dca4cacf52417283352fc9e",
     "homepageUrl": "https://27-b.com/",
     "workPageUrl": "https://27-b.com/projects",
-    "capturedAt": "2026-09-14T07:06:36.339Z"
+    "capturedAt": "2026-09-14T10:54:29.080Z"
   },
   "87-studio": {
     "status": "success",
@@ -730,10 +730,10 @@
   },
   "block": {
     "status": "success",
-    "entriesHash": "e51dee5724075046f59fefe14efdee07fda5a0139fe6305ece42a85986ef93c6",
+    "entriesHash": "64131568c0440295ed42796b3c2f1f4379288599e0ef48339cc4209db6841e0e",
     "homepageUrl": "https://www.blockbranding.com/",
     "workPageUrl": "https://www.blockbranding.com/work",
-    "capturedAt": "2026-09-14T07:09:23.075Z"
+    "capturedAt": "2026-09-14T10:53:07.145Z"
   },
   "bon-temps": {
     "status": "success",
@@ -1510,10 +1510,10 @@
   },
   "guerilla-suit": {
     "status": "success",
-    "entriesHash": "4d63e7863d81ea03bda18ae5205d171362bb16ab894539644a36b9878b0c09e7",
+    "entriesHash": "5115e343c879c8465264051eeeedaccb97fc079797b86ea6865e257fe77c8c6b",
     "homepageUrl": "https://www.guerillasuit.com/",
     "workPageUrl": "https://www.guerillasuit.com/work-with-us",
-    "capturedAt": "2026-09-14T10:45:50.330Z"
+    "capturedAt": "2026-09-14T10:49:56.778Z"
   },
   "half-helix": {
     "status": "success",
@@ -1690,7 +1690,7 @@
     "entriesHash": "e214ee1237f785b6b5a30fc63cf789f7f2fa0efe34bc7f32a0d6b644a8532aa2",
     "homepageUrl": "https://houth.tw/",
     "workPageUrl": "https://houth.tw/PROJECT-1",
-    "capturedAt": "2026-08-16T20:14:14.256Z"
+    "capturedAt": "2026-09-14T10:54:12.063Z"
   },
   "hueso": {
     "status": "success",
@@ -1733,7 +1733,7 @@
   "hoodzpah": {
     "status": "failed",
     "homepageUrl": "https://hoodzpahdesign.com/",
-    "capturedAt": "2026-09-14T09:42:44.510Z",
+    "capturedAt": "2026-09-14T10:53:01.025Z",
     "error": "HTTP 429"
   },
   "international-magic": {
@@ -2056,10 +2056,10 @@
   },
   "milk": {
     "status": "success",
-    "entriesHash": "342b5c787ae865361bdca0d3e4a3015d589efe9329d75db203ea5ccd976924f9",
+    "entriesHash": "0c209c5efeb40bd068ca7f751efe9a6828664d52d4d34067ff76c5721458a4d3",
     "homepageUrl": "https://milk.co.nz/",
     "workPageUrl": "https://milk.co.nz/ourwork",
-    "capturedAt": "2026-09-14T09:13:24.016Z"
+    "capturedAt": "2026-09-14T10:51:19.842Z"
   },
   "mimosa": {
     "status": "success",
@@ -3625,11 +3625,11 @@
     "capturedAt": "2026-09-14T07:16:23.308Z"
   },
   "freytag-anderson": {
-    "status": "success",
-    "entriesHash": "71797a4b3416472ef79355cc0a07dcd0fbf7142eeb903d4e85d904a775a35eaa",
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "homepageUrl": "https://www.freytaganderson.com/",
     "workPageUrl": "https://www.freytaganderson.com/questionnaire",
-    "capturedAt": "2026-09-14T07:16:24.102Z"
+    "capturedAt": "2026-09-14T10:52:53.290Z"
   },
   "ft-langley": {
     "status": "no-work-page",
@@ -3939,7 +3939,7 @@
     "entriesHash": "9996c1e7d1412d8f2a28572572205333a399351194bf3f322e4b2e8ec2c8d3e4",
     "homepageUrl": "https://bond-agency.com/",
     "workPageUrl": "https://www.thisisbond.com/work",
-    "capturedAt": "2026-09-14T10:46:43.848Z"
+    "capturedAt": "2026-09-14T10:53:25.840Z"
   },
   "loket-design": {
     "status": "no-work-page",
@@ -5008,10 +5008,10 @@
   },
   "right-to-left": {
     "status": "success",
-    "entriesHash": "a2c77469cd7ce8c8ddc01f2f2feb832beab63cfdce1844109a4c193a72867a9a",
+    "entriesHash": "899b3395e9035d2becdf9f4f227c911a1c14b0c4eb3f4784661e9de3025f79c4",
     "homepageUrl": "https://rightoleft.co.uk/",
     "workPageUrl": "https://rightoleft.co.uk/Projects",
-    "capturedAt": "2026-09-14T07:34:16.624Z"
+    "capturedAt": "2026-09-14T11:01:38.601Z"
   },
   "sabbath": {
     "status": "no-entries",
@@ -5278,7 +5278,7 @@
     "entriesHash": "ecefae00c32405163621a4b360e1ce4825a52128bccb9dd31111aef84a4d0abb",
     "homepageUrl": "https://www.stockholmdesignlab.se/",
     "workPageUrl": "https://www.stockholmdesignlab.se/work",
-    "capturedAt": "2026-09-14T10:45:12.786Z"
+    "capturedAt": "2026-09-14T10:49:31.216Z"
   },
   "studio-brot": {
     "status": "no-work-page",
@@ -5424,10 +5424,10 @@
   },
   "super": {
     "status": "success",
-    "entriesHash": "b3542d3baee515fc49cba39f739e653de92a88a4d15833748bfa0d018f275175",
+    "entriesHash": "7af832f1524c5823688766f3a6dabebbe9d83a16b68515547fd85f7b5e6410fa",
     "homepageUrl": "https://super-studio.ca/",
     "workPageUrl": "https://super-studio.ca/portfolio",
-    "capturedAt": "2026-09-14T07:38:54.938Z"
+    "capturedAt": "2026-09-14T10:52:29.323Z"
   },
   "swamp": {
     "status": "no-work-page",
@@ -5704,11 +5704,11 @@
     "capturedAt": "2026-09-14T07:43:00.222Z"
   },
   "underbelly": {
-    "status": "success",
-    "entriesHash": "0324f4dfb4f8706a7df0edc0b2570746bbe246d77d1a6fc7077f60246d978ffd",
+    "status": "captures-failed",
+    "entriesHash": "a87bf09f4500ac267a026fbf2f2bd0175ecb6aaf5b8bb8cbe61e1641c80ef175",
     "homepageUrl": "https://underbelly.is/",
     "workPageUrl": "https://www.underbelly.is/working-together",
-    "capturedAt": "2026-09-14T07:42:23.079Z"
+    "capturedAt": "2026-09-14T10:51:54.090Z"
   },
   "uniko": {
     "status": "captures-failed",
