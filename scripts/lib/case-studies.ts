@@ -27,6 +27,10 @@ const paginationPattern = /\/(?:page|p)\/\d+\/?$/i;
 const caseEntryPathPattern =
   /^\/(?:work|projects?|cases?|case-studies|portfolio)\/[^/]+\/?$/i;
 
+// A listing page, including its tag-filtered variants, is not a case study.
+const indexPathPattern =
+  /^\/(?:(?:selected-)?works?|cases?|case-studies|projects?|portfolio|explore|archive|index|all|gallery|showcase)$/i;
+
 const titleNoisePattern =
   /\b(?:view|read|see|explore|discover|open)\b[\s\S]*$/i;
 
@@ -364,7 +368,11 @@ export function extractCaseStudyLinks(
     const path = normalizedPath(url);
     if (!publication) {
       if (path === "/" || path === workPath) continue;
-      if (excludedPathPattern.test(path) || paginationPattern.test(path))
+      if (
+        excludedPathPattern.test(path) ||
+        paginationPattern.test(path) ||
+        indexPathPattern.test(path)
+      )
         continue;
       const segments = path.split("/").filter(Boolean).length;
       if (!segments) continue;

@@ -1,5 +1,581 @@
 [
   {
+    "id": "f191997cfd3f",
+    "agencySlug": "473-agency",
+    "title": "Our work",
+    "url": "https://www.473.agency/projects/casa-coco",
+    "image": "/case-studies/473-agency/f191997cfd3f.webp",
+    "capturedAt": "2026-09-14T10:26:27.914Z"
+  },
+  {
+    "id": "c1eac7f77ab8",
+    "agencySlug": "473-agency",
+    "title": "Our work",
+    "url": "https://www.473.agency/projects/marco-seco",
+    "image": "/case-studies/473-agency/c1eac7f77ab8.webp",
+    "capturedAt": "2026-09-14T10:26:26.493Z"
+  },
+  {
+    "id": "19eb05e4e0d0",
+    "agencySlug": "473-agency",
+    "title": "Our work",
+    "url": "https://www.473.agency/projects/idragons",
+    "image": "/case-studies/473-agency/19eb05e4e0d0.webp",
+    "capturedAt": "2026-09-14T10:26:24.908Z"
+  },
+  {
+    "id": "1ede061a303b",
+    "agencySlug": "473-agency",
+    "title": "Our work",
+    "url": "https://www.473.agency/projects/brandiv",
+    "image": "/case-studies/473-agency/1ede061a303b.webp",
+    "capturedAt": "2026-09-14T10:26:23.225Z"
+  },
+  {
+    "id": "11fdc4955f3b",
+    "agencySlug": "473-agency",
+    "title": "Our work",
+    "url": "https://www.473.agency/projects/forti-vermouth",
+    "image": "/case-studies/473-agency/11fdc4955f3b.webp",
+    "capturedAt": "2026-09-14T10:26:21.516Z"
+  },
+  {
+    "id": "20bb21b2f773",
+    "agencySlug": "473-agency",
+    "title": "Our work",
+    "url": "https://www.473.agency/projects/boreal",
+    "image": "/case-studies/473-agency/20bb21b2f773.webp",
+    "capturedAt": "2026-09-14T10:26:19.992Z"
+  },
+  {
+    "id": "26f99b6b7dfc",
+    "agencySlug": "agency-habitat",
+    "title": "Revision Skincare",
+    "url": "https://agencyhabitat.com/work/revision-skincare/",
+    "image": "/case-studies/agency-habitat/26f99b6b7dfc.webp",
+    "capturedAt": "2026-09-14T10:26:10.537Z"
+  },
+  {
+    "id": "b8767df35a41",
+    "agencySlug": "agency-habitat",
+    "title": "belif",
+    "url": "https://agencyhabitat.com/work/belif/",
+    "image": "/case-studies/agency-habitat/b8767df35a41.webp",
+    "capturedAt": "2026-09-14T10:26:03.841Z"
+  },
+  {
+    "id": "a15ec271c8b1",
+    "agencySlug": "agency-habitat",
+    "title": "The Face Shop",
+    "url": "https://agencyhabitat.com/work/the-face-shop/",
+    "image": "/case-studies/agency-habitat/a15ec271c8b1.webp",
+    "capturedAt": "2026-09-14T10:25:57.822Z"
+  },
+  {
+    "id": "db45ae6f9923",
+    "agencySlug": "agency-habitat",
+    "title": "FitVine Wine",
+    "url": "https://agencyhabitat.com/work/fitvine-wine/",
+    "image": "/case-studies/agency-habitat/db45ae6f9923.webp",
+    "capturedAt": "2026-09-14T10:25:51.352Z"
+  },
+  {
+    "id": "f647bf63a50c",
+    "agencySlug": "agency-habitat",
+    "title": "juus Beauty",
+    "url": "https://agencyhabitat.com/work/juus/",
+    "image": "/case-studies/agency-habitat/f647bf63a50c.webp",
+    "capturedAt": "2026-09-14T10:25:45.273Z"
+  },
+  {
+    "id": "e678466ba316",
+    "agencySlug": "agency-habitat",
+    "title": "Culture",
+    "url": "https://agencyhabitat.com/culture/",
+    "image": "/case-studies/agency-habitat/e678466ba316.webp",
+    "capturedAt": "2026-09-14T10:25:38.631Z"
+  },
+  {
+    "id": "4f02a07a2e20",
+    "agencySlug": "est-6",
+    "title": "ESCAC",
+    "url": "https://estplus6.com/work/escac-brand-storytelling-master-identity",
+    "image": "/case-studies/est-6/4f02a07a2e20.webp",
+    "capturedAt": "2026-09-14T10:25:24.114Z"
+  },
+  {
+    "id": "11ca991f98ff",
+    "agencySlug": "est-6",
+    "title": "Open Ios Brand Experience",
+    "url": "https://estplus6.com/work/open-ios-brand-experience",
+    "image": "/case-studies/est-6/11ca991f98ff.webp",
+    "capturedAt": "2026-09-14T10:25:18.150Z"
+  },
+  {
+    "id": "b1c6a99602c5",
+    "agencySlug": "est-6",
+    "title": "AYOND",
+    "url": "https://estplus6.com/work/ayond-rebrand-and-packaging-design",
+    "image": "/case-studies/est-6/b1c6a99602c5.webp",
+    "capturedAt": "2026-09-14T10:25:12.100Z"
+  },
+  {
+    "id": "548ed2631d41",
+    "agencySlug": "est-6",
+    "title": "VSCO",
+    "url": "https://estplus6.com/work/vsco-motion-design",
+    "image": "/case-studies/est-6/548ed2631d41.webp",
+    "capturedAt": "2026-09-14T10:25:08.208Z"
+  },
+  {
+    "id": "a67957f36fa2",
+    "agencySlug": "est-6",
+    "title": "AYOND",
+    "url": "https://estplus6.com/work/ayond-perfume-packaging-design",
+    "image": "/case-studies/est-6/a67957f36fa2.webp",
+    "capturedAt": "2026-09-14T10:25:02.262Z"
+  },
+  {
+    "id": "ca4d1fccfe88",
+    "agencySlug": "est-6",
+    "title": "VSCO",
+    "url": "https://estplus6.com/work/vsco-brand-platform-relaunch",
+    "image": "/case-studies/est-6/ca4d1fccfe88.webp",
+    "capturedAt": "2026-09-14T10:24:59.895Z"
+  },
+  {
+    "id": "6743c0e6e073",
+    "agencySlug": "outpost",
+    "title": "Energy Park",
+    "url": "https://outpost.design/work/energy-park",
+    "image": "/case-studies/outpost/6743c0e6e073.webp",
+    "capturedAt": "2026-09-14T10:24:44.756Z"
+  },
+  {
+    "id": "3d742c889a37",
+    "agencySlug": "outpost",
+    "title": "111 WEST 57TH STREET",
+    "url": "https://outpost.design/work/111-west-57th-street",
+    "image": "/case-studies/outpost/3d742c889a37.webp",
+    "capturedAt": "2026-09-14T10:24:41.694Z"
+  },
+  {
+    "id": "a3d405c395fc",
+    "agencySlug": "outpost",
+    "title": "Primland Explore",
+    "url": "https://outpost.design/work/primland-explore",
+    "image": "/case-studies/outpost/a3d405c395fc.webp",
+    "capturedAt": "2026-09-14T10:24:38.349Z"
+  },
+  {
+    "id": "69eb241c75cc",
+    "agencySlug": "outpost",
+    "title": "Above the Clouds",
+    "url": "https://outpost.design/work/above-the-clouds",
+    "image": "/case-studies/outpost/69eb241c75cc.webp",
+    "capturedAt": "2026-09-14T10:24:35.230Z"
+  },
+  {
+    "id": "69f45bf0835a",
+    "agencySlug": "outpost",
+    "title": "Primland Residences",
+    "url": "https://outpost.design/work/primland-residences",
+    "image": "/case-studies/outpost/69f45bf0835a.webp",
+    "capturedAt": "2026-09-14T10:24:30.820Z"
+  },
+  {
+    "id": "922b606a8605",
+    "agencySlug": "outpost",
+    "title": "LAB LAB",
+    "url": "https://outpost.design/lab",
+    "image": "/case-studies/outpost/922b606a8605.webp",
+    "capturedAt": "2026-09-14T10:24:27.980Z"
+  },
+  {
+    "id": "109f6ecdc4c6",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt Polestar",
+    "url": "https://www.stockholmdesignlab.se/work/polestar",
+    "image": "/case-studies/stockholm-design-lab/109f6ecdc4c6.webp",
+    "capturedAt": "2026-09-14T10:24:13.469Z"
+  },
+  {
+    "id": "886758c949ca",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt Haglöfs",
+    "url": "https://www.stockholmdesignlab.se/work/hagloefs",
+    "image": "/case-studies/stockholm-design-lab/886758c949ca.webp",
+    "capturedAt": "2026-09-14T10:24:11.410Z"
+  },
+  {
+    "id": "7fd5b6f576fa",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt Stockholm Design Lab: 1998–2025",
+    "url": "https://www.stockholmdesignlab.se/work/sdl-1998-2025",
+    "image": "/case-studies/stockholm-design-lab/7fd5b6f576fa.webp",
+    "capturedAt": "2026-09-14T10:24:09.613Z"
+  },
+  {
+    "id": "3e4de645762f",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt Sigma",
+    "url": "https://www.stockholmdesignlab.se/work/sigma",
+    "image": "/case-studies/stockholm-design-lab/3e4de645762f.webp",
+    "capturedAt": "2026-09-14T10:24:07.500Z"
+  },
+  {
+    "id": "ca6385c24bbb",
+    "agencySlug": "stockholm-design-lab",
+    "title": "Explore",
+    "url": "https://www.stockholmdesignlab.se/explore",
+    "image": "/case-studies/stockholm-design-lab/ca6385c24bbb.webp",
+    "capturedAt": "2026-09-14T10:24:03.657Z"
+  },
+  {
+    "id": "314df1c7594d",
+    "agencySlug": "stockholm-design-lab",
+    "title": "Lab",
+    "url": "https://www.stockholmdesignlab.se/lab",
+    "image": "/case-studies/stockholm-design-lab/314df1c7594d.webp",
+    "capturedAt": "2026-09-14T10:23:58.208Z"
+  },
+  {
+    "id": "b3132b5cb416",
+    "agencySlug": "this-design",
+    "title": "Branding Art Direction Naming The Long Goodbye → Libations and Salutations in the Heart of…",
+    "url": "https://this.design/work/thelonggoodbye",
+    "image": "/case-studies/this-design/b3132b5cb416.webp",
+    "capturedAt": "2026-09-14T10:23:48.648Z"
+  },
+  {
+    "id": "45bf602471d5",
+    "agencySlug": "this-design",
+    "title": "Campaign Art Direction Content Production Brand Strategy Mimecast → Protection from a New…",
+    "url": "https://this.design/work/mimecast",
+    "image": "/case-studies/this-design/45bf602471d5.webp",
+    "capturedAt": "2026-09-14T10:23:45.494Z"
+  },
+  {
+    "id": "84daa6b3653e",
+    "agencySlug": "this-design",
+    "title": "Branding Brand Strategy Copywriting Product Design Content Production WCM → A Heartfelt &…",
+    "url": "https://this.design/work/wcm",
+    "image": "/case-studies/this-design/84daa6b3653e.webp",
+    "capturedAt": "2026-09-14T10:23:43.434Z"
+  },
+  {
+    "id": "3f34d01bb69f",
+    "agencySlug": "this-design",
+    "title": "Branding Brand Strategy UI/UX Product Design Emery → Reimagining a Lifestyle Hotel in the…",
+    "url": "https://this.design/work/emery",
+    "image": "/case-studies/this-design/3f34d01bb69f.webp",
+    "capturedAt": "2026-09-14T10:23:41.807Z"
+  },
+  {
+    "id": "e772ec3d400a",
+    "agencySlug": "this-design",
+    "title": "Branding Brand Strategy Campaign Content Production D3O → Providing a Subconscious…",
+    "url": "https://this.design/work/d30",
+    "image": "/case-studies/this-design/e772ec3d400a.webp",
+    "capturedAt": "2026-09-14T10:23:39.501Z"
+  },
+  {
+    "id": "af802874d509",
+    "agencySlug": "this-design",
+    "title": "Art Direction Social Strategy Content Production Rivian Social Content → Forever…",
+    "url": "https://this.design/work/riviansocialcontent",
+    "image": "/case-studies/this-design/af802874d509.webp",
+    "capturedAt": "2026-09-14T10:23:33.124Z"
+  },
+  {
+    "id": "d0a65d87c32f",
+    "agencySlug": "samurai",
+    "title": "UNIQLO PARK Yokohama Bayside store Client : UNIQLO CO., LTD. Total produce & Concept…",
+    "url": "https://kashiwasato.com/project/13322",
+    "image": "/case-studies/samurai/d0a65d87c32f.webp",
+    "capturedAt": "2026-09-14T10:23:25.836Z"
+  },
+  {
+    "id": "8d982c553375",
+    "agencySlug": "samurai",
+    "title": "UNIQLO LOGO STORE Client : UNIQLO CO., LTD. Total creative direction・Design supervision :…",
+    "url": "https://kashiwasato.com/project/14233",
+    "image": "/case-studies/samurai/8d982c553375.webp",
+    "capturedAt": "2026-09-14T10:23:20.957Z"
+  },
+  {
+    "id": "8535d09b5272",
+    "agencySlug": "samurai",
+    "title": "UNIQLO Client : UNIQLO CO., LTD. Creative Director : Kashiwa Sato Art Director : Kashiwa…",
+    "url": "https://kashiwasato.com/project/14876",
+    "image": "/case-studies/samurai/8535d09b5272.webp",
+    "capturedAt": "2026-09-14T10:23:13.227Z"
+  },
+  {
+    "id": "6fc2f759a1c6",
+    "agencySlug": "samurai",
+    "title": "KASHIWA SATO - THE FUTURE OF HOUSING COMPLEX PROJECT",
+    "url": "https://kashiwasato.com/project/12008",
+    "image": "/case-studies/samurai/6fc2f759a1c6.webp",
+    "capturedAt": "2026-09-14T10:23:08.075Z"
+  },
+  {
+    "id": "6fea9d9bbfbe",
+    "agencySlug": "samurai",
+    "title": "HOUSING COMPLEX STROLLING PATH Client : Urban Renaissance Agency Creative Director :…",
+    "url": "https://kashiwasato.com/project/15187",
+    "image": "/case-studies/samurai/6fea9d9bbfbe.webp",
+    "capturedAt": "2026-09-14T10:23:02.637Z"
+  },
+  {
+    "id": "36b8812d9537",
+    "agencySlug": "samurai",
+    "title": "ALFALINK Client : GLP Japan Inc. Creative Director : Kashiwa Sato Art Director : Yoshihito…",
+    "url": "https://kashiwasato.com/project/13962",
+    "image": "/case-studies/samurai/36b8812d9537.webp",
+    "capturedAt": "2026-09-14T10:22:57.325Z"
+  },
+  {
+    "id": "aec6e77cedc4",
+    "agencySlug": "little-troop",
+    "title": "Building a Super Smart brand for Rocco",
+    "url": "https://littletroop.com/work/rocco",
+    "image": "/case-studies/little-troop/aec6e77cedc4.webp",
+    "capturedAt": "2026-09-14T10:22:48.302Z"
+  },
+  {
+    "id": "29e93d53ee83",
+    "agencySlug": "little-troop",
+    "title": "Meet Organic Basics, a Danish, sustainable clothing company founded in 2015. OB approached…",
+    "url": "https://littletroop.com/work/organic-basics",
+    "image": "/case-studies/little-troop/29e93d53ee83.webp",
+    "capturedAt": "2026-09-14T10:22:45.715Z"
+  },
+  {
+    "id": "72ffde583ec1",
+    "agencySlug": "little-troop",
+    "title": "Cliik",
+    "url": "https://littletroop.com/work/cliik",
+    "image": "/case-studies/little-troop/72ffde583ec1.webp",
+    "capturedAt": "2026-09-14T10:22:43.574Z"
+  },
+  {
+    "id": "ed7793355012",
+    "agencySlug": "little-troop",
+    "title": "An all-new and eye-popping Nik Bentel Studio",
+    "url": "https://littletroop.com/work/nik-bentel-studio",
+    "image": "/case-studies/little-troop/ed7793355012.webp",
+    "capturedAt": "2026-09-14T10:22:40.905Z"
+  },
+  {
+    "id": "1a4cc411ff8e",
+    "agencySlug": "little-troop",
+    "title": "Honor Role identity and animation for Camila Mendes",
+    "url": "https://littletroop.com/work/honor-role",
+    "image": "/case-studies/little-troop/1a4cc411ff8e.webp",
+    "capturedAt": "2026-09-14T10:22:38.483Z"
+  },
+  {
+    "id": "db6092e4bf50",
+    "agencySlug": "little-troop",
+    "title": "Branding and campaign for MoMA Family Festival",
+    "url": "https://littletroop.com/work/moma-family-festival",
+    "image": "/case-studies/little-troop/db6092e4bf50.webp",
+    "capturedAt": "2026-09-14T10:22:35.609Z"
+  },
+  {
+    "id": "06da25f7c7b0",
+    "agencySlug": "omfgco",
+    "title": "Maudines",
+    "url": "https://www.omfgco.com/project/maudines",
+    "image": "/case-studies/omfgco/06da25f7c7b0.webp",
+    "capturedAt": "2026-09-14T10:22:30.370Z"
+  },
+  {
+    "id": "f10bfcbf6185",
+    "agencySlug": "omfgco",
+    "title": "Bar Velvet",
+    "url": "https://www.omfgco.com/project/bar-velvet",
+    "image": "/case-studies/omfgco/f10bfcbf6185.webp",
+    "capturedAt": "2026-09-14T10:22:24.146Z"
+  },
+  {
+    "id": "2df7152114fc",
+    "agencySlug": "omfgco",
+    "title": "Popurri",
+    "url": "https://www.omfgco.com/project/popurri",
+    "image": "/case-studies/omfgco/2df7152114fc.webp",
+    "capturedAt": "2026-09-14T10:22:22.685Z"
+  },
+  {
+    "id": "0ae52a6f4cfb",
+    "agencySlug": "omfgco",
+    "title": "Quincy",
+    "url": "https://www.omfgco.com/project/quincy",
+    "image": "/case-studies/omfgco/0ae52a6f4cfb.webp",
+    "capturedAt": "2026-09-14T10:22:18.803Z"
+  },
+  {
+    "id": "984ce03d78df",
+    "agencySlug": "omfgco",
+    "title": "The Oliver Hotel",
+    "url": "https://www.omfgco.com/project/the-oliver-hotel",
+    "image": "/case-studies/omfgco/984ce03d78df.webp",
+    "capturedAt": "2026-09-14T10:22:17.023Z"
+  },
+  {
+    "id": "ac140c67ec44",
+    "agencySlug": "omfgco",
+    "title": "Eem",
+    "url": "https://www.omfgco.com/project/eem",
+    "image": "/case-studies/omfgco/ac140c67ec44.webp",
+    "capturedAt": "2026-09-14T10:22:14.156Z"
+  },
+  {
+    "id": "71b80a596562",
+    "agencySlug": "not-real",
+    "title": "ServiceNow. AI Powered, Human Driven — Brand & Product Video ServiceNow. AI Powered, Human…",
+    "url": "https://notreal.tv/project/servicenow",
+    "image": "/case-studies/not-real/71b80a596562.webp",
+    "capturedAt": "2026-09-14T10:22:03.203Z"
+  },
+  {
+    "id": "c2892a7b9010",
+    "agencySlug": "not-real",
+    "title": "Microsoft. Teams — Connecting Communities Microsoft. Teams",
+    "url": "https://notreal.tv/project/ms-teams-connecting-communities",
+    "image": "/case-studies/not-real/c2892a7b9010.webp",
+    "capturedAt": "2026-09-14T10:21:55.516Z"
+  },
+  {
+    "id": "6622382c839b",
+    "agencySlug": "not-real",
+    "title": "The One Club",
+    "url": "https://notreal.tv/project/the-one-club",
+    "image": "/case-studies/not-real/6622382c839b.webp",
+    "capturedAt": "2026-09-14T10:21:38.727Z"
+  },
+  {
+    "id": "bedcab9f858b",
+    "agencySlug": "not-real",
+    "title": "JP Morgan Payments. — Commerce Campaign 2025 JP Morgan Payments.",
+    "url": "https://notreal.tv/project/jpmp",
+    "image": "/case-studies/not-real/bedcab9f858b.webp",
+    "capturedAt": "2026-09-14T10:21:30.674Z"
+  },
+  {
+    "id": "645051fb1169",
+    "agencySlug": "not-real",
+    "title": "Fenty Skin & Fenty Beauty. — Summer Campaign Fenty Skin & Fenty Beauty.",
+    "url": "https://notreal.tv/project/fenty",
+    "image": "/case-studies/not-real/645051fb1169.webp",
+    "capturedAt": "2026-09-14T10:21:23.033Z"
+  },
+  {
+    "id": "2a0800faef10",
+    "agencySlug": "not-real",
+    "title": "Microsoft 365 — Brand Refresh 2024 Microsoft 365",
+    "url": "https://notreal.tv/project/m365-brand-refresh",
+    "image": "/case-studies/not-real/2a0800faef10.webp",
+    "capturedAt": "2026-09-14T10:21:15.370Z"
+  },
+  {
+    "id": "f488027053b9",
+    "agencySlug": "makemepulse",
+    "title": "Bringing Yuga Labs’ worlds to life One post at a time No Ads. Just Vibes.",
+    "url": "https://www.makemepulse.com/case-study/yuga-labs-social-media-content",
+    "image": "/case-studies/makemepulse/f488027053b9.webp",
+    "capturedAt": "2026-09-14T10:21:04.563Z"
+  },
+  {
+    "id": "278a4c078a68",
+    "agencySlug": "makemepulse",
+    "title": "Ruinart - Digital fresco A fresco reimagined",
+    "url": "https://www.makemepulse.com/case-study/maison-ruinart-digital-fresco",
+    "image": "/case-studies/makemepulse/278a4c078a68.webp",
+    "capturedAt": "2026-09-14T10:21:01.010Z"
+  },
+  {
+    "id": "59936dfe56c9",
+    "agencySlug": "makemepulse",
+    "title": "Brunello Cucinelli - Human-Centred AI E-commerce Intent-led experience In partnership with…",
+    "url": "https://www.makemepulse.com/case-study/brunello-cucinelli-ai-shopping-experience",
+    "image": "/case-studies/makemepulse/59936dfe56c9.webp",
+    "capturedAt": "2026-09-14T10:20:57.753Z"
+  },
+  {
+    "id": "7957ec1fe5d4",
+    "agencySlug": "makemepulse",
+    "title": "Benno’s Light",
+    "url": "https://www.makemepulse.com/case-study/bennos-light-claims-conference",
+    "image": "/case-studies/makemepulse/7957ec1fe5d4.webp",
+    "capturedAt": "2026-09-14T10:20:54.384Z"
+  },
+  {
+    "id": "b09d143fb508",
+    "agencySlug": "makemepulse",
+    "title": "McDonald’s Rösti Fall",
+    "url": "https://www.makemepulse.com/case-study/mcdonalds-france-rosti-fall-loyalty-mobile-game",
+    "image": "/case-studies/makemepulse/b09d143fb508.webp",
+    "capturedAt": "2026-09-14T10:20:46.807Z"
+  },
+  {
+    "id": "2fda152d5857",
+    "agencySlug": "makemepulse",
+    "title": "Cartier Le Choeur des pierres An immersive journey into Cartier High Jewellery",
+    "url": "https://www.makemepulse.com/case-study/cartier-le-choeur-des-pierres",
+    "image": "/case-studies/makemepulse/2fda152d5857.webp",
+    "capturedAt": "2026-09-14T10:20:43.392Z"
+  },
+  {
+    "id": "24507ce77f3c",
+    "agencySlug": "wouq",
+    "title": "Pearls N26 Pearls Pearls N26",
+    "url": "https://wearewouq.com/work/pearls",
+    "image": "/case-studies/wouq/24507ce77f3c.webp",
+    "capturedAt": "2026-09-14T10:20:34.217Z"
+  },
+  {
+    "id": "4f353dff34f1",
+    "agencySlug": "wouq",
+    "title": "Spaces Tylko Spaces Spaces Tylko",
+    "url": "https://wearewouq.com/work/spaces",
+    "image": "/case-studies/wouq/4f353dff34f1.webp",
+    "capturedAt": "2026-09-14T10:20:28.477Z"
+  },
+  {
+    "id": "d3841aa84938",
+    "agencySlug": "wouq",
+    "title": "Notebook Plus2 Samsung",
+    "url": "https://wearewouq.com/work/notebookplus2",
+    "image": "/case-studies/wouq/d3841aa84938.webp",
+    "capturedAt": "2026-09-14T10:20:22.739Z"
+  },
+  {
+    "id": "1b04e7f8c800",
+    "agencySlug": "wouq",
+    "title": "Spring Tylko Spring Spring Tylko",
+    "url": "https://wearewouq.com/work/spring",
+    "image": "/case-studies/wouq/1b04e7f8c800.webp",
+    "capturedAt": "2026-09-14T10:20:16.842Z"
+  },
+  {
+    "id": "9fbca739edef",
+    "agencySlug": "wouq",
+    "title": "CyberSphere Deloitte CyberSphere CyberSphere Deloitte",
+    "url": "https://wearewouq.com/work/cybersphere",
+    "image": "/case-studies/wouq/9fbca739edef.webp",
+    "capturedAt": "2026-09-14T10:20:10.423Z"
+  },
+  {
+    "id": "19e1437d950b",
+    "agencySlug": "wouq",
+    "title": "Visual Language Piano",
+    "url": "https://wearewouq.com/work/piano",
+    "image": "/case-studies/wouq/19e1437d950b.webp",
+    "capturedAt": "2026-09-14T10:20:04.213Z"
+  },
+  {
     "id": "586f8dc78ad9",
     "agencySlug": "fix-studio",
     "title": "Equinox ( 2021 ) Fix Studio Lorem ipsum",
@@ -238,54 +814,6 @@
     "url": "https://www.someyellow.co.uk/projects/the-edge",
     "image": "/case-studies/some-yellow/ca9bdf1ab2f1.webp",
     "capturedAt": "2026-09-14T10:11:16.843Z"
-  },
-  {
-    "id": "24507ce77f3c",
-    "agencySlug": "wouq",
-    "title": "Pearls N26 Pearls Pearls N26",
-    "url": "https://wearewouq.com/work/pearls",
-    "image": "/case-studies/wouq/24507ce77f3c.webp",
-    "capturedAt": "2026-09-14T10:11:02.532Z"
-  },
-  {
-    "id": "4f353dff34f1",
-    "agencySlug": "wouq",
-    "title": "Spaces Tylko Spaces Spaces Tylko",
-    "url": "https://wearewouq.com/work/spaces",
-    "image": "/case-studies/wouq/4f353dff34f1.webp",
-    "capturedAt": "2026-09-14T10:10:55.922Z"
-  },
-  {
-    "id": "d3841aa84938",
-    "agencySlug": "wouq",
-    "title": "Notebook Plus2 Samsung Notebook Plus2 Samsung",
-    "url": "https://wearewouq.com/work/notebookplus2",
-    "image": "/case-studies/wouq/d3841aa84938.webp",
-    "capturedAt": "2026-09-14T10:10:50.171Z"
-  },
-  {
-    "id": "1b04e7f8c800",
-    "agencySlug": "wouq",
-    "title": "Spring Tylko Spring Spring Tylko",
-    "url": "https://wearewouq.com/work/spring",
-    "image": "/case-studies/wouq/1b04e7f8c800.webp",
-    "capturedAt": "2026-09-14T10:10:43.337Z"
-  },
-  {
-    "id": "9fbca739edef",
-    "agencySlug": "wouq",
-    "title": "CyberSphere Deloitte CyberSphere CyberSphere Deloitte",
-    "url": "https://wearewouq.com/work/cybersphere",
-    "image": "/case-studies/wouq/9fbca739edef.webp",
-    "capturedAt": "2026-09-14T10:10:36.682Z"
-  },
-  {
-    "id": "19e1437d950b",
-    "agencySlug": "wouq",
-    "title": "Visual Language Piano Visual Language Piano",
-    "url": "https://wearewouq.com/work/piano",
-    "image": "/case-studies/wouq/19e1437d950b.webp",
-    "capturedAt": "2026-09-14T10:10:30.510Z"
   },
   {
     "id": "0a39ab980708",
@@ -1854,54 +2382,6 @@
     "url": "https://liquorice.com.au/work/florence/",
     "image": "/case-studies/liquorice/47fcf460e594.webp",
     "capturedAt": "2026-09-14T09:15:11.376Z"
-  },
-  {
-    "id": "f488027053b9",
-    "agencySlug": "makemepulse",
-    "title": "Bringing Yuga Labs’ worlds to life One post at a time No Ads. Just Vibes.",
-    "url": "https://www.makemepulse.com/case-study/yuga-labs-social-media-content",
-    "image": "/case-studies/makemepulse/f488027053b9.webp",
-    "capturedAt": "2026-09-14T09:14:54.469Z"
-  },
-  {
-    "id": "278a4c078a68",
-    "agencySlug": "makemepulse",
-    "title": "Ruinart - Digital fresco A fresco reimagined",
-    "url": "https://www.makemepulse.com/case-study/maison-ruinart-digital-fresco",
-    "image": "/case-studies/makemepulse/278a4c078a68.webp",
-    "capturedAt": "2026-09-14T09:14:50.622Z"
-  },
-  {
-    "id": "59936dfe56c9",
-    "agencySlug": "makemepulse",
-    "title": "Brunello Cucinelli - Human-Centred AI E-commerce Intent-led experience In partnership with…",
-    "url": "https://www.makemepulse.com/case-study/brunello-cucinelli-ai-shopping-experience",
-    "image": "/case-studies/makemepulse/59936dfe56c9.webp",
-    "capturedAt": "2026-09-14T09:14:47.316Z"
-  },
-  {
-    "id": "7957ec1fe5d4",
-    "agencySlug": "makemepulse",
-    "title": "Benno’s Light",
-    "url": "https://www.makemepulse.com/case-study/bennos-light-claims-conference",
-    "image": "/case-studies/makemepulse/7957ec1fe5d4.webp",
-    "capturedAt": "2026-09-14T09:14:43.479Z"
-  },
-  {
-    "id": "b09d143fb508",
-    "agencySlug": "makemepulse",
-    "title": "McDonald’s Rösti Fall",
-    "url": "https://www.makemepulse.com/case-study/mcdonalds-france-rosti-fall-loyalty-mobile-game",
-    "image": "/case-studies/makemepulse/b09d143fb508.webp",
-    "capturedAt": "2026-09-14T09:14:39.639Z"
-  },
-  {
-    "id": "2fda152d5857",
-    "agencySlug": "makemepulse",
-    "title": "Cartier Le Choeur des pierres An immersive journey into Cartier High Jewellery",
-    "url": "https://www.makemepulse.com/case-study/cartier-le-choeur-des-pierres",
-    "image": "/case-studies/makemepulse/2fda152d5857.webp",
-    "capturedAt": "2026-09-14T09:14:32.011Z"
   },
   {
     "id": "23acebddabb8",
@@ -4344,54 +4824,6 @@
     "capturedAt": "2026-09-14T08:46:26.849Z"
   },
   {
-    "id": "71b80a596562",
-    "agencySlug": "not-real",
-    "title": "ServiceNow. AI Powered, Human Driven — Brand & Product Video ServiceNow. AI Powered, Human…",
-    "url": "https://notreal.tv/project/servicenow",
-    "image": "/case-studies/not-real/71b80a596562.webp",
-    "capturedAt": "2026-09-14T08:46:08.649Z"
-  },
-  {
-    "id": "c2892a7b9010",
-    "agencySlug": "not-real",
-    "title": "Microsoft. Teams — Connecting Communities Microsoft. Teams",
-    "url": "https://notreal.tv/project/ms-teams-connecting-communities",
-    "image": "/case-studies/not-real/c2892a7b9010.webp",
-    "capturedAt": "2026-09-14T08:46:00.965Z"
-  },
-  {
-    "id": "6622382c839b",
-    "agencySlug": "not-real",
-    "title": "The One Club",
-    "url": "https://notreal.tv/project/the-one-club",
-    "image": "/case-studies/not-real/6622382c839b.webp",
-    "capturedAt": "2026-09-14T08:45:45.897Z"
-  },
-  {
-    "id": "bedcab9f858b",
-    "agencySlug": "not-real",
-    "title": "JP Morgan Payments. — Commerce Campaign 2025 JP Morgan Payments.",
-    "url": "https://notreal.tv/project/jpmp",
-    "image": "/case-studies/not-real/bedcab9f858b.webp",
-    "capturedAt": "2026-09-14T08:45:39.360Z"
-  },
-  {
-    "id": "645051fb1169",
-    "agencySlug": "not-real",
-    "title": "Fenty Skin & Fenty Beauty. — Summer Campaign Fenty Skin & Fenty Beauty.",
-    "url": "https://notreal.tv/project/fenty",
-    "image": "/case-studies/not-real/645051fb1169.webp",
-    "capturedAt": "2026-09-14T08:45:33.189Z"
-  },
-  {
-    "id": "2a0800faef10",
-    "agencySlug": "not-real",
-    "title": "Microsoft 365 — Brand Refresh 2024 Microsoft 365",
-    "url": "https://notreal.tv/project/m365-brand-refresh",
-    "image": "/case-studies/not-real/2a0800faef10.webp",
-    "capturedAt": "2026-09-14T08:45:24.080Z"
-  },
-  {
     "id": "b9fa6a2b5a87",
     "agencySlug": "molly",
     "title": "Molly has beenacquired by Shopify",
@@ -4672,54 +5104,6 @@
     "capturedAt": "2026-09-14T08:42:24.156Z"
   },
   {
-    "id": "06da25f7c7b0",
-    "agencySlug": "omfgco",
-    "title": "Maudines",
-    "url": "https://www.omfgco.com/project/maudines",
-    "image": "/case-studies/omfgco/06da25f7c7b0.webp",
-    "capturedAt": "2026-09-14T08:42:14.070Z"
-  },
-  {
-    "id": "f10bfcbf6185",
-    "agencySlug": "omfgco",
-    "title": "Bar Velvet",
-    "url": "https://www.omfgco.com/project/bar-velvet",
-    "image": "/case-studies/omfgco/f10bfcbf6185.webp",
-    "capturedAt": "2026-09-14T08:42:07.766Z"
-  },
-  {
-    "id": "2df7152114fc",
-    "agencySlug": "omfgco",
-    "title": "Popurri",
-    "url": "https://www.omfgco.com/project/popurri",
-    "image": "/case-studies/omfgco/2df7152114fc.webp",
-    "capturedAt": "2026-09-14T08:42:06.310Z"
-  },
-  {
-    "id": "0ae52a6f4cfb",
-    "agencySlug": "omfgco",
-    "title": "Quincy",
-    "url": "https://www.omfgco.com/project/quincy",
-    "image": "/case-studies/omfgco/0ae52a6f4cfb.webp",
-    "capturedAt": "2026-09-14T08:42:02.915Z"
-  },
-  {
-    "id": "984ce03d78df",
-    "agencySlug": "omfgco",
-    "title": "The Oliver Hotel",
-    "url": "https://www.omfgco.com/project/the-oliver-hotel",
-    "image": "/case-studies/omfgco/984ce03d78df.webp",
-    "capturedAt": "2026-09-14T08:42:01.191Z"
-  },
-  {
-    "id": "4fa0800a3a0f",
-    "agencySlug": "omfgco",
-    "title": "Catbird is an artist-driven hotel located in Denver’s River North Art District (RiNo), the…",
-    "url": "https://www.omfgco.com/project/catbird",
-    "image": "/case-studies/omfgco/4fa0800a3a0f.webp",
-    "capturedAt": "2026-09-14T08:41:58.602Z"
-  },
-  {
     "id": "824b7d71a2f4",
     "agencySlug": "scandinavian-design-group",
     "title": "Connecting the Health Sector of Norway",
@@ -4862,54 +5246,6 @@
     "url": "https://www.lbstudio.sk/a-bookstore-that-turns-undecided-visitors-into-customers",
     "image": "/case-studies/lighting-beetle/b4062bf719b8.webp",
     "capturedAt": "2026-09-14T08:39:58.001Z"
-  },
-  {
-    "id": "aec6e77cedc4",
-    "agencySlug": "little-troop",
-    "title": "Building a Super Smart brand for Rocco",
-    "url": "https://littletroop.com/work/rocco",
-    "image": "/case-studies/little-troop/aec6e77cedc4.webp",
-    "capturedAt": "2026-09-14T08:39:45.131Z"
-  },
-  {
-    "id": "29e93d53ee83",
-    "agencySlug": "little-troop",
-    "title": "Meet Organic Basics, a Danish, sustainable clothing company founded in 2015. OB approached…",
-    "url": "https://littletroop.com/work/organic-basics",
-    "image": "/case-studies/little-troop/29e93d53ee83.webp",
-    "capturedAt": "2026-09-14T08:39:42.815Z"
-  },
-  {
-    "id": "72ffde583ec1",
-    "agencySlug": "little-troop",
-    "title": "Cliik",
-    "url": "https://littletroop.com/work/cliik",
-    "image": "/case-studies/little-troop/72ffde583ec1.webp",
-    "capturedAt": "2026-09-14T08:39:40.638Z"
-  },
-  {
-    "id": "ed7793355012",
-    "agencySlug": "little-troop",
-    "title": "An all-new and eye-popping Nik Bentel Studio",
-    "url": "https://littletroop.com/work/nik-bentel-studio",
-    "image": "/case-studies/little-troop/ed7793355012.webp",
-    "capturedAt": "2026-09-14T08:39:38.262Z"
-  },
-  {
-    "id": "1a4cc411ff8e",
-    "agencySlug": "little-troop",
-    "title": "Honor Role identity and animation for Camila Mendes",
-    "url": "https://littletroop.com/work/honor-role",
-    "image": "/case-studies/little-troop/1a4cc411ff8e.webp",
-    "capturedAt": "2026-09-14T08:39:35.992Z"
-  },
-  {
-    "id": "db6092e4bf50",
-    "agencySlug": "little-troop",
-    "title": "Branding and campaign for MoMA Family Festival",
-    "url": "https://littletroop.com/work/moma-family-festival",
-    "image": "/case-studies/little-troop/db6092e4bf50.webp",
-    "capturedAt": "2026-09-14T08:39:33.382Z"
   },
   {
     "id": "8daef29e2543",
@@ -5726,54 +6062,6 @@
     "url": "https://random.studio/projects/an-alpine-expedition-in-the-city-for-moncler",
     "image": "/case-studies/random-studio/048f74fde12d.webp",
     "capturedAt": "2026-09-14T07:58:29.846Z"
-  },
-  {
-    "id": "d0a65d87c32f",
-    "agencySlug": "samurai",
-    "title": "UNIQLO PARI UNIQLO PARK Yokohama Bayside store Client : UNIQLO CO., LTD. Total produce &…",
-    "url": "https://kashiwasato.com/project/13322",
-    "image": "/case-studies/samurai/d0a65d87c32f.webp",
-    "capturedAt": "2026-09-14T07:57:35.070Z"
-  },
-  {
-    "id": "8d982c553375",
-    "agencySlug": "samurai",
-    "title": "UNIQLO LOFO!TTOPH Client : UNIQLO CO., LTD. Total creative direction・Design supervision :…",
-    "url": "https://kashiwasato.com/project/14233",
-    "image": "/case-studies/samurai/8d982c553375.webp",
-    "capturedAt": "2026-09-14T07:57:29.923Z"
-  },
-  {
-    "id": "8535d09b5272",
-    "agencySlug": "samurai",
-    "title": "UNIQLO Client : UNIQLO CO., LTD. Creative Director : Kashiwa Sato Art Director : Kashiwa…",
-    "url": "https://kashiwasato.com/project/14876",
-    "image": "/case-studies/samurai/8535d09b5272.webp",
-    "capturedAt": "2026-09-14T07:57:23.176Z"
-  },
-  {
-    "id": "6fc2f759a1c6",
-    "agencySlug": "samurai",
-    "title": "KASHIWA SATO - THE FUTURE OF HOUSING COMPLEX PROJECT",
-    "url": "https://kashiwasato.com/project/12008",
-    "image": "/case-studies/samurai/6fc2f759a1c6.webp",
-    "capturedAt": "2026-09-14T07:57:17.976Z"
-  },
-  {
-    "id": "6fea9d9bbfbe",
-    "agencySlug": "samurai",
-    "title": "HOUSING COMPLEX STROLLIMC(P?XJ Client : Urban Renaissance Agency Creative Director :…",
-    "url": "https://kashiwasato.com/project/15187",
-    "image": "/case-studies/samurai/6fea9d9bbfbe.webp",
-    "capturedAt": "2026-09-14T07:57:12.953Z"
-  },
-  {
-    "id": "36b8812d9537",
-    "agencySlug": "samurai",
-    "title": "ALFALINK Client : GLP Japan Inc. Creative Director : Kashiwa Sato Art Director : Yoshihito…",
-    "url": "https://kashiwasato.com/project/13962",
-    "image": "/case-studies/samurai/36b8812d9537.webp",
-    "capturedAt": "2026-09-14T07:57:07.546Z"
   },
   {
     "id": "8520f6ca497f",
@@ -6944,28 +7232,12 @@
     "capturedAt": "2026-09-14T07:41:06.417Z"
   },
   {
-    "id": "b3132b5cb416",
-    "agencySlug": "this-design",
-    "title": "Branding Art Direction Naming The Long Goodbye → Libations and Salutations in the Heart of…",
-    "url": "https://this.design/work/thelonggoodbye",
-    "image": "/case-studies/this-design/b3132b5cb416.webp",
-    "capturedAt": "2026-09-14T07:41:04.797Z"
-  },
-  {
     "id": "1a6711eac402",
     "agencySlug": "thirteen23",
     "title": "Obama for America, Hillary for America, Pew Charitable Trusts",
     "url": "https://www.thirteen23.com/work/obama-hillary-pew",
     "image": "/case-studies/thirteen23/1a6711eac402.webp",
     "capturedAt": "2026-09-14T07:41:02.835Z"
-  },
-  {
-    "id": "45bf602471d5",
-    "agencySlug": "this-design",
-    "title": "Campaign Art Direction Content Production Brand Strategy Mimecast → Protection from a New…",
-    "url": "https://this.design/work/mimecast",
-    "image": "/case-studies/this-design/45bf602471d5.webp",
-    "capturedAt": "2026-09-14T07:41:01.219Z"
   },
   {
     "id": "e96bdee7ebb2",
@@ -6976,36 +7248,12 @@
     "capturedAt": "2026-09-14T07:40:58.977Z"
   },
   {
-    "id": "84daa6b3653e",
-    "agencySlug": "this-design",
-    "title": "Branding Brand Strategy Copywriting Product Design Content Production WCM → A Heartfelt &…",
-    "url": "https://this.design/work/wcm",
-    "image": "/case-studies/this-design/84daa6b3653e.webp",
-    "capturedAt": "2026-09-14T07:40:58.690Z"
-  },
-  {
     "id": "354ccf0b415c",
     "agencySlug": "thirteen23",
     "title": "LogSeam",
     "url": "https://www.thirteen23.com/work/logseam",
     "image": "/case-studies/thirteen23/354ccf0b415c.webp",
     "capturedAt": "2026-09-14T07:40:56.874Z"
-  },
-  {
-    "id": "3f34d01bb69f",
-    "agencySlug": "this-design",
-    "title": "Branding Brand Strategy UI/UX Product Design Emery → Reimagining a Lifestyle Hotel in the…",
-    "url": "https://this.design/work/emery",
-    "image": "/case-studies/this-design/3f34d01bb69f.webp",
-    "capturedAt": "2026-09-14T07:40:56.290Z"
-  },
-  {
-    "id": "e772ec3d400a",
-    "agencySlug": "this-design",
-    "title": "Branding Brand Strategy Campaign Content Production D3O → Providing a Subconscious…",
-    "url": "https://this.design/work/d30",
-    "image": "/case-studies/this-design/e772ec3d400a.webp",
-    "capturedAt": "2026-09-14T07:40:53.813Z"
   },
   {
     "id": "0d667f9645a1",
@@ -7022,14 +7270,6 @@
     "url": "https://www.thirteen23.com/work/nebulock",
     "image": "/case-studies/thirteen23/a0c91858b7da.webp",
     "capturedAt": "2026-09-14T07:40:47.730Z"
-  },
-  {
-    "id": "af802874d509",
-    "agencySlug": "this-design",
-    "title": "Art Direction Social Strategy Content Production Rivian Social Content → Forever…",
-    "url": "https://this.design/work/riviansocialcontent",
-    "image": "/case-studies/this-design/af802874d509.webp",
-    "capturedAt": "2026-09-14T07:40:47.168Z"
   },
   {
     "id": "801b39e04e7d",
@@ -8024,14 +8264,6 @@
     "capturedAt": "2026-09-14T07:37:28.751Z"
   },
   {
-    "id": "109f6ecdc4c6",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Polestar",
-    "url": "https://www.stockholmdesignlab.se/work/polestar",
-    "image": "/case-studies/stockholm-design-lab/109f6ecdc4c6.webp",
-    "capturedAt": "2026-09-14T07:37:28.725Z"
-  },
-  {
     "id": "968a16955a18",
     "agencySlug": "stinkstudios",
     "title": "Google",
@@ -8048,14 +8280,6 @@
     "capturedAt": "2026-09-14T07:37:26.100Z"
   },
   {
-    "id": "886758c949ca",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Haglöfs",
-    "url": "https://www.stockholmdesignlab.se/work/hagloefs",
-    "image": "/case-studies/stockholm-design-lab/886758c949ca.webp",
-    "capturedAt": "2026-09-14T07:37:25.774Z"
-  },
-  {
     "id": "b64bdf3d35f6",
     "agencySlug": "story2",
     "title": "Motion",
@@ -8064,28 +8288,12 @@
     "capturedAt": "2026-09-14T07:37:23.653Z"
   },
   {
-    "id": "7fd5b6f576fa",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Stockholm Design Lab: 1998–2025",
-    "url": "https://www.stockholmdesignlab.se/work/sdl-1998-2025",
-    "image": "/case-studies/stockholm-design-lab/7fd5b6f576fa.webp",
-    "capturedAt": "2026-09-14T07:37:23.603Z"
-  },
-  {
     "id": "4f2267723bd4",
     "agencySlug": "strange-family",
     "title": "Amazon Autos Campaign, Strategy, Production",
     "url": "https://strangefamily.co/case-studies/amazon-autos",
     "image": "/case-studies/strange-family/4f2267723bd4.webp",
     "capturedAt": "2026-09-14T07:37:23.479Z"
-  },
-  {
-    "id": "3e4de645762f",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Sigma",
-    "url": "https://www.stockholmdesignlab.se/work/sigma",
-    "image": "/case-studies/stockholm-design-lab/3e4de645762f.webp",
-    "capturedAt": "2026-09-14T07:37:20.728Z"
   },
   {
     "id": "b6deee747bc4",
@@ -8120,28 +8328,12 @@
     "capturedAt": "2026-09-14T07:37:16.165Z"
   },
   {
-    "id": "ca6385c24bbb",
-    "agencySlug": "stockholm-design-lab",
-    "title": "explore",
-    "url": "https://www.stockholmdesignlab.se/explore",
-    "image": "/case-studies/stockholm-design-lab/ca6385c24bbb.webp",
-    "capturedAt": "2026-09-14T07:37:15.668Z"
-  },
-  {
     "id": "1732ad213d81",
     "agencySlug": "story2",
     "title": "story²",
     "url": "https://www.secondstory.info/cart",
     "image": "/case-studies/story2/1732ad213d81.webp",
     "capturedAt": "2026-09-14T07:37:15.565Z"
-  },
-  {
-    "id": "314df1c7594d",
-    "agencySlug": "stockholm-design-lab",
-    "title": "Lab",
-    "url": "https://www.stockholmdesignlab.se/lab",
-    "image": "/case-studies/stockholm-design-lab/314df1c7594d.webp",
-    "capturedAt": "2026-09-14T07:37:13.443Z"
   },
   {
     "id": "dcdacf3ffbd0",
@@ -10104,14 +10296,6 @@
     "capturedAt": "2026-09-14T07:30:45.901Z"
   },
   {
-    "id": "6743c0e6e073",
-    "agencySlug": "outpost",
-    "title": "Energy Park",
-    "url": "https://outpost.design/work/energy-park",
-    "image": "/case-studies/outpost/6743c0e6e073.webp",
-    "capturedAt": "2026-09-14T07:30:44.611Z"
-  },
-  {
     "id": "ecb005a3ccdd",
     "agencySlug": "paprika",
     "title": "Ritual Films",
@@ -10134,14 +10318,6 @@
     "url": "https://www.outcrowd.io/ramos",
     "image": "/case-studies/outcrowd/f09001ac4d40.webp",
     "capturedAt": "2026-09-14T07:30:40.788Z"
-  },
-  {
-    "id": "3d742c889a37",
-    "agencySlug": "outpost",
-    "title": "111 WEST 57TH STREET",
-    "url": "https://outpost.design/work/111-west-57th-street",
-    "image": "/case-studies/outpost/3d742c889a37.webp",
-    "capturedAt": "2026-09-14T07:30:39.854Z"
   },
   {
     "id": "bfc80aa07188",
@@ -10168,14 +10344,6 @@
     "capturedAt": "2026-09-14T07:30:35.970Z"
   },
   {
-    "id": "a3d405c395fc",
-    "agencySlug": "outpost",
-    "title": "primland explore",
-    "url": "https://outpost.design/work/primland-explore",
-    "image": "/case-studies/outpost/a3d405c395fc.webp",
-    "capturedAt": "2026-09-14T07:30:34.968Z"
-  },
-  {
     "id": "bc7f79ef1c18",
     "agencySlug": "outcrowd",
     "title": "Stable0x",
@@ -10190,14 +10358,6 @@
     "url": "https://www.pact.studio/case-studies/frameline-49",
     "image": "/case-studies/pact/15b42753df35.webp",
     "capturedAt": "2026-09-14T07:30:31.930Z"
-  },
-  {
-    "id": "69eb241c75cc",
-    "agencySlug": "outpost",
-    "title": "Above the Clouds",
-    "url": "https://outpost.design/work/above-the-clouds",
-    "image": "/case-studies/outpost/69eb241c75cc.webp",
-    "capturedAt": "2026-09-14T07:30:30.087Z"
   },
   {
     "id": "41d1e0ba71e1",
@@ -10224,14 +10384,6 @@
     "capturedAt": "2026-09-14T07:30:26.215Z"
   },
   {
-    "id": "69f45bf0835a",
-    "agencySlug": "outpost",
-    "title": "Primland Residences",
-    "url": "https://outpost.design/work/primland-residences",
-    "image": "/case-studies/outpost/69f45bf0835a.webp",
-    "capturedAt": "2026-09-14T07:30:24.993Z"
-  },
-  {
     "id": "b067ffd535d0",
     "agencySlug": "our-lifes-work",
     "title": "Elevate",
@@ -10254,14 +10406,6 @@
     "url": "https://www.ourlifeswork.com/projects/ascent-cloud",
     "image": "/case-studies/our-lifes-work/633c07fdcf46.webp",
     "capturedAt": "2026-09-14T07:30:19.886Z"
-  },
-  {
-    "id": "922b606a8605",
-    "agencySlug": "outpost",
-    "title": "LAB LAB",
-    "url": "https://outpost.design/lab",
-    "image": "/case-studies/outpost/922b606a8605.webp",
-    "capturedAt": "2026-09-14T07:30:19.272Z"
   },
   {
     "id": "a25d8775e1b7",
@@ -19984,14 +20128,6 @@
     "capturedAt": "2026-08-16T20:07:25.791Z"
   },
   {
-    "id": "4f02a07a2e20",
-    "agencySlug": "est-6",
-    "title": "ESCAC",
-    "url": "https://estplus6.com/work/escac-brand-storytelling-master-identity",
-    "image": "/case-studies/est-6/4f02a07a2e20.webp",
-    "capturedAt": "2026-08-16T20:07:23.540Z"
-  },
-  {
     "id": "3fe837ff85f6",
     "agencySlug": "extract-studio",
     "title": "Sport 24",
@@ -20046,14 +20182,6 @@
     "url": "https://faculty.com/work/simply-framed",
     "image": "/case-studies/faculty/2f600a1aa25d.webp",
     "capturedAt": "2026-08-16T20:07:16.408Z"
-  },
-  {
-    "id": "11ca991f98ff",
-    "agencySlug": "est-6",
-    "title": "open ios brand experience",
-    "url": "https://estplus6.com/work/open-ios-brand-experience",
-    "image": "/case-studies/est-6/11ca991f98ff.webp",
-    "capturedAt": "2026-08-16T20:07:16.356Z"
   },
   {
     "id": "477fd7c0498b",
@@ -20112,14 +20240,6 @@
     "capturedAt": "2026-08-16T20:07:11.123Z"
   },
   {
-    "id": "b1c6a99602c5",
-    "agencySlug": "est-6",
-    "title": "AYOND",
-    "url": "https://estplus6.com/work/ayond-rebrand-and-packaging-design",
-    "image": "/case-studies/est-6/b1c6a99602c5.webp",
-    "capturedAt": "2026-08-16T20:07:09.892Z"
-  },
-  {
     "id": "58ce3f39e3b2",
     "agencySlug": "extract-studio",
     "title": "University of East London",
@@ -20134,14 +20254,6 @@
     "url": "https://estudi-image.com/projects/cursor-ooh/",
     "image": "/case-studies/estudi-image/3caf21a08df1.webp",
     "capturedAt": "2026-08-16T20:07:05.863Z"
-  },
-  {
-    "id": "548ed2631d41",
-    "agencySlug": "est-6",
-    "title": "VSCO",
-    "url": "https://estplus6.com/work/vsco-motion-design",
-    "image": "/case-studies/est-6/548ed2631d41.webp",
-    "capturedAt": "2026-08-16T20:07:05.681Z"
   },
   {
     "id": "5318ebd73909",
@@ -20160,28 +20272,12 @@
     "capturedAt": "2026-08-16T20:06:58.685Z"
   },
   {
-    "id": "a67957f36fa2",
-    "agencySlug": "est-6",
-    "title": "AYOND",
-    "url": "https://estplus6.com/work/ayond-perfume-packaging-design",
-    "image": "/case-studies/est-6/a67957f36fa2.webp",
-    "capturedAt": "2026-08-16T20:06:56.615Z"
-  },
-  {
     "id": "00c91e874805",
     "agencySlug": "estudi-image",
     "title": "Nike Kyrie 8",
     "url": "https://estudi-image.com/projects/nike-kyrie-8/",
     "image": "/case-studies/estudi-image/00c91e874805.webp",
     "capturedAt": "2026-08-16T20:06:56.550Z"
-  },
-  {
-    "id": "ca4d1fccfe88",
-    "agencySlug": "est-6",
-    "title": "VSCO",
-    "url": "https://estplus6.com/work/vsco-brand-platform-relaunch",
-    "image": "/case-studies/est-6/ca4d1fccfe88.webp",
-    "capturedAt": "2026-08-16T20:06:50.869Z"
   },
   {
     "id": "835233a1fd05",
@@ -22664,14 +22760,6 @@
     "capturedAt": "2026-08-16T19:57:43.102Z"
   },
   {
-    "id": "26f99b6b7dfc",
-    "agencySlug": "agency-habitat",
-    "title": "Revision Skincare",
-    "url": "https://agencyhabitat.com/work/revision-skincare/",
-    "image": "/case-studies/agency-habitat/26f99b6b7dfc.webp",
-    "capturedAt": "2026-08-16T19:57:21.497Z"
-  },
-  {
     "id": "57fe812563f5",
     "agencySlug": "aerolab",
     "title": "Dreamer",
@@ -22816,38 +22904,6 @@
     "capturedAt": "2026-08-05T13:10:38.398Z"
   },
   {
-    "id": "b8767df35a41",
-    "agencySlug": "agency-habitat",
-    "title": "belif",
-    "url": "https://agencyhabitat.com/work/belif/",
-    "image": "/case-studies/agency-habitat/b8767df35a41.webp",
-    "capturedAt": "2026-08-05T13:00:08.040Z"
-  },
-  {
-    "id": "a15ec271c8b1",
-    "agencySlug": "agency-habitat",
-    "title": "The Face Shop",
-    "url": "https://agencyhabitat.com/work/the-face-shop/",
-    "image": "/case-studies/agency-habitat/a15ec271c8b1.webp",
-    "capturedAt": "2026-08-05T13:00:01.827Z"
-  },
-  {
-    "id": "db45ae6f9923",
-    "agencySlug": "agency-habitat",
-    "title": "FitVine Wine",
-    "url": "https://agencyhabitat.com/work/fitvine-wine/",
-    "image": "/case-studies/agency-habitat/db45ae6f9923.webp",
-    "capturedAt": "2026-08-05T12:59:54.858Z"
-  },
-  {
-    "id": "f647bf63a50c",
-    "agencySlug": "agency-habitat",
-    "title": "Experiential Marketing & Social Strategy for juus | Wellness CPG Case Study",
-    "url": "https://agencyhabitat.com/work/juus/",
-    "image": "/case-studies/agency-habitat/f647bf63a50c.webp",
-    "capturedAt": "2026-08-05T12:59:48.596Z"
-  },
-  {
     "id": "d9ed8e650394",
     "agencySlug": "airborne",
     "title": "ContentCal",
@@ -22864,14 +22920,6 @@
     "capturedAt": "2026-08-05T12:59:44.347Z"
   },
   {
-    "id": "e678466ba316",
-    "agencySlug": "agency-habitat",
-    "title": "Culture",
-    "url": "https://agencyhabitat.com/culture/",
-    "image": "/case-studies/agency-habitat/e678466ba316.webp",
-    "capturedAt": "2026-08-05T12:59:42.476Z"
-  },
-  {
     "id": "217f925fe740",
     "agencySlug": "airborne",
     "title": "Propstore",
@@ -22880,52 +22928,12 @@
     "capturedAt": "2026-08-05T12:59:38.901Z"
   },
   {
-    "id": "f191997cfd3f",
-    "agencySlug": "473-agency",
-    "title": "Casa Coco | Web Design + Webflow Development by 473 Agency",
-    "url": "https://www.473.agency/projects/casa-coco",
-    "image": "/case-studies/473-agency/f191997cfd3f.webp",
-    "capturedAt": "2026-08-05T12:58:19.409Z"
-  },
-  {
-    "id": "c1eac7f77ab8",
-    "agencySlug": "473-agency",
-    "title": "Marco Seco | Branding + Web Design + Webflow Development by 473 Agency",
-    "url": "https://www.473.agency/projects/marco-seco",
-    "image": "/case-studies/473-agency/c1eac7f77ab8.webp",
-    "capturedAt": "2026-08-05T12:58:16.922Z"
-  },
-  {
-    "id": "19eb05e4e0d0",
-    "agencySlug": "473-agency",
-    "title": "iDragons | by 473 Agency",
-    "url": "https://www.473.agency/projects/idragons",
-    "image": "/case-studies/473-agency/19eb05e4e0d0.webp",
-    "capturedAt": "2026-08-05T12:58:14.265Z"
-  },
-  {
-    "id": "1ede061a303b",
-    "agencySlug": "473-agency",
-    "title": "Brandiv | Branding by 473 Agency",
-    "url": "https://www.473.agency/projects/brandiv",
-    "image": "/case-studies/473-agency/1ede061a303b.webp",
-    "capturedAt": "2026-08-05T12:58:11.126Z"
-  },
-  {
     "id": "70ed31b5dd40",
     "agencySlug": "8020",
     "title": "wave",
     "url": "https://www.8020.inc/case-studies/wave",
     "image": "/case-studies/8020/70ed31b5dd40.webp",
     "capturedAt": "2026-08-05T12:58:08.132Z"
-  },
-  {
-    "id": "11fdc4955f3b",
-    "agencySlug": "473-agency",
-    "title": "Forti Vermouth | Branding by 473 Agency",
-    "url": "https://www.473.agency/projects/forti-vermouth",
-    "image": "/case-studies/473-agency/11fdc4955f3b.webp",
-    "capturedAt": "2026-08-05T12:58:07.035Z"
   },
   {
     "id": "660077ade553",
@@ -22942,14 +22950,6 @@
     "url": "https://www.8020.inc/case-studies/vanta",
     "image": "/case-studies/8020/5a4653a34c84.webp",
     "capturedAt": "2026-08-05T12:58:03.706Z"
-  },
-  {
-    "id": "20bb21b2f773",
-    "agencySlug": "473-agency",
-    "title": "Boreal | Branding by 473 Agency",
-    "url": "https://www.473.agency/projects/boreal",
-    "image": "/case-studies/473-agency/20bb21b2f773.webp",
-    "capturedAt": "2026-08-05T12:58:03.383Z"
   },
   {
     "id": "63c52ee0b2cf",

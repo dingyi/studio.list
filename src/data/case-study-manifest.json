@@ -96,7 +96,7 @@
     "entriesHash": "f1fec3def2fa7135110864113b30fcae48ae568df928f1a98efa0863065499f1",
     "homepageUrl": "http://473.agency/",
     "workPageUrl": "https://www.473.agency/projects",
-    "capturedAt": "2026-08-05T12:57:48.242Z"
+    "capturedAt": "2026-09-14T10:26:18.313Z"
   },
   "a-lot-of-moving-parts": {
     "status": "no-work-page",
@@ -188,7 +188,7 @@
     "entriesHash": "e24b8c7f585159405accf60c6def454a4f5aba7661a6f364682a527d2e88bf99",
     "homepageUrl": "https://agencyhabitat.com/",
     "workPageUrl": "https://agencyhabitat.com/work/",
-    "capturedAt": "2026-08-16T19:57:09.343Z"
+    "capturedAt": "2026-09-14T10:25:31.316Z"
   },
   "aircards": {
     "status": "success",
@@ -1192,7 +1192,7 @@
     "entriesHash": "b059260b2e98a6be8310bce7bcebd9c88500ca6c84e68380a37b6086e8205c92",
     "homepageUrl": "https://estplus6.com/",
     "workPageUrl": "https://estplus6.com/work/",
-    "capturedAt": "2026-08-16T20:06:39.953Z"
+    "capturedAt": "2026-09-14T10:24:48.933Z"
   },
   "extract-studio": {
     "status": "success",
@@ -1882,7 +1882,7 @@
     "entriesHash": "8aef42dd81ae67b1e07d710cbabb84309ae092fcf2d7ffa7bd3313f75fd8e7fa",
     "homepageUrl": "https://littletroop.com/",
     "workPageUrl": "https://littletroop.com/",
-    "capturedAt": "2026-09-14T08:39:27.060Z"
+    "capturedAt": "2026-09-14T10:22:33.475Z"
   },
   "lxu": {
     "status": "no-work-page",
@@ -1953,7 +1953,7 @@
     "entriesHash": "7424a3084cbe335c4c95173d24ded5e153e94327260b2d8e22ecada8e098d311",
     "homepageUrl": "http://www.makemepulse.com/",
     "workPageUrl": "https://www.makemepulse.com/case-studies/",
-    "capturedAt": "2026-09-14T09:14:29.712Z"
+    "capturedAt": "2026-09-14T10:20:41.119Z"
   },
   "mallard-and-claret": {
     "status": "success",
@@ -2207,10 +2207,10 @@
   },
   "omfgco": {
     "status": "success",
-    "entriesHash": "3faf410a66c69447a14ab4ad50bf97015c289aac9a7f668b53249f94642d7c56",
+    "entriesHash": "fc4ed7d75049c5863ef1d536124bdfd885a366e47805eb340ae49866ba4faa55",
     "homepageUrl": "https://www.omfgco.com/",
     "workPageUrl": "https://www.omfgco.com/projects",
-    "capturedAt": "2026-09-14T08:41:56.449Z"
+    "capturedAt": "2026-09-14T10:22:12.044Z"
   },
   "noomo": {
     "status": "success",
@@ -3012,7 +3012,7 @@
     "entriesHash": "f49aa69a871fe2365ccde5216e6f4f835051c79b4b6d0fc2f71714ecf9328906",
     "homepageUrl": "https://wearewouq.com/",
     "workPageUrl": "https://wearewouq.com/work",
-    "capturedAt": "2026-09-14T10:10:28.884Z"
+    "capturedAt": "2026-09-14T10:20:02.619Z"
   },
   "zeus-jones": {
     "status": "success",
@@ -4437,7 +4437,7 @@
     "entriesHash": "1a772922e47998e50dd4a25d524774ceca2039cbb92c181867d13cf7807ef5c4",
     "homepageUrl": "https://notreal.tv/",
     "workPageUrl": "https://notreal.tv/work",
-    "capturedAt": "2026-09-14T08:45:20.352Z"
+    "capturedAt": "2026-09-14T10:21:09.141Z"
   },
   "obys": {
     "status": "success",
@@ -4643,7 +4643,7 @@
     "entriesHash": "d6acc2a6110ca43bfa608af1a3e4ae191edd643d23bac2e4d7924eedcf91535a",
     "homepageUrl": "https://outpost.design/",
     "workPageUrl": "https://outpost.design/works",
-    "capturedAt": "2026-09-14T07:30:11.089Z"
+    "capturedAt": "2026-09-14T10:24:20.510Z"
   },
   "outcrowd": {
     "status": "success",
@@ -5115,7 +5115,7 @@
     "entriesHash": "408687eff6eaa30ae05fa15d666e6ad362efd896e0c94ae227ded36fb53cba07",
     "homepageUrl": "https://kashiwasato.com/",
     "workPageUrl": "https://kashiwasato.com/",
-    "capturedAt": "2026-09-14T07:57:01.949Z"
+    "capturedAt": "2026-09-14T10:22:51.708Z"
   },
   "serious-business": {
     "status": "success",
@@ -5278,7 +5278,7 @@
     "entriesHash": "fac3698e474d4ec9fb943efe4fa95d60de0a59458357691c7be2bc9668ff21cb",
     "homepageUrl": "https://www.stockholmdesignlab.se/",
     "workPageUrl": "https://www.stockholmdesignlab.se/work",
-    "capturedAt": "2026-09-14T07:37:10.244Z"
+    "capturedAt": "2026-09-14T10:23:51.711Z"
   },
   "studio-brot": {
     "status": "no-work-page",
@@ -5562,7 +5562,7 @@
     "entriesHash": "e7a4f31aa7ea6f83cb45f045bd21daf71b433cdf84b361e2868318c3147a33f9",
     "homepageUrl": "https://this.design/",
     "workPageUrl": "https://this.design/",
-    "capturedAt": "2026-09-14T07:40:45.107Z"
+    "capturedAt": "2026-09-14T10:23:31.455Z"
   },
   "times-two": {
     "status": "no-work-page",

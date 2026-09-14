@@ -146,6 +146,22 @@ describe("extractCaseStudyLinks", () => {
     ]);
   });
 
+  it("excludes other listing pages and their tag filters", () => {
+    const html = `
+      <a href="/work/real-one">Real one</a>
+      <a href="/explore">Explore</a>
+      <a href="/archive">Archive</a>
+      <a href="/portfolio?tag=Motion">Motion</a>
+      <a href="/cases">Cases</a>
+      <a href="/showcase/real-two">Real two</a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.url)).toEqual([
+      "https://example.com/work/real-one",
+      "https://example.com/showcase/real-two",
+    ]);
+  });
+
   it("ignores style and script content inside anchors", () => {
     const html = `
       <a href="/work/one">
