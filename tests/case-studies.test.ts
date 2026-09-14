@@ -153,6 +153,7 @@ describe("extractCaseStudyLinks", () => {
       <a href="/archive">Archive</a>
       <a href="/portfolio?tag=Motion">Motion</a>
       <a href="/cases">Cases</a>
+      <a href="/cart">Cart</a>
       <a href="/showcase/real-two">Real two</a>
     `;
     const links = extractCaseStudyLinks(html, workPage);
@@ -387,6 +388,15 @@ describe("isReadableTitle", () => {
     expect(isReadableTitle("Video")).toBe(false);
     expect(isReadableTitle("Images")).toBe(false);
     expect(isReadableTitle("Imagery Studio")).toBe(true);
+  });
+
+  it("rejects navigation labels that name no project", () => {
+    expect(isReadableTitle("Our work")).toBe(false);
+    expect(isReadableTitle("WORK")).toBe(false);
+    expect(isReadableTitle("Explore")).toBe(false);
+    expect(isReadableTitle("Lab")).toBe(false);
+    expect(isReadableTitle("Work in Progress")).toBe(true);
+    expect(isReadableTitle("Homerun")).toBe(true);
   });
 
   it("rejects letter-spaced animation markup", () => {

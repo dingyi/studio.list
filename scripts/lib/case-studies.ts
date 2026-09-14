@@ -17,7 +17,7 @@ const workPathPattern =
   /^\/?(?:selected-)?(?:work|cases?|case-studies|projects?|portfolio)\/?$/i;
 
 const excludedPathPattern =
-  /^\/(?:about[\w-]*|contact|teams?|services?|blog|news|journal|articles?|insights?|our-story|studio|careers?|jobs?|tags?|[\w-]*categor(?:y|ies)|authors?|search|shop|store|feed|rss|press|faq|process|approach|expertise|clients?|privacy[\w-]*|terms[\w-]*|legal[\w-]*|imprint[\w-]*|cookies?[\w-]*)(\/|$)/i;
+  /^\/(?:about[\w-]*|contact|teams?|services?|blog|news|journal|articles?|insights?|our-story|studio|careers?|jobs?|tags?|[\w-]*categor(?:y|ies)|authors?|search|shop|store|cart|checkout|basket|feed|rss|press|faq|process|approach|expertise|clients?|privacy[\w-]*|terms[\w-]*|legal[\w-]*|imprint[\w-]*|cookies?[\w-]*)(\/|$)/i;
 
 const ctaTextPattern =
   /^(?:work with us|get in touch|contact(?: us)?|let'?s talk|start(?: a)? project|say hello|hire us|about(?: us)?|our services|services)$/i;
@@ -29,7 +29,7 @@ const caseEntryPathPattern =
 
 // A listing page, including its tag-filtered variants, is not a case study.
 const indexPathPattern =
-  /^\/(?:(?:selected-)?works?|cases?|case-studies|projects?|portfolio|explore|archive|index|all|gallery|showcase)$/i;
+  /^\/(?:(?:selected-)?works?|cases?|case-studies|projects?|portfolio|explore|archive|index|all|gallery|showcase|lab)$/i;
 
 const titleNoisePattern =
   /\b(?:view|read|see|explore|discover|open)\b[\s\S]*$/i;
@@ -227,8 +227,13 @@ export function isReadableTitle(title: string): boolean {
   if (compact.length < 2) return false;
   // Runs of symbols are decorative ASCII art, not a title.
   if (/[^\p{L}\p{N}\s]{3,}/u.test(title)) return false;
-  // Generic media placeholders (usually from alt text) carry no information.
-  if (/^(?:image|img|video|photo|logo|icon|thumbnail|untitled|link)s?$/i.test(title.trim()))
+  // Generic media placeholders (usually from alt text) and navigation labels
+  // name no project, so the capture falls back to the page heading or slug.
+  if (
+    /^(?:image|img|video|photo|logo|icon|thumbnail|untitled|link|our\s+work|work|home|menu|lab|explore|archive|overview)s?$/i.test(
+      title.trim(),
+    )
+  )
     return false;
   // Letter-spaced animation markup ("H u t t e") is unreadable as a title.
   const words = title.trim().split(/\s+/);
