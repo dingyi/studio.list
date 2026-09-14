@@ -147,7 +147,7 @@
   "again-studio": {
     "status": "failed",
     "homepageUrl": "https://again.nyc/",
-    "capturedAt": "2026-09-14T07:06:58.110Z",
+    "capturedAt": "2026-09-14T09:43:17.107Z",
     "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://again.nyc/\nCall log:\n  - navigating to \"https://again.nyc/\", waiting until \"domcontentloaded\"\n"
   },
   "aerolab": {
@@ -215,7 +215,7 @@
   "alet": {
     "status": "failed",
     "homepageUrl": "https://aletagency.com/",
-    "capturedAt": "2026-09-14T07:07:27.723Z",
+    "capturedAt": "2026-09-14T09:28:32.455Z",
     "error": "HTTP 500"
   },
   "akfn": {
@@ -267,7 +267,7 @@
   "alphamark": {
     "status": "failed",
     "homepageUrl": "https://www.alphamark.design/",
-    "capturedAt": "2026-09-14T09:26:09.482Z",
+    "capturedAt": "2026-09-14T09:41:39.563Z",
     "error": "HTTP 429"
   },
   "altalogy": {
@@ -280,7 +280,7 @@
   "anagrama": {
     "status": "failed",
     "homepageUrl": "https://www.anagrama.com/",
-    "capturedAt": "2026-09-14T07:07:42.152Z",
+    "capturedAt": "2026-09-14T09:28:38.670Z",
     "error": "HTTP 406"
   },
   "analogue-agency": {
@@ -300,7 +300,7 @@
   "anagram": {
     "status": "failed",
     "homepageUrl": "https://anagram.london/",
-    "capturedAt": "2026-09-14T07:07:41.765Z",
+    "capturedAt": "2026-09-14T09:28:43.119Z",
     "error": "HTTP 401"
   },
   "alt-border": {
@@ -857,7 +857,7 @@
   "capsule": {
     "status": "failed",
     "homepageUrl": "https://www.capsule-design.studio/",
-    "capturedAt": "2026-09-14T07:10:12.676Z",
+    "capturedAt": "2026-09-14T09:28:44.640Z",
     "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.capsule-design.studio/\nCall log:\n  - navigating to \"https://www.capsule-design.studio/\", waiting until \"domcontentloaded\"\n"
   },
   "bulletproof": {
@@ -1078,7 +1078,7 @@
   "designups": {
     "status": "failed",
     "homepageUrl": "https://designups.com/",
-    "capturedAt": "2026-09-14T07:13:24.421Z",
+    "capturedAt": "2026-09-14T09:42:12.289Z",
     "error": "HTTP 429"
   },
   "dine": {
@@ -1112,7 +1112,7 @@
   "eightshapes": {
     "status": "failed",
     "homepageUrl": "https://eightshapes.com/",
-    "capturedAt": "2026-09-14T07:14:36.782Z",
+    "capturedAt": "2026-09-14T09:28:48.063Z",
     "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://eightshapes.com/\nCall log:\n  - navigating to \"https://eightshapes.com/\", waiting until \"domcontentloaded\"\n"
   },
   "dutchscot": {
@@ -1409,7 +1409,7 @@
   "goodbe-haviour": {
     "status": "failed",
     "homepageUrl": "https://www.goodbehaviour.work/",
-    "capturedAt": "2026-09-14T09:19:06.116Z",
+    "capturedAt": "2026-09-14T09:28:49.266Z",
     "error": "HTTP 404"
   },
   "grant": {
@@ -1733,7 +1733,7 @@
   "hoodzpah": {
     "status": "failed",
     "homepageUrl": "https://hoodzpahdesign.com/",
-    "capturedAt": "2026-09-14T07:18:48.396Z",
+    "capturedAt": "2026-09-14T09:42:44.510Z",
     "error": "HTTP 429"
   },
   "international-magic": {
@@ -1775,7 +1775,7 @@
   "kaleido-grafik": {
     "status": "failed",
     "homepageUrl": "https://kaleidografik.com/",
-    "capturedAt": "2026-09-14T07:20:32.610Z",
+    "capturedAt": "2026-09-14T09:43:48.315Z",
     "error": "HTTP 403"
   },
   "kersvers": {
@@ -1805,7 +1805,7 @@
   "koma": {
     "status": "failed",
     "homepageUrl": "http://www.hellokoma.com/",
-    "capturedAt": "2026-09-14T07:20:36.833Z",
+    "capturedAt": "2026-09-14T09:28:55.936Z",
     "error": "HTTP 404"
   },
   "land": {
@@ -2178,7 +2178,7 @@
   "okalpha": {
     "status": "failed",
     "homepageUrl": "https://www.okalpha.co/",
-    "capturedAt": "2026-09-14T07:28:15.218Z",
+    "capturedAt": "2026-09-14T09:29:17.326Z",
     "error": "page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.okalpha.co/\nCall log:\n  - navigating to \"https://www.okalpha.co/\", waiting until \"domcontentloaded\"\n"
   },
   "old-friends": {
@@ -2349,7 +2349,7 @@
   "red-collar": {
     "status": "failed",
     "homepageUrl": "https://redcollar.digital/",
-    "capturedAt": "2026-09-14T07:33:40.960Z",
+    "capturedAt": "2026-09-14T09:29:18.975Z",
     "error": "page.goto: net::ERR_CERT_DATE_INVALID at https://redcollar.digital/\nCall log:\n  - navigating to \"https://redcollar.digital/\", waiting until \"domcontentloaded\"\n"
   },
   "rare-volume": {
@@ -2971,7 +2971,7 @@
   "yummygum": {
     "status": "failed",
     "homepageUrl": "https://yummygum.com/",
-    "capturedAt": "2026-09-14T07:45:46.243Z",
+    "capturedAt": "2026-09-14T09:29:21.158Z",
     "error": "HTTP 403"
   },
   "and-walsh": {
@@ -3136,10 +3136,11 @@
     "capturedAt": "2026-09-14T07:10:19.511Z"
   },
   "chukster": {
-    "status": "failed",
+    "status": "success",
+    "entriesHash": "5db02dc94c9089d44f59b1cd7a5e5000bcc9ab877b8843e0ba3bd867e59afcba",
     "homepageUrl": "https://chukster.com/",
-    "capturedAt": "2026-09-14T07:10:36.570Z",
-    "error": "HTTP 404"
+    "workPageUrl": "https://chukster.com/works/",
+    "capturedAt": "2026-09-14T09:29:22.384Z"
   },
   "christopher-doyle": {
     "status": "success",
