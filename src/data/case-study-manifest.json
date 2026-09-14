@@ -3045,5 +3045,12 @@
     "homepageUrl": "https://www.zypsy.com/",
     "workPageUrl": "https://www.zypsy.com/work",
     "capturedAt": "2026-08-16T20:28:14.002Z"
+  },
+  "smith-and-diction": {
+    "status": "no-entries",
+    "entriesHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "homepageUrl": "http://smith-diction.com/",
+    "workPageUrl": "https://smith-diction.com/work",
+    "capturedAt": "2026-09-14T06:40:41.828Z"
   }
 }

@@ -5457,10 +5457,11 @@
     "error": "page.goto: net::ERR_CONNECTION_RESET at https://www.skinn.agency/\nCall log:\n\u001b[2m  - navigating to \"https://www.skinn.agency/\", waiting until \"domcontentloaded\"\u001b[22m\n"
   },
   "smith-and-diction": {
-    "status": "failed",
-    "capturedAt": "2026-07-15T16:55:40.175Z",
+    "status": "success",
+    "path": "/screenshots/smith-and-diction.webp",
+    "capturedAt": "2026-09-14T06:40:33.453Z",
     "requestedUrl": "http://smith-diction.com/",
-    "error": "page.goto: net::ERR_CONNECTION_RESET at http://smith-diction.com/\nCall log:\n\u001b[2m  - navigating to \"http://smith-diction.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "finalUrl": "https://smith-diction.com/"
   },
   "smorgasbord": {
     "status": "failed",
