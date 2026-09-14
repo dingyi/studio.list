@@ -68,7 +68,7 @@
     "entriesHash": "d02410cee987daedbb63c08a9dabfe67ffd20bd7a03df575571cf1350fd5994a",
     "homepageUrl": "https://www.87-studio.com/",
     "workPageUrl": "https://www.87-studio.com/work",
-    "capturedAt": "2026-08-05T12:57:13.308Z"
+    "capturedAt": "2026-09-14T08:12:29.822Z"
   },
   "25ah": {
     "status": "success",
@@ -89,7 +89,7 @@
     "entriesHash": "4ae4e00c93415a4352396df5f1bab212fcf24679756b9e3bf51e1cfbb69900ae",
     "homepageUrl": "https://www.acolorbright.com/",
     "workPageUrl": "https://www.acolorbright.com/work",
-    "capturedAt": "2026-08-16T19:56:45.835Z"
+    "capturedAt": "2026-09-14T08:12:16.482Z"
   },
   "473-agency": {
     "status": "success",
@@ -108,7 +108,7 @@
     "entriesHash": "fa458c9feaf0522890979b65c9b807fccaa518731e8b34d50f3ae76582a19fb8",
     "homepageUrl": "https://aad.works/",
     "workPageUrl": "https://aad.works/work",
-    "capturedAt": "2026-08-05T13:05:13.773Z"
+    "capturedAt": "2026-09-14T08:11:32.285Z"
   },
   "aceternity": {
     "status": "no-work-page",
@@ -162,7 +162,7 @@
     "entriesHash": "c393bfc7c91fe83c5fec47378653eb16d25ae8f6d2fbc31648bc7e92ff51e4f4",
     "homepageUrl": "https://acre.studio/",
     "workPageUrl": "https://acre.studio/",
-    "capturedAt": "2026-08-05T12:58:54.318Z"
+    "capturedAt": "2026-09-14T08:11:46.920Z"
   },
   "airborne": {
     "status": "success",
@@ -757,7 +757,7 @@
     "entriesHash": "29131ddbdf0b249344742e0f3caea04ade18e40b73d6ba0bfb38352109e814c6",
     "homepageUrl": "https://boldscandinavia.com/",
     "workPageUrl": "https://boldscandinavia.com/work",
-    "capturedAt": "2026-08-16T20:02:10.585Z"
+    "capturedAt": "2026-09-14T08:10:58.589Z"
   },
   "brains": {
     "status": "success",
@@ -838,7 +838,7 @@
     "entriesHash": "2131e57a4f09425b2e5983b58acfde9285c8a5998464a31ac428261e5087d0a9",
     "homepageUrl": "http://www.buildinamsterdam.com/",
     "workPageUrl": "https://www.buildinamsterdam.com/cases",
-    "capturedAt": "2026-08-16T20:03:00.879Z"
+    "capturedAt": "2026-09-14T08:10:32.569Z"
   },
   "buck": {
     "status": "success",
@@ -885,11 +885,9 @@
     "capturedAt": "2026-09-14T07:10:21.669Z"
   },
   "capari": {
-    "status": "success",
-    "entriesHash": "295f7bf844999b228235fe0b4a75d35094ea544627161af3fd704eb1fce24a43",
+    "status": "no-work-page",
     "homepageUrl": "https://capari.co/",
-    "workPageUrl": "https://capari.co/our-work/",
-    "capturedAt": "2026-09-14T07:10:09.733Z"
+    "capturedAt": "2026-09-14T08:10:30.762Z"
   },
   "cliff-studio": {
     "status": "no-work-page",
@@ -1144,7 +1142,7 @@
     "entriesHash": "abac73b4b4385c1ba6c4aeb3f86cce40748d62cff04545152592d2d865f9b490",
     "homepageUrl": "https://edenspiekermann.com/",
     "workPageUrl": "https://www.edenspiekermann.com/work",
-    "capturedAt": "2026-08-16T20:06:27.666Z"
+    "capturedAt": "2026-09-14T08:10:11.019Z"
   },
   "evil-martians": {
     "status": "no-work-page",
@@ -1253,7 +1251,7 @@
     "entriesHash": "53d29f1d83041feb8f263f472d450fb84b46f8505c43c8c537ea8da3eec53e47",
     "homepageUrl": "https://www.wearefirma.com/",
     "workPageUrl": "https://www.wearefirma.com/work",
-    "capturedAt": "2026-08-16T20:42:21.097Z"
+    "capturedAt": "2026-09-14T08:04:55.633Z"
   },
   "flow": {
     "status": "success",
@@ -1293,7 +1291,7 @@
     "entriesHash": "2359668706db8481376c068ed21922a58a9f59f7295c3e4190f8455166f27a02",
     "homepageUrl": "https://www.friendly.studio/",
     "workPageUrl": "https://www.friendly.studio/work",
-    "capturedAt": "2026-08-16T20:08:22.004Z"
+    "capturedAt": "2026-09-14T08:09:53.221Z"
   },
   "garbo-studios": {
     "status": "no-work-page",
@@ -1433,7 +1431,7 @@
     "entriesHash": "06a086ff365d2e3aad5063df049facb0c0de131792508d121d5a3ba0b2bdea32",
     "homepageUrl": "https://groundcrew.com.au/",
     "workPageUrl": "https://groundcrew.com.au/work/",
-    "capturedAt": "2026-08-16T20:11:30.097Z"
+    "capturedAt": "2026-09-14T08:09:28.834Z"
   },
   "gulp-studio": {
     "status": "no-work-page",
@@ -1576,7 +1574,7 @@
     "entriesHash": "5af5fd57a2e159761bd90b28983373f06fdee10d6a83126357d9e436861139e3",
     "homepageUrl": "https://www.heredesign.com/",
     "workPageUrl": "https://www.heredesign.com/work",
-    "capturedAt": "2026-08-16T20:13:14.436Z"
+    "capturedAt": "2026-09-14T08:09:12.394Z"
   },
   "herve": {
     "status": "no-work-page",
@@ -1884,7 +1882,7 @@
     "entriesHash": "8aef42dd81ae67b1e07d710cbabb84309ae092fcf2d7ffa7bd3313f75fd8e7fa",
     "homepageUrl": "https://littletroop.com/",
     "workPageUrl": "https://littletroop.com/",
-    "capturedAt": "2026-08-16T20:15:55.253Z"
+    "capturedAt": "2026-09-14T08:08:48.988Z"
   },
   "lxu": {
     "status": "no-work-page",
@@ -1908,7 +1906,7 @@
     "entriesHash": "bca71712ffdb229df18b45ddfedde31587bd61a1d4b30f5fd46c42ebc5cfcab8",
     "homepageUrl": "https://www.lbstudio.sk/",
     "workPageUrl": "https://www.lbstudio.sk/work",
-    "capturedAt": "2026-08-16T20:15:41.297Z"
+    "capturedAt": "2026-09-14T08:07:58.370Z"
   },
   "liquorice": {
     "status": "success",
@@ -2209,10 +2207,10 @@
   },
   "omfgco": {
     "status": "success",
-    "entriesHash": "934fcf43ae46bfdc4a3be21def21b4efa1cccfc7aadafb4444147402ee506e6d",
+    "entriesHash": "71a6ca4d8671e0c4dbb94210524b5de212d48ece5d95d45ef3b4035c31a1f275",
     "homepageUrl": "https://www.omfgco.com/",
     "workPageUrl": "https://www.omfgco.com/projects",
-    "capturedAt": "2026-09-14T07:28:39.339Z"
+    "capturedAt": "2026-09-14T08:05:34.951Z"
   },
   "noomo": {
     "status": "success",
@@ -2262,7 +2260,7 @@
     "entriesHash": "d2a6dab79e1c8ff895bdddb63606c4e8881dbf3cb49fc09582fbb5359b6e1871",
     "homepageUrl": "https://www.oddcommon.com/",
     "workPageUrl": "https://www.oddcommon.com/work",
-    "capturedAt": "2026-08-16T20:19:09.491Z"
+    "capturedAt": "2026-09-14T08:07:12.271Z"
   },
   "paseo": {
     "status": "no-work-page",
@@ -2468,7 +2466,7 @@
     "entriesHash": "9ec39d53013880d305a2a8804821495c4c91a97e1f3c92ce5181082bfbc4949c",
     "homepageUrl": "https://www.sdg.no/",
     "workPageUrl": "https://www.sdg.no/work",
-    "capturedAt": "2026-08-16T20:21:31.718Z"
+    "capturedAt": "2026-09-14T08:06:32.381Z"
   },
   "simplebits": {
     "status": "no-work-page",
@@ -2572,7 +2570,7 @@
     "entriesHash": "6093e8fa0edb68a86a6822c3b43191756fd972d4d3bd360f98060291165d0799",
     "homepageUrl": "https://www.strv.com/",
     "workPageUrl": "https://www.strv.com/our-work",
-    "capturedAt": "2026-09-14T07:37:18.949Z"
+    "capturedAt": "2026-09-14T08:05:54.967Z"
   },
   "standard-projects": {
     "status": "success",
@@ -3155,7 +3153,7 @@
     "entriesHash": "b92d761d9f05a06db6e5e4bec19dafa47e8fe426fb1af04402cedc53612e49fa",
     "homepageUrl": "https://clearleft.com/",
     "workPageUrl": "https://clearleft.com/work",
-    "capturedAt": "2026-09-14T07:10:44.578Z"
+    "capturedAt": "2026-09-14T08:04:40.217Z"
   },
   "cc-studio": {
     "status": "success",
@@ -3315,7 +3313,7 @@
     "entriesHash": "68d9e354afccaa8ccb5b13f8c415b02ac707501920903253fc027e1bb0650e2e",
     "homepageUrl": "https://dad.agency/",
     "workPageUrl": "https://dad.agency/",
-    "capturedAt": "2026-09-14T07:12:38.353Z"
+    "capturedAt": "2026-09-14T08:04:21.411Z"
   },
   "denise-agency": {
     "status": "no-work-page",
@@ -3523,7 +3521,7 @@
     "entriesHash": "e92ce243d0c2ab2b3f239c9bbfc497c4f19b4b2b4274c8562f280326cd8f9fee",
     "homepageUrl": "https://www.few-far.co/",
     "workPageUrl": "https://www.fewandfar.co.uk/case-studies",
-    "capturedAt": "2026-09-14T07:15:17.453Z"
+    "capturedAt": "2026-09-14T08:03:59.843Z"
   },
   "femme-fatale-studio": {
     "status": "captures-failed",
@@ -3592,7 +3590,7 @@
     "entriesHash": "b9c2199e70780e6d9c409efbcaeb8df13a907038cae692a5becd6d4f570461ea",
     "homepageUrl": "https://formnt.studio/",
     "workPageUrl": "https://formnt.studio/",
-    "capturedAt": "2026-09-14T07:16:03.659Z"
+    "capturedAt": "2026-09-14T08:03:12.472Z"
   },
   "forpeople": {
     "status": "success",
@@ -3611,14 +3609,14 @@
     "entriesHash": "03eec6d662b74c3401c722d119335291ed955341a1a1f0dc1881595d0b5847c0",
     "homepageUrl": "https://fold7design.com/",
     "workPageUrl": "https://fold7design.com/work",
-    "capturedAt": "2026-09-14T07:15:51.449Z"
+    "capturedAt": "2026-09-14T08:02:38.595Z"
   },
   "for-good-design-lab": {
     "status": "success",
     "entriesHash": "4398ee3944f5212d311dd035e457b85d8f825a9d61f20c066e5bdabf4fe5f8fe",
     "homepageUrl": "https://www.forgooddesignlab.com/",
     "workPageUrl": "https://www.forgooddesignlab.com/",
-    "capturedAt": "2026-09-14T07:15:52.521Z"
+    "capturedAt": "2026-09-14T08:03:26.923Z"
   },
   "freighter-studio": {
     "status": "no-work-page",
@@ -3845,7 +3843,7 @@
     "entriesHash": "1a21833a9d3fe161b1c09f26239696cf0ebcf2e2f428fae562d52d0ca0c042e3",
     "homepageUrl": "https://justified.studio/",
     "workPageUrl": "https://www.justified.studio/work",
-    "capturedAt": "2026-09-14T07:20:26.991Z"
+    "capturedAt": "2026-09-14T08:02:19.080Z"
   },
   "kuya": {
     "status": "no-work-page",
@@ -3885,7 +3883,7 @@
     "entriesHash": "ce12267f40866ff28f8a8e1dcf4bd1172e003c4d965ae4af7c335d002abaec3f",
     "homepageUrl": "https://www.wilkinson.studio/",
     "workPageUrl": "https://www.wilkinson.studio/",
-    "capturedAt": "2026-09-14T07:21:13.081Z"
+    "capturedAt": "2026-09-14T08:02:00.548Z"
   },
   "le-fruit-studio": {
     "status": "no-work-page",
@@ -4152,7 +4150,7 @@
     "entriesHash": "08f7f72189ad4292f52e85c1d4caa07aecc8c86c89758f5a6aed56712e6dcc43",
     "homepageUrl": "https://www.molly.studio/",
     "workPageUrl": "https://www.molly.studio/",
-    "capturedAt": "2026-09-14T07:24:04.655Z"
+    "capturedAt": "2026-09-14T08:01:07.262Z"
   },
   "monopo": {
     "status": "captures-failed",
@@ -4273,7 +4271,7 @@
     "entriesHash": "69e0e09e03d24c9f4aebefe801e885301bfeb2b25551d1e9435fb06b0d453e0a",
     "homepageUrl": "https://www.multivitamin.studio/",
     "workPageUrl": "https://multivitamin.studio/our-work/",
-    "capturedAt": "2026-09-14T07:25:21.831Z"
+    "capturedAt": "2026-09-14T08:00:15.143Z"
   },
   "new-genre": {
     "status": "captures-failed",
@@ -4438,7 +4436,7 @@
     "entriesHash": "1a772922e47998e50dd4a25d524774ceca2039cbb92c181867d13cf7807ef5c4",
     "homepageUrl": "https://notreal.tv/",
     "workPageUrl": "https://notreal.tv/work",
-    "capturedAt": "2026-09-14T07:27:05.317Z"
+    "capturedAt": "2026-09-14T07:59:20.023Z"
   },
   "obys": {
     "status": "success",
@@ -4518,7 +4516,7 @@
     "entriesHash": "ab0b244b0d79646c187ab923ec1d5d8add766b30f3005736932e9532f7b653f4",
     "homepageUrl": "https://onlystudio.co.uk/",
     "workPageUrl": "https://www.onlystudio.com/work",
-    "capturedAt": "2026-09-14T07:28:54.304Z"
+    "capturedAt": "2026-09-14T07:58:43.506Z"
   },
   "ordinary-things": {
     "status": "no-work-page",
@@ -4931,7 +4929,7 @@
     "entriesHash": "757c0b9b866810653841a21254257058585426b502bf5795dee8cc07817147bc",
     "homepageUrl": "https://random.studio/",
     "workPageUrl": "https://random.studio/projects",
-    "capturedAt": "2026-09-14T07:33:16.276Z"
+    "capturedAt": "2026-09-14T07:58:26.121Z"
   },
   "purple-rock-scissors": {
     "status": "success",
@@ -4950,7 +4948,7 @@
     "entriesHash": "c5a927740956b6d18a15966ae3ef34eb8a9095442327a7bf5717ac2ac41d8072",
     "homepageUrl": "https://rainfall.co/",
     "workPageUrl": "https://marcbanderson.com/work",
-    "capturedAt": "2026-09-14T07:33:11.385Z"
+    "capturedAt": "2026-09-14T07:57:49.484Z"
   },
   "relay": {
     "status": "no-work-page",
@@ -5052,7 +5050,7 @@
     "entriesHash": "f0530655a52c0c0e8a1d4b5aac3f9dba228fa3851929246dad53590d6f05c279",
     "homepageUrl": "https://www.samesame.studio/",
     "workPageUrl": "https://www.samesame.studio/case-studies",
-    "capturedAt": "2026-09-14T07:34:46.452Z"
+    "capturedAt": "2026-09-14T07:57:40.341Z"
   },
   "sagmeister-walsh": {
     "status": "success",
@@ -5116,7 +5114,7 @@
     "entriesHash": "408687eff6eaa30ae05fa15d666e6ad362efd896e0c94ae227ded36fb53cba07",
     "homepageUrl": "https://kashiwasato.com/",
     "workPageUrl": "https://kashiwasato.com/",
-    "capturedAt": "2026-09-14T07:34:59.946Z"
+    "capturedAt": "2026-09-14T07:57:01.949Z"
   },
   "serious-business": {
     "status": "success",
@@ -5244,7 +5242,7 @@
     "entriesHash": "29b2a19575d7e4593af551bcf0942f00cbe8b2d940784577a809f0a579386e79",
     "homepageUrl": "https://www.stayintouch.studio/",
     "workPageUrl": "https://www.stayintouch.studio/",
-    "capturedAt": "2026-09-14T07:36:56.214Z"
+    "capturedAt": "2026-09-14T07:56:45.506Z"
   },
   "strakzat": {
     "status": "no-entries",
@@ -5369,7 +5367,7 @@
     "entriesHash": "d8f8222ad8b42e32e9f7ed656694d14c3b7c3325247e3670b3ee7a718a5e2084",
     "homepageUrl": "https://www.studio-kiln.com/",
     "workPageUrl": "https://www.studio-kiln.com/projects",
-    "capturedAt": "2026-09-14T07:37:55.021Z"
+    "capturedAt": "2026-09-14T07:56:14.609Z"
   },
   "studio-don": {
     "status": "success",
@@ -5752,7 +5750,7 @@
     "entriesHash": "ec6f8fca84969e0fe7343374e42d867d16aacdb7e6679c4b65133d63bc6f2f29",
     "homepageUrl": "https://www.upstatement.com/",
     "workPageUrl": "https://upstatement.com/work",
-    "capturedAt": "2026-09-14T07:43:09.691Z"
+    "capturedAt": "2026-09-14T07:55:56.445Z"
   },
   "viget": {
     "status": "success",
@@ -5942,7 +5940,7 @@
     "entriesHash": "a3d41670a325a87c16d0f759b9a5ff58a518ddc9c48cc61fa98252396689302e",
     "homepageUrl": "https://www.xxix.co/",
     "workPageUrl": "https://www.xxix.co/work",
-    "capturedAt": "2026-09-14T07:45:23.352Z"
+    "capturedAt": "2026-09-14T07:55:30.900Z"
   },
   "yonis": {
     "status": "success",
