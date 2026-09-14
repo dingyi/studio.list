@@ -1,5 +1,301 @@
 [
   {
+    "id": "4f02a07a2e20",
+    "agencySlug": "est-6",
+    "title": "ESCAC",
+    "url": "https://estplus6.com/work/escac-brand-storytelling-master-identity",
+    "image": "/case-studies/est-6/4f02a07a2e20.webp",
+    "capturedAt": "2026-09-14T10:35:08.572Z"
+  },
+  {
+    "id": "11ca991f98ff",
+    "agencySlug": "est-6",
+    "title": "Open Ios Brand Experience",
+    "url": "https://estplus6.com/work/open-ios-brand-experience",
+    "image": "/case-studies/est-6/11ca991f98ff.webp",
+    "capturedAt": "2026-09-14T10:35:02.574Z"
+  },
+  {
+    "id": "b1c6a99602c5",
+    "agencySlug": "est-6",
+    "title": "AYOND",
+    "url": "https://estplus6.com/work/ayond-rebrand-and-packaging-design",
+    "image": "/case-studies/est-6/b1c6a99602c5.webp",
+    "capturedAt": "2026-09-14T10:34:56.545Z"
+  },
+  {
+    "id": "548ed2631d41",
+    "agencySlug": "est-6",
+    "title": "VSCO",
+    "url": "https://estplus6.com/work/vsco-motion-design",
+    "image": "/case-studies/est-6/548ed2631d41.webp",
+    "capturedAt": "2026-09-14T10:34:50.610Z"
+  },
+  {
+    "id": "a67957f36fa2",
+    "agencySlug": "est-6",
+    "title": "AYOND",
+    "url": "https://estplus6.com/work/ayond-perfume-packaging-design",
+    "image": "/case-studies/est-6/a67957f36fa2.webp",
+    "capturedAt": "2026-09-14T10:34:44.702Z"
+  },
+  {
+    "id": "ca4d1fccfe88",
+    "agencySlug": "est-6",
+    "title": "VSCO",
+    "url": "https://estplus6.com/work/vsco-brand-platform-relaunch",
+    "image": "/case-studies/est-6/ca4d1fccfe88.webp",
+    "capturedAt": "2026-09-14T10:34:38.740Z"
+  },
+  {
+    "id": "6743c0e6e073",
+    "agencySlug": "outpost",
+    "title": "Energy Park",
+    "url": "https://outpost.design/work/energy-park",
+    "image": "/case-studies/outpost/6743c0e6e073.webp",
+    "capturedAt": "2026-09-14T10:34:24.014Z"
+  },
+  {
+    "id": "3d742c889a37",
+    "agencySlug": "outpost",
+    "title": "111 WEST 57TH STREET",
+    "url": "https://outpost.design/work/111-west-57th-street",
+    "image": "/case-studies/outpost/3d742c889a37.webp",
+    "capturedAt": "2026-09-14T10:34:20.978Z"
+  },
+  {
+    "id": "a3d405c395fc",
+    "agencySlug": "outpost",
+    "title": "Primland Explore",
+    "url": "https://outpost.design/work/primland-explore",
+    "image": "/case-studies/outpost/a3d405c395fc.webp",
+    "capturedAt": "2026-09-14T10:34:14.943Z"
+  },
+  {
+    "id": "69eb241c75cc",
+    "agencySlug": "outpost",
+    "title": "Above the Clouds",
+    "url": "https://outpost.design/work/above-the-clouds",
+    "image": "/case-studies/outpost/69eb241c75cc.webp",
+    "capturedAt": "2026-09-14T10:34:11.938Z"
+  },
+  {
+    "id": "69f45bf0835a",
+    "agencySlug": "outpost",
+    "title": "Primland Residences",
+    "url": "https://outpost.design/work/primland-residences",
+    "image": "/case-studies/outpost/69f45bf0835a.webp",
+    "capturedAt": "2026-09-14T10:34:08.699Z"
+  },
+  {
+    "id": "922b606a8605",
+    "agencySlug": "outpost",
+    "title": "LAB LAB",
+    "url": "https://outpost.design/lab",
+    "image": "/case-studies/outpost/922b606a8605.webp",
+    "capturedAt": "2026-09-14T10:34:05.841Z"
+  },
+  {
+    "id": "eb21a41d9bc9",
+    "agencySlug": "microfeller",
+    "title": "Surveys",
+    "url": "https://microfeller.com/surveys",
+    "image": "/case-studies/microfeller/eb21a41d9bc9.webp",
+    "capturedAt": "2026-09-14T10:33:54.912Z"
+  },
+  {
+    "id": "580fdfed1c19",
+    "agencySlug": "microfeller",
+    "title": "World",
+    "url": "https://microfeller.com/world",
+    "image": "/case-studies/microfeller/580fdfed1c19.webp",
+    "capturedAt": "2026-09-14T10:33:49.070Z"
+  },
+  {
+    "id": "0ef1db0699c9",
+    "agencySlug": "forth-and-back",
+    "title": "Brother Films Brand Identity",
+    "url": "https://forthandback.la/projects/brother-films",
+    "image": "/case-studies/forth-and-back/0ef1db0699c9.webp",
+    "capturedAt": "2026-09-14T10:33:35.446Z"
+  },
+  {
+    "id": "f42878d7b0ea",
+    "agencySlug": "forth-and-back",
+    "title": "Union Restaurant Brand Identity",
+    "url": "https://forthandback.la/projects/union",
+    "image": "/case-studies/forth-and-back/f42878d7b0ea.webp",
+    "capturedAt": "2026-09-14T10:33:33.253Z"
+  },
+  {
+    "id": "b9a9e76f8ed2",
+    "agencySlug": "forth-and-back",
+    "title": "SOMO Sotheby's Motorsport Brand Identity",
+    "url": "https://forthandback.la/projects/somo-sothebys-motorsport",
+    "image": "/case-studies/forth-and-back/b9a9e76f8ed2.webp",
+    "capturedAt": "2026-09-14T10:33:31.574Z"
+  },
+  {
+    "id": "4c015a8fe45d",
+    "agencySlug": "forth-and-back",
+    "title": "Drool Type Specimen",
+    "url": "https://forthandback.la/projects/drool-type-specimen",
+    "image": "/case-studies/forth-and-back/4c015a8fe45d.webp",
+    "capturedAt": "2026-09-14T10:33:25.676Z"
+  },
+  {
+    "id": "224eb2d21fb1",
+    "agencySlug": "forth-and-back",
+    "title": "Yerba Madre - Camp Yerba",
+    "url": "https://forthandback.la/projects/yerba-madre-camp-yerba",
+    "image": "/case-studies/forth-and-back/224eb2d21fb1.webp",
+    "capturedAt": "2026-09-14T10:33:23.488Z"
+  },
+  {
+    "id": "6a08954cc0ce",
+    "agencySlug": "forth-and-back",
+    "title": "Jordan Brand All-Star Weekend 2026",
+    "url": "https://forthandback.la/projects/jordan-all-star-weekend-2026",
+    "image": "/case-studies/forth-and-back/6a08954cc0ce.webp",
+    "capturedAt": "2026-09-14T10:33:17.486Z"
+  },
+  {
+    "id": "fe4b454dd400",
+    "agencySlug": "polar",
+    "title": "Um café com Satoshi",
+    "url": "https://polar.ltda/um-cafe-com-satoshi",
+    "image": "/case-studies/polar/fe4b454dd400.webp",
+    "capturedAt": "2026-09-14T10:33:04.837Z"
+  },
+  {
+    "id": "b4cc492f7161",
+    "agencySlug": "polar",
+    "title": "Osesp",
+    "url": "https://polar.ltda/osesp",
+    "image": "/case-studies/polar/b4cc492f7161.webp",
+    "capturedAt": "2026-09-14T10:32:58.997Z"
+  },
+  {
+    "id": "00089db7025f",
+    "agencySlug": "polar",
+    "title": "Calendar, Ltda. 2026",
+    "url": "https://polar.ltda/calendario-ltda.-2026",
+    "image": "/case-studies/polar/00089db7025f.webp",
+    "capturedAt": "2026-09-14T10:32:56.901Z"
+  },
+  {
+    "id": "43850445214a",
+    "agencySlug": "polar",
+    "title": "Niul Cosmetics",
+    "url": "https://polar.ltda/niul",
+    "image": "/case-studies/polar/43850445214a.webp",
+    "capturedAt": "2026-09-14T10:32:44.976Z"
+  },
+  {
+    "id": "30ce24bfb0bd",
+    "agencySlug": "polar",
+    "title": "Google NeurIPS 2025",
+    "url": "https://polar.ltda/google-neurips-2025",
+    "image": "/case-studies/polar/30ce24bfb0bd.webp",
+    "capturedAt": "2026-09-14T10:32:39.176Z"
+  },
+  {
+    "id": "2933de9b7334",
+    "agencySlug": "story2",
+    "title": "Levi’s",
+    "url": "https://www.secondstory.info/work/levis",
+    "image": "/case-studies/story2/2933de9b7334.webp",
+    "capturedAt": "2026-09-14T10:32:29.769Z"
+  },
+  {
+    "id": "914d79fd72aa",
+    "agencySlug": "story2",
+    "title": "Being Frenshe: Hinoki at Amangiri",
+    "url": "https://www.secondstory.info/portfolio/blog-post-title-four-y38bb-wdz2h-5xwyf",
+    "image": "/case-studies/story2/914d79fd72aa.webp",
+    "capturedAt": "2026-09-14T10:32:28.013Z"
+  },
+  {
+    "id": "5bc63fc5f5f8",
+    "agencySlug": "story2",
+    "title": "Being Frenshe: Hinoki at Amangiri",
+    "url": "https://www.secondstory.info/work/being-frenshe-hinoki",
+    "image": "/case-studies/story2/5bc63fc5f5f8.webp",
+    "capturedAt": "2026-09-14T10:32:25.202Z"
+  },
+  {
+    "id": "cbdbba7ec921",
+    "agencySlug": "story2",
+    "title": "Sweetgreen: Olandria and Nic Van",
+    "url": "https://www.secondstory.info/portfolio/blog-post-title-four-y38bb-wdz2h-txbz5-72hc2",
+    "image": "/case-studies/story2/cbdbba7ec921.webp",
+    "capturedAt": "2026-09-14T10:32:23.549Z"
+  },
+  {
+    "id": "55ab5cf35a4f",
+    "agencySlug": "story2",
+    "title": "Sweetgreen: Olandria and Nic Van",
+    "url": "https://www.secondstory.info/work/sweetgreen/nicolandria",
+    "image": "/case-studies/story2/55ab5cf35a4f.webp",
+    "capturedAt": "2026-09-14T10:32:18.759Z"
+  },
+  {
+    "id": "1732ad213d81",
+    "agencySlug": "story2",
+    "title": "story²",
+    "url": "https://www.secondstory.info/cart",
+    "image": "/case-studies/story2/1732ad213d81.webp",
+    "capturedAt": "2026-09-14T10:32:17.072Z"
+  },
+  {
+    "id": "e9a419087ece",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt W+",
+    "url": "https://www.stockholmdesignlab.se/work/w-plus",
+    "image": "/case-studies/stockholm-design-lab/e9a419087ece.webp",
+    "capturedAt": "2026-09-14T10:32:11.371Z"
+  },
+  {
+    "id": "109f6ecdc4c6",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt Polestar",
+    "url": "https://www.stockholmdesignlab.se/work/polestar",
+    "image": "/case-studies/stockholm-design-lab/109f6ecdc4c6.webp",
+    "capturedAt": "2026-09-14T10:32:05.537Z"
+  },
+  {
+    "id": "886758c949ca",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt Haglöfs",
+    "url": "https://www.stockholmdesignlab.se/work/hagloefs",
+    "image": "/case-studies/stockholm-design-lab/886758c949ca.webp",
+    "capturedAt": "2026-09-14T10:32:03.758Z"
+  },
+  {
+    "id": "7fd5b6f576fa",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt Stockholm Design Lab: 1998–2025",
+    "url": "https://www.stockholmdesignlab.se/work/sdl-1998-2025",
+    "image": "/case-studies/stockholm-design-lab/7fd5b6f576fa.webp",
+    "capturedAt": "2026-09-14T10:32:02.366Z"
+  },
+  {
+    "id": "3e4de645762f",
+    "agencySlug": "stockholm-design-lab",
+    "title": "alt Sigma",
+    "url": "https://www.stockholmdesignlab.se/work/sigma",
+    "image": "/case-studies/stockholm-design-lab/3e4de645762f.webp",
+    "capturedAt": "2026-09-14T10:32:00.702Z"
+  },
+  {
+    "id": "314df1c7594d",
+    "agencySlug": "stockholm-design-lab",
+    "title": "Lab",
+    "url": "https://www.stockholmdesignlab.se/lab",
+    "image": "/case-studies/stockholm-design-lab/314df1c7594d.webp",
+    "capturedAt": "2026-09-14T10:31:58.743Z"
+  },
+  {
     "id": "f191997cfd3f",
     "agencySlug": "473-agency",
     "title": "Our work",
@@ -94,150 +390,6 @@
     "url": "https://agencyhabitat.com/culture/",
     "image": "/case-studies/agency-habitat/e678466ba316.webp",
     "capturedAt": "2026-09-14T10:25:38.631Z"
-  },
-  {
-    "id": "4f02a07a2e20",
-    "agencySlug": "est-6",
-    "title": "ESCAC",
-    "url": "https://estplus6.com/work/escac-brand-storytelling-master-identity",
-    "image": "/case-studies/est-6/4f02a07a2e20.webp",
-    "capturedAt": "2026-09-14T10:25:24.114Z"
-  },
-  {
-    "id": "11ca991f98ff",
-    "agencySlug": "est-6",
-    "title": "Open Ios Brand Experience",
-    "url": "https://estplus6.com/work/open-ios-brand-experience",
-    "image": "/case-studies/est-6/11ca991f98ff.webp",
-    "capturedAt": "2026-09-14T10:25:18.150Z"
-  },
-  {
-    "id": "b1c6a99602c5",
-    "agencySlug": "est-6",
-    "title": "AYOND",
-    "url": "https://estplus6.com/work/ayond-rebrand-and-packaging-design",
-    "image": "/case-studies/est-6/b1c6a99602c5.webp",
-    "capturedAt": "2026-09-14T10:25:12.100Z"
-  },
-  {
-    "id": "548ed2631d41",
-    "agencySlug": "est-6",
-    "title": "VSCO",
-    "url": "https://estplus6.com/work/vsco-motion-design",
-    "image": "/case-studies/est-6/548ed2631d41.webp",
-    "capturedAt": "2026-09-14T10:25:08.208Z"
-  },
-  {
-    "id": "a67957f36fa2",
-    "agencySlug": "est-6",
-    "title": "AYOND",
-    "url": "https://estplus6.com/work/ayond-perfume-packaging-design",
-    "image": "/case-studies/est-6/a67957f36fa2.webp",
-    "capturedAt": "2026-09-14T10:25:02.262Z"
-  },
-  {
-    "id": "ca4d1fccfe88",
-    "agencySlug": "est-6",
-    "title": "VSCO",
-    "url": "https://estplus6.com/work/vsco-brand-platform-relaunch",
-    "image": "/case-studies/est-6/ca4d1fccfe88.webp",
-    "capturedAt": "2026-09-14T10:24:59.895Z"
-  },
-  {
-    "id": "6743c0e6e073",
-    "agencySlug": "outpost",
-    "title": "Energy Park",
-    "url": "https://outpost.design/work/energy-park",
-    "image": "/case-studies/outpost/6743c0e6e073.webp",
-    "capturedAt": "2026-09-14T10:24:44.756Z"
-  },
-  {
-    "id": "3d742c889a37",
-    "agencySlug": "outpost",
-    "title": "111 WEST 57TH STREET",
-    "url": "https://outpost.design/work/111-west-57th-street",
-    "image": "/case-studies/outpost/3d742c889a37.webp",
-    "capturedAt": "2026-09-14T10:24:41.694Z"
-  },
-  {
-    "id": "a3d405c395fc",
-    "agencySlug": "outpost",
-    "title": "Primland Explore",
-    "url": "https://outpost.design/work/primland-explore",
-    "image": "/case-studies/outpost/a3d405c395fc.webp",
-    "capturedAt": "2026-09-14T10:24:38.349Z"
-  },
-  {
-    "id": "69eb241c75cc",
-    "agencySlug": "outpost",
-    "title": "Above the Clouds",
-    "url": "https://outpost.design/work/above-the-clouds",
-    "image": "/case-studies/outpost/69eb241c75cc.webp",
-    "capturedAt": "2026-09-14T10:24:35.230Z"
-  },
-  {
-    "id": "69f45bf0835a",
-    "agencySlug": "outpost",
-    "title": "Primland Residences",
-    "url": "https://outpost.design/work/primland-residences",
-    "image": "/case-studies/outpost/69f45bf0835a.webp",
-    "capturedAt": "2026-09-14T10:24:30.820Z"
-  },
-  {
-    "id": "922b606a8605",
-    "agencySlug": "outpost",
-    "title": "LAB LAB",
-    "url": "https://outpost.design/lab",
-    "image": "/case-studies/outpost/922b606a8605.webp",
-    "capturedAt": "2026-09-14T10:24:27.980Z"
-  },
-  {
-    "id": "109f6ecdc4c6",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Polestar",
-    "url": "https://www.stockholmdesignlab.se/work/polestar",
-    "image": "/case-studies/stockholm-design-lab/109f6ecdc4c6.webp",
-    "capturedAt": "2026-09-14T10:24:13.469Z"
-  },
-  {
-    "id": "886758c949ca",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Haglöfs",
-    "url": "https://www.stockholmdesignlab.se/work/hagloefs",
-    "image": "/case-studies/stockholm-design-lab/886758c949ca.webp",
-    "capturedAt": "2026-09-14T10:24:11.410Z"
-  },
-  {
-    "id": "7fd5b6f576fa",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Stockholm Design Lab: 1998–2025",
-    "url": "https://www.stockholmdesignlab.se/work/sdl-1998-2025",
-    "image": "/case-studies/stockholm-design-lab/7fd5b6f576fa.webp",
-    "capturedAt": "2026-09-14T10:24:09.613Z"
-  },
-  {
-    "id": "3e4de645762f",
-    "agencySlug": "stockholm-design-lab",
-    "title": "alt Sigma",
-    "url": "https://www.stockholmdesignlab.se/work/sigma",
-    "image": "/case-studies/stockholm-design-lab/3e4de645762f.webp",
-    "capturedAt": "2026-09-14T10:24:07.500Z"
-  },
-  {
-    "id": "ca6385c24bbb",
-    "agencySlug": "stockholm-design-lab",
-    "title": "Explore",
-    "url": "https://www.stockholmdesignlab.se/explore",
-    "image": "/case-studies/stockholm-design-lab/ca6385c24bbb.webp",
-    "capturedAt": "2026-09-14T10:24:03.657Z"
-  },
-  {
-    "id": "314df1c7594d",
-    "agencySlug": "stockholm-design-lab",
-    "title": "Lab",
-    "url": "https://www.stockholmdesignlab.se/lab",
-    "image": "/case-studies/stockholm-design-lab/314df1c7594d.webp",
-    "capturedAt": "2026-09-14T10:23:58.208Z"
   },
   {
     "id": "b3132b5cb416",
@@ -8256,36 +8408,12 @@
     "capturedAt": "2026-09-14T07:37:29.745Z"
   },
   {
-    "id": "0ee5ce5ea955",
-    "agencySlug": "story2",
-    "title": "Strategy",
-    "url": "https://www.secondstory.info/portfolio?tag=Strategy",
-    "image": "/case-studies/story2/0ee5ce5ea955.webp",
-    "capturedAt": "2026-09-14T07:37:28.751Z"
-  },
-  {
     "id": "968a16955a18",
     "agencySlug": "stinkstudios",
     "title": "Google",
     "url": "https://www.stinkstudios.com/work/find-that-thing",
     "image": "/case-studies/stinkstudios/968a16955a18.webp",
     "capturedAt": "2026-09-14T07:37:26.281Z"
-  },
-  {
-    "id": "42bbab9a3000",
-    "agencySlug": "story2",
-    "title": "Photography",
-    "url": "https://www.secondstory.info/portfolio?tag=Photography",
-    "image": "/case-studies/story2/42bbab9a3000.webp",
-    "capturedAt": "2026-09-14T07:37:26.100Z"
-  },
-  {
-    "id": "b64bdf3d35f6",
-    "agencySlug": "story2",
-    "title": "Motion",
-    "url": "https://www.secondstory.info/portfolio?tag=Motion",
-    "image": "/case-studies/story2/b64bdf3d35f6.webp",
-    "capturedAt": "2026-09-14T07:37:23.653Z"
   },
   {
     "id": "4f2267723bd4",
@@ -8296,14 +8424,6 @@
     "capturedAt": "2026-09-14T07:37:23.479Z"
   },
   {
-    "id": "b6deee747bc4",
-    "agencySlug": "story2",
-    "title": "Identity",
-    "url": "https://www.secondstory.info/portfolio?tag=Identity",
-    "image": "/case-studies/story2/b6deee747bc4.webp",
-    "capturedAt": "2026-09-14T07:37:20.420Z"
-  },
-  {
     "id": "00f8603b1181",
     "agencySlug": "stinkstudios",
     "title": "Peloton",
@@ -8312,28 +8432,12 @@
     "capturedAt": "2026-09-14T07:37:19.254Z"
   },
   {
-    "id": "ad8f2808a77f",
-    "agencySlug": "story2",
-    "title": "Creative Direction",
-    "url": "https://www.secondstory.info/portfolio?tag=Creative%20Direction",
-    "image": "/case-studies/story2/ad8f2808a77f.webp",
-    "capturedAt": "2026-09-14T07:37:17.763Z"
-  },
-  {
     "id": "e3d0710ffeab",
     "agencySlug": "stinkstudios",
     "title": "Canva",
     "url": "https://www.stinkstudios.com/work/canva-H1-brand-campaigns",
     "image": "/case-studies/stinkstudios/e3d0710ffeab.webp",
     "capturedAt": "2026-09-14T07:37:16.165Z"
-  },
-  {
-    "id": "1732ad213d81",
-    "agencySlug": "story2",
-    "title": "story²",
-    "url": "https://www.secondstory.info/cart",
-    "image": "/case-studies/story2/1732ad213d81.webp",
-    "capturedAt": "2026-09-14T07:37:15.565Z"
   },
   {
     "id": "dcdacf3ffbd0",
@@ -9672,14 +9776,6 @@
     "capturedAt": "2026-09-14T07:32:17.182Z"
   },
   {
-    "id": "b37acf504552",
-    "agencySlug": "polar",
-    "title": "Packaging",
-    "url": "https://polar.ltda/archive?t=packaging",
-    "image": "/case-studies/polar/b37acf504552.webp",
-    "capturedAt": "2026-09-14T07:32:16.525Z"
-  },
-  {
     "id": "d9933e945b97",
     "agencySlug": "porto-rocha",
     "title": "BPM",
@@ -9712,36 +9808,12 @@
     "capturedAt": "2026-09-14T07:32:10.414Z"
   },
   {
-    "id": "43850445214a",
-    "agencySlug": "polar",
-    "title": "Niul Cosmetics",
-    "url": "https://polar.ltda/niul",
-    "image": "/case-studies/polar/43850445214a.webp",
-    "capturedAt": "2026-09-14T07:32:10.084Z"
-  },
-  {
-    "id": "4801ae646205",
-    "agencySlug": "polar",
-    "title": "Motion",
-    "url": "https://polar.ltda/archive?t=motion",
-    "image": "/case-studies/polar/4801ae646205.webp",
-    "capturedAt": "2026-09-14T07:32:08.102Z"
-  },
-  {
     "id": "0c9096bd1a6c",
     "agencySlug": "porto-rocha",
     "title": "Robinhood",
     "url": "https://www.portorocha.com/robinhood",
     "image": "/case-studies/porto-rocha/0c9096bd1a6c.webp",
     "capturedAt": "2026-09-14T07:32:07.895Z"
-  },
-  {
-    "id": "b3acc0b14ddb",
-    "agencySlug": "polar",
-    "title": "Visual Identity",
-    "url": "https://polar.ltda/archive?t=visual-identity",
-    "image": "/case-studies/polar/b3acc0b14ddb.webp",
-    "capturedAt": "2026-09-14T07:32:05.258Z"
   },
   {
     "id": "d91891038855",
@@ -9766,14 +9838,6 @@
     "url": "https://posthuman.studio/play",
     "image": "/case-studies/posthuman/4d7ff723331f.webp",
     "capturedAt": "2026-09-14T07:32:00.602Z"
-  },
-  {
-    "id": "30ce24bfb0bd",
-    "agencySlug": "polar",
-    "title": "Google NeurIPS 2025",
-    "url": "https://polar.ltda/google-neurips-2025",
-    "image": "/case-studies/polar/30ce24bfb0bd.webp",
-    "capturedAt": "2026-09-14T07:31:58.306Z"
   },
   {
     "id": "2ddc9ca1d122",
@@ -13152,28 +13216,12 @@
     "capturedAt": "2026-09-14T07:16:46.378Z"
   },
   {
-    "id": "f42878d7b0ea",
-    "agencySlug": "forth-and-back",
-    "title": "Union Restaurant Brand Identity",
-    "url": "https://forthandback.la/projects/union",
-    "image": "/case-studies/forth-and-back/f42878d7b0ea.webp",
-    "capturedAt": "2026-09-14T07:16:46.343Z"
-  },
-  {
     "id": "2b4770f1d61f",
     "agencySlug": "funsize",
     "title": "Grammarly",
     "url": "https://www.funsize.co/case-studies/grammarly",
     "image": "/case-studies/funsize/2b4770f1d61f.webp",
     "capturedAt": "2026-09-14T07:16:45.591Z"
-  },
-  {
-    "id": "b9a9e76f8ed2",
-    "agencySlug": "forth-and-back",
-    "title": "SOMO Sotheby's Motorsport Brand Identity",
-    "url": "https://forthandback.la/projects/somo-sothebys-motorsport",
-    "image": "/case-studies/forth-and-back/b9a9e76f8ed2.webp",
-    "capturedAt": "2026-09-14T07:16:44.260Z"
   },
   {
     "id": "6eb4607d1500",
@@ -13208,22 +13256,6 @@
     "capturedAt": "2026-09-14T07:16:38.154Z"
   },
   {
-    "id": "4c015a8fe45d",
-    "agencySlug": "forth-and-back",
-    "title": "Drool Type Specimen",
-    "url": "https://forthandback.la/projects/drool-type-specimen",
-    "image": "/case-studies/forth-and-back/4c015a8fe45d.webp",
-    "capturedAt": "2026-09-14T07:16:38.122Z"
-  },
-  {
-    "id": "224eb2d21fb1",
-    "agencySlug": "forth-and-back",
-    "title": "Yerba Madre - Camp Yerba",
-    "url": "https://forthandback.la/projects/yerba-madre-camp-yerba",
-    "image": "/case-studies/forth-and-back/224eb2d21fb1.webp",
-    "capturedAt": "2026-09-14T07:16:34.647Z"
-  },
-  {
     "id": "71797a4b3416",
     "agencySlug": "freytag-anderson",
     "title": "Freytag Anderson",
@@ -13238,22 +13270,6 @@
     "url": "https://www.frog.co/work/by/sector",
     "image": "/case-studies/frog/b51b8951f362.webp",
     "capturedAt": "2026-09-14T07:16:29.584Z"
-  },
-  {
-    "id": "6a08954cc0ce",
-    "agencySlug": "forth-and-back",
-    "title": "Jordan Brand All-Star Weekend 2026",
-    "url": "https://forthandback.la/projects/jordan-all-star-weekend-2026",
-    "image": "/case-studies/forth-and-back/6a08954cc0ce.webp",
-    "capturedAt": "2026-09-14T07:16:28.035Z"
-  },
-  {
-    "id": "8ece96fca563",
-    "agencySlug": "forth-and-back",
-    "title": "Archive",
-    "url": "https://forthandback.la/archive",
-    "image": "/case-studies/forth-and-back/8ece96fca563.webp",
-    "capturedAt": "2026-09-14T07:16:21.136Z"
   },
   {
     "id": "2e64a588aa3e",
@@ -18240,14 +18256,6 @@
     "capturedAt": "2026-08-16T20:17:26.153Z"
   },
   {
-    "id": "eb21a41d9bc9",
-    "agencySlug": "microfeller",
-    "title": "Surveys",
-    "url": "https://microfeller.com/surveys",
-    "image": "/case-studies/microfeller/eb21a41d9bc9.webp",
-    "capturedAt": "2026-08-16T20:17:26.125Z"
-  },
-  {
     "id": "6700031c4267",
     "agencySlug": "meat",
     "title": "Litheum",
@@ -18296,28 +18304,12 @@
     "capturedAt": "2026-08-16T20:17:17.977Z"
   },
   {
-    "id": "580fdfed1c19",
-    "agencySlug": "microfeller",
-    "title": "World",
-    "url": "https://microfeller.com/world",
-    "image": "/case-studies/microfeller/580fdfed1c19.webp",
-    "capturedAt": "2026-08-16T20:17:16.467Z"
-  },
-  {
     "id": "61f21b8ec6bb",
     "agencySlug": "metalab",
     "title": "Our Windsurf case study",
     "url": "https://www.metalab.com/work/uber",
     "image": "/case-studies/metalab/61f21b8ec6bb.webp",
     "capturedAt": "2026-08-16T20:17:15.440Z"
-  },
-  {
-    "id": "2424cdcc4ffe",
-    "agencySlug": "microfeller",
-    "title": "Cases",
-    "url": "https://microfeller.com/cases",
-    "image": "/case-studies/microfeller/2424cdcc4ffe.webp",
-    "capturedAt": "2026-08-16T20:17:14.334Z"
   },
   {
     "id": "4689fd10a9d0",

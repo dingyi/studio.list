@@ -1192,7 +1192,7 @@
     "entriesHash": "b059260b2e98a6be8310bce7bcebd9c88500ca6c84e68380a37b6086e8205c92",
     "homepageUrl": "https://estplus6.com/",
     "workPageUrl": "https://estplus6.com/work/",
-    "capturedAt": "2026-09-14T10:24:48.933Z"
+    "capturedAt": "2026-09-14T10:34:28.297Z"
   },
   "extract-studio": {
     "status": "success",
@@ -2004,10 +2004,10 @@
   },
   "microfeller": {
     "status": "success",
-    "entriesHash": "5fbc587a60eac14dcd1a39ac46ce8e764357b8e3ca282884d384e4390933e6a4",
+    "entriesHash": "dffb09103e851e5f11dcce699a1e6628b6cec11d39879840c3f086d80127b841",
     "homepageUrl": "https://microfeller.com/",
     "workPageUrl": "https://microfeller.com/work",
-    "capturedAt": "2026-08-16T20:17:07.566Z"
+    "capturedAt": "2026-09-14T10:33:42.544Z"
   },
   "ming-labs": {
     "status": "no-entries",
@@ -3638,10 +3638,10 @@
   },
   "forth-and-back": {
     "status": "success",
-    "entriesHash": "d3377e294e86f45e973f54003c985924976f56ef0bc63c2999c2b6cfb2f70d31",
+    "entriesHash": "db3bb3b0f7159fb246607351468b68766fed1c5616084fb57b4d81b5c9373632",
     "homepageUrl": "https://forthandback.la/",
     "workPageUrl": "https://forthandback.la/projects",
-    "capturedAt": "2026-09-14T07:16:10.830Z"
+    "capturedAt": "2026-09-14T10:33:09.515Z"
   },
   "funsize": {
     "status": "success",
@@ -4643,7 +4643,7 @@
     "entriesHash": "d6acc2a6110ca43bfa608af1a3e4ae191edd643d23bac2e4d7924eedcf91535a",
     "homepageUrl": "https://outpost.design/",
     "workPageUrl": "https://outpost.design/works",
-    "capturedAt": "2026-09-14T10:24:20.510Z"
+    "capturedAt": "2026-09-14T10:34:01.996Z"
   },
   "outcrowd": {
     "status": "success",
@@ -4796,10 +4796,10 @@
   },
   "polar": {
     "status": "success",
-    "entriesHash": "e902c8249f153b5a7019f39d08b14f50cb580e362488f981974223e48b74c658",
+    "entriesHash": "8180526d2f0d834dae932dc04db6da974f33cbb7ad6c2dc45ba4301f15a0f474",
     "homepageUrl": "https://polar.ltda/",
     "workPageUrl": "https://polar.ltda/projects",
-    "capturedAt": "2026-09-14T07:31:53.448Z"
+    "capturedAt": "2026-09-14T10:32:32.876Z"
   },
   "praline": {
     "status": "success",
@@ -5261,10 +5261,10 @@
   },
   "story2": {
     "status": "success",
-    "entriesHash": "c4b00ae5783078a2059cd497d452c4d54878e2be44cd7fc83abd939bcc9bc3eb",
+    "entriesHash": "946c46fbe2980525636a09caab480e5dc6a21cbe00995d3fd1fb44f7c1d14104",
     "homepageUrl": "https://www.secondstory.info/",
     "workPageUrl": "https://www.secondstory.info/work",
-    "capturedAt": "2026-09-14T07:37:11.903Z"
+    "capturedAt": "2026-09-14T10:32:14.433Z"
   },
   "stinkstudios": {
     "status": "success",
@@ -5275,10 +5275,10 @@
   },
   "stockholm-design-lab": {
     "status": "success",
-    "entriesHash": "fac3698e474d4ec9fb943efe4fa95d60de0a59458357691c7be2bc9668ff21cb",
+    "entriesHash": "db7db4179ed72748cc939a1f2cf652e72038efcfe1fcd3af61e39ee36e1d7272",
     "homepageUrl": "https://www.stockholmdesignlab.se/",
     "workPageUrl": "https://www.stockholmdesignlab.se/work",
-    "capturedAt": "2026-09-14T10:23:51.711Z"
+    "capturedAt": "2026-09-14T10:31:52.454Z"
   },
   "studio-brot": {
     "status": "no-work-page",
