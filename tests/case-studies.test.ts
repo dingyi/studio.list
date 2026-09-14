@@ -343,6 +343,18 @@ describe("cleanCaseStudyTitle", () => {
       "Shield AI Building the future",
     );
   });
+
+  it("keeps collapsing when one pass exposes a longer repeat", () => {
+    // Card markup repeats the name in a hover label, an image alt, and a title.
+    expect(
+      cleanCaseStudyTitle(
+        "Visual Language Piano Visual Language Visual Language Piano",
+      ),
+    ).toBe("Visual Language Piano");
+    expect(
+      cleanCaseStudyTitle("Spaces Tylko Spaces Spaces Tylko Spaces Tylko"),
+    ).toBe("Spaces Tylko");
+  });
 });
 
 describe("isReadableTitle", () => {

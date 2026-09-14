@@ -288,27 +288,33 @@ export function titleFromUrl(url: string): string {
  */
 function collapseRepeatedPhrases(title: string): string {
   let words = title.split(" ");
-  for (let unit = Math.floor(words.length / 2); unit >= 2; unit--) {
-    for (let start = 0; start + 2 * unit <= words.length; start++) {
-      const phrase = words.slice(start, start + unit);
-      let repeats = 1;
-      while (
-        start + (repeats + 1) * unit <= words.length &&
-        words
-          .slice(start + repeats * unit, start + (repeats + 1) * unit)
-          .every(
-            (word, index) =>
-              word.toLowerCase() === phrase[index].toLowerCase(),
-          )
-      ) {
-        repeats++;
-      }
-      if (repeats >= 2) {
-        words = [
-          ...words.slice(0, start + unit),
-          ...words.slice(start + repeats * unit),
-        ];
-        start = -1;
+  // Collapsing a short repeat can expose a longer one ("A B C A B A B C"
+  // becomes "A B C A B C"), so rescan from the largest unit until stable.
+  for (let changed = true; changed; ) {
+    changed = false;
+    for (let unit = Math.floor(words.length / 2); unit >= 2 && !changed; unit--) {
+      for (let start = 0; start + 2 * unit <= words.length; start++) {
+        const phrase = words.slice(start, start + unit);
+        let repeats = 1;
+        while (
+          start + (repeats + 1) * unit <= words.length &&
+          words
+            .slice(start + repeats * unit, start + (repeats + 1) * unit)
+            .every(
+              (word, index) =>
+                word.toLowerCase() === phrase[index].toLowerCase(),
+            )
+        ) {
+          repeats++;
+        }
+        if (repeats >= 2) {
+          words = [
+            ...words.slice(0, start + unit),
+            ...words.slice(start + repeats * unit),
+          ];
+          changed = true;
+          break;
+        }
       }
     }
   }
