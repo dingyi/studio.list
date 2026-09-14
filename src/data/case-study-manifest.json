@@ -96,7 +96,7 @@
     "entriesHash": "f1fec3def2fa7135110864113b30fcae48ae568df928f1a98efa0863065499f1",
     "homepageUrl": "http://473.agency/",
     "workPageUrl": "https://www.473.agency/projects",
-    "capturedAt": "2026-09-14T10:26:18.313Z"
+    "capturedAt": "2026-09-14T10:45:39.973Z"
   },
   "a-lot-of-moving-parts": {
     "status": "no-work-page",
@@ -1513,7 +1513,7 @@
     "entriesHash": "4d63e7863d81ea03bda18ae5205d171362bb16ab894539644a36b9878b0c09e7",
     "homepageUrl": "https://www.guerillasuit.com/",
     "workPageUrl": "https://www.guerillasuit.com/work-with-us",
-    "capturedAt": "2026-08-16T20:11:50.742Z"
+    "capturedAt": "2026-09-14T10:45:50.330Z"
   },
   "half-helix": {
     "status": "success",
@@ -3939,7 +3939,7 @@
     "entriesHash": "9996c1e7d1412d8f2a28572572205333a399351194bf3f322e4b2e8ec2c8d3e4",
     "homepageUrl": "https://bond-agency.com/",
     "workPageUrl": "https://www.thisisbond.com/work",
-    "capturedAt": "2026-09-14T09:00:15.564Z"
+    "capturedAt": "2026-09-14T10:46:43.848Z"
   },
   "loket-design": {
     "status": "no-work-page",
@@ -5261,10 +5261,10 @@
   },
   "story2": {
     "status": "success",
-    "entriesHash": "946c46fbe2980525636a09caab480e5dc6a21cbe00995d3fd1fb44f7c1d14104",
+    "entriesHash": "9cba801b8fd59a3d6e166e081500a4ea4c6b2c1ea8ee915d669b20990a402f49",
     "homepageUrl": "https://www.secondstory.info/",
     "workPageUrl": "https://www.secondstory.info/work",
-    "capturedAt": "2026-09-14T10:32:14.433Z"
+    "capturedAt": "2026-09-14T10:44:58.349Z"
   },
   "stinkstudios": {
     "status": "success",
@@ -5275,10 +5275,10 @@
   },
   "stockholm-design-lab": {
     "status": "success",
-    "entriesHash": "db7db4179ed72748cc939a1f2cf652e72038efcfe1fcd3af61e39ee36e1d7272",
+    "entriesHash": "ecefae00c32405163621a4b360e1ce4825a52128bccb9dd31111aef84a4d0abb",
     "homepageUrl": "https://www.stockholmdesignlab.se/",
     "workPageUrl": "https://www.stockholmdesignlab.se/work",
-    "capturedAt": "2026-09-14T10:31:52.454Z"
+    "capturedAt": "2026-09-14T10:45:12.786Z"
   },
   "studio-brot": {
     "status": "no-work-page",

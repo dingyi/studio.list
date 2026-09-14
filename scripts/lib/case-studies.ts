@@ -20,7 +20,7 @@ const excludedPathPattern =
   /^\/(?:about[\w-]*|contact|teams?|services?|blog|news|journal|articles?|insights?|our-story|studio|careers?|jobs?|tags?|[\w-]*categor(?:y|ies)|authors?|search|shop|store|cart|checkout|basket|feed|rss|press|faq|process|approach|expertise|clients?|privacy[\w-]*|terms[\w-]*|legal[\w-]*|imprint[\w-]*|cookies?[\w-]*)(\/|$)/i;
 
 const ctaTextPattern =
-  /^(?:work with us|get in touch|contact(?: us)?|let'?s talk|start(?: a)? project|say hello|hire us|about(?: us)?|our services|services)$/i;
+  /^(?:work with us|get in touch|contact(?: us)?|let'?s talk|start(?: a)? project|(?:just )?say (?:hello|hi)|hire us|about(?: us)?|our services|services|join (?:the )?team|culture|careers?|we'?re hiring)$/i;
 
 const paginationPattern = /\/(?:page|p)\/\d+\/?$/i;
 
@@ -41,6 +41,11 @@ function stripContainerBlocks(html: string): string {
   );
 }
 
+// Sites often ship a stand-in alt attribute (alt="alt", alt="image") that adds
+// nothing to a title.
+const placeholderAltPattern =
+  /^(?:alt|alt\s*text|image|img|photo|picture|thumbnail|thumb|logo|icon|placeholder)s?$/i;
+
 function anchorText(innerHtml: string): string {
   const withoutEmbedded = innerHtml.replace(
     /<(style|script|svg|noscript)\b[\s\S]*?<\/\1>/gi,
@@ -48,9 +53,11 @@ function anchorText(innerHtml: string): string {
   );
   const heading = withoutEmbedded.match(/<h[1-4]\b[^>]*>([\s\S]*?)<\/h[1-4]>/i);
   const source = heading ? heading[1] : withoutEmbedded;
+  const useAlt = (_match: string, alt: string) =>
+    placeholderAltPattern.test(alt.trim()) ? " " : ` ${alt} `;
   const text = source
-    .replace(/<img\b[^>]*?\balt\s*=\s*"([^"]*)"[^>]*>/gi, " $1 ")
-    .replace(/<img\b[^>]*?\balt\s*=\s*'([^']*)'[^>]*>/gi, " $1 ")
+    .replace(/<img\b[^>]*?\balt\s*=\s*"([^"]*)"[^>]*>/gi, useAlt)
+    .replace(/<img\b[^>]*?\balt\s*=\s*'([^']*)'[^>]*>/gi, useAlt)
     .replace(/<[^>]+>/g, " ");
   return text.replace(/\s+/g, " ").trim();
 }

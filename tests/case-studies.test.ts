@@ -132,6 +132,28 @@ describe("extractCaseStudyLinks", () => {
     expect(links[0].title).toBe("One Project");
   });
 
+  it("ignores placeholder alt attributes", () => {
+    const html = `
+      <a href="/work/polestar"><img src="x.jpg" alt="alt"><span>Polestar</span></a>
+      <a href="/work/sigma"><img src="y.jpg" alt="image"><span>Sigma</span></a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.title)).toEqual(["Polestar", "Sigma"]);
+  });
+
+  it("skips call-to-action and culture links", () => {
+    const html = `
+      <a href="/work/real">Real one</a>
+      <a href="/say-hi">just say hi</a>
+      <a href="/join-the-team">join the team</a>
+      <a href="/culture">Culture</a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.url)).toEqual([
+      "https://example.com/work/real",
+    ]);
+  });
+
   it("excludes studio, insights, story, and about-us pages", () => {
     const html = `
       <a href="/work/real-one">Real one</a>
