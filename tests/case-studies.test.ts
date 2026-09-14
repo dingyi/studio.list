@@ -10,6 +10,7 @@ import {
   findWorkPageUrl,
   isReadableTitle,
   looksLikeDescription,
+  titleFromUrl,
 } from "../scripts/lib/case-studies";
 
 describe("findWorkPageUrl", () => {
@@ -377,6 +378,39 @@ describe("looksLikeDescription", () => {
         "Gen Z Broke the Marketing Funnel, a report for Vogue Business",
       ),
     ).toBe(false);
+  });
+
+  it("flags prose that runs on in lowercase words", () => {
+    expect(
+      looksLikeDescription("Illustration with man walking his dog in a park"),
+    ).toBe(true);
+    expect(
+      looksLikeDescription(
+        "Co-creating an inclusive brand with community at its heart",
+      ),
+    ).toBe(true);
+    expect(looksLikeDescription("Folksam — A Collective Force")).toBe(false);
+  });
+});
+
+describe("titleFromUrl", () => {
+  it("derives a project name from the last path segment", () => {
+    expect(titleFromUrl("https://87studio.co/work/credian")).toBe("Credian");
+    expect(titleFromUrl("https://example.com/work/coconut-cult/")).toBe(
+      "Coconut Cult",
+    );
+  });
+
+  it("drops opaque publication ids and file extensions", () => {
+    expect(
+      titleFromUrl("https://medium.com/smith-diction/branding-alma-25f352285455"),
+    ).toBe("Branding Alma");
+    expect(titleFromUrl("https://example.com/work/acme.html")).toBe("Acme");
+  });
+
+  it("returns an empty string for unusable input", () => {
+    expect(titleFromUrl("not a url")).toBe("");
+    expect(titleFromUrl("https://example.com/")).toBe("");
   });
 });
 

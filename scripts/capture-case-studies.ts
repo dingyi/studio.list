@@ -16,6 +16,7 @@ import {
   findWorkPageUrl,
   isReadableTitle,
   looksLikeDescription,
+  titleFromUrl,
   type CaseStudyLink,
 } from "./lib/case-studies";
 
@@ -233,13 +234,12 @@ async function captureEntry(
   let title = link.title;
   if (!isReadableTitle(title) || looksLikeDescription(title)) {
     const pageTitle = cleanCaseStudyTitle(await readPageTitle(page));
+    const slugTitle = titleFromUrl(link.url);
     if (isReadableTitle(pageTitle) && !looksLikeDescription(pageTitle))
       title = pageTitle;
+    else if (isReadableTitle(slugTitle)) title = slugTitle;
   }
-  if (!isReadableTitle(title)) {
-    title = new URL(link.url).pathname.split("/").filter(Boolean).pop() ?? "";
-    title = title.replace(/[-_]+/g, " ").trim();
-  }
+  if (!isReadableTitle(title)) title = titleFromUrl(link.url);
 
   return { id, agencySlug, title, url: link.url, image, capturedAt };
 }

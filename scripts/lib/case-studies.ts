@@ -240,10 +240,44 @@ export function isReadableTitle(title: string): boolean {
  * poor card title, so the capture prefers the project page's own heading.
  */
 export function looksLikeDescription(title: string): boolean {
-  if (title.length <= 45) return false;
-  return /^(?:an?|the|image|images|photo|photos|picture|screenshot|screengrab|view|close-?up|illustration|portrait|shot)\b/i.test(
-    title.trim(),
-  );
+  const value = title.trim();
+  if (value.length <= 45) return false;
+  if (
+    /^(?:an?|the|image|images|photo|photos|picture|screenshot|screengrab|view|close-?up|illustration|portrait|shot)\b/i.test(
+      value,
+    )
+  ) {
+    return true;
+  }
+  // Prose runs on in lowercase words, while project names are short or
+  // capitalised ("Gen Z Broke the Marketing Funnel" stays a name).
+  const words = value.split(/\s+/);
+  if (words.length < 7) return false;
+  const rest = words.slice(1);
+  const lowercase = rest.filter((word) => /^\p{Ll}/u.test(word)).length;
+  return lowercase / rest.length >= 0.6;
+}
+
+/**
+ * The last path segment of a case-study URL is usually the project name, which
+ * beats prose pulled from alt text or a page's marketing headline.
+ */
+export function titleFromUrl(url: string): string {
+  let segment: string;
+  try {
+    segment = new URL(url).pathname.split("/").filter(Boolean).pop() ?? "";
+  } catch {
+    return "";
+  }
+  return segment
+    .replace(/\.\w{2,5}$/, "")
+    // Publishing platforms append an opaque id to the slug.
+    .replace(/[-_][0-9a-f]{8,}$/i, "")
+    .split(/[-_]+/)
+    .filter(Boolean)
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ")
+    .trim();
 }
 
 export function cleanCaseStudyTitle(value: string): string {
