@@ -9,13 +9,13 @@ test("searches agencies and retains the query in the URL", async ({ page }) => {
   await openReadyPage(page);
   await expect(page.locator('[data-directory-ready="true"]')).toBeVisible();
   await page.getByRole("button", { name: "Search agencies" }).click();
-  await page.getByRole("textbox", { name: "Search agencies" }).fill("Walsh");
+  await page.getByRole("textbox", { name: "Search agencies" }).fill("&Walsh");
 
   await expect(page.locator(".agency-card")).toHaveCount(1);
   const searchDialog = page.getByRole("dialog", { name: "Search agencies" });
   await expect(searchDialog.locator(".search-result")).toHaveCount(1);
   await expect(searchDialog.locator(".search-result")).toContainText("&Walsh");
-  await expect(page).toHaveURL(/q=Walsh/);
+  await expect(page).toHaveURL(/q=%26Walsh/i);
 });
 
 test("uses the centered command-search navigation", async ({
@@ -242,7 +242,7 @@ test("keeps About in place when opening its compact search", async ({ page }) =>
 test("shows matching Agencies inside the About search panel", async ({ page }) => {
   await openReadyPage(page, "/about/");
   await page.getByRole("button", { name: "Search agencies" }).click();
-  await page.getByRole("textbox", { name: "Search agencies" }).fill("Walsh");
+  await page.getByRole("textbox", { name: "Search agencies" }).fill("&Walsh");
 
   const dialog = page.getByRole("dialog", { name: "Search agencies" });
   const result = dialog.locator(".search-result");
