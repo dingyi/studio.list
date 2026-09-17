@@ -23823,19 +23823,14 @@
     "slug": "smorgasbord",
     "name": "Smörgåsbord",
     "aliases": [],
-    "description": "an independent design studio",
-    "website": "https://www.smorgasbordstudio.com/",
-    "officialDomain": "smorgasbordstudio.com",
+    "description": "Based in Amsterdam and working globally, Smörgåsbord Studio is led by designers Alex Frew and Dylan Griffith. Their creative output blurs the boundaries between brand identity, interiors, fonts, furniture, art and architecture.",
+    "website": "https://smorgasbord.studio/",
+    "officialDomain": "smorgasbord.studio",
     "locations": [
       {
         "code": "NL",
         "name": "Netherlands",
         "flag": "🇳🇱"
-      },
-      {
-        "code": "GB",
-        "name": "United Kingdom",
-        "flag": "🇬🇧"
       }
     ],
     "logo": "/logos/smorgasbord.png",
@@ -27179,14 +27174,14 @@
     "slug": "tinloof",
     "name": "Tinloof",
     "aliases": [],
-    "description": "an agency that designs and develops online stores, marketing websites and web applications",
+    "description": "Tinloof is a design and development agency.",
     "website": "https://tinloof.com/",
     "officialDomain": "tinloof.com",
     "locations": [
       {
-        "code": "US",
-        "name": "United States",
-        "flag": "🇺🇸"
+        "code": "DE",
+        "name": "Germany",
+        "flag": "🇩🇪"
       }
     ],
     "logo": "/logos/tinloof.png",
