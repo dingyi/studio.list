@@ -10871,5 +10871,34 @@
     "capturedAt": "2026-09-08T10:45:35.000Z",
     "requestedUrl": "https://aparelho.studio/",
     "finalUrl": "https://aparelho.studio/"
+  },
+  "heyo": {
+    "status": "success",
+    "path": "/screenshots/heyo.webp",
+    "capturedAt": "2026-09-22T13:58:04.714Z",
+    "requestedUrl": "https://heyo.is/",
+    "finalUrl": "https://heyo.is/"
+  },
+  "oddfellows": {
+    "status": "success",
+    "capturedAt": "2026-09-22T14:43:56.577Z",
+    "requestedUrl": "https://oddfellows.tv/",
+    "finalUrl": "https://oddfellows.tv/",
+    "path": "/screenshots/oddfellows.webp",
+    "reviewedAt": "2026-09-22T14:44:46.327Z"
+  },
+  "dirt": {
+    "status": "success",
+    "path": "/screenshots/dirt.webp",
+    "capturedAt": "2026-09-25T16:30:42.682Z",
+    "requestedUrl": "https://dirtverse.co/",
+    "finalUrl": "https://dirtverse.co/"
+  },
+  "sanctuary-computer": {
+    "status": "success",
+    "path": "/screenshots/sanctuary-computer.webp",
+    "capturedAt": "2026-09-25T16:38:29.191Z",
+    "requestedUrl": "https://www.sanctuary.computer/",
+    "finalUrl": "https://www.sanctuary.computer/"
   }
 }

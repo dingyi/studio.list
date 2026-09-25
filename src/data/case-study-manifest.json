@@ -8587,5 +8587,33 @@
     "homepageUrl": "https://aparelho.studio/",
     "workPageUrl": "https://aparelho.studio/",
     "capturedAt": "2026-09-08T10:45:35.000Z"
+  },
+  "heyo": {
+    "status": "success",
+    "entriesHash": "eaebd753621ab673530f48e8541b3549b15f9f429a0d6d2721402c9ebdc0f346",
+    "homepageUrl": "https://heyo.is/",
+    "workPageUrl": "https://heyo.is/work",
+    "capturedAt": "2026-09-22T13:59:53.441Z"
+  },
+  "oddfellows": {
+    "status": "success",
+    "entriesHash": "2e6bd2d83e2260f33c63172206493179bc4e36cf3d947fadb58834dde0366916",
+    "homepageUrl": "https://oddfellows.tv/",
+    "workPageUrl": "https://oddfellows.tv/work",
+    "capturedAt": "2026-09-23T01:40:41.411Z"
+  },
+  "dirt": {
+    "status": "success",
+    "entriesHash": "43966279e9f8e4cde9670523b6761b93e4c8c00625ede09f8b683b64cdbce7c8",
+    "homepageUrl": "https://dirtverse.co/",
+    "workPageUrl": "https://dirtverse.co/work-grid",
+    "capturedAt": "2026-09-25T16:30:59.085Z"
+  },
+  "sanctuary-computer": {
+    "status": "success",
+    "entriesHash": "097e7b1608d5a5091c6972d9b92a354d58e9e3cb950e58f6f2bf897e1ec8b09f",
+    "homepageUrl": "https://www.sanctuary.computer/",
+    "workPageUrl": "https://www.sanctuary.computer/work/stripe-apps",
+    "capturedAt": "2026-09-25T16:39:02.000Z"
   }
 }

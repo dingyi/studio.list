@@ -7047,6 +7047,25 @@
     ]
   },
   {
+    "id": "405d41cb424ddd63",
+    "slug": "dirt",
+    "name": "Dirt",
+    "aliases": ["Dirtverse"],
+    "description": "Dirt is a global creative studio building for the deeply invested, the sick start-ups and the cool giants.",
+    "website": "https://dirtverse.co/",
+    "officialDomain": "dirtverse.co",
+    "locations": [
+      {
+        "code": "AU",
+        "name": "Australia",
+        "flag": "🇦🇺"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/dirt.webp",
+    "sourceLines": []
+  },
+  {
     "id": "a2d9539d27cd4cc4",
     "slug": "disco-frog-studio",
     "name": "Disco Frog Studio",
@@ -11616,6 +11635,19 @@
     "sourceLines": [
       2004
     ]
+  },
+  {
+    "id": "72be7ecb902fdb87",
+    "slug": "heyo",
+    "name": "Heyo",
+    "aliases": [],
+    "description": "Heyo is the full-service innovation crew that builds your brand, product, and website right the first time.",
+    "website": "https://heyo.is/",
+    "officialDomain": "heyo.is",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/heyo.webp",
+    "sourceLines": []
   },
   {
     "id": "7b1b0566f1ff172a",
@@ -18532,6 +18564,25 @@
     ]
   },
   {
+    "id": "577cb6f09d6fe83c",
+    "slug": "oddfellows",
+    "name": "Oddfellows",
+    "aliases": [],
+    "description": "We are a visual strategy and storytelling studio with over a decade of experience shaping ambitious brands.",
+    "website": "https://oddfellows.tv/",
+    "officialDomain": "oddfellows.tv",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/oddfellows.webp",
+    "sourceLines": []
+  },
+  {
     "id": "90a6489d08001e98",
     "slug": "off-brand",
     "name": "Off Brand",
@@ -22978,6 +23029,19 @@
     "sourceLines": [
       4063
     ]
+  },
+  {
+    "id": "6ed7beeb88eb746b",
+    "slug": "sanctuary-computer",
+    "name": "Sanctuary Computer",
+    "aliases": [],
+    "description": "Sanctuary Computer designs and builds digital products, technical systems, and working relationships.",
+    "website": "https://www.sanctuary.computer/",
+    "officialDomain": "sanctuary.computer",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/sanctuary-computer.webp",
+    "sourceLines": []
   },
   {
     "id": "39910a6c8e1517be",
