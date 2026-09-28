@@ -5903,9 +5903,11 @@
     "capturedAt": "2026-08-17T13:05:36.422Z"
   },
   "ragged-edge": {
-    "status": "no-work-page",
+    "status": "success",
+    "entriesHash": "33bc6b75d1e17d4fe0400151fce9cefb4973166110b5eade488347ac19964550",
     "homepageUrl": "https://raggededge.com/",
-    "capturedAt": "2026-08-17T13:05:43.662Z"
+    "workPageUrl": "https://raggededge.com/partnerships",
+    "capturedAt": "2026-09-28T16:42:00.000Z"
   },
   "pulsenova": {
     "status": "success",

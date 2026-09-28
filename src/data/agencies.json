@@ -16416,6 +16416,19 @@
     ]
   },
   {
+    "id": "9ead529fba63270d",
+    "slug": "monalog",
+    "name": "Monalog",
+    "aliases": [],
+    "description": "A creative software studio obsessed with crafting beautiful websites, apps, and software.",
+    "website": "https://monalog.co/",
+    "officialDomain": "monalog.co",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/monalog.webp",
+    "sourceLines": []
+  },
+  {
     "id": "6ada619e772b1f00",
     "slug": "monolith",
     "name": "Monolith",

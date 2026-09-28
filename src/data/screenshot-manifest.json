@@ -10900,5 +10900,12 @@
     "capturedAt": "2026-09-25T16:38:29.191Z",
     "requestedUrl": "https://www.sanctuary.computer/",
     "finalUrl": "https://www.sanctuary.computer/"
+  },
+  "monalog": {
+    "status": "success",
+    "path": "/screenshots/monalog.webp",
+    "capturedAt": "2026-09-28T17:19:12.984Z",
+    "requestedUrl": "https://monalog.co/",
+    "finalUrl": "https://monalog.co/"
   }
 }
