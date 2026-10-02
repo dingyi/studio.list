@@ -6863,9 +6863,11 @@
     "capturedAt": "2026-08-17T13:14:48.438Z"
   },
   "studio-gruhl": {
-    "status": "no-work-page",
+    "status": "success",
+    "entriesHash": "d742d4e58798235e865e9ea2cae0355f7306278be4543ec07caf3a380ed7c643",
     "homepageUrl": "https://www.studiogruhl.com/",
-    "capturedAt": "2026-08-17T13:15:26.124Z"
+    "workPageUrl": "https://www.studiogruhl.com/projects",
+    "capturedAt": "2026-09-30T14:56:00.000Z"
   },
   "studio-half-decent": {
     "status": "success",
@@ -8617,5 +8619,12 @@
     "homepageUrl": "https://www.sanctuary.computer/",
     "workPageUrl": "https://www.sanctuary.computer/work/stripe-apps",
     "capturedAt": "2026-09-25T16:39:02.000Z"
+  },
+  "iverson": {
+    "status": "success",
+    "entriesHash": "a7b187d192131ebe10cbbd6ed78915683cff621d5641be39336f1924b8e18585",
+    "homepageUrl": "https://iverson.inc/",
+    "workPageUrl": "https://iverson.inc/work",
+    "capturedAt": "2026-09-30T07:30:00.000Z"
   }
 }
