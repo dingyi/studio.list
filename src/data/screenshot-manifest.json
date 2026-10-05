@@ -10914,5 +10914,12 @@
     "capturedAt": "2026-09-30T07:25:42.404Z",
     "requestedUrl": "https://iverson.inc/",
     "finalUrl": "https://iverson.inc/"
+  },
+  "rava-labs": {
+    "status": "success",
+    "path": "/screenshots/rava-labs.webp",
+    "capturedAt": "2026-10-02T06:57:01.228Z",
+    "requestedUrl": "https://www.ravalabs.com/",
+    "finalUrl": "https://www.ravalabs.com/"
   }
 }

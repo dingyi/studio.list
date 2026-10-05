@@ -21669,6 +21669,19 @@
     ]
   },
   {
+    "id": "d4217241178dd822",
+    "slug": "rava-labs",
+    "name": "Rava Labs",
+    "aliases": ["Rava®"],
+    "description": "An independent design studio partnering with founders and product teams to create brands and digital experiences.",
+    "website": "https://www.ravalabs.com/",
+    "officialDomain": "ravalabs.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/rava-labs.webp",
+    "sourceLines": []
+  },
+  {
     "id": "01d911f2df6c9669",
     "slug": "raw-materials",
     "name": "Raw Materials",

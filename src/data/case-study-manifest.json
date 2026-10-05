@@ -8626,5 +8626,10 @@
     "homepageUrl": "https://iverson.inc/",
     "workPageUrl": "https://iverson.inc/work",
     "capturedAt": "2026-09-30T07:30:00.000Z"
+  },
+  "rava-labs": {
+    "status": "no-work-page",
+    "homepageUrl": "https://www.ravalabs.com/",
+    "capturedAt": "2026-10-02T06:57:01.228Z"
   }
 }
