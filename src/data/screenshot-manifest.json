@@ -10921,5 +10921,501 @@
     "capturedAt": "2026-10-02T06:57:01.228Z",
     "requestedUrl": "https://www.ravalabs.com/",
     "finalUrl": "https://www.ravalabs.com/"
+  },
+  "a-practice-for-everyday-life": {
+    "status": "success",
+    "path": "/screenshots/a-practice-for-everyday-life.webp",
+    "capturedAt": "2026-10-08T13:11:03.125Z",
+    "requestedUrl": "https://apracticeforeverydaylife.com/",
+    "finalUrl": "https://apracticeforeverydaylife.com/"
+  },
+  "actual-source": {
+    "status": "success",
+    "path": "/screenshots/actual-source.webp",
+    "capturedAt": "2026-10-08T13:15:33.703Z",
+    "requestedUrl": "https://actualsource.work/",
+    "finalUrl": "https://actualsource.work/"
+  },
+  "alias": {
+    "status": "failed",
+    "capturedAt": "2026-10-08T13:17:12.337Z",
+    "requestedUrl": "http://alias.dj/",
+    "error": "Official site could not be verified: HTTPS certificate error and HTTP 500."
+  },
+  "all-purpose": {
+    "status": "success",
+    "path": "/screenshots/all-purpose.webp",
+    "capturedAt": "2026-10-08T13:11:03.124Z",
+    "requestedUrl": "https://allpurpose.studio/",
+    "finalUrl": "https://allpurpose.studio/"
+  },
+  "atelier-dyakova": {
+    "status": "success",
+    "path": "/screenshots/atelier-dyakova.webp",
+    "capturedAt": "2026-10-08T13:15:32.245Z",
+    "requestedUrl": "https://atelierdyakova.com/",
+    "finalUrl": "https://atelierdyakova.com/"
+  },
+  "atelje-altmann": {
+    "status": "success",
+    "path": "/screenshots/atelje-altmann.webp",
+    "capturedAt": "2026-10-08T13:11:09.897Z",
+    "requestedUrl": "https://ateljealtmann.com/",
+    "finalUrl": "https://ateljealtmann.com/"
+  },
+  "base-design": {
+    "status": "success",
+    "path": "/screenshots/base-design.webp",
+    "capturedAt": "2026-10-08T13:11:12.268Z",
+    "requestedUrl": "https://www.basedesign.com/",
+    "finalUrl": "https://www.basedesign.com/"
+  },
+  "blind": {
+    "status": "failed",
+    "capturedAt": "2026-10-08T13:11:13.074Z",
+    "requestedUrl": "https://blind.com/studio/",
+    "error": "Official site timed out at both the studio page and homepage."
+  },
+  "bold-decisions": {
+    "status": "success",
+    "path": "/screenshots/bold-decisions.webp",
+    "capturedAt": "2026-10-08T13:11:16.907Z",
+    "requestedUrl": "https://bold-decisions.biz/",
+    "finalUrl": "https://bold-decisions.biz/"
+  },
+  "boz-art": {
+    "status": "success",
+    "path": "/screenshots/boz-art.webp",
+    "capturedAt": "2026-10-08T13:11:18.399Z",
+    "requestedUrl": "https://www.bozart.se/",
+    "finalUrl": "https://www.bozart.se/"
+  },
+  "brand-new-school": {
+    "status": "success",
+    "path": "/screenshots/brand-new-school.webp",
+    "capturedAt": "2026-10-08T13:11:23.754Z",
+    "requestedUrl": "https://www.brandnewschool.com/",
+    "finalUrl": "https://www.brandnewschool.com/"
+  },
+  "british-standard-type": {
+    "status": "success",
+    "path": "/screenshots/british-standard-type.webp",
+    "capturedAt": "2026-10-08T13:15:31.878Z",
+    "requestedUrl": "https://www.britishstandardtype.xyz/",
+    "finalUrl": "https://www.britishstandardtype.xyz/"
+  },
+  "buff-motion": {
+    "status": "success",
+    "path": "/screenshots/buff-motion.webp",
+    "capturedAt": "2026-10-08T13:11:30.635Z",
+    "requestedUrl": "https://www.buffmotion.com/",
+    "finalUrl": "https://www.buffmotion.com/"
+  },
+  "bureau-antoine-roux": {
+    "status": "success",
+    "path": "/screenshots/bureau-antoine-roux.webp",
+    "capturedAt": "2026-10-08T13:11:34.455Z",
+    "requestedUrl": "https://bureauantoineroux.com/",
+    "finalUrl": "https://bureauantoineroux.com/"
+  },
+  "commercial-type": {
+    "status": "success",
+    "path": "/screenshots/commercial-type.webp",
+    "capturedAt": "2026-10-08T13:11:37.876Z",
+    "requestedUrl": "https://commercialtype.com/",
+    "finalUrl": "https://commercialtype.com/"
+  },
+  "daniel-carlsten": {
+    "status": "success",
+    "path": "/screenshots/daniel-carlsten.webp",
+    "capturedAt": "2026-10-08T13:11:38.112Z",
+    "requestedUrl": "https://www.danielcarlsten.com/",
+    "finalUrl": "https://www.danielcarlsten.com/"
+  },
+  "dedouze": {
+    "status": "success",
+    "path": "/screenshots/dedouze.webp",
+    "capturedAt": "2026-10-08T13:11:41.558Z",
+    "requestedUrl": "https://dedouze.com/",
+    "finalUrl": "https://dedouze.com/"
+  },
+  "dinamo": {
+    "status": "success",
+    "path": "/screenshots/dinamo.webp",
+    "capturedAt": "2026-10-08T13:15:33.833Z",
+    "requestedUrl": "https://abcdinamo.com/",
+    "finalUrl": "https://abcdinamo.com/"
+  },
+  "displaay": {
+    "status": "success",
+    "path": "/screenshots/displaay.webp",
+    "capturedAt": "2026-10-08T13:11:48.060Z",
+    "requestedUrl": "https://displaay.net/",
+    "finalUrl": "https://displaay.net/"
+  },
+  "dissembargo": {
+    "status": "success",
+    "path": "/screenshots/dissembargo.webp",
+    "capturedAt": "2026-10-08T13:11:48.925Z",
+    "requestedUrl": "https://www.dissembargo.com/",
+    "finalUrl": "https://www.dissembargo.com/"
+  },
+  "eastern-rodeo": {
+    "status": "success",
+    "path": "/screenshots/eastern-rodeo.webp",
+    "capturedAt": "2026-10-08T13:11:53.272Z",
+    "requestedUrl": "https://easternrodeo.co/",
+    "finalUrl": "https://easternrodeo.co/"
+  },
+  "edition-studio": {
+    "status": "success",
+    "path": "/screenshots/edition-studio.webp",
+    "capturedAt": "2026-10-08T13:11:54.859Z",
+    "requestedUrl": "https://edition.studio/",
+    "finalUrl": "https://edition.studio/"
+  },
+  "elodie-fabbri": {
+    "status": "success",
+    "path": "/screenshots/elodie-fabbri.webp",
+    "capturedAt": "2026-10-08T13:11:55.545Z",
+    "requestedUrl": "https://elodiefabbri.com/",
+    "finalUrl": "https://elodiefabbri.com/"
+  },
+  "fold": {
+    "status": "failed",
+    "capturedAt": "2026-10-08T13:12:03.060Z",
+    "requestedUrl": "https://www.foldstudio.co/",
+    "error": "The listed domain could not be reached; a possible replacement also has a certificate error."
+  },
+  "formula-type": {
+    "status": "success",
+    "path": "/screenshots/formula-type.webp",
+    "capturedAt": "2026-10-08T13:15:53.330Z",
+    "requestedUrl": "https://formulatype.com/",
+    "finalUrl": "https://formulatype.com/"
+  },
+  "frost": {
+    "status": "success",
+    "path": "/screenshots/frost.webp",
+    "capturedAt": "2026-10-08T13:15:52.427Z",
+    "requestedUrl": "https://www.frostype.xyz/",
+    "finalUrl": "https://www.frostype.xyz/"
+  },
+  "garrett-elizabeth-office": {
+    "status": "success",
+    "path": "/screenshots/garrett-elizabeth-office.webp",
+    "capturedAt": "2026-10-08T13:12:07.889Z",
+    "requestedUrl": "https://geo-nyc.com/",
+    "finalUrl": "https://geo-nyc.com/"
+  },
+  "get-it-studio": {
+    "status": "success",
+    "path": "/screenshots/get-it-studio.webp",
+    "capturedAt": "2026-10-08T13:12:11.271Z",
+    "requestedUrl": "https://get-it.studio/",
+    "finalUrl": "https://get-it.studio/"
+  },
+  "giant-ant": {
+    "status": "success",
+    "path": "/screenshots/giant-ant.webp",
+    "capturedAt": "2026-10-08T13:12:11.828Z",
+    "requestedUrl": "https://www.giantant.ca/",
+    "finalUrl": "https://www.giantant.ca/"
+  },
+  "golden-wolf": {
+    "status": "success",
+    "path": "/screenshots/golden-wolf.webp",
+    "capturedAt": "2026-10-08T13:15:53.657Z",
+    "requestedUrl": "https://www.goldenwolf.tv/",
+    "finalUrl": "https://www.goldenwolf.tv/"
+  },
+  "grace-margetson-studio": {
+    "status": "success",
+    "path": "/screenshots/grace-margetson-studio.webp",
+    "capturedAt": "2026-10-08T13:12:14.966Z",
+    "requestedUrl": "https://www.gracemargetsonstudio.com/",
+    "finalUrl": "https://www.gracemargetsonstudio.com/"
+  },
+  "haw-lin-services": {
+    "status": "success",
+    "path": "/screenshots/haw-lin-services.webp",
+    "capturedAt": "2026-10-08T13:12:18.538Z",
+    "requestedUrl": "https://haw-lin-services.com/",
+    "finalUrl": "https://haw-lin-services.com/"
+  },
+  "hb-type": {
+    "status": "success",
+    "path": "/screenshots/hb-type.webp",
+    "capturedAt": "2026-10-08T13:12:23.647Z",
+    "requestedUrl": "https://www.hbtype.com/",
+    "finalUrl": "https://www.hbtype.com/"
+  },
+  "hobbes": {
+    "status": "success",
+    "path": "/screenshots/hobbes.webp",
+    "capturedAt": "2026-10-08T13:15:53.379Z",
+    "requestedUrl": "https://www.hobbes.work/",
+    "finalUrl": "https://www.hobbes.work/"
+  },
+  "jordi-van-der-oord": {
+    "status": "success",
+    "path": "/screenshots/jordi-van-der-oord.webp",
+    "capturedAt": "2026-10-08T13:12:24.990Z",
+    "requestedUrl": "https://jordivanderoord.com/",
+    "finalUrl": "https://jordivanderoord.com/"
+  },
+  "kaboom": {
+    "status": "failed",
+    "capturedAt": "2026-10-08T13:17:30.923Z",
+    "requestedUrl": "https://www.kaboomhq.com/",
+    "error": "The listed domain redirects to a GoDaddy domain-for-sale page."
+  },
+  "landscape": {
+    "status": "success",
+    "path": "/screenshots/landscape.webp",
+    "capturedAt": "2026-10-08T13:20:12.770Z",
+    "requestedUrl": "https://thisislandscape.com/",
+    "finalUrl": "https://thisislandscape.com/profile/"
+  },
+  "lotta-nieminen": {
+    "status": "success",
+    "path": "/screenshots/lotta-nieminen.webp",
+    "capturedAt": "2026-10-08T13:12:29.828Z",
+    "requestedUrl": "https://www.lottanieminen.com/",
+    "finalUrl": "https://www.lottanieminen.com/"
+  },
+  "m-giesser": {
+    "status": "success",
+    "path": "/screenshots/m-giesser.webp",
+    "capturedAt": "2026-10-08T13:16:13.891Z",
+    "requestedUrl": "https://www.mgiesser.com/",
+    "finalUrl": "https://www.mgiesser.com/"
+  },
+  "noodle": {
+    "status": "success",
+    "path": "/screenshots/noodle.webp",
+    "capturedAt": "2026-10-08T13:12:33.155Z",
+    "requestedUrl": "https://www.noodleanimation.com/",
+    "finalUrl": "https://www.noodleanimation.com/"
+  },
+  "ordinal": {
+    "status": "failed",
+    "capturedAt": "2026-10-08T13:17:38.402Z",
+    "requestedUrl": "https://ordinal.studio/",
+    "error": "Official site could not be reached: HTTPS TLS error and HTTP 502."
+  },
+  "oyedrops": {
+    "status": "success",
+    "path": "/screenshots/oyedrops.webp",
+    "capturedAt": "2026-10-08T13:22:01.363Z",
+    "requestedUrl": "https://www.oyedrops.studio/",
+    "finalUrl": "https://www.oyedrops.studio/"
+  },
+  "pan-studio": {
+    "status": "failed",
+    "capturedAt": "2026-10-08T13:17:35.353Z",
+    "requestedUrl": "https://pan-motion.com/",
+    "error": "Official site could not be reached: connection closed and HTTP 502."
+  },
+  "pixar-animation-studios": {
+    "status": "success",
+    "path": "/screenshots/pixar-animation-studios.webp",
+    "capturedAt": "2026-10-08T13:12:39.135Z",
+    "requestedUrl": "https://www.pixar.com/",
+    "finalUrl": "https://www.pixar.com/"
+  },
+  "playd": {
+    "status": "success",
+    "path": "/screenshots/playd.webp",
+    "capturedAt": "2026-10-08T13:12:42.689Z",
+    "requestedUrl": "https://www.playd.studio/",
+    "finalUrl": "https://www.playd.studio/"
+  },
+  "psyop": {
+    "status": "success",
+    "path": "/screenshots/psyop.webp",
+    "capturedAt": "2026-10-08T13:16:13.091Z",
+    "requestedUrl": "https://psyop.com/",
+    "finalUrl": "https://psyop.com/"
+  },
+  "public-image": {
+    "status": "success",
+    "path": "/screenshots/public-image.webp",
+    "capturedAt": "2026-10-08T13:16:34.299Z",
+    "requestedUrl": "https://public-image.co/",
+    "finalUrl": "https://public-image.co/"
+  },
+  "regular-practice": {
+    "status": "success",
+    "path": "/screenshots/regular-practice.webp",
+    "capturedAt": "2026-10-08T13:12:50.901Z",
+    "requestedUrl": "https://regularpractice.co.uk/",
+    "finalUrl": "https://regularpractice.co.uk/"
+  },
+  "republique-studio": {
+    "status": "success",
+    "path": "/screenshots/republique-studio.webp",
+    "capturedAt": "2026-10-08T13:20:41.919Z",
+    "requestedUrl": "https://www.republique.studio/",
+    "finalUrl": "https://www.republique.studio/"
+  },
+  "rojocaballo": {
+    "status": "failed",
+    "capturedAt": "2026-10-08T13:17:47.075Z",
+    "requestedUrl": "https://rojocaballo.com/",
+    "error": "Official site could not be reached: connection closed and HTTP 502."
+  },
+  "schick-toikka": {
+    "status": "success",
+    "path": "/screenshots/schick-toikka.webp",
+    "capturedAt": "2026-10-08T13:16:35.152Z",
+    "requestedUrl": "https://www.schick-toikka.com/",
+    "finalUrl": "https://www.schick-toikka.com/"
+  },
+  "services-generaux": {
+    "status": "success",
+    "path": "/screenshots/services-generaux.webp",
+    "capturedAt": "2026-10-08T13:12:59.625Z",
+    "requestedUrl": "https://generaux.services/",
+    "finalUrl": "https://generaux.services/"
+  },
+  "sharp-type": {
+    "status": "success",
+    "path": "/screenshots/sharp-type.webp",
+    "capturedAt": "2026-10-08T13:13:00.007Z",
+    "requestedUrl": "https://www.sharptype.co/",
+    "finalUrl": "https://www.sharptype.co/"
+  },
+  "sm-type-foundry": {
+    "status": "success",
+    "path": "/screenshots/sm-type-foundry.webp",
+    "capturedAt": "2026-10-08T13:13:01.411Z",
+    "requestedUrl": "https://s-m.nu/",
+    "finalUrl": "https://s-m.nu/"
+  },
+  "sociotype": {
+    "status": "success",
+    "path": "/screenshots/sociotype.webp",
+    "capturedAt": "2026-10-08T13:21:20.250Z",
+    "requestedUrl": "https://socio-type.com/",
+    "finalUrl": "https://socio-type.com/about"
+  },
+  "state-design": {
+    "status": "success",
+    "path": "/screenshots/state-design.webp",
+    "capturedAt": "2026-10-08T13:13:09.283Z",
+    "requestedUrl": "https://statedesign.tv/",
+    "finalUrl": "https://statedesign.tv/"
+  },
+  "steelworks": {
+    "status": "success",
+    "path": "/screenshots/steelworks.webp",
+    "capturedAt": "2026-10-08T13:13:10.280Z",
+    "requestedUrl": "https://www.steelworks.studio/",
+    "finalUrl": "https://www.steelworks.studio/"
+  },
+  "studio-albin-holmqvist": {
+    "status": "success",
+    "path": "/screenshots/studio-albin-holmqvist.webp",
+    "capturedAt": "2026-10-08T13:13:10.378Z",
+    "requestedUrl": "https://studioalbinholmqvist.com/",
+    "finalUrl": "https://studioalbinholmqvist.com/"
+  },
+  "studio-furore": {
+    "status": "success",
+    "path": "/screenshots/studio-furore.webp",
+    "capturedAt": "2026-10-08T13:13:15.046Z",
+    "requestedUrl": "https://studiofurore.at/",
+    "finalUrl": "https://studiofurore.at/"
+  },
+  "studio-wan": {
+    "status": "success",
+    "path": "/screenshots/studio-wan.webp",
+    "capturedAt": "2026-10-08T13:16:51.513Z",
+    "requestedUrl": "https://www.studiowan.uk/",
+    "finalUrl": "https://www.studiowan.uk/"
+  },
+  "tactyc": {
+    "status": "success",
+    "path": "/screenshots/tactyc.webp",
+    "capturedAt": "2026-10-08T13:16:54.137Z",
+    "requestedUrl": "https://www.tactyc.studio/",
+    "finalUrl": "https://www.tactyc.studio/"
+  },
+  "the-company-you-keep": {
+    "status": "success",
+    "path": "/screenshots/the-company-you-keep.webp",
+    "capturedAt": "2026-10-08T13:13:18.014Z",
+    "requestedUrl": "https://www.tcyk.com.au/",
+    "finalUrl": "https://www.tcyk.com.au/"
+  },
+  "the-furrow": {
+    "status": "success",
+    "path": "/screenshots/the-furrow.webp",
+    "capturedAt": "2026-10-08T13:13:22.431Z",
+    "requestedUrl": "https://thefurrow.tv/",
+    "finalUrl": "https://thefurrow.tv/"
+  },
+  "the-mill": {
+    "status": "success",
+    "path": "/screenshots/the-mill.webp",
+    "capturedAt": "2026-10-08T13:21:33.683Z",
+    "requestedUrl": "https://www.themill.com/",
+    "finalUrl": "https://www.themill.com/"
+  },
+  "rocketpanda": {
+    "status": "success",
+    "path": "/screenshots/rocketpanda.webp",
+    "capturedAt": "2026-10-08T13:16:57.280Z",
+    "requestedUrl": "https://www.therocketpanda.com/",
+    "finalUrl": "https://www.therocketpanda.com/"
+  },
+  "tino-nyman": {
+    "status": "success",
+    "path": "/screenshots/tino-nyman.webp",
+    "capturedAt": "2026-10-08T13:17:19.608Z",
+    "requestedUrl": "https://tinonyman.com/",
+    "finalUrl": "https://tinonyman.com/"
+  },
+  "turnislefthome": {
+    "status": "success",
+    "path": "/screenshots/turnislefthome.webp",
+    "capturedAt": "2026-10-08T13:13:29.428Z",
+    "requestedUrl": "https://turnislefthome.com/",
+    "finalUrl": "https://turnislefthome.com/"
+  },
+  "vectar": {
+    "status": "failed",
+    "capturedAt": "2026-10-08T13:17:48.391Z",
+    "requestedUrl": "https://www.vectar.agency/",
+    "error": "Official site could not be reached: connection closed and HTTP 502."
+  },
+  "walk-a-thought": {
+    "status": "success",
+    "path": "/screenshots/walk-a-thought.webp",
+    "capturedAt": "2026-10-08T13:22:00.596Z",
+    "requestedUrl": "https://walkathought.com/",
+    "finalUrl": "https://walkathought.com/info"
+  },
+  "yellow-dog-party": {
+    "status": "success",
+    "path": "/screenshots/yellow-dog-party.webp",
+    "capturedAt": "2026-10-08T13:16:56.851Z",
+    "requestedUrl": "https://www.yellowdogparty.com/work",
+    "finalUrl": "https://www.yellowdogparty.com/work"
+  },
+  "zak-group": {
+    "status": "success",
+    "path": "/screenshots/zak-group.webp",
+    "capturedAt": "2026-10-08T13:13:40.691Z",
+    "requestedUrl": "https://www.zak.group/",
+    "finalUrl": "https://www.zak.group/"
+  },
+  "zunc": {
+    "status": "success",
+    "path": "/screenshots/zunc.webp",
+    "capturedAt": "2026-10-08T13:17:13.960Z",
+    "requestedUrl": "https://www.zunc.studio/",
+    "finalUrl": "https://www.zunc.studio/"
   }
 }

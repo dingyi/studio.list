@@ -490,6 +490,21 @@
     ]
   },
   {
+    "id": "e17faa1f9893c8d9",
+    "slug": "a-practice-for-everyday-life",
+    "name": "A Practice for Everyday Life",
+    "aliases": [
+      "A Practice For Everyday Life"
+    ],
+    "description": "A design practice working across creative direction, graphic design and typography for culture.",
+    "website": "https://apracticeforeverydaylife.com/",
+    "officialDomain": "apracticeforeverydaylife.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/a-practice-for-everyday-life.webp",
+    "sourceLines": []
+  },
+  {
     "id": "80841ae1dbde9d5e",
     "slug": "a-lign-studio",
     "name": "a-lign studio",
@@ -670,6 +685,19 @@
     "sourceLines": [
       119
     ]
+  },
+  {
+    "id": "49f5dc78b326b59b",
+    "slug": "actual-source",
+    "name": "Actual Source",
+    "aliases": [],
+    "description": "A creative studio working across visual identities, publications, websites, packaging, apparel and physical spaces.",
+    "website": "https://actualsource.work/",
+    "officialDomain": "actualsource.work",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/actual-source.webp",
+    "sourceLines": []
   },
   {
     "id": "004f1fe5bc666ff7",
@@ -1210,6 +1238,19 @@
     "sourceLines": []
   },
   {
+    "id": "7d30fecc02cc107c",
+    "slug": "alias",
+    "name": "Alias",
+    "aliases": [],
+    "description": "",
+    "website": "http://alias.dj/",
+    "officialDomain": "alias.dj",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/alias.webp",
+    "sourceLines": []
+  },
+  {
     "id": "fbf44a8f1eaefc36",
     "slug": "aline-stuido",
     "name": "Aline Stuido",
@@ -1229,6 +1270,19 @@
     "sourceLines": [
       224
     ]
+  },
+  {
+    "id": "9b5357926520b39c",
+    "slug": "all-purpose",
+    "name": "All Purpose",
+    "aliases": [],
+    "description": "A design studio focused on branding, strategy and digital experiences.",
+    "website": "https://allpurpose.studio/",
+    "officialDomain": "allpurpose.studio",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/all-purpose.webp",
+    "sourceLines": []
   },
   {
     "id": "a790dcecd04e3325",
@@ -2250,6 +2304,19 @@
     ]
   },
   {
+    "id": "11b291285c6a820a",
+    "slug": "atelier-dyakova",
+    "name": "Atelier Dyakova",
+    "aliases": [],
+    "description": "A creative direction and graphic design studio working with art, fashion and cultural clients.",
+    "website": "https://atelierdyakova.com/",
+    "officialDomain": "atelierdyakova.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/atelier-dyakova.webp",
+    "sourceLines": []
+  },
+  {
     "id": "902bbefc6e11546f",
     "slug": "atelieranchor",
     "name": "atelierAnchor",
@@ -2269,6 +2336,19 @@
     "sourceLines": [
       429
     ]
+  },
+  {
+    "id": "d9dad3c0314d6b21",
+    "slug": "atelje-altmann",
+    "name": "Ateljé Altmann",
+    "aliases": [],
+    "description": "A design studio working across identity, typography, packaging, editorial design and environmental graphics.",
+    "website": "https://ateljealtmann.com/",
+    "officialDomain": "ateljealtmann.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/atelje-altmann.webp",
+    "sourceLines": []
   },
   {
     "id": "10d05c5326fadeb3",
@@ -2859,6 +2939,19 @@
     "sourceLines": [
       544
     ]
+  },
+  {
+    "id": "007244b75acfe22f",
+    "slug": "base-design",
+    "name": "Base Design",
+    "aliases": [],
+    "description": "A branding studio building distinctive identities and personalities for organizations.",
+    "website": "https://www.basedesign.com/",
+    "officialDomain": "basedesign.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/base-design.webp",
+    "sourceLines": []
   },
   {
     "id": "bc196342d9c8f9e7",
@@ -3529,6 +3622,19 @@
     ]
   },
   {
+    "id": "ec8eb90e20cdfdea",
+    "slug": "blind",
+    "name": "Blind",
+    "aliases": [],
+    "description": "",
+    "website": "https://blind.com/studio/",
+    "officialDomain": "blind.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/blind.webp",
+    "sourceLines": []
+  },
+  {
     "id": "0f27f70d8f0e9e49",
     "slug": "blnk",
     "name": "BLNK",
@@ -3666,6 +3772,19 @@
     "sourceLines": [
       679
     ]
+  },
+  {
+    "id": "5fec4f41e69c64a8",
+    "slug": "bold-decisions",
+    "name": "Bold Decisions",
+    "aliases": [],
+    "description": "An independent type foundry founded and operated by Mads Wildgaard.",
+    "website": "https://bold-decisions.biz/",
+    "officialDomain": "bold-decisions.biz",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/bold-decisions.webp",
+    "sourceLines": []
   },
   {
     "id": "ce95e0ad70d01709",
@@ -3913,6 +4032,25 @@
     ]
   },
   {
+    "id": "8b33f2a9ab869ac5",
+    "slug": "boz-art",
+    "name": "Boz Art",
+    "aliases": [],
+    "description": "A floral design studio creating botanical installations, arrangements and styling for private and commercial clients.",
+    "website": "https://www.bozart.se/",
+    "officialDomain": "bozart.se",
+    "locations": [
+      {
+        "code": "CH",
+        "name": "Switzerland",
+        "flag": "🇨🇭"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/boz-art.webp",
+    "sourceLines": []
+  },
+  {
     "id": "e92741985f1fb313",
     "slug": "brains",
     "name": "Brains",
@@ -3992,6 +4130,19 @@
     ],
     "logo": null,
     "screenshot": "/screenshots/brand-house.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "a34ad01c39211483",
+    "slug": "brand-new-school",
+    "name": "Brand New School",
+    "aliases": [],
+    "description": "A design-driven creative studio helping brands develop their visual voice.",
+    "website": "https://www.brandnewschool.com/",
+    "officialDomain": "brandnewschool.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/brand-new-school.webp",
     "sourceLines": []
   },
   {
@@ -4160,6 +4311,19 @@
     "sourceLines": []
   },
   {
+    "id": "cffb6dcc133724b6",
+    "slug": "british-standard-type",
+    "name": "British Standard Type",
+    "aliases": [],
+    "description": "A type design practice exploring the creative potential of new type technologies.",
+    "website": "https://www.britishstandardtype.xyz/",
+    "officialDomain": "britishstandardtype.xyz",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/british-standard-type.webp",
+    "sourceLines": []
+  },
+  {
     "id": "24650b5395ef50ca",
     "slug": "britweb",
     "name": "britweb",
@@ -4307,6 +4471,19 @@
     ]
   },
   {
+    "id": "1ddf660d00963712",
+    "slug": "buff-motion",
+    "name": "Buff Motion",
+    "aliases": [],
+    "description": "A motion-first creative studio working across illustration, motion graphics, animation and sound.",
+    "website": "https://www.buffmotion.com/",
+    "officialDomain": "buffmotion.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/buff-motion.webp",
+    "sourceLines": []
+  },
+  {
     "id": "a1906d00c0d46f08",
     "slug": "build-in-amsterdam",
     "name": "Build in Amsterdam",
@@ -4409,6 +4586,19 @@
     "sourceLines": [
       789
     ]
+  },
+  {
+    "id": "d2f36d17f977699e",
+    "slug": "bureau-antoine-roux",
+    "name": "Bureau Antoine Roux",
+    "aliases": [],
+    "description": "A creative direction and graphic design practice for art and fashion.",
+    "website": "https://bureauantoineroux.com/",
+    "officialDomain": "bureauantoineroux.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/bureau-antoine-roux.webp",
+    "sourceLines": []
   },
   {
     "id": "ea6730f18bb021dd",
@@ -5547,6 +5737,19 @@
     ]
   },
   {
+    "id": "0027f426b3d91786",
+    "slug": "commercial-type",
+    "name": "Commercial Type",
+    "aliases": [],
+    "description": "A type foundry and design studio creating retail fonts, custom typefaces and visual identities.",
+    "website": "https://commercialtype.com/",
+    "officialDomain": "commercialtype.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/commercial-type.webp",
+    "sourceLines": []
+  },
+  {
     "id": "1a16f0718957cea5",
     "slug": "commission",
     "name": "Commission",
@@ -6147,6 +6350,19 @@
     ]
   },
   {
+    "id": "680daa4b64a57002",
+    "slug": "daniel-carlsten",
+    "name": "Daniel Carlsten",
+    "aliases": [],
+    "description": "An independent creative working across brand identity, graphic design, image-making and illustration.",
+    "website": "https://www.danielcarlsten.com/",
+    "officialDomain": "danielcarlsten.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/daniel-carlsten.webp",
+    "sourceLines": []
+  },
+  {
     "id": "3974b97a92b54489",
     "slug": "dao-design",
     "name": "Dao.Design",
@@ -6293,6 +6509,21 @@
     "sourceLines": [
       1129
     ]
+  },
+  {
+    "id": "b4d3be259dc97c28",
+    "slug": "dedouze",
+    "name": "Dédouze",
+    "aliases": [
+      "Dedouze"
+    ],
+    "description": "The practice of Andry, a 2D and 3D animator, art director and music composer.",
+    "website": "https://dedouze.com/",
+    "officialDomain": "dedouze.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/dedouze.webp",
+    "sourceLines": []
   },
   {
     "id": "284cbb891845a2ca",
@@ -7026,6 +7257,25 @@
     ]
   },
   {
+    "id": "51cd13fc32dbfac7",
+    "slug": "dinamo",
+    "name": "Dinamo",
+    "aliases": [],
+    "description": "A Berlin-based type design studio offering retail and custom typefaces, design software, research and consultancy.",
+    "website": "https://abcdinamo.com/",
+    "officialDomain": "abcdinamo.com",
+    "locations": [
+      {
+        "code": "DE",
+        "name": "Germany",
+        "flag": "🇩🇪"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/dinamo.webp",
+    "sourceLines": []
+  },
+  {
     "id": "ebb6097b9267cc81",
     "slug": "dine",
     "name": "Dine",
@@ -7090,6 +7340,19 @@
     "sourceLines": []
   },
   {
+    "id": "a3485b6efbce3c69",
+    "slug": "displaay",
+    "name": "Displaay",
+    "aliases": [],
+    "description": "An independent type foundry developing retail and custom typefaces.",
+    "website": "https://displaay.net/",
+    "officialDomain": "displaay.net",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/displaay.webp",
+    "sourceLines": []
+  },
+  {
     "id": "d838c0c0954327dd",
     "slug": "displace-agency",
     "name": "Displace Agency",
@@ -7100,6 +7363,21 @@
     "locations": [],
     "logo": null,
     "screenshot": "/screenshots/displace-agency.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "89f8be41d2e0b86a",
+    "slug": "dissembargo",
+    "name": "DissEmbargo",
+    "aliases": [
+      "Dissembargo"
+    ],
+    "description": "A 3D animation, CGI and visual direction studio creating films and digital experiences for brands.",
+    "website": "https://www.dissembargo.com/",
+    "officialDomain": "dissembargo.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/dissembargo.webp",
     "sourceLines": []
   },
   {
@@ -7745,6 +8023,19 @@
     ]
   },
   {
+    "id": "bc85c58cd8c1bc08",
+    "slug": "eastern-rodeo",
+    "name": "Eastern Rodeo",
+    "aliases": [],
+    "description": "A creative studio working across strategy, branding, creative direction, digital design and production.",
+    "website": "https://easternrodeo.co/",
+    "officialDomain": "easternrodeo.co",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/eastern-rodeo.webp",
+    "sourceLines": []
+  },
+  {
     "id": "aeafe534948e60e4",
     "slug": "ebda",
     "name": "Ebda",
@@ -7884,6 +8175,25 @@
     "sourceLines": []
   },
   {
+    "id": "73024766ce7ecfa9",
+    "slug": "edition-studio",
+    "name": "edition.studio",
+    "aliases": [],
+    "description": "A graphic design studio working across art direction, identity, typography, publications, websites and signage.",
+    "website": "https://edition.studio/",
+    "officialDomain": "edition.studio",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/edition-studio.webp",
+    "sourceLines": []
+  },
+  {
     "id": "50c429dd88eb9e5d",
     "slug": "efir-media",
     "name": "EFIR MEDIA",
@@ -8004,6 +8314,19 @@
     "locations": [],
     "logo": null,
     "screenshot": "/screenshots/elixir-studio.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "d12b43ee7f13dc55",
+    "slug": "elodie-fabbri",
+    "name": "Elodie Fabbri",
+    "aliases": [],
+    "description": "An art direction and digital design practice working across websites, e-commerce, luxury and fashion.",
+    "website": "https://elodiefabbri.com/",
+    "officialDomain": "elodiefabbri.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/elodie-fabbri.webp",
     "sourceLines": []
   },
   {
@@ -9184,6 +9507,19 @@
     ]
   },
   {
+    "id": "61274e9f177c71fd",
+    "slug": "fold",
+    "name": "Fold",
+    "aliases": [],
+    "description": "",
+    "website": "https://www.foldstudio.co/",
+    "officialDomain": "foldstudio.co",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/fold.webp",
+    "sourceLines": []
+  },
+  {
     "id": "6eeb580fb030b061",
     "slug": "fold7design",
     "name": "Fold7Design",
@@ -9394,6 +9730,19 @@
     "sourceLines": [
       1634
     ]
+  },
+  {
+    "id": "3b552a5f96ccda4e",
+    "slug": "formula-type",
+    "name": "Formula Type",
+    "aliases": [],
+    "description": "An independent digital type foundry creating and publishing contemporary typefaces.",
+    "website": "https://formulatype.com/",
+    "officialDomain": "formulatype.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/formula-type.webp",
+    "sourceLines": []
   },
   {
     "id": "8058cabaa1f772ab",
@@ -9732,6 +10081,25 @@
     "locations": [],
     "logo": null,
     "screenshot": "/screenshots/front-yard.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "05aab480b0c26668",
+    "slug": "frost",
+    "name": "FROST",
+    "aliases": [],
+    "description": "A UK type foundry designing, publishing and distributing retail and custom typefaces.",
+    "website": "https://www.frostype.xyz/",
+    "officialDomain": "frostype.xyz",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/frost.webp",
     "sourceLines": []
   },
   {
@@ -10083,6 +10451,22 @@
     ]
   },
   {
+    "id": "1021c1ea7e734b77",
+    "slug": "garrett-elizabeth-office",
+    "name": "Garrett Elizabeth Office",
+    "aliases": [
+      "G.E.O.",
+      "Garrett Elizabeth Office / G.E.O."
+    ],
+    "description": "A creative office combining agency and brand-side experience to develop identities and visual communication.",
+    "website": "https://geo-nyc.com/",
+    "officialDomain": "geo-nyc.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/garrett-elizabeth-office.webp",
+    "sourceLines": []
+  },
+  {
     "id": "eabc5e463923e67c",
     "slug": "geex-arts",
     "name": "Geex Arts",
@@ -10238,6 +10622,25 @@
     ]
   },
   {
+    "id": "5610262c7cd01196",
+    "slug": "get-it-studio",
+    "name": "Get It Studio",
+    "aliases": [],
+    "description": "A Swiss design studio focused on 3D design, animation and visual storytelling.",
+    "website": "https://get-it.studio/",
+    "officialDomain": "get-it.studio",
+    "locations": [
+      {
+        "code": "CH",
+        "name": "Switzerland",
+        "flag": "🇨🇭"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/get-it-studio.webp",
+    "sourceLines": []
+  },
+  {
     "id": "da9e04854262b1e5",
     "slug": "ghost-pitcher",
     "name": "Ghost Pitcher",
@@ -10254,6 +10657,19 @@
     ],
     "logo": null,
     "screenshot": "/screenshots/ghost-pitcher.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "0a2a6677540ad150",
+    "slug": "giant-ant",
+    "name": "Giant Ant",
+    "aliases": [],
+    "description": "A creative studio working across art, design, animation and ideas.",
+    "website": "https://www.giantant.ca/",
+    "officialDomain": "giantant.ca",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/giant-ant.webp",
     "sourceLines": []
   },
   {
@@ -10352,6 +10768,32 @@
     ],
     "logo": null,
     "screenshot": "/screenshots/golden.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "0b06617c0f2112ca",
+    "slug": "golden-wolf",
+    "name": "Golden Wolf",
+    "aliases": [
+      "Goldenwolf"
+    ],
+    "description": "An animation studio creating content for global brands from London and New York.",
+    "website": "https://www.goldenwolf.tv/",
+    "officialDomain": "goldenwolf.tv",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      },
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/golden-wolf.webp",
     "sourceLines": []
   },
   {
@@ -10489,6 +10931,19 @@
     "locations": [],
     "logo": null,
     "screenshot": "/screenshots/goons-design.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "59fc6567160e4cfc",
+    "slug": "grace-margetson-studio",
+    "name": "Grace Margetson Studio",
+    "aliases": [],
+    "description": "An independent multidisciplinary practice working across creative direction and brand strategy.",
+    "website": "https://www.gracemargetsonstudio.com/",
+    "officialDomain": "gracemargetsonstudio.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/grace-margetson-studio.webp",
     "sourceLines": []
   },
   {
@@ -11201,6 +11656,19 @@
     ]
   },
   {
+    "id": "8f19c187b3db2924",
+    "slug": "haw-lin-services",
+    "name": "Haw-lin Services",
+    "aliases": [],
+    "description": "A director and photographer duo working across visual storytelling and image-making.",
+    "website": "https://haw-lin-services.com/",
+    "officialDomain": "haw-lin-services.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/haw-lin-services.webp",
+    "sourceLines": []
+  },
+  {
     "id": "dbd83301aac43336",
     "slug": "hazey",
     "name": "Hazey",
@@ -11217,6 +11685,25 @@
     ],
     "logo": null,
     "screenshot": "/screenshots/hazey.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "6e2e42808bf48585",
+    "slug": "hb-type",
+    "name": "HB Type",
+    "aliases": [],
+    "description": "A digital type foundry and collaborative design studio run by Hyo Kwon and Berton Hasebe.",
+    "website": "https://www.hbtype.com/",
+    "officialDomain": "hbtype.com",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/hb-type.webp",
     "sourceLines": []
   },
   {
@@ -11702,6 +12189,25 @@
     "locations": [],
     "logo": null,
     "screenshot": "/screenshots/highfulminds.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "5daa8e5be178e982",
+    "slug": "hobbes",
+    "name": "Hobbes",
+    "aliases": [],
+    "description": "A Detroit-based motion design studio working on digital products and emerging technologies.",
+    "website": "https://www.hobbes.work/",
+    "officialDomain": "hobbes.work",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/hobbes.webp",
     "sourceLines": []
   },
   {
@@ -12987,6 +13493,19 @@
     "sourceLines": []
   },
   {
+    "id": "33dba25107f2dde0",
+    "slug": "jordi-van-der-oord",
+    "name": "Jordi van der Oord",
+    "aliases": [],
+    "description": "An independent creative director focused on spatial and digital experiences for brands.",
+    "website": "https://jordivanderoord.com/",
+    "officialDomain": "jordivanderoord.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/jordi-van-der-oord.webp",
+    "sourceLines": []
+  },
+  {
     "id": "952c4699f851236f",
     "slug": "jords",
     "name": "Jords",
@@ -13081,6 +13600,19 @@
       2239,
       2244
     ]
+  },
+  {
+    "id": "32644e3606943f62",
+    "slug": "kaboom",
+    "name": "Kaboom",
+    "aliases": [],
+    "description": "",
+    "website": "https://www.kaboomhq.com/",
+    "officialDomain": "kaboomhq.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/kaboom.webp",
+    "sourceLines": []
   },
   {
     "id": "f2e30a9d237a8ea3",
@@ -13831,9 +14363,7 @@
     "id": "441be4a3199eb983",
     "slug": "lance",
     "name": "Lance",
-    "aliases": [
-      "Landscape"
-    ],
+    "aliases": [],
     "description": "Branding & Custom Wormdarks",
     "website": "https://lancedraws.com/",
     "officialDomain": "lancedraws.com",
@@ -13871,6 +14401,19 @@
     "sourceLines": [
       2384
     ]
+  },
+  {
+    "id": "bdc7398dd2f3d58d",
+    "slug": "landscape",
+    "name": "Landscape",
+    "aliases": [],
+    "description": "A brand strategy and design studio shaping identities and experiences in service of social good.",
+    "website": "https://thisislandscape.com/",
+    "officialDomain": "thisislandscape.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/landscape.webp",
+    "sourceLines": []
   },
   {
     "id": "7eaea73faabf9ded",
@@ -14622,6 +15165,19 @@
     "sourceLines": []
   },
   {
+    "id": "bcd7d40f3b7436dd",
+    "slug": "lotta-nieminen",
+    "name": "Lotta Nieminen",
+    "aliases": [],
+    "description": "A design practice creating visual identities, print design and websites for brands.",
+    "website": "https://www.lottanieminen.com/",
+    "officialDomain": "lottanieminen.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/lotta-nieminen.webp",
+    "sourceLines": []
+  },
+  {
     "id": "48fb6510cc8ab490",
     "slug": "loud",
     "name": "LOUD",
@@ -14894,6 +15450,19 @@
     "sourceLines": [
       2563
     ]
+  },
+  {
+    "id": "7ca3b8962465a75c",
+    "slug": "m-giesser",
+    "name": "M. Giesser",
+    "aliases": [],
+    "description": "A design practice working across communication, graphic design and strategy.",
+    "website": "https://www.mgiesser.com/",
+    "officialDomain": "mgiesser.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/m-giesser.webp",
+    "sourceLines": []
   },
   {
     "id": "59a59de8ffa9fd28",
@@ -18070,6 +18639,25 @@
     ]
   },
   {
+    "id": "5a2532a2371b1b61",
+    "slug": "noodle",
+    "name": "Noodle",
+    "aliases": [],
+    "description": "A boutique motion design and animation studio working across graphics, illustration and interactive motion.",
+    "website": "https://www.noodleanimation.com/",
+    "officialDomain": "noodleanimation.com",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/noodle.webp",
+    "sourceLines": []
+  },
+  {
     "id": "9ed3b370e2d9b588",
     "slug": "noomo",
     "name": "Noomo",
@@ -19391,6 +19979,19 @@
     ]
   },
   {
+    "id": "6ed6ff016027309a",
+    "slug": "ordinal",
+    "name": "Ordinal",
+    "aliases": [],
+    "description": "",
+    "website": "https://ordinal.studio/",
+    "officialDomain": "ordinal.studio",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/ordinal.webp",
+    "sourceLines": []
+  },
+  {
     "id": "a350280fcea40dec",
     "slug": "ordinary-folk",
     "name": "Ordinary Folk",
@@ -19959,6 +20560,19 @@
     "locations": [],
     "logo": null,
     "screenshot": "/screenshots/pamidor-design-studio.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "e0ae38d580410e54",
+    "slug": "pan-studio",
+    "name": "Pan Studio",
+    "aliases": [],
+    "description": "",
+    "website": "https://pan-motion.com/",
+    "officialDomain": "pan-motion.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/pan-studio.webp",
     "sourceLines": []
   },
   {
@@ -20580,6 +21194,21 @@
     ]
   },
   {
+    "id": "2a21fa46ca65a686",
+    "slug": "pixar-animation-studios",
+    "name": "Pixar Animation Studios",
+    "aliases": [
+      "Pixar"
+    ],
+    "description": "An animation studio creating feature films, shorts and series, with a focus on storytelling and technology.",
+    "website": "https://www.pixar.com/",
+    "officialDomain": "pixar.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/pixar-animation-studios.webp",
+    "sourceLines": []
+  },
+  {
     "id": "e457e05e0c77fdfd",
     "slug": "pixel-melbourne",
     "name": "Pixel Melbourne",
@@ -20784,6 +21413,19 @@
     "sourceLines": [
       3653
     ]
+  },
+  {
+    "id": "2acc6f5e845203e4",
+    "slug": "playd",
+    "name": "Playd",
+    "aliases": [],
+    "description": "A creative and CGI studio developing visual stories through 3D graphics and digital art.",
+    "website": "https://www.playd.studio/",
+    "officialDomain": "playd.studio",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/playd.webp",
+    "sourceLines": []
   },
   {
     "id": "f44b5eddc9e64f5d",
@@ -21334,6 +21976,38 @@
     "sourceLines": [
       3748
     ]
+  },
+  {
+    "id": "f52bdb8a817ce8dd",
+    "slug": "psyop",
+    "name": "Psyop",
+    "aliases": [],
+    "description": "An independent, artist-led studio collective working across craft, animation and visual storytelling.",
+    "website": "https://psyop.com/",
+    "officialDomain": "psyop.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/psyop.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "7d5b58562a6f021a",
+    "slug": "public-image",
+    "name": "Public Image",
+    "aliases": [],
+    "description": "A creative direction and design practice for brands.",
+    "website": "https://public-image.co/",
+    "officialDomain": "public-image.co",
+    "locations": [
+      {
+        "code": "SE",
+        "name": "Sweden",
+        "flag": "🇸🇪"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/public-image.webp",
+    "sourceLines": []
   },
   {
     "id": "80e4aa7b99b7e096",
@@ -22097,6 +22771,19 @@
     ]
   },
   {
+    "id": "818fe82a4cd9bf6a",
+    "slug": "regular-practice",
+    "name": "Regular Practice",
+    "aliases": [],
+    "description": "A branding studio working across visual identities, creative direction and brand strategy.",
+    "website": "https://regularpractice.co.uk/",
+    "officialDomain": "regularpractice.co.uk",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/regular-practice.webp",
+    "sourceLines": []
+  },
+  {
     "id": "1b7683fdfb98c471",
     "slug": "reinostudio",
     "name": "Reinostudio",
@@ -22219,6 +22906,25 @@
     "sourceLines": [
       3918
     ]
+  },
+  {
+    "id": "00ea5c83a2fbe1b9",
+    "slug": "republique-studio",
+    "name": "République Studio",
+    "aliases": [],
+    "description": "An art direction and graphic design studio creating identities, websites, publications and signage.",
+    "website": "https://www.republique.studio/",
+    "officialDomain": "republique.studio",
+    "locations": [
+      {
+        "code": "FR",
+        "name": "France",
+        "flag": "🇫🇷"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/republique-studio.webp",
+    "sourceLines": []
   },
   {
     "id": "22869bcb4ad3cb28",
@@ -22601,6 +23307,21 @@
     "sourceLines": []
   },
   {
+    "id": "8f61a0d06f2f2f75",
+    "slug": "rocketpanda",
+    "name": "Rocketpanda",
+    "aliases": [
+      "The Rocket Panda"
+    ],
+    "description": "An animation studio specializing in motion graphics, character animation, illustration and 3D.",
+    "website": "https://www.therocketpanda.com/",
+    "officialDomain": "therocketpanda.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/rocketpanda.webp",
+    "sourceLines": []
+  },
+  {
     "id": "3b99ab05136868d0",
     "slug": "rogue-studio",
     "name": "Rogue Studio",
@@ -22620,6 +23341,19 @@
     "sourceLines": [
       3983
     ]
+  },
+  {
+    "id": "4c5f8a11b3531a6d",
+    "slug": "rojocaballo",
+    "name": "Rojocaballo",
+    "aliases": [],
+    "description": "",
+    "website": "https://rojocaballo.com/",
+    "officialDomain": "rojocaballo.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/rojocaballo.webp",
+    "sourceLines": []
   },
   {
     "id": "53317d4323dadb56",
@@ -23190,6 +23924,19 @@
     "sourceLines": []
   },
   {
+    "id": "04406e752cdba77c",
+    "slug": "schick-toikka",
+    "name": "Schick Toikka",
+    "aliases": [],
+    "description": "An independent type foundry and graphic design studio founded by Florian Schick and Lauri Toikka.",
+    "website": "https://www.schick-toikka.com/",
+    "officialDomain": "schick-toikka.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/schick-toikka.webp",
+    "sourceLines": []
+  },
+  {
     "id": "c4a3ca89639ebc94",
     "slug": "sciencewerk",
     "name": "Sciencewerk",
@@ -23363,6 +24110,19 @@
     ]
   },
   {
+    "id": "c1895b6211050fa5",
+    "slug": "services-generaux",
+    "name": "Services Généraux",
+    "aliases": [],
+    "description": "A creative image-making studio working across photography, film, CGI and campaigns.",
+    "website": "https://generaux.services/",
+    "officialDomain": "generaux.services",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/services-generaux.webp",
+    "sourceLines": []
+  },
+  {
     "id": "d86819dab1ed4f7a",
     "slug": "set-studio",
     "name": "Set Studio",
@@ -23403,6 +24163,19 @@
     "sourceLines": [
       4128
     ]
+  },
+  {
+    "id": "c95453c6494a4bdd",
+    "slug": "sharp-type",
+    "name": "Sharp Type",
+    "aliases": [],
+    "description": "A type foundry creating retail and custom typefaces for brands and designers.",
+    "website": "https://www.sharptype.co/",
+    "officialDomain": "sharptype.co",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/sharp-type.webp",
+    "sourceLines": []
   },
   {
     "id": "6cff8b6ec1d0a415",
@@ -23856,6 +24629,25 @@
     "sourceLines": []
   },
   {
+    "id": "b052bd8dc0aec1f4",
+    "slug": "sm-type-foundry",
+    "name": "SM Type Foundry",
+    "aliases": [],
+    "description": "A digital type foundry designing and distributing contemporary retail and custom fonts.",
+    "website": "https://s-m.nu/",
+    "officialDomain": "s-m.nu",
+    "locations": [
+      {
+        "code": "NL",
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/sm-type-foundry.webp",
+    "sourceLines": []
+  },
+  {
     "id": "8a54a10856496992",
     "slug": "small",
     "name": "Small*",
@@ -24041,6 +24833,19 @@
     ],
     "logo": null,
     "screenshot": "/screenshots/society-studios.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "3a978ba1a6d9ea28",
+    "slug": "sociotype",
+    "name": "Sociotype",
+    "aliases": [],
+    "description": "A design-led type foundry creating retail and custom fonts for print and digital media.",
+    "website": "https://socio-type.com/",
+    "officialDomain": "socio-type.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/sociotype.webp",
     "sourceLines": []
   },
   {
@@ -24587,6 +25392,25 @@
     ]
   },
   {
+    "id": "cf6aad76c984b598",
+    "slug": "state-design",
+    "name": "State Design",
+    "aliases": [],
+    "description": "A design and animation studio working across visual storytelling and creative production.",
+    "website": "https://statedesign.tv/",
+    "officialDomain": "statedesign.tv",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/state-design.webp",
+    "sourceLines": []
+  },
+  {
     "id": "3fe35bbd72aefd4f",
     "slug": "stay-in-touch",
     "name": "Stay In Touch",
@@ -24606,6 +25430,19 @@
     "sourceLines": [
       4318
     ]
+  },
+  {
+    "id": "7b00cbfeef0dea6c",
+    "slug": "steelworks",
+    "name": "Steelworks",
+    "aliases": [],
+    "description": "A creative studio helping brands develop bold ideas through design, craft and technology.",
+    "website": "https://www.steelworks.studio/",
+    "officialDomain": "steelworks.studio",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/steelworks.webp",
+    "sourceLines": []
   },
   {
     "id": "a949704bf0bf160f",
@@ -24812,6 +25649,19 @@
     ]
   },
   {
+    "id": "d278ac7bcd28693c",
+    "slug": "studio-albin-holmqvist",
+    "name": "Studio Albin Holmqvist",
+    "aliases": [],
+    "description": "A design studio working with global brands and cultural initiatives in film, music and the arts.",
+    "website": "https://studioalbinholmqvist.com/",
+    "officialDomain": "studioalbinholmqvist.com",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/studio-albin-holmqvist.webp",
+    "sourceLines": []
+  },
+  {
     "id": "7ab6049b489a3d5f",
     "slug": "studio-apply",
     "name": "Studio Apply",
@@ -25010,6 +25860,19 @@
     "sourceLines": [
       4408
     ]
+  },
+  {
+    "id": "9d1ddea1b711913e",
+    "slug": "studio-furore",
+    "name": "Studio Furore",
+    "aliases": [],
+    "description": "A creative studio working across brand concepts, design and production.",
+    "website": "https://studiofurore.at/",
+    "officialDomain": "studiofurore.at",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/studio-furore.webp",
+    "sourceLines": []
   },
   {
     "id": "a77caca1fdc883b2",
@@ -25560,6 +26423,19 @@
     "locations": [],
     "logo": null,
     "screenshot": "/screenshots/studio-tyrsa.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "d1a916aaaa293a0c",
+    "slug": "studio-wan",
+    "name": "STUDIO WAN",
+    "aliases": [],
+    "description": "The practice of designer and creative director Tim Wan, working across art, culture, fashion and lifestyle.",
+    "website": "https://www.studiowan.uk/",
+    "officialDomain": "studiowan.uk",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/studio-wan.webp",
     "sourceLines": []
   },
   {
@@ -26267,6 +27143,19 @@
     "sourceLines": []
   },
   {
+    "id": "731cfa7a7e1d3905",
+    "slug": "tactyc",
+    "name": "Tactyc",
+    "aliases": [],
+    "description": "A hybrid creative agency working at the intersection of creative direction and brand strategy.",
+    "website": "https://www.tactyc.studio/",
+    "officialDomain": "tactyc.studio",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/tactyc.webp",
+    "sourceLines": []
+  },
+  {
     "id": "e711e0cf55e7b905",
     "slug": "takeitsro",
     "name": "Takeitsro",
@@ -26588,6 +27477,19 @@
     ]
   },
   {
+    "id": "3cf2a8e326d6db7e",
+    "slug": "the-company-you-keep",
+    "name": "The Company You Keep",
+    "aliases": [],
+    "description": "A design practice working on commissioned and self-directed projects across luxury, hospitality and the arts.",
+    "website": "https://www.tcyk.com.au/",
+    "officialDomain": "tcyk.com.au",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/the-company-you-keep.webp",
+    "sourceLines": []
+  },
+  {
     "id": "9bca2e267a08767a",
     "slug": "the-couch",
     "name": "The Couch",
@@ -26607,6 +27509,19 @@
     "sourceLines": [
       4693
     ]
+  },
+  {
+    "id": "0cdc60b3ffd2ce4b",
+    "slug": "the-furrow",
+    "name": "The Furrow",
+    "aliases": [],
+    "description": "A creative studio using animation, illustration and modular design to explain and express ideas.",
+    "website": "https://thefurrow.tv/",
+    "officialDomain": "thefurrow.tv",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/the-furrow.webp",
+    "sourceLines": []
   },
   {
     "id": "54f4741ee902a819",
@@ -26737,6 +27652,40 @@
     ],
     "logo": null,
     "screenshot": "/screenshots/the-matter-of-design.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "516b668684c87179",
+    "slug": "the-mill",
+    "name": "The Mill",
+    "aliases": [],
+    "description": "A global creative studio delivering visual effects and integrated production for brands, film and series.",
+    "website": "https://www.themill.com/",
+    "officialDomain": "themill.com",
+    "locations": [
+      {
+        "code": "BE",
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      {
+        "code": "FR",
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      },
+      {
+        "code": "KR",
+        "name": "South Korea",
+        "flag": "🇰🇷"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/the-mill.webp",
     "sourceLines": []
   },
   {
@@ -27300,6 +28249,25 @@
     ]
   },
   {
+    "id": "2b82187c93ca8492",
+    "slug": "tino-nyman",
+    "name": "Tino Nyman",
+    "aliases": [],
+    "description": "An independent designer focused on creative direction and graphic design.",
+    "website": "https://tinonyman.com/",
+    "officialDomain": "tinonyman.com",
+    "locations": [
+      {
+        "code": "FI",
+        "name": "Finland",
+        "flag": "🇫🇮"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/tino-nyman.webp",
+    "sourceLines": []
+  },
+  {
     "id": "48a7b2be35393558",
     "slug": "tinywins",
     "name": "TinyWins",
@@ -27705,6 +28673,25 @@
     "sourceLines": [
       4893
     ]
+  },
+  {
+    "id": "bb3c595aa5a9c226",
+    "slug": "turnislefthome",
+    "name": "Turnislefthome",
+    "aliases": [],
+    "description": "The independent studio of 3D illustrator Timothy J. Reynolds.",
+    "website": "https://turnislefthome.com/",
+    "officialDomain": "turnislefthome.com",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/turnislefthome.webp",
+    "sourceLines": []
   },
   {
     "id": "155a671496cae323",
@@ -28681,6 +29668,19 @@
     "sourceLines": []
   },
   {
+    "id": "38e7a81ee34a9378",
+    "slug": "vectar",
+    "name": "Vectar",
+    "aliases": [],
+    "description": "",
+    "website": "https://www.vectar.agency/",
+    "officialDomain": "vectar.agency",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/vectar.webp",
+    "sourceLines": []
+  },
+  {
     "id": "3ec4a7bb54bc5e5c",
     "slug": "velvele",
     "name": "Velvele",
@@ -29228,6 +30228,25 @@
     "locations": [],
     "logo": null,
     "screenshot": "/screenshots/w.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "4cfe7b4f19853967",
+    "slug": "walk-a-thought",
+    "name": "Walk A Thought",
+    "aliases": [],
+    "description": "A design studio creating visual identities, websites, campaigns and printed matter.",
+    "website": "https://walkathought.com/",
+    "officialDomain": "walkathought.com",
+    "locations": [
+      {
+        "code": "FR",
+        "name": "France",
+        "flag": "🇫🇷"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/walk-a-thought.webp",
     "sourceLines": []
   },
   {
@@ -30234,6 +31253,40 @@
     ]
   },
   {
+    "id": "a9acff86a5fd4d55",
+    "slug": "oyedrops",
+    "name": "Øyedrops",
+    "aliases": [
+      "Oyedrops"
+    ],
+    "description": "A motion-first creative studio working across design and animation.",
+    "website": "https://www.oyedrops.studio/",
+    "officialDomain": "oyedrops.studio",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/oyedrops.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "c501f2e623b619d5",
+    "slug": "yellow-dog-party",
+    "name": "Yellow Dog Party",
+    "aliases": [],
+    "description": "A boutique animation, production and post-production studio based in Tampa, Florida.",
+    "website": "https://www.yellowdogparty.com/work",
+    "officialDomain": "yellowdogparty.com",
+    "locations": [
+      {
+        "code": "US",
+        "name": "United States",
+        "flag": "🇺🇸"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/yellow-dog-party.webp",
+    "sourceLines": []
+  },
+  {
     "id": "a8dcf47543b6ad2f",
     "slug": "yellow-peach",
     "name": "Yellow Peach",
@@ -30523,6 +31576,25 @@
     ]
   },
   {
+    "id": "066f5c68e45e1203",
+    "slug": "zak-group",
+    "name": "Zak Group",
+    "aliases": [],
+    "description": "A design office focused on identity and creative direction for culture, institutions and brands.",
+    "website": "https://www.zak.group/",
+    "officialDomain": "zak.group",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/zak-group.webp",
+    "sourceLines": []
+  },
+  {
     "id": "bcdd1ccd911c4baf",
     "slug": "zeeframes",
     "name": "ZeeFrames",
@@ -30679,6 +31751,27 @@
     ],
     "logo": null,
     "screenshot": "/screenshots/zoomo.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "b7125d66b1824ad0",
+    "slug": "zunc",
+    "name": "Zünc",
+    "aliases": [
+      "Zunc"
+    ],
+    "description": "A research-driven 3D creative studio creating product films, mixed-media productions and campaign imagery.",
+    "website": "https://www.zunc.studio/",
+    "officialDomain": "zunc.studio",
+    "locations": [
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
+      }
+    ],
+    "logo": null,
+    "screenshot": "/screenshots/zunc.webp",
     "sourceLines": []
   },
   {

@@ -1,0 +1,636 @@
+{
+  "source": "https://motionimo.xyz/studios",
+  "checkedAt": "2026-10-08",
+  "studios": [
+    {
+      "name": "25AH",
+      "sourceUrl": "https://www.25ah.se",
+      "agencySlug": "25ah"
+    },
+    {
+      "name": "A Practice For Everyday Life",
+      "sourceUrl": "http://www.apracticeforeverydaylife.com",
+      "agencySlug": "a-practice-for-everyday-life"
+    },
+    {
+      "name": "Actual Source",
+      "sourceUrl": "https://actualsource.work",
+      "agencySlug": "actual-source"
+    },
+    {
+      "name": "Alex Hunting Studio",
+      "sourceUrl": "https://alexhunting.co.uk",
+      "agencySlug": "alex-hunting-studio"
+    },
+    {
+      "name": "Alias",
+      "sourceUrl": "https://shorturl.at/gGQV4",
+      "agencySlug": "alias"
+    },
+    {
+      "name": "All Purpose",
+      "sourceUrl": "https://allpurpose.studio",
+      "agencySlug": "all-purpose"
+    },
+    {
+      "name": "An Open Understanding",
+      "sourceUrl": "https://www.anopenunderstanding.com",
+      "agencySlug": "an-open-understanding"
+    },
+    {
+      "name": "Ania et Lucie",
+      "sourceUrl": "https://aniaetlucie.com",
+      "agencySlug": "ania-et-lucie"
+    },
+    {
+      "name": "Antinomy Studio",
+      "sourceUrl": "https://antinomy.studio",
+      "agencySlug": "antinomy-studio"
+    },
+    {
+      "name": "ANY OTHER NAME",
+      "sourceUrl": "https://www.anyother.name",
+      "agencySlug": "anyothername"
+    },
+    {
+      "name": "Atelier Dyakova",
+      "sourceUrl": "https://atelierdyakova.com",
+      "agencySlug": "atelier-dyakova"
+    },
+    {
+      "name": "Ateljé Altmann",
+      "sourceUrl": "https://ateljealtmann.com",
+      "agencySlug": "atelje-altmann"
+    },
+    {
+      "name": "Bakken & Bæck",
+      "sourceUrl": "https://bakkenbaeck.com",
+      "agencySlug": "bakken-and-b-ck"
+    },
+    {
+      "name": "Base Design",
+      "sourceUrl": "https://www.basedesign.com",
+      "agencySlug": "base-design"
+    },
+    {
+      "name": "Bedow",
+      "sourceUrl": "https://www.bedow.se",
+      "agencySlug": "bedow"
+    },
+    {
+      "name": "Bito",
+      "sourceUrl": "https://bito.tv/",
+      "agencySlug": "bito"
+    },
+    {
+      "name": "Blind",
+      "sourceUrl": "https://blind.com/studio/",
+      "agencySlug": "blind"
+    },
+    {
+      "name": "Bold Decisions",
+      "sourceUrl": "https://bold-decisions.biz",
+      "agencySlug": "bold-decisions"
+    },
+    {
+      "name": "Boz Art",
+      "sourceUrl": "https://www.bozart.se",
+      "agencySlug": "boz-art"
+    },
+    {
+      "name": "Brand New School",
+      "sourceUrl": "https://www.brandnewschool.com/",
+      "agencySlug": "brand-new-school"
+    },
+    {
+      "name": "British Standard Type",
+      "sourceUrl": "https://www.britishstandardtype.xyz",
+      "agencySlug": "british-standard-type"
+    },
+    {
+      "name": "Brunswicker Studio",
+      "sourceUrl": "https://www.brunswicker.dk",
+      "agencySlug": "brunswicker-studio"
+    },
+    {
+      "name": "Buck",
+      "sourceUrl": "https://buck.co/",
+      "agencySlug": "buck"
+    },
+    {
+      "name": "Buff Motion",
+      "sourceUrl": "https://www.buffmotion.com/",
+      "agencySlug": "buff-motion"
+    },
+    {
+      "name": "Bureau Antoine Roux",
+      "sourceUrl": "https://bureauantoineroux.com",
+      "agencySlug": "bureau-antoine-roux"
+    },
+    {
+      "name": "Christopher Doyle & Co",
+      "sourceUrl": "https://christopherdoyle.co",
+      "agencySlug": "christopher-doyle"
+    },
+    {
+      "name": "Clim Studio",
+      "sourceUrl": "https://studioclim.com/",
+      "agencySlug": "clim-studio"
+    },
+    {
+      "name": "Commercial Type",
+      "sourceUrl": "https://commercialtype.com",
+      "agencySlug": "commercial-type"
+    },
+    {
+      "name": "Commission",
+      "sourceUrl": "https://commission.studio",
+      "agencySlug": "commission"
+    },
+    {
+      "name": "Concrete",
+      "sourceUrl": "https://www.concrete.ca",
+      "agencySlug": "concrete"
+    },
+    {
+      "name": "Daniel Carlsten",
+      "sourceUrl": "https://www.danielcarlsten.com",
+      "agencySlug": "daniel-carlsten"
+    },
+    {
+      "name": "Dedouze",
+      "sourceUrl": "https://dedouze.com/",
+      "agencySlug": "dedouze"
+    },
+    {
+      "name": "Deutsche & Japaner",
+      "sourceUrl": "https://deutscheundjapaner.com",
+      "agencySlug": "deutsche-and-japaner"
+    },
+    {
+      "name": "Dinamo",
+      "sourceUrl": "https://abcdinamo.com",
+      "agencySlug": "dinamo"
+    },
+    {
+      "name": "Displaay",
+      "sourceUrl": "https://displaay.net",
+      "agencySlug": "displaay"
+    },
+    {
+      "name": "Dissembargo",
+      "sourceUrl": "https://www.dissembargo.com/",
+      "agencySlug": "dissembargo"
+    },
+    {
+      "name": "DoThings",
+      "sourceUrl": "https://www.dothingsnyc.com",
+      "agencySlug": "dothings"
+    },
+    {
+      "name": "DutchScot",
+      "sourceUrl": "https://dutch.scot",
+      "agencySlug": "dutchscot"
+    },
+    {
+      "name": "Eastern Rodeo",
+      "sourceUrl": "https://easternrodeo.co",
+      "agencySlug": "eastern-rodeo"
+    },
+    {
+      "name": "edition.studio",
+      "sourceUrl": "https://edition.studio",
+      "agencySlug": "edition-studio"
+    },
+    {
+      "name": "Elodie Fabbri",
+      "sourceUrl": "http://elodiefabbri.com",
+      "agencySlug": "elodie-fabbri"
+    },
+    {
+      "name": "EST+6",
+      "sourceUrl": "https://estplus6.com",
+      "agencySlug": "est-6"
+    },
+    {
+      "name": "Fold",
+      "sourceUrl": "https://www.foldstudio.co",
+      "agencySlug": "fold"
+    },
+    {
+      "name": "Formula Type",
+      "sourceUrl": "https://www.formulatype.com",
+      "agencySlug": "formula-type"
+    },
+    {
+      "name": "FROST",
+      "sourceUrl": "https://www.frostype.xyz",
+      "agencySlug": "frost"
+    },
+    {
+      "name": "Garrett Elizabeth Office / G.E.O.",
+      "sourceUrl": "http://geo-nyc.com",
+      "agencySlug": "garrett-elizabeth-office"
+    },
+    {
+      "name": "Get It Studio",
+      "sourceUrl": "https://get-it.studio/",
+      "agencySlug": "get-it-studio"
+    },
+    {
+      "name": "Giant Ant",
+      "sourceUrl": "https://giantant.ca/",
+      "agencySlug": "giant-ant"
+    },
+    {
+      "name": "Goldenwolf",
+      "sourceUrl": "https://www.goldenwolf.tv/",
+      "agencySlug": "golden-wolf"
+    },
+    {
+      "name": "Grace Margetson Studio",
+      "sourceUrl": "https://www.gracemargetsonstudio.com",
+      "agencySlug": "grace-margetson-studio"
+    },
+    {
+      "name": "Gunner",
+      "sourceUrl": "https://www.gunner.work/",
+      "agencySlug": "gunner"
+    },
+    {
+      "name": "Haw-lin Services",
+      "sourceUrl": "https://haw-lin-services.com",
+      "agencySlug": "haw-lin-services"
+    },
+    {
+      "name": "HB Type",
+      "sourceUrl": "https://www.hbtype.com",
+      "agencySlug": "hb-type"
+    },
+    {
+      "name": "Hobbes",
+      "sourceUrl": "https://www.hobbes.work/",
+      "agencySlug": "hobbes"
+    },
+    {
+      "name": "Hugo & Marie",
+      "sourceUrl": "https://hugoandmarie.com",
+      "agencySlug": "hugo-and-marie"
+    },
+    {
+      "name": "Hype Type Studio",
+      "sourceUrl": "https://hypetype.studio",
+      "agencySlug": "hype-type-studio"
+    },
+    {
+      "name": "Instrument",
+      "sourceUrl": "https://www.instrument.com",
+      "agencySlug": "instrument"
+    },
+    {
+      "name": "International Magic",
+      "sourceUrl": "https://intmagic.com",
+      "agencySlug": "international-magic"
+    },
+    {
+      "name": "Jordi van der Oord",
+      "sourceUrl": "https://jordivanderoord.com",
+      "agencySlug": "jordi-van-der-oord"
+    },
+    {
+      "name": "Kaboom",
+      "sourceUrl": "https://www.kaboomhq.com/",
+      "agencySlug": "kaboom"
+    },
+    {
+      "name": "Koto",
+      "sourceUrl": "https://koto.studio/",
+      "agencySlug": "koto"
+    },
+    {
+      "name": "Landscape",
+      "sourceUrl": "https://thisislandscape.com",
+      "agencySlug": "landscape"
+    },
+    {
+      "name": "Lotta Nieminen",
+      "sourceUrl": "https://www.lottanieminen.com",
+      "agencySlug": "lotta-nieminen"
+    },
+    {
+      "name": "M. Giesser",
+      "sourceUrl": "https://www.mgiesser.com",
+      "agencySlug": "m-giesser"
+    },
+    {
+      "name": "Media.Work",
+      "sourceUrl": "https://media.work/",
+      "agencySlug": "media-work"
+    },
+    {
+      "name": "MetaLab",
+      "sourceUrl": "https://www.metalab.com/",
+      "agencySlug": "metalab"
+    },
+    {
+      "name": "Moniker",
+      "sourceUrl": "https://monikersf.com",
+      "agencySlug": "moniker"
+    },
+    {
+      "name": "More And More",
+      "sourceUrl": "https://moreandmoreltd.com",
+      "agencySlug": "more-and-more"
+    },
+    {
+      "name": "Mouthwash Studio",
+      "sourceUrl": "https://mouthwash.studio",
+      "agencySlug": "mouthwash-studio"
+    },
+    {
+      "name": "Multi Form",
+      "sourceUrl": "https://www.multi-form.it",
+      "agencySlug": "multi-form"
+    },
+    {
+      "name": "Never Sit Still",
+      "sourceUrl": "https://neversitstill.com/",
+      "agencySlug": "never-sit-still"
+    },
+    {
+      "name": "Noodle",
+      "sourceUrl": "https://www.noodleanimation.com/",
+      "agencySlug": "noodle"
+    },
+    {
+      "name": "Norgram",
+      "sourceUrl": "https://www.norgram.co",
+      "agencySlug": "norgram"
+    },
+    {
+      "name": "Not Real",
+      "sourceUrl": "https://notreal.tv/",
+      "agencySlug": "not-real"
+    },
+    {
+      "name": "Oddfellows",
+      "sourceUrl": "https://oddfellows.tv/",
+      "agencySlug": "oddfellows"
+    },
+    {
+      "name": "OlssønBarbieri",
+      "sourceUrl": "https://olssonbarbieri.com",
+      "agencySlug": "olss-n-barbieri"
+    },
+    {
+      "name": "OMSE",
+      "sourceUrl": "https://omse.co",
+      "agencySlug": "omse"
+    },
+    {
+      "name": "Ordinal",
+      "sourceUrl": "https://ordinal.studio/",
+      "agencySlug": "ordinal"
+    },
+    {
+      "name": "Ordinary Folk",
+      "sourceUrl": "https://www.ordinaryfolk.co/",
+      "agencySlug": "ordinary-folk"
+    },
+    {
+      "name": "Oyedrops",
+      "sourceUrl": "https://www.oyedrops.studio/",
+      "agencySlug": "oyedrops"
+    },
+    {
+      "name": "Pan Studio",
+      "sourceUrl": "https://pan-motion.com/",
+      "agencySlug": "pan-studio"
+    },
+    {
+      "name": "Pixar",
+      "sourceUrl": "https://www.pixar.com/",
+      "agencySlug": "pixar-animation-studios"
+    },
+    {
+      "name": "Playd",
+      "sourceUrl": "https://www.playd.studio/",
+      "agencySlug": "playd"
+    },
+    {
+      "name": "Polar",
+      "sourceUrl": "https://polar.ltda/",
+      "agencySlug": "polar"
+    },
+    {
+      "name": "Porto Rocha",
+      "sourceUrl": "https://portorocha.com",
+      "agencySlug": "porto-rocha"
+    },
+    {
+      "name": "Psyop",
+      "sourceUrl": "https://psyop.com/",
+      "agencySlug": "psyop"
+    },
+    {
+      "name": "Public Image",
+      "sourceUrl": "https://public-image.co",
+      "agencySlug": "public-image"
+    },
+    {
+      "name": "Random Studio",
+      "sourceUrl": "https://random.studio",
+      "agencySlug": "random-studio"
+    },
+    {
+      "name": "Regular Practice",
+      "sourceUrl": "https://www.regularpractice.co.uk",
+      "agencySlug": "regular-practice"
+    },
+    {
+      "name": "République Studio",
+      "sourceUrl": "https://www.republique.studio",
+      "agencySlug": "republique-studio"
+    },
+    {
+      "name": "Rojocaballo",
+      "sourceUrl": "https://rojocaballo.com/",
+      "agencySlug": "rojocaballo"
+    },
+    {
+      "name": "Schick Toikka",
+      "sourceUrl": "https://www.schick-toikka.com",
+      "agencySlug": "schick-toikka"
+    },
+    {
+      "name": "Services Généraux",
+      "sourceUrl": "https://generaux.services",
+      "agencySlug": "services-generaux"
+    },
+    {
+      "name": "Sharp Type",
+      "sourceUrl": "https://www.sharptype.co",
+      "agencySlug": "sharp-type"
+    },
+    {
+      "name": "Six",
+      "sourceUrl": "https://madebysix.com",
+      "agencySlug": "six"
+    },
+    {
+      "name": "SM Type Foundry",
+      "sourceUrl": "https://s-m.nu",
+      "agencySlug": "sm-type-foundry"
+    },
+    {
+      "name": "Sociotype",
+      "sourceUrl": "https://socio-type.com",
+      "agencySlug": "sociotype"
+    },
+    {
+      "name": "Some Days",
+      "sourceUrl": "https://www.somedays.co",
+      "agencySlug": "some-days"
+    },
+    {
+      "name": "Spencer Fenton",
+      "sourceUrl": "https://spencerfenton.co.uk",
+      "agencySlug": "spencer-fenton"
+    },
+    {
+      "name": "State Design",
+      "sourceUrl": "https://statedesign.co/",
+      "agencySlug": "state-design"
+    },
+    {
+      "name": "Steelworks",
+      "sourceUrl": "https://www.steelworks.studio/",
+      "agencySlug": "steelworks"
+    },
+    {
+      "name": "Studio Albin Holmqvist",
+      "sourceUrl": "https://studioalbinholmqvist.com",
+      "agencySlug": "studio-albin-holmqvist"
+    },
+    {
+      "name": "Studio Furore",
+      "sourceUrl": "https://www.studiofurore.at",
+      "agencySlug": "studio-furore"
+    },
+    {
+      "name": "Studio Gruhl",
+      "sourceUrl": "https://www.studiogruhl.com",
+      "agencySlug": "studio-gruhl"
+    },
+    {
+      "name": "Studio Size",
+      "sourceUrl": "https://studio-size.com/",
+      "agencySlug": "size"
+    },
+    {
+      "name": "STUDIO WAN",
+      "sourceUrl": "https://www.studiowan.uk",
+      "agencySlug": "studio-wan"
+    },
+    {
+      "name": "Tactyc",
+      "sourceUrl": "https://www.tactyc.studio/",
+      "agencySlug": "tactyc"
+    },
+    {
+      "name": "Team",
+      "sourceUrl": "https://team.design",
+      "agencySlug": "team"
+    },
+    {
+      "name": "Tendril",
+      "sourceUrl": "https://tendril.ca/",
+      "agencySlug": "tendril"
+    },
+    {
+      "name": "The Company You Keep",
+      "sourceUrl": "https://tcyk.com.au",
+      "agencySlug": "the-company-you-keep"
+    },
+    {
+      "name": "The Furrow",
+      "sourceUrl": "https://thefurrow.tv/",
+      "agencySlug": "the-furrow"
+    },
+    {
+      "name": "The Mill",
+      "sourceUrl": "https://www.themill.com/",
+      "agencySlug": "the-mill"
+    },
+    {
+      "name": "The Rocket Panda",
+      "sourceUrl": "https://www.therocketpanda.com/",
+      "agencySlug": "rocketpanda"
+    },
+    {
+      "name": "Tino Nyman",
+      "sourceUrl": "https://tinonyman.com",
+      "agencySlug": "tino-nyman"
+    },
+    {
+      "name": "Triboro",
+      "sourceUrl": "https://triborodesign.com",
+      "agencySlug": "triboro"
+    },
+    {
+      "name": "Turnislefthome",
+      "sourceUrl": "https://www.turnislefthome.com/",
+      "agencySlug": "turnislefthome"
+    },
+    {
+      "name": "Two Times Elliott",
+      "sourceUrl": "https://www.2xelliott.co.uk",
+      "agencySlug": "two-times-elliott"
+    },
+    {
+      "name": "Vectar",
+      "sourceUrl": "https://www.vectar.agency/",
+      "agencySlug": "vectar"
+    },
+    {
+      "name": "Walk A Thought",
+      "sourceUrl": "walkathought.com",
+      "agencySlug": "walk-a-thought"
+    },
+    {
+      "name": "Workbench",
+      "sourceUrl": "https://workbench.tv/",
+      "agencySlug": "yellow-dog-party"
+    },
+    {
+      "name": "Workbyworks",
+      "sourceUrl": "https://workbyworks.studio",
+      "agencySlug": "wonderworks"
+    },
+    {
+      "name": "Wouq",
+      "sourceUrl": "https://wearewouq.com/",
+      "agencySlug": "wouq"
+    },
+    {
+      "name": "XXIX",
+      "sourceUrl": "https://xxix.co",
+      "agencySlug": "xxix"
+    },
+    {
+      "name": "Yambo Studio",
+      "sourceUrl": "https://www.yambo-studio.com/",
+      "agencySlug": "yambo-studio"
+    },
+    {
+      "name": "Zak Group",
+      "sourceUrl": "https://www.zak.group",
+      "agencySlug": "zak-group"
+    },
+    {
+      "name": "Zunc",
+      "sourceUrl": "https://www.zunc.studio/",
+      "agencySlug": "zunc"
+    }
+  ]
+}
