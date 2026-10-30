@@ -10,10 +10,13 @@ import screenshotManifestData from "../src/data/screenshot-manifest.json";
 import {
   caseStudyId,
   cleanCaseStudyTitle,
+  dedupeAcrossAgencies,
   entriesHash,
   extractCaseStudyLinks,
   findWorkPageUrl,
   isReadableTitle,
+  looksLikeDescription,
+  titleFromUrl,
   type CaseStudyLink,
 } from "./lib/case-studies";
 
@@ -26,7 +29,12 @@ interface CaseStudyEntry {
   capturedAt: string;
 }
 
-type CaseStudyStatus = "success" | "no-work-page" | "no-entries" | "failed";
+type CaseStudyStatus =
+  | "success"
+  | "no-work-page"
+  | "no-entries"
+  | "captures-failed"
+  | "failed";
 
 interface ManifestEntry {
   status: CaseStudyStatus;
@@ -224,12 +232,14 @@ async function captureEntry(
     .toFile(resolve(root, `public${image}`));
 
   let title = link.title;
-  if (!isReadableTitle(title))
-    title = cleanCaseStudyTitle(await readPageTitle(page));
-  if (!isReadableTitle(title)) {
-    title = new URL(link.url).pathname.split("/").filter(Boolean).pop() ?? "";
-    title = title.replace(/[-_]+/g, " ").trim();
+  if (!isReadableTitle(title) || looksLikeDescription(title)) {
+    const pageTitle = cleanCaseStudyTitle(await readPageTitle(page));
+    const slugTitle = titleFromUrl(link.url);
+    if (isReadableTitle(pageTitle) && !looksLikeDescription(pageTitle))
+      title = pageTitle;
+    else if (isReadableTitle(slugTitle)) title = slugTitle;
   }
+  if (!isReadableTitle(title)) title = titleFromUrl(link.url);
 
   return { id, agencySlug, title, url: link.url, image, capturedAt };
 }
@@ -297,6 +307,10 @@ async function worker(workerIndex: number) {
       const links = extractCaseStudyLinks(await page.content(), page.url(), {
         limit: perAgencyLimit,
         requireNested: workIsHomepage,
+        agency: {
+          officialDomain: agency.officialDomain,
+          name: agency.name,
+        },
       });
       const hash = entriesHash(links);
       const previous = manifest[agency.slug];
@@ -344,7 +358,9 @@ async function worker(workerIndex: number) {
 
       entriesBySlug.set(agency.slug, captured);
       manifest[agency.slug] = {
-        status: captured.length ? "success" : "no-entries",
+        // Entries were found, so an empty result means every capture failed
+        // (bot protection, timeouts) rather than an empty work page.
+        status: captured.length ? "success" : "captures-failed",
         entriesHash: hash,
         homepageUrl: agency.website,
         workPageUrl,
@@ -381,9 +397,15 @@ try {
   await browser.close();
 }
 
-const allEntries = Array.from(entriesBySlug.values())
-  .flat()
-  .sort((left, right) => right.capturedAt.localeCompare(left.capturedAt));
+const websiteBySlug = new Map(
+  agencies.map((agency) => [agency.slug, agency.website]),
+);
+const allEntries = dedupeAcrossAgencies(
+  Array.from(entriesBySlug.values())
+    .flat()
+    .sort((left, right) => right.capturedAt.localeCompare(left.capturedAt)),
+  websiteBySlug,
+);
 const temporaryDataPath = `${dataPath}.${process.pid}.${Date.now()}.tmp`;
 await writeFile(temporaryDataPath, `${JSON.stringify(allEntries, null, 2)}\n`);
 await rename(temporaryDataPath, dataPath);

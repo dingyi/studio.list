@@ -563,10 +563,10 @@
   },
   "analogue-agency": {
     "status": "success",
-    "entriesHash": "95b95938616c21f20348096beb4804a59061c1878d8b1e6b7b4626ff5957f22a",
+    "entriesHash": "56e3a272688e2940d52cfc8603dff2ed01dbc8eb42a7f96ceadfcb84fddadc55",
     "homepageUrl": "https://analogueagency.com/",
     "workPageUrl": "https://analogueagency.com/cases-overview",
-    "capturedAt": "2026-08-17T10:55:37.502Z"
+    "capturedAt": "2026-10-20T08:01:08.133Z"
   },
   "ania-et-lucie": {
     "status": "success",
@@ -8631,5 +8631,84 @@
     "status": "no-work-page",
     "homepageUrl": "https://www.ravalabs.com/",
     "capturedAt": "2026-10-02T06:57:01.228Z"
+  },
+  "bathgate-design": {
+    "status": "success",
+    "entriesHash": "1d8bff26b7bb0ea01eb7e3a1bc778fc415235df8212d314f484ac746a07d5548",
+    "homepageUrl": "https://bathgate.design/",
+    "workPageUrl": "https://bathgate.design/work",
+    "capturedAt": "2026-10-20T08:12:59.040Z",
+    "captureViewports": {
+      "f724501131f5": {
+        "url": "https://bathgate.design/work/good-carm",
+        "scrollY": 685,
+        "mediaTop": 744.71875
+      },
+      "266882f6e700": {
+        "url": "https://bathgate.design/work/alex-fulton",
+        "scrollY": 802,
+        "mediaTop": 862.296875
+      },
+      "1c5c88f1198a": {
+        "url": "https://bathgate.design/work/two-raw-sisters",
+        "scrollY": 668,
+        "mediaTop": 727.921875
+      },
+      "bed86e53ede6": {
+        "url": "https://bathgate.design/work/otautahi-made",
+        "scrollY": 685,
+        "mediaTop": 744.71875
+      },
+      "71f22edc80ad": {
+        "url": "https://bathgate.design/work/hellzapoppin",
+        "scrollY": 501,
+        "mediaTop": 560.734375
+      },
+      "7c967acbfbf5": {
+        "url": "https://bathgate.design/work/hughes",
+        "scrollY": 668,
+        "mediaTop": 727.921875
+      },
+      "5e263476a01b": {
+        "url": "https://bathgate.design/work/estelle",
+        "scrollY": 434,
+        "mediaTop": 493.546875
+      },
+      "9de595557d3e": {
+        "url": "https://bathgate.design/work/c1-espresso",
+        "scrollY": 434,
+        "mediaTop": 493.546875
+      },
+      "76f1e8eb13a2": {
+        "url": "https://bathgate.design/work/tall-dwarfs",
+        "scrollY": 484,
+        "mediaTop": 543.9375
+      },
+      "b43b21888fed": {
+        "url": "https://bathgate.design/work/qb-studios",
+        "scrollY": 434,
+        "mediaTop": 493.546875
+      },
+      "671b67d57527": {
+        "url": "https://bathgate.design/work/cagf",
+        "scrollY": 551,
+        "mediaTop": 611.125
+      },
+      "7b05f26c1b9f": {
+        "url": "https://bathgate.design/work/arbor-green",
+        "scrollY": 1440,
+        "mediaTop": 1499.78125
+      },
+      "917037367e11": {
+        "url": "https://bathgate.design/work/ag-campaign",
+        "scrollY": 585,
+        "mediaTop": 644.71875
+      },
+      "53aa8263b2fd": {
+        "url": "https://bathgate.design/work/actually",
+        "scrollY": 1541,
+        "mediaTop": 1600.5625
+      }
+    }
   }
 }
