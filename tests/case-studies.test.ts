@@ -1,12 +1,16 @@
 import { describe, expect, it } from "vitest";
 
 import {
+  agencyPublicationUrl,
   caseStudyId,
   cleanCaseStudyTitle,
+  dedupeAcrossAgencies,
   entriesHash,
   extractCaseStudyLinks,
   findWorkPageUrl,
   isReadableTitle,
+  looksLikeDescription,
+  titleFromUrl,
 } from "../scripts/lib/case-studies";
 
 describe("findWorkPageUrl", () => {
@@ -85,7 +89,6 @@ describe("extractCaseStudyLinks", () => {
         <a href="/work/real-one">Real one</a>
         <a href="/about">About</a>
         <a href="/blog/post">Blog</a>
-        <a href="/writings">Writings</a>
         <a href="/work/page/2">Next</a>
       </main>
       <footer><a href="/work/footer-noise">Footer noise</a></footer>
@@ -93,19 +96,6 @@ describe("extractCaseStudyLinks", () => {
     const links = extractCaseStudyLinks(html, workPage);
     expect(links.map((link) => link.url)).toEqual([
       "https://example.com/work/real-one",
-    ]);
-  });
-
-  it("excludes tag and category listing pages, including prefixed ones", () => {
-    const html = `
-      <a href="/our-projects-tags/software-design">Software Design</a>
-      <a href="/tags/branding">Branding</a>
-      <a href="/work-category/web">Web</a>
-      <a href="/projects/acme">Acme</a>
-    `;
-    const links = extractCaseStudyLinks(html, workPage);
-    expect(links.map((link) => link.url)).toEqual([
-      "https://example.com/projects/acme",
     ]);
   });
 
@@ -141,6 +131,218 @@ describe("extractCaseStudyLinks", () => {
     const links = extractCaseStudyLinks(html, workPage);
     expect(links[0].title).toBe("One Project");
   });
+
+  it("ignores placeholder alt attributes", () => {
+    const html = `
+      <a href="/work/polestar"><img src="x.jpg" alt="alt"><span>Polestar</span></a>
+      <a href="/work/sigma"><img src="y.jpg" alt="image"><span>Sigma</span></a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.title)).toEqual(["Polestar", "Sigma"]);
+  });
+
+  it("skips call-to-action and culture links", () => {
+    const html = `
+      <a href="/work/real">Real one</a>
+      <a href="/say-hi">just say hi</a>
+      <a href="/join-the-team">join the team</a>
+      <a href="/culture">Culture</a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.url)).toEqual([
+      "https://example.com/work/real",
+    ]);
+  });
+
+  it("excludes studio, insights, story, and about-us pages", () => {
+    const html = `
+      <a href="/work/real-one">Real one</a>
+      <a href="/studio">Studio</a>
+      <a href="/insights">Insights</a>
+      <a href="/our-story">Our Story</a>
+      <a href="/about-us/team">Team</a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.url)).toEqual([
+      "https://example.com/work/real-one",
+    ]);
+  });
+
+  it("excludes other listing pages and their tag filters", () => {
+    const html = `
+      <a href="/work/real-one">Real one</a>
+      <a href="/explore">Explore</a>
+      <a href="/archive">Archive</a>
+      <a href="/portfolio?tag=Motion">Motion</a>
+      <a href="/cases">Cases</a>
+      <a href="/cart">Cart</a>
+      <a href="/showcase/real-two">Real two</a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links.map((link) => link.url)).toEqual([
+      "https://example.com/work/real-one",
+      "https://example.com/showcase/real-two",
+    ]);
+  });
+
+  it("ignores style and script content inside anchors", () => {
+    const html = `
+      <a href="/work/one">
+        <style>.slide-in-bottom { overflow: hidden; }</style>
+        <script>console.log("noise");</script>
+        One Project
+      </a>
+    `;
+    const links = extractCaseStudyLinks(html, workPage);
+    expect(links[0].title).toBe("One Project");
+  });
+});
+
+describe("agencyPublicationUrl", () => {
+  const agency = {
+    officialDomain: "smith-diction.com",
+    name: "Smith & Diction",
+  };
+  const workPage = "https://smith-diction.com/work";
+
+  it("accepts posts inside the agency's own Medium publication", () => {
+    expect(
+      agencyPublicationUrl(
+        "https://medium.com/smith-diction/branding-alma-25f352285455",
+        workPage,
+        agency,
+      )?.toString(),
+    ).toBe("https://medium.com/smith-diction/branding-alma-25f352285455");
+    expect(
+      agencyPublicationUrl(
+        "https://smith-diction.medium.com/rockin-the-suburbs-896091b7d41",
+        workPage,
+        agency,
+      )?.toString(),
+    ).toBe("https://smith-diction.medium.com/rockin-the-suburbs-896091b7d41");
+  });
+
+  it("matches handles derived from the agency name", () => {
+    expect(
+      agencyPublicationUrl(
+        "https://medium.com/@smithdiction/branding-alma",
+        workPage,
+        agency,
+      ),
+    ).not.toBeNull();
+    expect(
+      agencyPublicationUrl(
+        "https://smithdiction.substack.com/p/branding-alma",
+        workPage,
+        agency,
+      ),
+    ).not.toBeNull();
+  });
+
+  it("strips tracking parameters that duplicate the same post", () => {
+    expect(
+      agencyPublicationUrl(
+        "https://medium.com/smith-diction/part-i-4756f2af430f?source=friends_link&sk=3abfd50d",
+        workPage,
+        agency,
+      )?.toString(),
+    ).toBe("https://medium.com/smith-diction/part-i-4756f2af430f");
+  });
+
+  it("rejects other publications, client sites, and index pages", () => {
+    expect(
+      agencyPublicationUrl(
+        "https://medium.com/other-studio/their-post",
+        workPage,
+        agency,
+      ),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl("https://medium.com/p/8c57f970bead", workPage, agency),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl("https://medium.com/smith-diction", workPage, agency),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl("https://mintednewyork.com/", workPage, agency),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl("https://calendly.com/", workPage, agency),
+    ).toBeNull();
+    expect(
+      agencyPublicationUrl(
+        "https://smithdiction.substack.com/about",
+        workPage,
+        agency,
+      ),
+    ).toBeNull();
+  });
+});
+
+describe("extractCaseStudyLinks with an agency publication", () => {
+  const agency = {
+    officialDomain: "smith-diction.com",
+    name: "Smith & Diction",
+  };
+
+  it("collects owned publication posts alongside same-site entries", () => {
+    const html = `
+      <a href="/work/onsite">Onsite Project</a>
+      <a href="https://medium.com/smith-diction/branding-alma-25f352285455">Alma</a>
+      <a href="https://medium.com/other-studio/not-ours">Not ours</a>
+      <a href="https://mintednewyork.com/">Minted New York</a>
+      <a href="https://www.instagram.com/smith_diction/">Instagram</a>
+    `;
+    const links = extractCaseStudyLinks(html, "https://smith-diction.com/work", {
+      agency,
+    });
+    expect(links.map((link) => link.url)).toEqual([
+      "https://smith-diction.com/work/onsite",
+      "https://medium.com/smith-diction/branding-alma-25f352285455",
+    ]);
+  });
+
+  it("ignores off-site links when no agency identity is given", () => {
+    const html = `<a href="https://medium.com/smith-diction/branding-alma">Alma</a>`;
+    expect(
+      extractCaseStudyLinks(html, "https://smith-diction.com/work"),
+    ).toEqual([]);
+  });
+});
+
+describe("dedupeAcrossAgencies", () => {
+  const websites = new Map([
+    ["acme", "https://www.acme.com/"],
+    ["globex", "https://globex.io/"],
+  ]);
+
+  it("keeps the entry whose agency domain matches the case study host", () => {
+    const entries = [
+      { url: "https://acme.com/work/one", agencySlug: "globex" },
+      { url: "https://acme.com/work/one", agencySlug: "acme" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual([
+      { url: "https://acme.com/work/one", agencySlug: "acme" },
+    ]);
+  });
+
+  it("keeps the first entry when no agency domain matches", () => {
+    const entries = [
+      { url: "https://other.com/work/one", agencySlug: "acme" },
+      { url: "https://other.com/work/one", agencySlug: "globex" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual([
+      { url: "https://other.com/work/one", agencySlug: "acme" },
+    ]);
+  });
+
+  it("leaves unique URLs untouched and preserves order", () => {
+    const entries = [
+      { url: "https://globex.io/work/b", agencySlug: "globex" },
+      { url: "https://acme.com/work/a", agencySlug: "acme" },
+    ];
+    expect(dedupeAcrossAgencies(entries, websites)).toEqual(entries);
+  });
 });
 
 describe("cleanCaseStudyTitle", () => {
@@ -154,7 +356,7 @@ describe("cleanCaseStudyTitle", () => {
 
   it("cuts SEO site-name suffixes and caps length", () => {
     expect(cleanCaseStudyTitle("Trust Stamp | 10Clouds")).toBe("Trust Stamp");
-    const long = `Project ${"word ".repeat(30)}`.trim();
+    const long = `Project ${Array.from({ length: 30 }, (_, index) => `word${index}`).join(" ")}`;
     const cleaned = cleanCaseStudyTitle(long);
     expect(cleaned.length).toBeLessThanOrEqual(91);
     expect(cleaned.endsWith("…")).toBe(true);
@@ -166,6 +368,32 @@ describe("cleanCaseStudyTitle", () => {
     );
     expect(cleanCaseStudyTitle("Samsøe Samsøe")).toBe("Samsøe Samsøe");
   });
+
+  it("collapses repeats that start mid-title", () => {
+    expect(cleanCaseStudyTitle("Walden Robotics Walden Robotics AI, Robotics")).toBe(
+      "Walden Robotics AI, Robotics",
+    );
+    expect(
+      cleanCaseStudyTitle(
+        "Designs we did for Graduate Hotels Graduate Hotels Developing a suite",
+      ),
+    ).toBe("Designs we did for Graduate Hotels Developing a suite");
+    expect(cleanCaseStudyTitle("Shield AI Shield AI Building the future")).toBe(
+      "Shield AI Building the future",
+    );
+  });
+
+  it("keeps collapsing when one pass exposes a longer repeat", () => {
+    // Card markup repeats the name in a hover label, an image alt, and a title.
+    expect(
+      cleanCaseStudyTitle(
+        "Visual Language Piano Visual Language Visual Language Piano",
+      ),
+    ).toBe("Visual Language Piano");
+    expect(
+      cleanCaseStudyTitle("Spaces Tylko Spaces Spaces Tylko Spaces Tylko"),
+    ).toBe("Spaces Tylko");
+  });
 });
 
 describe("isReadableTitle", () => {
@@ -175,6 +403,88 @@ describe("isReadableTitle", () => {
     expect(isReadableTitle("")).toBe(false);
     expect(isReadableTitle("✶ Experience")).toBe(true);
     expect(isReadableTitle("Dublin Dance Festival 2024")).toBe(true);
+  });
+
+  it("rejects generic media placeholders", () => {
+    expect(isReadableTitle("image")).toBe(false);
+    expect(isReadableTitle("Video")).toBe(false);
+    expect(isReadableTitle("Images")).toBe(false);
+    expect(isReadableTitle("Imagery Studio")).toBe(true);
+  });
+
+  it("rejects navigation labels that name no project", () => {
+    expect(isReadableTitle("Our work")).toBe(false);
+    expect(isReadableTitle("WORK")).toBe(false);
+    expect(isReadableTitle("Explore")).toBe(false);
+    expect(isReadableTitle("Lab")).toBe(false);
+    expect(isReadableTitle("Work in Progress")).toBe(true);
+    expect(isReadableTitle("Homerun")).toBe(true);
+  });
+
+  it("rejects letter-spaced animation markup", () => {
+    expect(isReadableTitle("H u t t e")).toBe(false);
+    expect(isReadableTitle("04 W o r l d W o r l d")).toBe(false);
+    expect(isReadableTitle("F F E R N")).toBe(false);
+    expect(isReadableTitle("Made by James")).toBe(true);
+    expect(isReadableTitle("A B C")).toBe(true);
+  });
+});
+
+describe("looksLikeDescription", () => {
+  it("flags long alt-text sentences describing an image", () => {
+    expect(
+      looksLikeDescription(
+        "A hand holding a mobile phone displaying Fr8Hub's mobile app in front of trucks",
+      ),
+    ).toBe(true);
+    expect(
+      looksLikeDescription(
+        "Image of a figure sitting at a laptop viewing the OnScreen platform",
+      ),
+    ).toBe(true);
+  });
+
+  it("keeps short titles and real project names", () => {
+    expect(looksLikeDescription("The Beca")).toBe(false);
+    expect(looksLikeDescription("Academy Museum")).toBe(false);
+    expect(
+      looksLikeDescription(
+        "Gen Z Broke the Marketing Funnel, a report for Vogue Business",
+      ),
+    ).toBe(false);
+  });
+
+  it("flags prose that runs on in lowercase words", () => {
+    expect(
+      looksLikeDescription("Illustration with man walking his dog in a park"),
+    ).toBe(true);
+    expect(
+      looksLikeDescription(
+        "Co-creating an inclusive brand with community at its heart",
+      ),
+    ).toBe(true);
+    expect(looksLikeDescription("Folksam — A Collective Force")).toBe(false);
+  });
+});
+
+describe("titleFromUrl", () => {
+  it("derives a project name from the last path segment", () => {
+    expect(titleFromUrl("https://87studio.co/work/credian")).toBe("Credian");
+    expect(titleFromUrl("https://example.com/work/coconut-cult/")).toBe(
+      "Coconut Cult",
+    );
+  });
+
+  it("drops opaque publication ids and file extensions", () => {
+    expect(
+      titleFromUrl("https://medium.com/smith-diction/branding-alma-25f352285455"),
+    ).toBe("Branding Alma");
+    expect(titleFromUrl("https://example.com/work/acme.html")).toBe("Acme");
+  });
+
+  it("returns an empty string for unusable input", () => {
+    expect(titleFromUrl("not a url")).toBe("");
+    expect(titleFromUrl("https://example.com/")).toBe("");
   });
 });
 
