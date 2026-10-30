@@ -211,10 +211,9 @@
   },
   "agent-pekka": {
     "status": "failed",
-    "capturedAt": "2026-08-17T10:22:02.728Z",
+    "capturedAt": "2026-10-17T18:33:53.431Z",
     "requestedUrl": "https://agentpekka.com/",
-    "finalUrl": "https://agentpekka.com/?__cf_chl_rt_tk=fgJRuuorxpEjmHQwoRnpEKv7zU9r9YxhNyiX75a3xQs-1786962122-1.0.1.1-4G6vTcvI3S_KSilF9eifOyMySQv33NI1jqZHi9xCzF4",
-    "error": "HTTP 403"
+    "error": "Error: Rejected page: 403 Attention Required! | Cloudflare"
   },
   "aino": {
     "status": "success",
@@ -298,8 +297,8 @@
   "alex-hunting-studio": {
     "status": "success",
     "path": "/screenshots/alex-hunting-studio.webp",
-    "capturedAt": "2026-07-15T16:20:10.724Z",
-    "requestedUrl": "https://alexhunting.co.uk/",
+    "capturedAt": "2026-10-17T18:19:03.142Z",
+    "requestedUrl": "https://alexhunting.studio/",
     "finalUrl": "https://alexhunting.studio/"
   },
   "almarena": {
@@ -1019,9 +1018,9 @@
   "brand-brothers": {
     "status": "success",
     "path": "/screenshots/brand-brothers.webp",
-    "capturedAt": "2026-07-15T16:33:34.246Z",
-    "requestedUrl": "https://www.brandbrothers.fr/en/",
-    "finalUrl": "https://brandbrothers.studio/en/"
+    "capturedAt": "2026-10-17T18:20:12.099Z",
+    "requestedUrl": "https://brandbrothers.studio/",
+    "finalUrl": "https://brandbrothers.studio/"
   },
   "brandium": {
     "status": "success",
@@ -1053,10 +1052,11 @@
     "finalUrl": "https://brokstad.studio/"
   },
   "bruno": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:23:04.375Z",
-    "requestedUrl": "https://www.callbruno.com/en/",
-    "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.callbruno.com/en/\nCall log:\n\u001b[2m  - navigating to \"https://www.callbruno.com/en/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "status": "success",
+    "path": "/screenshots/bruno.webp",
+    "capturedAt": "2026-10-17T18:20:20.703Z",
+    "requestedUrl": "https://www.bruno.co/",
+    "finalUrl": "https://www.bruno.co/"
   },
   "brstudio": {
     "status": "success",
@@ -1253,12 +1253,11 @@
     "finalUrl": "https://changers.studio/"
   },
   "check": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:23:35.478Z",
+    "status": "success",
+    "path": "/screenshots/check.webp",
+    "capturedAt": "2026-10-17T18:41:07.077Z",
     "requestedUrl": "http://www.wearecheck.co/",
-    "finalUrl": "https://www.wearecheck.co/",
-    "error": "Rejected during manual screenshot review.",
-    "reviewedAt": "2026-08-17T10:51:20.672Z"
+    "finalUrl": "https://www.wearecheck.co/"
   },
   "carmichael-lynch": {
     "status": "success",
@@ -2264,8 +2263,8 @@
   "forsman-and-bodenfors": {
     "status": "success",
     "path": "/screenshots/forsman-and-bodenfors.webp",
-    "capturedAt": "2026-08-17T10:27:05.200Z",
-    "requestedUrl": "https://forsman.co/",
+    "capturedAt": "2026-10-17T18:22:16.688Z",
+    "requestedUrl": "https://www.forsman.com/",
     "finalUrl": "https://www.forsman.com/"
   },
   "forth-and-back": {
@@ -3534,12 +3533,10 @@
     "finalUrl": "https://www.lunour.com/"
   },
   "lusion": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:30:54.866Z",
+    "status": "review",
+    "capturedAt": "2026-10-17T18:37:15.945Z",
     "requestedUrl": "https://lusion.co/",
-    "finalUrl": "https://lusion.co/",
-    "error": "Rejected during manual screenshot review.",
-    "reviewedAt": "2026-08-17T10:51:33.865Z"
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
   },
   "lustre": {
     "status": "success",
@@ -3691,11 +3688,10 @@
   },
   "manual": {
     "status": "success",
-    "capturedAt": "2026-08-17T10:31:12.881Z",
-    "requestedUrl": "https://manualcreative.com/",
-    "finalUrl": "https://manual.studio/",
     "path": "/screenshots/manual.webp",
-    "reviewedAt": "2026-08-17T10:50:32.595Z"
+    "capturedAt": "2026-10-17T18:25:10.307Z",
+    "requestedUrl": "https://manual.studio/",
+    "finalUrl": "https://manual.studio/"
   },
   "mariko-studio": {
     "status": "success",
@@ -3734,12 +3730,11 @@
     "finalUrl": "https://www.wearematey.com/"
   },
   "maven-creative": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:31:22.857Z",
+    "status": "success",
+    "path": "/screenshots/maven-creative.webp",
+    "capturedAt": "2026-10-17T18:25:17.122Z",
     "requestedUrl": "https://www.mavencreative.com/",
-    "finalUrl": "https://www.mavencreative.com/",
-    "error": "Rejected during manual screenshot review.",
-    "reviewedAt": "2026-08-17T10:51:35.852Z"
+    "finalUrl": "https://www.mavencreative.com/"
   },
   "mayven-studios": {
     "status": "success",
@@ -4039,10 +4034,9 @@
   },
   "motto": {
     "status": "failed",
-    "capturedAt": "2026-08-17T10:32:00.603Z",
+    "capturedAt": "2026-10-17T18:41:19.481Z",
     "requestedUrl": "https://wearemotto.com/",
-    "finalUrl": "https://wearemotto.com/?__cf_chl_rt_tk=7FlhUvc8l.O0aqMW7kFl3sFc8WaRe_dZ_TJ179CEmhA-1786962720-1.0.1.1-OCzx1Tg8ae3MwseJvEk43Sa9noT2rUDHb37nm6GkMiY",
-    "error": "HTTP 403"
+    "error": "Error: Rejected page: 403 Just a moment..."
   },
   "milk-network": {
     "status": "success",
@@ -4101,12 +4095,11 @@
     "finalUrl": "https://mubien.com/"
   },
   "mucho": {
-    "status": "failed",
-    "capturedAt": "2026-07-15T16:51:18.903Z",
+    "status": "success",
+    "path": "/screenshots/mucho.webp",
+    "capturedAt": "2026-10-17T18:32:12.618Z",
     "requestedUrl": "https://wearemucho.com/",
-    "finalUrl": "https://wearemucho.com/",
-    "error": "Rejected during manual screenshot review.",
-    "reviewedAt": "2026-08-17T10:51:37.174Z"
+    "finalUrl": "https://wearemucho.com/"
   },
   "more-and-more": {
     "status": "success",
@@ -4116,12 +4109,11 @@
     "finalUrl": "https://moreandmoreltd.com/"
   },
   "multi-form": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:32:14.691Z",
+    "status": "success",
+    "path": "/screenshots/multi-form.webp",
+    "capturedAt": "2026-10-17T18:25:46.295Z",
     "requestedUrl": "https://multi-form.it/",
-    "finalUrl": "https://multi-form.it/",
-    "error": "Rejected during manual screenshot review.",
-    "reviewedAt": "2026-08-17T10:51:37.832Z"
+    "finalUrl": "https://multi-form.it/"
   },
   "murmure": {
     "status": "success",
@@ -4325,8 +4317,8 @@
   "no-plans-studio": {
     "status": "success",
     "path": "/screenshots/no-plans-studio.webp",
-    "capturedAt": "2026-08-17T10:33:03.051Z",
-    "requestedUrl": "https://no-plans.com/",
+    "capturedAt": "2026-10-17T18:26:21.922Z",
+    "requestedUrl": "https://noplans.studio/",
     "finalUrl": "https://noplans.studio/"
   },
   "noi": {
@@ -4500,12 +4492,11 @@
     "finalUrl": "https://offormdesign.com/"
   },
   "off-brand": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:33:28.686Z",
+    "status": "success",
+    "path": "/screenshots/off-brand.webp",
+    "capturedAt": "2026-10-17T18:36:58.239Z",
     "requestedUrl": "https://www.itsoffbrand.com/",
-    "finalUrl": "https://www.itsoffbrand.com/",
-    "error": "Rejected during manual screenshot review.",
-    "reviewedAt": "2026-08-17T10:51:41.112Z"
+    "finalUrl": "https://www.itsoffbrand.com/"
   },
   "off-menu": {
     "status": "success",
@@ -4623,8 +4614,8 @@
   "only": {
     "status": "success",
     "path": "/screenshots/only.webp",
-    "capturedAt": "2026-08-17T10:33:45.521Z",
-    "requestedUrl": "https://onlystudio.co.uk/",
+    "capturedAt": "2026-10-17T18:37:59.349Z",
+    "requestedUrl": "https://www.onlystudio.com/",
     "finalUrl": "https://www.onlystudio.com/"
   },
   "onto": {
@@ -5359,12 +5350,11 @@
     "finalUrl": "https://raw.studio/"
   },
   "refokus": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:35:59.711Z",
+    "status": "success",
+    "path": "/screenshots/refokus.webp",
+    "capturedAt": "2026-10-17T18:41:55.555Z",
     "requestedUrl": "https://www.refokus.com/",
-    "finalUrl": "https://www.refokus.com/",
-    "error": "Rejected during manual screenshot review.",
-    "reviewedAt": "2026-08-17T10:51:42.432Z"
+    "finalUrl": "https://www.refokus.com/work"
   },
   "reform-collective": {
     "status": "success",
@@ -5811,11 +5801,10 @@
   },
   "skinn": {
     "status": "success",
-    "capturedAt": "2026-08-17T10:37:37.400Z",
-    "requestedUrl": "https://www.skinn.agency/",
-    "finalUrl": "https://www.skinn.agency/",
     "path": "/screenshots/skinn.webp",
-    "reviewedAt": "2026-08-17T10:50:58.915Z"
+    "capturedAt": "2026-10-17T18:29:00.979Z",
+    "requestedUrl": "https://www.skinn.agency/",
+    "finalUrl": "https://www.skinn.agency/"
   },
   "smith-and-diction": {
     "status": "success",
@@ -6189,11 +6178,11 @@
     "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m    - disabled all CSS animations\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"
   },
   "studio-ongarato": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:38:56.332Z",
+    "status": "success",
+    "path": "/screenshots/studio-ongarato.webp",
+    "capturedAt": "2026-10-17T18:40:02.477Z",
     "requestedUrl": "https://studioongarato.com.au/",
-    "finalUrl": "https://studioongarato.com.au/",
-    "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m    - disabled all CSS animations\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"
+    "finalUrl": "https://studioongarato.com.au/"
   },
   "strv": {
     "status": "success",
@@ -6478,8 +6467,8 @@
   "tendril": {
     "status": "success",
     "path": "/screenshots/tendril.webp",
-    "capturedAt": "2026-08-17T10:40:22.845Z",
-    "requestedUrl": "https://tendril.ca/",
+    "capturedAt": "2026-10-17T18:30:27.926Z",
+    "requestedUrl": "https://tendril.studio/",
     "finalUrl": "https://tendril.studio/"
   },
   "teamgeek": {
@@ -6575,11 +6564,11 @@
     "finalUrl": "https://thevariable.com/"
   },
   "the-woork-co": {
-    "status": "failed",
-    "capturedAt": "2026-08-17T10:40:39.703Z",
-    "requestedUrl": "http://www.thewoork.co/en/",
-    "finalUrl": "http://www.thewoork.co/en/",
-    "error": "HTTP 404"
+    "status": "success",
+    "path": "/screenshots/the-woork-co.webp",
+    "capturedAt": "2026-10-17T18:30:44.381Z",
+    "requestedUrl": "https://thewoork.eu/",
+    "finalUrl": "https://thewoork.eu/"
   },
   "the-studio": {
     "status": "success",
@@ -6995,11 +6984,9 @@
   },
   "unveil": {
     "status": "failed",
-    "capturedAt": "2026-08-17T10:41:32.119Z",
+    "capturedAt": "2026-10-17T18:40:55.091Z",
     "requestedUrl": "https://unveil.fr/",
-    "finalUrl": "https://unveil.fr/",
-    "error": "Rejected during manual screenshot review.",
-    "reviewedAt": "2026-08-17T10:51:52.335Z"
+    "error": "Error: Rejected page: 402 Deployment Paused"
   },
   "upstatement": {
     "status": "success",
@@ -10811,11 +10798,10 @@
   },
   "dia": {
     "status": "success",
-    "capturedAt": "2026-08-30T18:29:36.365Z",
-    "requestedUrl": "https://www.dia.studio/",
-    "finalUrl": "https://www.dia.studio/",
     "path": "/screenshots/dia.webp",
-    "reviewedAt": "2026-08-30T18:30:43.332Z"
+    "capturedAt": "2026-10-17T18:21:17.577Z",
+    "requestedUrl": "https://www.dia.studio/",
+    "finalUrl": "https://www.dia.studio/"
   },
   "offgrid": {
     "status": "success",
@@ -10832,10 +10818,11 @@
     "finalUrl": "https://www.orgcaos.com/"
   },
   "brenden": {
-    "status": "failed",
-    "capturedAt": "2026-08-31T13:41:22.814Z",
+    "status": "success",
+    "path": "/screenshots/brenden.webp",
+    "capturedAt": "2026-10-17T18:20:17.251Z",
     "requestedUrl": "https://brenden.kr/",
-    "error": "page.goto: Timeout 25000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://brenden.kr/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    "finalUrl": "https://brenden.kr/"
   },
   "family-office": {
     "status": "success",
@@ -11417,5 +11404,4211 @@
     "capturedAt": "2026-10-08T13:17:13.960Z",
     "requestedUrl": "https://www.zunc.studio/",
     "finalUrl": "https://www.zunc.studio/"
+  },
+  "sunday": {
+    "status": "success",
+    "path": "/screenshots/sunday.webp",
+    "capturedAt": "2026-10-09T09:44:42.837Z",
+    "requestedUrl": "https://www.sunday.is/",
+    "finalUrl": "https://www.sunday.is/"
+  },
+  "saxon-campbell": {
+    "status": "success",
+    "path": "/screenshots/saxon-campbell.webp",
+    "capturedAt": "2026-10-13T07:45:12.222Z",
+    "requestedUrl": "https://saxoncampbell.com/",
+    "finalUrl": "https://saxoncampbell.com/"
+  },
+  "maria-vareva": {
+    "status": "success",
+    "path": "/screenshots/maria-vareva.webp",
+    "capturedAt": "2026-10-13T07:45:40.501Z",
+    "requestedUrl": "https://mariavareva.com/",
+    "finalUrl": "https://mariavareva.com/"
+  },
+  "12-01": {
+    "status": "success",
+    "path": "/screenshots/12-01.webp",
+    "capturedAt": "2026-10-17T18:18:45.865Z",
+    "requestedUrl": "https://www.1201.am/",
+    "finalUrl": "https://www.1201.am/"
+  },
+  "20something": {
+    "status": "success",
+    "path": "/screenshots/20something.webp",
+    "capturedAt": "2026-10-17T18:38:43.932Z",
+    "requestedUrl": "https://www.20-something.com/",
+    "finalUrl": "https://www.20-something.com/work"
+  },
+  "2x4": {
+    "status": "success",
+    "path": "/screenshots/2x4.webp",
+    "capturedAt": "2026-10-17T18:33:53.431Z",
+    "requestedUrl": "https://2x4.org/",
+    "finalUrl": "https://2x4.org/"
+  },
+  "327-creative-studio": {
+    "status": "success",
+    "path": "/screenshots/327-creative-studio.webp",
+    "capturedAt": "2026-10-17T18:18:45.866Z",
+    "requestedUrl": "https://www.327.pt/",
+    "finalUrl": "https://www.327.pt/"
+  },
+  "40mustaqel": {
+    "status": "success",
+    "path": "/screenshots/40mustaqel.webp",
+    "capturedAt": "2026-10-17T18:18:45.867Z",
+    "requestedUrl": "https://www.40mustaqel.com/",
+    "finalUrl": "https://www.40mustaqel.com/"
+  },
+  "553dr": {
+    "status": "success",
+    "path": "/screenshots/553dr.webp",
+    "capturedAt": "2026-10-17T18:18:45.867Z",
+    "requestedUrl": "https://553dr.com/",
+    "finalUrl": "https://553dr.com/"
+  },
+  "a-black-cover-design": {
+    "status": "success",
+    "path": "/screenshots/a-black-cover-design.webp",
+    "capturedAt": "2026-10-17T18:18:52.136Z",
+    "requestedUrl": "https://ablackcover.com/",
+    "finalUrl": "https://ablackcover.com/"
+  },
+  "abmo": {
+    "status": "success",
+    "path": "/screenshots/abmo.webp",
+    "capturedAt": "2026-10-17T18:18:52.491Z",
+    "requestedUrl": "https://www.abmo.fr/",
+    "finalUrl": "https://www.abmo.fr/"
+  },
+  "above": {
+    "status": "success",
+    "path": "/screenshots/above.webp",
+    "capturedAt": "2026-10-17T18:18:53.485Z",
+    "requestedUrl": "https://above.se/",
+    "finalUrl": "https://above.se/#video"
+  },
+  "acronym": {
+    "status": "success",
+    "path": "/screenshots/acronym.webp",
+    "capturedAt": "2026-10-17T18:18:53.948Z",
+    "requestedUrl": "https://acronym.lol/",
+    "finalUrl": "https://acronym.lol/"
+  },
+  "adcker": {
+    "status": "success",
+    "path": "/screenshots/adcker.webp",
+    "capturedAt": "2026-10-17T18:33:53.431Z",
+    "requestedUrl": "https://adcker.com/",
+    "finalUrl": "https://adcker.com/"
+  },
+  "addition": {
+    "status": "success",
+    "path": "/screenshots/addition.webp",
+    "capturedAt": "2026-10-17T18:18:54.354Z",
+    "requestedUrl": "https://www.addition.ml/",
+    "finalUrl": "https://www.addition.ml/"
+  },
+  "adelt": {
+    "status": "success",
+    "path": "/screenshots/adelt.webp",
+    "capturedAt": "2026-10-17T18:18:57.395Z",
+    "requestedUrl": "https://www.adelt.io/",
+    "finalUrl": "https://www.adelt.io/"
+  },
+  "agence3fours": {
+    "status": "success",
+    "path": "/screenshots/agence3fours.webp",
+    "capturedAt": "2026-10-17T18:18:59.620Z",
+    "requestedUrl": "https://www.agence3fours.com/",
+    "finalUrl": "https://www.agence3fours.com/"
+  },
+  "alchemy-digital": {
+    "status": "success",
+    "path": "/screenshots/alchemy-digital.webp",
+    "capturedAt": "2026-10-17T18:19:00.797Z",
+    "requestedUrl": "https://alchemy.digital/",
+    "finalUrl": "https://alchemy.digital/"
+  },
+  "al": {
+    "status": "success",
+    "path": "/screenshots/al.webp",
+    "capturedAt": "2026-10-17T18:34:06.421Z",
+    "requestedUrl": "https://www.alcre.co.kr/",
+    "finalUrl": "https://www.alcre.co.kr/"
+  },
+  "allabo-x": {
+    "status": "success",
+    "path": "/screenshots/allabo-x.webp",
+    "capturedAt": "2026-10-17T18:19:04.713Z",
+    "requestedUrl": "https://allabo-x.com/",
+    "finalUrl": "https://allabo-x.com/"
+  },
+  "allies-studio": {
+    "status": "success",
+    "path": "/screenshots/allies-studio.webp",
+    "capturedAt": "2026-10-17T18:19:06.555Z",
+    "requestedUrl": "https://www.allies.studio/",
+    "finalUrl": "https://www.allies.studio/"
+  },
+  "all-true": {
+    "status": "success",
+    "path": "/screenshots/all-true.webp",
+    "capturedAt": "2026-10-17T18:19:07.461Z",
+    "requestedUrl": "https://www.alltrue.co/",
+    "finalUrl": "https://www.alltrue.co/"
+  },
+  "among-equals": {
+    "status": "success",
+    "path": "/screenshots/among-equals.webp",
+    "capturedAt": "2026-10-17T18:19:09.236Z",
+    "requestedUrl": "https://www.amongequals.com/",
+    "finalUrl": "https://www.amongequals.com/"
+  },
+  "anagram-club": {
+    "status": "success",
+    "path": "/screenshots/anagram-club.webp",
+    "capturedAt": "2026-10-17T18:38:43.931Z",
+    "requestedUrl": "https://www.anagram.club/",
+    "finalUrl": "https://www.anagram.club/about"
+  },
+  "anatomy": {
+    "status": "success",
+    "path": "/screenshots/anatomy.webp",
+    "capturedAt": "2026-10-17T18:19:12.098Z",
+    "requestedUrl": "https://anatomylondon.com/",
+    "finalUrl": "https://anatomylondon.com/"
+  },
+  "and-now": {
+    "status": "success",
+    "path": "/screenshots/and-now.webp",
+    "capturedAt": "2026-10-17T18:34:08.688Z",
+    "requestedUrl": "https://and-now.co.uk/",
+    "finalUrl": "https://and-now.co.uk/"
+  },
+  "and-studio": {
+    "status": "success",
+    "path": "/screenshots/and-studio.webp",
+    "capturedAt": "2026-10-17T18:19:12.754Z",
+    "requestedUrl": "https://and-studio.com/",
+    "finalUrl": "https://and-studio.com/"
+  },
+  "requena-office": {
+    "status": "success",
+    "path": "/screenshots/requena-office.webp",
+    "capturedAt": "2026-10-17T18:34:09.418Z",
+    "requestedUrl": "https://www.andresrequena.es/",
+    "finalUrl": "https://www.andresrequena.es/"
+  },
+  "andstudio": {
+    "status": "success",
+    "path": "/screenshots/andstudio.webp",
+    "capturedAt": "2026-10-17T18:20:25.217Z",
+    "requestedUrl": "https://byandstudio.com/",
+    "finalUrl": "https://byandstudio.com/"
+  },
+  "angel-and-anchor": {
+    "status": "success",
+    "path": "/screenshots/angel-and-anchor.webp",
+    "capturedAt": "2026-10-17T18:19:17.527Z",
+    "requestedUrl": "https://www.angelandanchor.com/",
+    "finalUrl": "https://www.angelandanchor.com/"
+  },
+  "another-design": {
+    "status": "success",
+    "path": "/screenshots/another-design.webp",
+    "capturedAt": "2026-10-17T18:19:18.559Z",
+    "requestedUrl": "https://www.another-lab.com/",
+    "finalUrl": "https://www.another-lab.com/"
+  },
+  "another-collective": {
+    "status": "success",
+    "path": "/screenshots/another-collective.webp",
+    "capturedAt": "2026-10-17T18:19:19.274Z",
+    "requestedUrl": "https://www.anothercollective.pt/",
+    "finalUrl": "https://www.anothercollective.pt/"
+  },
+  "anti-average": {
+    "status": "success",
+    "path": "/screenshots/anti-average.webp",
+    "capturedAt": "2026-10-17T18:19:19.638Z",
+    "requestedUrl": "https://antiaverage.studio/",
+    "finalUrl": "https://antiaverage.studio/"
+  },
+  "applied-poetics": {
+    "status": "success",
+    "path": "/screenshots/applied-poetics.webp",
+    "capturedAt": "2026-10-17T18:19:20.183Z",
+    "requestedUrl": "https://ap.ltd/",
+    "finalUrl": "https://ap.ltd/"
+  },
+  "apn": {
+    "status": "success",
+    "path": "/screenshots/apn.webp",
+    "capturedAt": "2026-10-17T18:19:25.871Z",
+    "requestedUrl": "https://www.apn.works/",
+    "finalUrl": "https://www.apn.works/"
+  },
+  "archer-office": {
+    "status": "success",
+    "path": "/screenshots/archer-office.webp",
+    "capturedAt": "2026-10-17T18:19:25.992Z",
+    "requestedUrl": "https://archeroffice.com/",
+    "finalUrl": "https://archeroffice.com/"
+  },
+  "arden-studio": {
+    "status": "success",
+    "path": "/screenshots/arden-studio.webp",
+    "capturedAt": "2026-10-17T18:19:26.457Z",
+    "requestedUrl": "https://arden.studio/",
+    "finalUrl": "https://arden.studio/"
+  },
+  "arrae-studio": {
+    "status": "success",
+    "path": "/screenshots/arrae-studio.webp",
+    "capturedAt": "2026-10-17T18:19:27.010Z",
+    "requestedUrl": "https://arrae.studio/",
+    "finalUrl": "https://arrae.studio/"
+  },
+  "calame-bureau": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:34:21.873Z",
+    "requestedUrl": "https://www.arthurcalame.com/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "artone-studio": {
+    "status": "success",
+    "path": "/screenshots/artone-studio.webp",
+    "capturedAt": "2026-10-17T18:19:31.009Z",
+    "requestedUrl": "https://www.artone.studio/",
+    "finalUrl": "https://www.artone.studio/"
+  },
+  "arts-and-letters-creative-co": {
+    "status": "success",
+    "path": "/screenshots/arts-and-letters-creative-co.webp",
+    "capturedAt": "2026-10-17T18:19:32.320Z",
+    "requestedUrl": "https://artsandletters.xyz/",
+    "finalUrl": "https://artsandletters.xyz/"
+  },
+  "aruliden": {
+    "status": "success",
+    "path": "/screenshots/aruliden.webp",
+    "capturedAt": "2026-10-17T18:19:32.320Z",
+    "requestedUrl": "https://aruliden.com/",
+    "finalUrl": "https://aruliden.com/"
+  },
+  "ask-phill": {
+    "status": "success",
+    "path": "/screenshots/ask-phill.webp",
+    "capturedAt": "2026-10-17T18:19:34.493Z",
+    "requestedUrl": "https://askphill.com/",
+    "finalUrl": "https://askphill.com/"
+  },
+  "atelier-avocado": {
+    "status": "success",
+    "path": "/screenshots/atelier-avocado.webp",
+    "capturedAt": "2026-10-17T18:19:35.304Z",
+    "requestedUrl": "https://atelieravocado.com/",
+    "finalUrl": "https://atelieravocado.com/"
+  },
+  "atio-studio": {
+    "status": "success",
+    "path": "/screenshots/atio-studio.webp",
+    "capturedAt": "2026-10-17T18:19:36.625Z",
+    "requestedUrl": "https://atio.studio/",
+    "finalUrl": "https://atio.studio/"
+  },
+  "atipus": {
+    "status": "success",
+    "path": "/screenshots/atipus.webp",
+    "capturedAt": "2026-10-17T18:19:37.202Z",
+    "requestedUrl": "https://atipus.com/en/",
+    "finalUrl": "https://atipus.com/en/"
+  },
+  "atla": {
+    "status": "failed",
+    "capturedAt": "2026-10-17T18:34:23.213Z",
+    "requestedUrl": "https://atla.design/",
+    "error": "Error: Rejected page: 402 Deployment Paused"
+  },
+  "auge-design": {
+    "status": "success",
+    "path": "/screenshots/auge-design.webp",
+    "capturedAt": "2026-10-17T18:34:25.389Z",
+    "requestedUrl": "https://auge-design.com/",
+    "finalUrl": "https://auge-design.com/"
+  },
+  "august-strategy": {
+    "status": "success",
+    "path": "/screenshots/august-strategy.webp",
+    "capturedAt": "2026-10-17T18:34:26.125Z",
+    "requestedUrl": "https://www.auguststrategy.com/",
+    "finalUrl": "https://www.auguststrategy.com/"
+  },
+  "bachoo": {
+    "status": "success",
+    "path": "/screenshots/bachoo.webp",
+    "capturedAt": "2026-10-17T18:34:34.573Z",
+    "requestedUrl": "https://bachoodesign.com/",
+    "finalUrl": "https://bachoodesign.com/"
+  },
+  "banziger-hug": {
+    "status": "success",
+    "path": "/screenshots/banziger-hug.webp",
+    "capturedAt": "2026-10-17T18:19:41.521Z",
+    "requestedUrl": "https://www.baenziger-hug.com/",
+    "finalUrl": "https://www.baenziger-hug.com/"
+  },
+  "baillat-studio": {
+    "status": "success",
+    "path": "/screenshots/baillat-studio.webp",
+    "capturedAt": "2026-10-17T18:19:43.559Z",
+    "requestedUrl": "https://baillatstudio.com/en",
+    "finalUrl": "https://baillatstudio.com/en"
+  },
+  "baked-design-studio": {
+    "status": "success",
+    "path": "/screenshots/baked-design-studio.webp",
+    "capturedAt": "2026-10-17T18:19:44.356Z",
+    "requestedUrl": "https://baked.design/",
+    "finalUrl": "https://baked.design/"
+  },
+  "bam-works": {
+    "status": "success",
+    "path": "/screenshots/bam-works.webp",
+    "capturedAt": "2026-10-17T18:19:46.560Z",
+    "requestedUrl": "https://bam-works.com/",
+    "finalUrl": "https://bam-works.com/"
+  },
+  "banktm": {
+    "status": "success",
+    "path": "/screenshots/banktm.webp",
+    "capturedAt": "2026-10-17T18:19:47.202Z",
+    "requestedUrl": "https://banktm.de/",
+    "finalUrl": "https://banktm.de/"
+  },
+  "bareis-nicolaus": {
+    "status": "success",
+    "path": "/screenshots/bareis-nicolaus.webp",
+    "capturedAt": "2026-10-17T18:19:47.381Z",
+    "requestedUrl": "https://www.bareis-nicolaus.com/",
+    "finalUrl": "https://www.bareis-nicolaus.com/"
+  },
+  "bathgate-design": {
+    "status": "success",
+    "path": "/screenshots/bathgate-design.webp",
+    "capturedAt": "2026-10-17T18:19:48.118Z",
+    "requestedUrl": "https://bathgate.design/",
+    "finalUrl": "https://bathgate.design/"
+  },
+  "best-studio": {
+    "status": "success",
+    "path": "/screenshots/best-studio.webp",
+    "capturedAt": "2026-10-17T18:19:50.396Z",
+    "requestedUrl": "https://beststudio.ca/",
+    "finalUrl": "https://beststudio.ca/"
+  },
+  "birch": {
+    "status": "success",
+    "path": "/screenshots/birch.webp",
+    "capturedAt": "2026-10-17T18:34:36.053Z",
+    "requestedUrl": "https://www.birchcreative.com/",
+    "finalUrl": "https://www.birchcreative.com/"
+  },
+  "bitter-creek": {
+    "status": "success",
+    "path": "/screenshots/bitter-creek.webp",
+    "capturedAt": "2026-10-17T18:19:56.079Z",
+    "requestedUrl": "https://www.bittercreek.studio/",
+    "finalUrl": "https://www.bittercreek.studio/"
+  },
+  "blinkpath": {
+    "status": "success",
+    "path": "/screenshots/blinkpath.webp",
+    "capturedAt": "2026-10-17T18:19:56.202Z",
+    "requestedUrl": "https://www.blinkpath.com/",
+    "finalUrl": "https://www.blinkpath.com/"
+  },
+  "blissful-studio": {
+    "status": "success",
+    "path": "/screenshots/blissful-studio.webp",
+    "capturedAt": "2026-10-17T18:19:56.699Z",
+    "requestedUrl": "https://blissful-studio.com/",
+    "finalUrl": "https://blissful-studio.com/"
+  },
+  "blok-design": {
+    "status": "success",
+    "path": "/screenshots/blok-design.webp",
+    "capturedAt": "2026-10-17T18:19:56.996Z",
+    "requestedUrl": "https://blokdesign.com/",
+    "finalUrl": "https://blokdesign.com/#/"
+  },
+  "blurr-bureau": {
+    "status": "success",
+    "path": "/screenshots/blurr-bureau.webp",
+    "capturedAt": "2026-10-17T18:19:57.392Z",
+    "requestedUrl": "https://blurrbureau.com/",
+    "finalUrl": "https://blurrbureau.com/"
+  },
+  "bna": {
+    "status": "success",
+    "path": "/screenshots/bna.webp",
+    "capturedAt": "2026-10-17T18:19:59.227Z",
+    "requestedUrl": "https://bna.pl/",
+    "finalUrl": "https://bna.pl/"
+  },
+  "bone-studio": {
+    "status": "success",
+    "path": "/screenshots/bone-studio.webp",
+    "capturedAt": "2026-10-17T18:20:02.724Z",
+    "requestedUrl": "https://www.bo.ne/",
+    "finalUrl": "https://www.bo.ne/"
+  },
+  "bodeyco": {
+    "status": "success",
+    "path": "/screenshots/bodeyco.webp",
+    "capturedAt": "2026-10-17T18:20:02.857Z",
+    "requestedUrl": "https://www.bodeyco.com/",
+    "finalUrl": "https://www.bodeyco.com/"
+  },
+  "body-shop": {
+    "status": "success",
+    "path": "/screenshots/body-shop.webp",
+    "capturedAt": "2026-10-17T18:20:03.372Z",
+    "requestedUrl": "https://www.body-shop.co/",
+    "finalUrl": "https://www.body-shop.co/"
+  },
+  "bureau-fritiau": {
+    "status": "success",
+    "path": "/screenshots/bureau-fritiau.webp",
+    "capturedAt": "2026-10-17T18:20:03.434Z",
+    "requestedUrl": "https://bureaufritiau.com/",
+    "finalUrl": "https://bureaufritiau.com/"
+  },
+  "border-zero": {
+    "status": "success",
+    "path": "/screenshots/border-zero.webp",
+    "capturedAt": "2026-10-17T18:20:05.132Z",
+    "requestedUrl": "https://borderze.ro/",
+    "finalUrl": "https://borderze.ro/"
+  },
+  "both": {
+    "status": "success",
+    "path": "/screenshots/both.webp",
+    "capturedAt": "2026-10-17T18:20:06.979Z",
+    "requestedUrl": "https://both.studio/",
+    "finalUrl": "https://both.studio/"
+  },
+  "boudreau-studio": {
+    "status": "success",
+    "path": "/screenshots/boudreau-studio.webp",
+    "capturedAt": "2026-10-17T18:20:08.748Z",
+    "requestedUrl": "https://boudreaudesigns.com/",
+    "finalUrl": "https://boudreaudesigns.com/"
+  },
+  "bow": {
+    "status": "success",
+    "path": "/screenshots/bow.webp",
+    "capturedAt": "2026-10-17T18:20:10.105Z",
+    "requestedUrl": "https://bow.no/",
+    "finalUrl": "https://bow.no/"
+  },
+  "bigpicture-company": {
+    "status": "success",
+    "path": "/screenshots/bigpicture-company.webp",
+    "capturedAt": "2026-10-17T18:20:11.701Z",
+    "requestedUrl": "https://www.bpco.kr/",
+    "finalUrl": "https://www.bpco.kr/"
+  },
+  "brandpie": {
+    "status": "success",
+    "path": "/screenshots/brandpie.webp",
+    "capturedAt": "2026-10-17T18:20:13.173Z",
+    "requestedUrl": "https://brandpie.com/",
+    "finalUrl": "https://brandpie.com/"
+  },
+  "brands-and-people": {
+    "status": "success",
+    "path": "/screenshots/brands-and-people.webp",
+    "capturedAt": "2026-10-17T18:20:14.101Z",
+    "requestedUrl": "https://www.brands.mx/",
+    "finalUrl": "https://www.brands.mx/"
+  },
+  "bratus": {
+    "status": "success",
+    "path": "/screenshots/bratus.webp",
+    "capturedAt": "2026-10-17T18:20:15.556Z",
+    "requestedUrl": "https://bratus.co/",
+    "finalUrl": "https://bratus.co/"
+  },
+  "brainchild": {
+    "status": "success",
+    "path": "/screenshots/brainchild.webp",
+    "capturedAt": "2026-10-17T18:38:43.930Z",
+    "requestedUrl": "https://brnchd.com/",
+    "finalUrl": "https://brnchd.com/studio"
+  },
+  "buddy-buddy": {
+    "status": "success",
+    "path": "/screenshots/buddy-buddy.webp",
+    "capturedAt": "2026-10-17T18:20:21.422Z",
+    "requestedUrl": "https://buddy-buddy.co/",
+    "finalUrl": "https://buddy-buddy.co/"
+  },
+  "bureau-cool": {
+    "status": "success",
+    "path": "/screenshots/bureau-cool.webp",
+    "capturedAt": "2026-10-17T18:20:21.671Z",
+    "requestedUrl": "https://bureau.cool/",
+    "finalUrl": "https://bureau.cool/"
+  },
+  "buro-reng": {
+    "status": "success",
+    "path": "/screenshots/buro-reng.webp",
+    "capturedAt": "2026-10-17T18:20:23.260Z",
+    "requestedUrl": "https://www.buroreng.nl/",
+    "finalUrl": "https://www.buroreng.nl/"
+  },
+  "blank-studio": {
+    "status": "success",
+    "path": "/screenshots/blank-studio.webp",
+    "capturedAt": "2026-10-17T18:20:27.786Z",
+    "requestedUrl": "https://www.byblankspace.com/",
+    "finalUrl": "https://www.byblankspace.com/"
+  },
+  "by-north": {
+    "status": "success",
+    "path": "/screenshots/by-north.webp",
+    "capturedAt": "2026-10-17T18:20:27.991Z",
+    "requestedUrl": "https://www.bynorth.no/",
+    "finalUrl": "https://www.bynorth.no/"
+  },
+  "unleash-studio": {
+    "status": "success",
+    "path": "/screenshots/unleash-studio.webp",
+    "capturedAt": "2026-10-17T18:20:28.136Z",
+    "requestedUrl": "https://www.byunleash.studio/",
+    "finalUrl": "https://www.byunleash.studio/"
+  },
+  "c-ll-ct-v-ly": {
+    "status": "success",
+    "path": "/screenshots/c-ll-ct-v-ly.webp",
+    "capturedAt": "2026-10-17T18:20:28.870Z",
+    "requestedUrl": "https://www.collectively.cc/",
+    "finalUrl": "https://www.collectively.cc/"
+  },
+  "camp-quiet": {
+    "status": "success",
+    "path": "/screenshots/camp-quiet.webp",
+    "capturedAt": "2026-10-17T18:34:41.750Z",
+    "requestedUrl": "https://campquiet.com/",
+    "finalUrl": "https://campquiet.com/"
+  },
+  "camron": {
+    "status": "success",
+    "path": "/screenshots/camron.webp",
+    "capturedAt": "2026-10-17T18:34:48.903Z",
+    "requestedUrl": "https://www.camronglobal.com/",
+    "finalUrl": "https://www.camronglobal.com/"
+  },
+  "candycode": {
+    "status": "success",
+    "path": "/screenshots/candycode.webp",
+    "capturedAt": "2026-10-17T18:20:36.108Z",
+    "requestedUrl": "https://candycode.com/",
+    "finalUrl": "https://candycode.com/"
+  },
+  "carpenter-collective": {
+    "status": "success",
+    "path": "/screenshots/carpenter-collective.webp",
+    "capturedAt": "2026-10-17T18:20:36.289Z",
+    "requestedUrl": "https://carpentercollective.com/",
+    "finalUrl": "https://carpentercollective.com/"
+  },
+  "cartlidge-levene": {
+    "status": "success",
+    "path": "/screenshots/cartlidge-levene.webp",
+    "capturedAt": "2026-10-17T18:39:02.481Z",
+    "requestedUrl": "https://cartlidgelevene.co.uk/",
+    "finalUrl": "https://cartlidgelevene.co.uk/work/category/selected"
+  },
+  "caserne": {
+    "status": "success",
+    "path": "/screenshots/caserne.webp",
+    "capturedAt": "2026-10-17T18:20:37.171Z",
+    "requestedUrl": "https://caserne.com/en",
+    "finalUrl": "https://caserne.com/en"
+  },
+  "center": {
+    "status": "success",
+    "path": "/screenshots/center.webp",
+    "capturedAt": "2026-10-17T18:20:39.988Z",
+    "requestedUrl": "https://center.design/",
+    "finalUrl": "https://center.design/"
+  },
+  "chermayeff-and-geismar-and-haviv": {
+    "status": "success",
+    "path": "/screenshots/chermayeff-and-geismar-and-haviv.webp",
+    "capturedAt": "2026-10-17T18:20:42.661Z",
+    "requestedUrl": "https://cghnyc.com/",
+    "finalUrl": "https://cghnyc.com/"
+  },
+  "chochoi": {
+    "status": "success",
+    "path": "/screenshots/chochoi.webp",
+    "capturedAt": "2026-10-17T18:34:54.893Z",
+    "requestedUrl": "https://chochoicreative.com/",
+    "finalUrl": "https://chochoicreative.com/"
+  },
+  "choi-studio": {
+    "status": "success",
+    "path": "/screenshots/choi-studio.webp",
+    "capturedAt": "2026-10-17T18:34:57.359Z",
+    "requestedUrl": "https://www.choistudio.com/",
+    "finalUrl": "https://www.choistudio.com/"
+  },
+  "cinco-design": {
+    "status": "success",
+    "path": "/screenshots/cinco-design.webp",
+    "capturedAt": "2026-10-17T18:20:43.343Z",
+    "requestedUrl": "https://www.cinco.design/",
+    "finalUrl": "https://www.cinco.design/"
+  },
+  "circular-agency": {
+    "status": "success",
+    "path": "/screenshots/circular-agency.webp",
+    "capturedAt": "2026-10-17T18:35:05.342Z",
+    "requestedUrl": "https://www.circularagency.com/",
+    "finalUrl": "https://www.circularagency.com/"
+  },
+  "classmate-studio": {
+    "status": "success",
+    "path": "/screenshots/classmate-studio.webp",
+    "capturedAt": "2026-10-17T18:20:47.478Z",
+    "requestedUrl": "https://www.classmatestudio.com/",
+    "finalUrl": "https://www.classmatestudio.com/"
+  },
+  "codeam": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:35:09.543Z",
+    "requestedUrl": "https://codeam.nl/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "colville-walker": {
+    "status": "success",
+    "path": "/screenshots/colville-walker.webp",
+    "capturedAt": "2026-10-17T18:20:49.726Z",
+    "requestedUrl": "https://colville-walker.com/",
+    "finalUrl": "https://colville-walker.com/"
+  },
+  "combination": {
+    "status": "success",
+    "path": "/screenshots/combination.webp",
+    "capturedAt": "2026-10-17T18:20:50.952Z",
+    "requestedUrl": "https://combination.studio/",
+    "finalUrl": "https://combination.studio/"
+  },
+  "combo": {
+    "status": "success",
+    "path": "/screenshots/combo.webp",
+    "capturedAt": "2026-10-17T18:39:07.158Z",
+    "requestedUrl": "https://combo.co/",
+    "finalUrl": "https://combo.co/projects"
+  },
+  "communion": {
+    "status": "success",
+    "path": "/screenshots/communion.webp",
+    "capturedAt": "2026-10-17T18:20:55.519Z",
+    "requestedUrl": "https://www.communion.studio/",
+    "finalUrl": "https://www.communion.studio/"
+  },
+  "confederation-studio": {
+    "status": "success",
+    "path": "/screenshots/confederation-studio.webp",
+    "capturedAt": "2026-10-17T18:20:55.531Z",
+    "requestedUrl": "https://www.confederationstudio.com/",
+    "finalUrl": "https://www.confederationstudio.com/"
+  },
+  "corinne-and-cloe": {
+    "status": "success",
+    "path": "/screenshots/corinne-and-cloe.webp",
+    "capturedAt": "2026-10-17T18:20:55.543Z",
+    "requestedUrl": "https://corinnecloe.com/",
+    "finalUrl": "https://corinnecloe.com/"
+  },
+  "correspondence": {
+    "status": "success",
+    "path": "/screenshots/correspondence.webp",
+    "capturedAt": "2026-10-17T18:20:55.688Z",
+    "requestedUrl": "https://correspondence.works/",
+    "finalUrl": "https://correspondence.works/"
+  },
+  "crown-creative": {
+    "status": "success",
+    "path": "/screenshots/crown-creative.webp",
+    "capturedAt": "2026-10-17T18:20:56.606Z",
+    "requestedUrl": "https://crowncreative.com/",
+    "finalUrl": "https://crowncreative.com/"
+  },
+  "culture-works": {
+    "status": "success",
+    "path": "/screenshots/culture-works.webp",
+    "capturedAt": "2026-10-17T18:21:00.021Z",
+    "requestedUrl": "https://www.cultureworks.dk/",
+    "finalUrl": "https://www.cultureworks.dk/"
+  },
+  "curb": {
+    "status": "success",
+    "path": "/screenshots/curb.webp",
+    "capturedAt": "2026-10-17T18:21:01.627Z",
+    "requestedUrl": "https://www.curbcph.tv/",
+    "finalUrl": "https://www.curbcph.tv/"
+  },
+  "cyphr": {
+    "status": "success",
+    "path": "/screenshots/cyphr.webp",
+    "capturedAt": "2026-10-17T18:21:02.991Z",
+    "requestedUrl": "https://www.cyphr.studio/",
+    "finalUrl": "https://www.cyphr.studio/"
+  },
+  "d8-studio": {
+    "status": "success",
+    "path": "/screenshots/d8-studio.webp",
+    "capturedAt": "2026-10-17T18:35:12.205Z",
+    "requestedUrl": "https://d8.studio/",
+    "finalUrl": "https://d8.studio/"
+  },
+  "damn-good-brands": {
+    "status": "success",
+    "path": "/screenshots/damn-good-brands.webp",
+    "capturedAt": "2026-10-17T18:21:04.234Z",
+    "requestedUrl": "https://damngoodbrands.com/",
+    "finalUrl": "https://damngoodbrands.com/"
+  },
+  "dark-alley-pictures": {
+    "status": "success",
+    "path": "/screenshots/dark-alley-pictures.webp",
+    "capturedAt": "2026-10-17T18:21:07.320Z",
+    "requestedUrl": "https://www.darkalleypictures.com/",
+    "finalUrl": "https://www.darkalleypictures.com/"
+  },
+  "darkroom-engineering": {
+    "status": "success",
+    "path": "/screenshots/darkroom-engineering.webp",
+    "capturedAt": "2026-10-17T18:21:07.518Z",
+    "requestedUrl": "https://darkroom.engineering/",
+    "finalUrl": "https://darkroom.engineering/"
+  },
+  "darling": {
+    "status": "success",
+    "path": "/screenshots/darling.webp",
+    "capturedAt": "2026-10-17T18:21:08.661Z",
+    "requestedUrl": "https://www.darling.sg/",
+    "finalUrl": "https://www.darling.sg/"
+  },
+  "davka": {
+    "status": "success",
+    "path": "/screenshots/davka.webp",
+    "capturedAt": "2026-10-17T18:35:22.905Z",
+    "requestedUrl": "https://www.davka.design/",
+    "finalUrl": "https://www.davka.design/"
+  },
+  "democracia": {
+    "status": "success",
+    "path": "/screenshots/democracia.webp",
+    "capturedAt": "2026-10-17T18:21:10.593Z",
+    "requestedUrl": "https://democracia.studio/",
+    "finalUrl": "https://democracia.studio/"
+  },
+  "denada-design": {
+    "status": "success",
+    "path": "/screenshots/denada-design.webp",
+    "capturedAt": "2026-10-17T18:21:11.761Z",
+    "requestedUrl": "https://www.denada.design/",
+    "finalUrl": "https://www.denada.design/"
+  },
+  "dennis-studio": {
+    "status": "success",
+    "path": "/screenshots/dennis-studio.webp",
+    "capturedAt": "2026-10-17T18:21:12.138Z",
+    "requestedUrl": "https://dennis.studio/",
+    "finalUrl": "https://dennis.studio/"
+  },
+  "derek-and-eric": {
+    "status": "success",
+    "path": "/screenshots/derek-and-eric.webp",
+    "capturedAt": "2026-10-17T18:21:14.970Z",
+    "requestedUrl": "https://www.derekanderic.co.uk/",
+    "finalUrl": "https://www.derekanderic.co.uk/"
+  },
+  "deux-huit-huit": {
+    "status": "success",
+    "path": "/screenshots/deux-huit-huit.webp",
+    "capturedAt": "2026-10-17T18:21:15.432Z",
+    "requestedUrl": "https://deuxhuithuit.com/en",
+    "finalUrl": "https://deuxhuithuit.com/en"
+  },
+  "divine": {
+    "status": "success",
+    "path": "/screenshots/divine.webp",
+    "capturedAt": "2026-10-17T18:21:19.902Z",
+    "requestedUrl": "https://www.divinestudio.tv/",
+    "finalUrl": "https://www.divinestudio.tv/"
+  },
+  "dogma-new-horizons": {
+    "status": "success",
+    "path": "/screenshots/dogma-new-horizons.webp",
+    "capturedAt": "2026-10-17T18:35:24.469Z",
+    "requestedUrl": "https://www.dogma-global.com/",
+    "finalUrl": "https://www.dogma-global.com/"
+  },
+  "domaine-public": {
+    "status": "success",
+    "path": "/screenshots/domaine-public.webp",
+    "capturedAt": "2026-10-17T18:21:22.380Z",
+    "requestedUrl": "https://domainepublic.ca/",
+    "finalUrl": "https://domainepublic.ca/"
+  },
+  "don-prod": {
+    "status": "success",
+    "path": "/screenshots/don-prod.webp",
+    "capturedAt": "2026-10-17T18:21:25.506Z",
+    "requestedUrl": "https://www.donprod.uk/",
+    "finalUrl": "https://www.donprod.uk/"
+  },
+  "dous-studio": {
+    "status": "success",
+    "path": "/screenshots/dous-studio.webp",
+    "capturedAt": "2026-10-17T18:21:25.506Z",
+    "requestedUrl": "https://dous.studio/",
+    "finalUrl": "https://dous.studio/"
+  },
+  "dowen-farmer-architects": {
+    "status": "success",
+    "path": "/screenshots/dowen-farmer-architects.webp",
+    "capturedAt": "2026-10-17T18:21:25.844Z",
+    "requestedUrl": "https://dowenfarmer.com/",
+    "finalUrl": "https://dowenfarmer.com/"
+  },
+  "due-studio": {
+    "status": "success",
+    "path": "/screenshots/due-studio.webp",
+    "capturedAt": "2026-10-17T18:21:26.204Z",
+    "requestedUrl": "https://www.due-studio.com/",
+    "finalUrl": "https://www.due-studio.com/"
+  },
+  "duedance": {
+    "status": "success",
+    "path": "/screenshots/duedance.webp",
+    "capturedAt": "2026-10-17T18:21:26.751Z",
+    "requestedUrl": "https://duedance.com/",
+    "finalUrl": "https://duedance.com/"
+  },
+  "duo": {
+    "status": "success",
+    "path": "/screenshots/duo.webp",
+    "capturedAt": "2026-10-17T18:21:30.904Z",
+    "requestedUrl": "https://duo.wtf/",
+    "finalUrl": "https://duo.wtf/"
+  },
+  "duzi-st": {
+    "status": "success",
+    "path": "/screenshots/duzi-st.webp",
+    "capturedAt": "2026-10-17T18:21:32.494Z",
+    "requestedUrl": "https://www.duzistudio.com/",
+    "finalUrl": "https://www.duzistudio.com/"
+  },
+  "early-works": {
+    "status": "success",
+    "path": "/screenshots/early-works.webp",
+    "capturedAt": "2026-10-17T18:21:34.157Z",
+    "requestedUrl": "https://www.early.works/",
+    "finalUrl": "https://www.early.works/"
+  },
+  "church": {
+    "status": "success",
+    "path": "/screenshots/church.webp",
+    "capturedAt": "2026-10-17T18:21:34.389Z",
+    "requestedUrl": "https://edit.church/",
+    "finalUrl": "https://edit.church/"
+  },
+  "studio-eduardo-aires": {
+    "status": "success",
+    "path": "/screenshots/studio-eduardo-aires.webp",
+    "capturedAt": "2026-10-17T18:21:34.455Z",
+    "requestedUrl": "https://www.eduardoaires.com/",
+    "finalUrl": "https://www.eduardoaires.com/"
+  },
+  "egg-studio": {
+    "status": "success",
+    "path": "/screenshots/egg-studio.webp",
+    "capturedAt": "2026-10-17T18:21:36.608Z",
+    "requestedUrl": "https://eggstudio.la/",
+    "finalUrl": "https://eggstudio.la/"
+  },
+  "eleveight-studio": {
+    "status": "success",
+    "path": "/screenshots/eleveight-studio.webp",
+    "capturedAt": "2026-10-17T18:21:37.775Z",
+    "requestedUrl": "https://www.eleveight.studio/",
+    "finalUrl": "https://www.eleveight.studio/"
+  },
+  "hunt": {
+    "status": "success",
+    "path": "/screenshots/hunt.webp",
+    "capturedAt": "2026-10-17T18:35:26.012Z",
+    "requestedUrl": "https://www.hunt-branding.be/en",
+    "finalUrl": "https://www.hunt-branding.be/en"
+  },
+  "ensemble": {
+    "status": "success",
+    "path": "/screenshots/ensemble.webp",
+    "capturedAt": "2026-10-17T18:21:40.681Z",
+    "requestedUrl": "https://ensemble.ooo/en",
+    "finalUrl": "https://ensemble.ooo/en"
+  },
+  "studio-eric-price": {
+    "status": "success",
+    "path": "/screenshots/studio-eric-price.webp",
+    "capturedAt": "2026-10-17T18:21:42.250Z",
+    "requestedUrl": "https://ericprice.info/",
+    "finalUrl": "https://ericprice.info/"
+  },
+  "espina-studio": {
+    "status": "success",
+    "path": "/screenshots/espina-studio.webp",
+    "capturedAt": "2026-10-17T18:21:43.433Z",
+    "requestedUrl": "https://espina.studio/",
+    "finalUrl": "https://espina.studio/"
+  },
+  "established": {
+    "status": "success",
+    "path": "/screenshots/established.webp",
+    "capturedAt": "2026-10-17T18:21:43.602Z",
+    "requestedUrl": "https://establishednyc.com/",
+    "finalUrl": "https://establishednyc.com/"
+  },
+  "estudio-carino": {
+    "status": "success",
+    "path": "/screenshots/estudio-carino.webp",
+    "capturedAt": "2026-10-17T18:21:44.319Z",
+    "requestedUrl": "https://estudiocarino.com/",
+    "finalUrl": "https://estudiocarino.com/"
+  },
+  "estudio-gole": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:35:30.531Z",
+    "requestedUrl": "https://estudiogole.com/en-us/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "estudio-nuar": {
+    "status": "success",
+    "path": "/screenshots/estudio-nuar.webp",
+    "capturedAt": "2026-10-17T18:21:47.976Z",
+    "requestedUrl": "https://www.estudionuar.com/",
+    "finalUrl": "https://www.estudionuar.com/"
+  },
+  "everland": {
+    "status": "success",
+    "path": "/screenshots/everland.webp",
+    "capturedAt": "2026-10-17T18:21:49.666Z",
+    "requestedUrl": "https://everland.dk/",
+    "finalUrl": "https://everland.dk/"
+  },
+  "evers-de-gier": {
+    "status": "success",
+    "path": "/screenshots/evers-de-gier.webp",
+    "capturedAt": "2026-10-17T18:35:38.355Z",
+    "requestedUrl": "https://www.eversendegier.nl/",
+    "finalUrl": "https://www.eversendegier.nl/"
+  },
+  "studio-evra": {
+    "status": "success",
+    "path": "/screenshots/studio-evra.webp",
+    "capturedAt": "2026-10-17T18:21:52.899Z",
+    "requestedUrl": "https://www.evra.design/",
+    "finalUrl": "https://www.evra.design/"
+  },
+  "exex": {
+    "status": "success",
+    "path": "/screenshots/exex.webp",
+    "capturedAt": "2026-10-17T18:35:38.465Z",
+    "requestedUrl": "https://exex.at/",
+    "finalUrl": "https://exex.at/"
+  },
+  "faena-studio": {
+    "status": "success",
+    "path": "/screenshots/faena-studio.webp",
+    "capturedAt": "2026-10-17T18:21:55.885Z",
+    "requestedUrl": "https://faena-studio.org/",
+    "finalUrl": "https://faena-studio.org/"
+  },
+  "fakepaper": {
+    "status": "success",
+    "path": "/screenshots/fakepaper.webp",
+    "capturedAt": "2026-10-17T18:21:56.068Z",
+    "requestedUrl": "https://www.fakepaper.fr/",
+    "finalUrl": "https://www.fakepaper.fr/"
+  },
+  "fcklck": {
+    "status": "success",
+    "path": "/screenshots/fcklck.webp",
+    "capturedAt": "2026-10-17T18:35:43.780Z",
+    "requestedUrl": "https://fcklck.studio/",
+    "finalUrl": "https://fcklck.studio/"
+  },
+  "fffunction": {
+    "status": "success",
+    "path": "/screenshots/fffunction.webp",
+    "capturedAt": "2026-10-17T18:21:58.706Z",
+    "requestedUrl": "https://fffunction.studio/",
+    "finalUrl": "https://fffunction.studio/"
+  },
+  "fhoke": {
+    "status": "success",
+    "path": "/screenshots/fhoke.webp",
+    "capturedAt": "2026-10-17T18:35:47.389Z",
+    "requestedUrl": "https://www.fhoke.com/",
+    "finalUrl": "https://www.fhoke.com/"
+  },
+  "fiasco": {
+    "status": "success",
+    "path": "/screenshots/fiasco.webp",
+    "capturedAt": "2026-10-17T18:39:13.138Z",
+    "requestedUrl": "https://fiasco.design/",
+    "finalUrl": "https://fiasco.design/work/"
+  },
+  "fisk": {
+    "status": "success",
+    "path": "/screenshots/fisk.webp",
+    "capturedAt": "2026-10-17T18:22:04.570Z",
+    "requestedUrl": "https://fiskprojects.com/",
+    "finalUrl": "https://fiskprojects.com/"
+  },
+  "flair-digital": {
+    "status": "success",
+    "path": "/screenshots/flair-digital.webp",
+    "capturedAt": "2026-10-17T18:35:57.103Z",
+    "requestedUrl": "https://flair.digital/",
+    "finalUrl": "https://flair.digital/"
+  },
+  "fluks-studio": {
+    "status": "success",
+    "path": "/screenshots/fluks-studio.webp",
+    "capturedAt": "2026-10-17T18:35:59.276Z",
+    "requestedUrl": "https://www.fluks.studio/",
+    "finalUrl": "https://www.fluks.studio/"
+  },
+  "folder": {
+    "status": "success",
+    "path": "/screenshots/folder.webp",
+    "capturedAt": "2026-10-17T18:22:08.816Z",
+    "requestedUrl": "https://folder.studio/",
+    "finalUrl": "https://folder.studio/#projects/princeton-university-art-museum"
+  },
+  "fondu": {
+    "status": "success",
+    "path": "/screenshots/fondu.webp",
+    "capturedAt": "2026-10-17T18:22:08.889Z",
+    "requestedUrl": "https://www.fondu.co/",
+    "finalUrl": "https://www.fondu.co/"
+  },
+  "food": {
+    "status": "success",
+    "path": "/screenshots/food.webp",
+    "capturedAt": "2026-10-17T18:22:09.493Z",
+    "requestedUrl": "https://www.food.xyz/",
+    "finalUrl": "https://www.food.xyz/"
+  },
+  "for-different": {
+    "status": "success",
+    "path": "/screenshots/for-different.webp",
+    "capturedAt": "2026-10-17T18:22:11.806Z",
+    "requestedUrl": "https://www.fordifferent.com/",
+    "finalUrl": "https://www.fordifferent.com/"
+  },
+  "foreign-policy": {
+    "status": "success",
+    "path": "/screenshots/foreign-policy.webp",
+    "capturedAt": "2026-10-17T18:36:03.258Z",
+    "requestedUrl": "https://www.foreignpolicy.design/",
+    "finalUrl": "https://www.foreignpolicy.design/"
+  },
+  "formascope": {
+    "status": "success",
+    "path": "/screenshots/formascope.webp",
+    "capturedAt": "2026-10-17T18:22:15.701Z",
+    "requestedUrl": "https://formascope.agency/",
+    "finalUrl": "https://formascope.agency/"
+  },
+  "for-the-people": {
+    "status": "success",
+    "path": "/screenshots/for-the-people.webp",
+    "capturedAt": "2026-10-17T18:22:16.723Z",
+    "requestedUrl": "https://www.forthepeople.agency/",
+    "finalUrl": "https://www.forthepeople.agency/"
+  },
+  "fourthcanvas": {
+    "status": "success",
+    "path": "/screenshots/fourthcanvas.webp",
+    "capturedAt": "2026-10-17T18:36:13.059Z",
+    "requestedUrl": "https://fourthcanvas.co/",
+    "finalUrl": "https://fourthcanvas.co/"
+  },
+  "frame48": {
+    "status": "success",
+    "path": "/screenshots/frame48.webp",
+    "capturedAt": "2026-10-17T18:22:19.992Z",
+    "requestedUrl": "https://www.frame48.com/",
+    "finalUrl": "https://www.frame48.com/"
+  },
+  "freshmade": {
+    "status": "success",
+    "path": "/screenshots/freshmade.webp",
+    "capturedAt": "2026-10-17T18:22:22.665Z",
+    "requestedUrl": "https://freshmadebrands.com/",
+    "finalUrl": "https://freshmadebrands.com/"
+  },
+  "fried-cactus-studio": {
+    "status": "success",
+    "path": "/screenshots/fried-cactus-studio.webp",
+    "capturedAt": "2026-10-17T18:22:22.723Z",
+    "requestedUrl": "https://www.friedcactusdc.com/",
+    "finalUrl": "https://www.friedcactusdc.com/"
+  },
+  "friends-of-the-web": {
+    "status": "success",
+    "path": "/screenshots/friends-of-the-web.webp",
+    "capturedAt": "2026-10-17T18:22:22.966Z",
+    "requestedUrl": "https://www.friendsoftheweb.com/",
+    "finalUrl": "https://www.friendsoftheweb.com/"
+  },
+  "frost-collective": {
+    "status": "success",
+    "path": "/screenshots/frost-collective.webp",
+    "capturedAt": "2026-10-17T18:22:23.014Z",
+    "requestedUrl": "https://www.frostcollective.com/",
+    "finalUrl": "https://www.frostcollective.com/"
+  },
+  "further": {
+    "status": "success",
+    "path": "/screenshots/further.webp",
+    "capturedAt": "2026-10-17T18:22:25.127Z",
+    "requestedUrl": "https://www.further.group/",
+    "finalUrl": "https://www.further.group/"
+  },
+  "g2k": {
+    "status": "success",
+    "path": "/screenshots/g2k.webp",
+    "capturedAt": "2026-10-17T18:22:27.289Z",
+    "requestedUrl": "https://g2k.nl/",
+    "finalUrl": "https://g2k.nl/"
+  },
+  "gang": {
+    "status": "success",
+    "path": "/screenshots/gang.webp",
+    "capturedAt": "2026-10-17T18:22:30.149Z",
+    "requestedUrl": "https://gang.tv/",
+    "finalUrl": "https://gang.tv/"
+  },
+  "garbett": {
+    "status": "success",
+    "path": "/screenshots/garbett.webp",
+    "capturedAt": "2026-10-17T18:22:30.181Z",
+    "requestedUrl": "https://garbett.com.au/",
+    "finalUrl": "https://garbett.com.au/"
+  },
+  "garde-design-studio": {
+    "status": "success",
+    "path": "/screenshots/garde-design-studio.webp",
+    "capturedAt": "2026-10-17T18:22:30.202Z",
+    "requestedUrl": "https://www.gardedesign.com/",
+    "finalUrl": "https://www.gardedesign.com/"
+  },
+  "general-idea": {
+    "status": "success",
+    "path": "/screenshots/general-idea.webp",
+    "capturedAt": "2026-10-17T18:22:30.624Z",
+    "requestedUrl": "https://www.generalidea.agency/",
+    "finalUrl": "https://www.generalidea.agency/"
+  },
+  "gentle-systems": {
+    "status": "success",
+    "path": "/screenshots/gentle-systems.webp",
+    "capturedAt": "2026-10-17T18:22:33.276Z",
+    "requestedUrl": "https://www.gentle.systems/",
+    "finalUrl": "https://www.gentle.systems/"
+  },
+  "george-and-harrison": {
+    "status": "success",
+    "path": "/screenshots/george-and-harrison.webp",
+    "capturedAt": "2026-10-17T18:22:35.274Z",
+    "requestedUrl": "https://www.georgeandharrison.nl/",
+    "finalUrl": "https://www.georgeandharrison.nl/"
+  },
+  "new-media-campaigns": {
+    "status": "success",
+    "path": "/screenshots/new-media-campaigns.webp",
+    "capturedAt": "2026-10-17T18:22:36.224Z",
+    "requestedUrl": "https://www.newmediacampaigns.com/",
+    "finalUrl": "https://www.newmediacampaigns.com/"
+  },
+  "get-hyped": {
+    "status": "success",
+    "path": "/screenshots/get-hyped.webp",
+    "capturedAt": "2026-10-17T18:22:38.611Z",
+    "requestedUrl": "https://www.gethyped.nl/",
+    "finalUrl": "https://www.gethyped.nl/"
+  },
+  "giant-owl": {
+    "status": "success",
+    "path": "/screenshots/giant-owl.webp",
+    "capturedAt": "2026-10-17T18:22:39.276Z",
+    "requestedUrl": "https://giantowl.co.uk/",
+    "finalUrl": "https://giantowl.co.uk/"
+  },
+  "girl": {
+    "status": "success",
+    "path": "/screenshots/girl.webp",
+    "capturedAt": "2026-10-17T18:22:39.762Z",
+    "requestedUrl": "https://www.girl.studio/",
+    "finalUrl": "https://www.girl.studio/"
+  },
+  "glasfurd-and-walker": {
+    "status": "success",
+    "path": "/screenshots/glasfurd-and-walker.webp",
+    "capturedAt": "2026-10-17T18:22:39.902Z",
+    "requestedUrl": "https://glasfurdandwalker.com/",
+    "finalUrl": "https://glasfurdandwalker.com/"
+  },
+  "glow-up": {
+    "status": "success",
+    "path": "/screenshots/glow-up.webp",
+    "capturedAt": "2026-10-17T18:22:43.145Z",
+    "requestedUrl": "https://www.glowupagence.fr/en",
+    "finalUrl": "https://www.glowupagence.fr/en"
+  },
+  "goal": {
+    "status": "success",
+    "path": "/screenshots/goal.webp",
+    "capturedAt": "2026-10-17T18:22:43.692Z",
+    "requestedUrl": "https://goal.agency/",
+    "finalUrl": "https://goal.agency/"
+  },
+  "gold-front": {
+    "status": "success",
+    "path": "/screenshots/gold-front.webp",
+    "capturedAt": "2026-10-17T18:22:46.345Z",
+    "requestedUrl": "https://www.goldfront.com/",
+    "finalUrl": "https://www.goldfront.com/"
+  },
+  "gone-fishing": {
+    "status": "success",
+    "path": "/screenshots/gone-fishing.webp",
+    "capturedAt": "2026-10-17T18:22:46.412Z",
+    "requestedUrl": "https://www.gonefishing.studio/",
+    "finalUrl": "https://www.gonefishing.studio/"
+  },
+  "goodlove": {
+    "status": "failed",
+    "capturedAt": "2026-10-17T18:36:14.341Z",
+    "requestedUrl": "https://goodlove.co",
+    "error": "Error: Rejected page: 403 Just a moment..."
+  },
+  "gospooky": {
+    "status": "success",
+    "path": "/screenshots/gospooky.webp",
+    "capturedAt": "2026-10-17T18:22:48.296Z",
+    "requestedUrl": "https://www.gospooky.com/",
+    "finalUrl": "https://www.gospooky.com/"
+  },
+  "graphics-dept": {
+    "status": "success",
+    "path": "/screenshots/graphics-dept.webp",
+    "capturedAt": "2026-10-17T18:22:51.672Z",
+    "requestedUrl": "https://www.graphicsdept.com/",
+    "finalUrl": "https://www.graphicsdept.com/"
+  },
+  "great-at": {
+    "status": "success",
+    "path": "/screenshots/great-at.webp",
+    "capturedAt": "2026-10-17T18:22:53.759Z",
+    "requestedUrl": "https://greatatstudio.com/en/projects",
+    "finalUrl": "https://greatatstudio.com/en/projects"
+  },
+  "grotesk-studio": {
+    "status": "success",
+    "path": "/screenshots/grotesk-studio.webp",
+    "capturedAt": "2026-10-17T18:22:53.757Z",
+    "requestedUrl": "https://grotesk.studio/",
+    "finalUrl": "https://grotesk.studio/"
+  },
+  "guerra-office": {
+    "status": "success",
+    "path": "/screenshots/guerra-office.webp",
+    "capturedAt": "2026-10-17T18:22:53.774Z",
+    "requestedUrl": "https://www.guerraoffice.com/",
+    "finalUrl": "https://www.guerraoffice.com/"
+  },
+  "guts-agency": {
+    "status": "success",
+    "path": "/screenshots/guts-agency.webp",
+    "capturedAt": "2026-10-17T18:36:18.084Z",
+    "requestedUrl": "https://www.guts.agency/",
+    "finalUrl": "https://www.guts.agency/"
+  },
+  "studio-hanli": {
+    "status": "success",
+    "path": "/screenshots/studio-hanli.webp",
+    "capturedAt": "2026-10-17T18:36:58.238Z",
+    "requestedUrl": "https://hanli.eu/",
+    "finalUrl": "https://hanli.eu/"
+  },
+  "f-and-b-happy": {
+    "status": "success",
+    "path": "/screenshots/f-and-b-happy.webp",
+    "capturedAt": "2026-10-17T18:38:00.527Z",
+    "requestedUrl": "https://happy.forsman.com/",
+    "finalUrl": "https://happy.forsman.com/work/"
+  },
+  "happycentro": {
+    "status": "success",
+    "path": "/screenshots/happycentro.webp",
+    "capturedAt": "2026-10-17T18:23:02.012Z",
+    "requestedUrl": "https://happycentro.it/",
+    "finalUrl": "https://happycentro.it/"
+  },
+  "hato": {
+    "status": "success",
+    "path": "/screenshots/hato.webp",
+    "capturedAt": "2026-10-17T18:36:18.364Z",
+    "requestedUrl": "https://hato.co/",
+    "finalUrl": "https://hato.co/"
+  },
+  "hdsht": {
+    "status": "success",
+    "path": "/screenshots/hdsht.webp",
+    "capturedAt": "2026-10-17T18:23:04.982Z",
+    "requestedUrl": "https://www.hdsht.pink/",
+    "finalUrl": "https://www.hdsht.pink/"
+  },
+  "helder": {
+    "status": "success",
+    "path": "/screenshots/helder.webp",
+    "capturedAt": "2026-10-17T18:23:04.982Z",
+    "requestedUrl": "https://helder.design/en/",
+    "finalUrl": "https://helder.design/en/"
+  },
+  "hello-comrade": {
+    "status": "failed",
+    "capturedAt": "2026-10-17T18:36:28.189Z",
+    "requestedUrl": "https://hellocomradestudio.com/",
+    "error": "The listed studio website redirects to google.com. Unrelated search-engine content was rejected; official studio content remains unverified."
+  },
+  "hornet": {
+    "status": "success",
+    "path": "/screenshots/hornet.webp",
+    "capturedAt": "2026-10-17T18:40:14.851Z",
+    "requestedUrl": "https://www.hellohornet.com/",
+    "finalUrl": "https://www.hellohornet.com/about"
+  },
+  "here-now": {
+    "status": "success",
+    "path": "/screenshots/here-now.webp",
+    "capturedAt": "2026-10-17T18:23:10.536Z",
+    "requestedUrl": "https://here-now.studio/nouvelle/",
+    "finalUrl": "https://here-now.studio/nouvelle/"
+  },
+  "heyday-studio": {
+    "status": "success",
+    "path": "/screenshots/heyday-studio.webp",
+    "capturedAt": "2026-10-17T18:23:11.426Z",
+    "requestedUrl": "https://heydaystudio.fr/",
+    "finalUrl": "https://heydaystudio.fr/"
+  },
+  "heyhagen": {
+    "status": "success",
+    "path": "/screenshots/heyhagen.webp",
+    "capturedAt": "2026-10-17T18:23:11.568Z",
+    "requestedUrl": "https://www.heyhagen.com/",
+    "finalUrl": "https://www.heyhagen.com/"
+  },
+  "high-tide": {
+    "status": "success",
+    "path": "/screenshots/high-tide.webp",
+    "capturedAt": "2026-10-17T18:23:13.157Z",
+    "requestedUrl": "https://hightidenyc.com/",
+    "finalUrl": "https://hightidenyc.com/"
+  },
+  "holman-design": {
+    "status": "success",
+    "path": "/screenshots/holman-design.webp",
+    "capturedAt": "2026-10-17T18:23:13.290Z",
+    "requestedUrl": "https://www.holman.design/",
+    "finalUrl": "https://www.holman.design/"
+  },
+  "holy-motors": {
+    "status": "success",
+    "path": "/screenshots/holy-motors.webp",
+    "capturedAt": "2026-10-17T18:36:33.260Z",
+    "requestedUrl": "https://holymotors.com/",
+    "finalUrl": "https://holymotors.com/"
+  },
+  "hondo": {
+    "status": "success",
+    "path": "/screenshots/hondo.webp",
+    "capturedAt": "2026-10-17T18:23:16.162Z",
+    "requestedUrl": "https://www.hondo.studio/",
+    "finalUrl": "https://www.hondo.studio/"
+  },
+  "honor-society": {
+    "status": "success",
+    "path": "/screenshots/honor-society.webp",
+    "capturedAt": "2026-10-17T18:23:17.269Z",
+    "requestedUrl": "https://honorsociety.tv/",
+    "finalUrl": "https://honorsociety.tv/"
+  },
+  "houston-group": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:36:33.326Z",
+    "requestedUrl": "https://houstongroup.com.au/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "hugmun": {
+    "status": "success",
+    "path": "/screenshots/hugmun.webp",
+    "capturedAt": "2026-10-17T18:23:19.469Z",
+    "requestedUrl": "https://hugmun.studio/",
+    "finalUrl": "https://hugmun.studio/"
+  },
+  "human-after-all": {
+    "status": "success",
+    "path": "/screenshots/human-after-all.webp",
+    "capturedAt": "2026-10-17T18:23:21.146Z",
+    "requestedUrl": "https://www.humanafterall.studio/",
+    "finalUrl": "https://www.humanafterall.studio/"
+  },
+  "human-person": {
+    "status": "success",
+    "path": "/screenshots/human-person.webp",
+    "capturedAt": "2026-10-17T18:23:23.256Z",
+    "requestedUrl": "https://humanperson.com/",
+    "finalUrl": "https://humanperson.com/"
+  },
+  "huncwot": {
+    "status": "success",
+    "path": "/screenshots/huncwot.webp",
+    "capturedAt": "2026-10-17T18:23:24.909Z",
+    "requestedUrl": "https://huncwot.com/",
+    "finalUrl": "https://huncwot.com/"
+  },
+  "hyperfocus": {
+    "status": "success",
+    "path": "/screenshots/hyperfocus.webp",
+    "capturedAt": "2026-10-17T18:23:26.732Z",
+    "requestedUrl": "https://hyperfocus.cc/",
+    "finalUrl": "https://hyperfocus.cc/"
+  },
+  "hyperion": {
+    "status": "success",
+    "path": "/screenshots/hyperion.webp",
+    "capturedAt": "2026-10-17T18:23:27.527Z",
+    "requestedUrl": "https://www.hyperionla.com/",
+    "finalUrl": "https://www.hyperionla.com/"
+  },
+  "studio-hyperlink": {
+    "status": "success",
+    "path": "/screenshots/studio-hyperlink.webp",
+    "capturedAt": "2026-10-17T18:23:27.666Z",
+    "requestedUrl": "https://www.hyperlinknyc.com/",
+    "finalUrl": "https://www.hyperlinknyc.com/"
+  },
+  "if-only-creative": {
+    "status": "success",
+    "path": "/screenshots/if-only-creative.webp",
+    "capturedAt": "2026-10-17T18:23:28.416Z",
+    "requestedUrl": "https://www.ifonly-creative.com/",
+    "finalUrl": "https://www.ifonly-creative.com/"
+  },
+  "ilovecreatives-studio": {
+    "status": "success",
+    "path": "/screenshots/ilovecreatives-studio.webp",
+    "capturedAt": "2026-10-17T18:23:32.574Z",
+    "requestedUrl": "https://www.ilovecreatives.studio/",
+    "finalUrl": "https://www.ilovecreatives.studio/"
+  },
+  "inpuls": {
+    "status": "success",
+    "path": "/screenshots/inpuls.webp",
+    "capturedAt": "2026-10-17T18:23:32.820Z",
+    "requestedUrl": "https://in-puls.com/en",
+    "finalUrl": "https://in-puls.com/en"
+  },
+  "ind": {
+    "status": "success",
+    "path": "/screenshots/ind.webp",
+    "capturedAt": "2026-10-17T18:23:33.134Z",
+    "requestedUrl": "https://ind.studio/en",
+    "finalUrl": "https://ind.studio/en"
+  },
+  "indego-design": {
+    "status": "success",
+    "path": "/screenshots/indego-design.webp",
+    "capturedAt": "2026-10-17T18:23:33.774Z",
+    "requestedUrl": "https://indegodesign.com/",
+    "finalUrl": "https://indegodesign.com/"
+  },
+  "studio-indice": {
+    "status": "success",
+    "path": "/screenshots/studio-indice.webp",
+    "capturedAt": "2026-10-17T18:23:34.963Z",
+    "requestedUrl": "https://indice.studio/",
+    "finalUrl": "https://indice.studio/"
+  },
+  "pianpian-he-and-max-harvey": {
+    "status": "success",
+    "path": "/screenshots/pianpian-he-and-max-harvey.webp",
+    "capturedAt": "2026-10-17T18:23:36.653Z",
+    "requestedUrl": "https://www.infoandupdates.com/",
+    "finalUrl": "https://www.infoandupdates.com/"
+  },
+  "ingrid-picanyol-studio": {
+    "status": "success",
+    "path": "/screenshots/ingrid-picanyol-studio.webp",
+    "capturedAt": "2026-10-17T18:23:39.101Z",
+    "requestedUrl": "https://ingridpicanyol.com/",
+    "finalUrl": "https://ingridpicanyol.com/"
+  },
+  "innocean-berlin": {
+    "status": "success",
+    "path": "/screenshots/innocean-berlin.webp",
+    "capturedAt": "2026-10-17T18:23:39.961Z",
+    "requestedUrl": "https://innoceanberlin.com/",
+    "finalUrl": "https://innoceanberlin.com/"
+  },
+  "in-progress": {
+    "status": "success",
+    "path": "/screenshots/in-progress.webp",
+    "capturedAt": "2026-10-17T18:23:40.230Z",
+    "requestedUrl": "https://inprogress.studio/",
+    "finalUrl": "https://inprogress.studio/"
+  },
+  "instante": {
+    "status": "success",
+    "path": "/screenshots/instante.webp",
+    "capturedAt": "2026-10-17T18:23:42.161Z",
+    "requestedUrl": "https://www.instante.studio/",
+    "finalUrl": "https://www.instante.studio/"
+  },
+  "interbrand": {
+    "status": "success",
+    "path": "/screenshots/interbrand.webp",
+    "capturedAt": "2026-10-17T18:23:44.978Z",
+    "requestedUrl": "https://interbrand.com/",
+    "finalUrl": "https://interbrand.com/"
+  },
+  "internetfriendsforever": {
+    "status": "success",
+    "path": "/screenshots/internetfriendsforever.webp",
+    "capturedAt": "2026-10-17T18:23:47.538Z",
+    "requestedUrl": "https://internetfriendsforever.com/",
+    "finalUrl": "https://internetfriendsforever.com/"
+  },
+  "isdgroup": {
+    "status": "success",
+    "path": "/screenshots/isdgroup.webp",
+    "capturedAt": "2026-10-17T18:23:48.168Z",
+    "requestedUrl": "https://isd-group.com/",
+    "finalUrl": "https://isd-group.com/"
+  },
+  "isle-of-any": {
+    "status": "success",
+    "path": "/screenshots/isle-of-any.webp",
+    "capturedAt": "2026-10-17T18:36:43.172Z",
+    "requestedUrl": "https://isleofany.com/",
+    "finalUrl": "https://isleofany.com/"
+  },
+  "islyn": {
+    "status": "success",
+    "path": "/screenshots/islyn.webp",
+    "capturedAt": "2026-10-17T18:23:55.628Z",
+    "requestedUrl": "https://www.islynstudio.com/",
+    "finalUrl": "https://www.islynstudio.com/"
+  },
+  "bom-bom": {
+    "status": "success",
+    "path": "/screenshots/bom-bom.webp",
+    "capturedAt": "2026-10-17T18:23:55.627Z",
+    "requestedUrl": "https://www.itsbombom.com/",
+    "finalUrl": "https://www.itsbombom.com/"
+  },
+  "iya-studio": {
+    "status": "success",
+    "path": "/screenshots/iya-studio.webp",
+    "capturedAt": "2026-10-17T18:23:57.074Z",
+    "requestedUrl": "https://iyastudio.co.uk/",
+    "finalUrl": "https://iyastudio.co.uk/"
+  },
+  "jackson-and-moran": {
+    "status": "success",
+    "path": "/screenshots/jackson-and-moran.webp",
+    "capturedAt": "2026-10-17T18:23:57.074Z",
+    "requestedUrl": "https://www.jacksonandmoran.com/",
+    "finalUrl": "https://www.jacksonandmoran.com/"
+  },
+  "jai-sandhu-studio": {
+    "status": "success",
+    "path": "/screenshots/jai-sandhu-studio.webp",
+    "capturedAt": "2026-10-17T18:24:02.752Z",
+    "requestedUrl": "https://jaisand.hu/",
+    "finalUrl": "https://jaisand.hu/"
+  },
+  "jesus-lopez": {
+    "status": "success",
+    "path": "/screenshots/jesus-lopez.webp",
+    "capturedAt": "2026-10-17T18:24:02.828Z",
+    "requestedUrl": "https://surname.studio/",
+    "finalUrl": "https://surname.studio/"
+  },
+  "joan": {
+    "status": "failed",
+    "capturedAt": "2026-10-17T18:36:44.702Z",
+    "requestedUrl": "https://joan-design.com/",
+    "error": "Error: Rejected page: 403 Attention Required! | Cloudflare"
+  },
+  "jon-vio": {
+    "status": "success",
+    "path": "/screenshots/jon-vio.webp",
+    "capturedAt": "2026-10-17T18:24:05.256Z",
+    "requestedUrl": "https://viocorp.systems/",
+    "finalUrl": "https://viocorp.systems/"
+  },
+  "journey-digital": {
+    "status": "success",
+    "path": "/screenshots/journey-digital.webp",
+    "capturedAt": "2026-10-17T18:24:08.469Z",
+    "requestedUrl": "https://journey-digital.com/",
+    "finalUrl": "https://journey-digital.com/"
+  },
+  "jung-von-matt-brand-identity": {
+    "status": "success",
+    "path": "/screenshots/jung-von-matt-brand-identity.webp",
+    "capturedAt": "2026-10-17T18:36:55.337Z",
+    "requestedUrl": "https://www.jvm.bi/",
+    "finalUrl": "https://www.jvm.bi/"
+  },
+  "kallan-and-co": {
+    "status": "success",
+    "path": "/screenshots/kallan-and-co.webp",
+    "capturedAt": "2026-10-17T18:24:10.819Z",
+    "requestedUrl": "https://www.kallan.co/",
+    "finalUrl": "https://www.kallan.co/"
+  },
+  "studio-kanda": {
+    "status": "success",
+    "path": "/screenshots/studio-kanda.webp",
+    "capturedAt": "2026-10-17T18:24:11.012Z",
+    "requestedUrl": "https://www.kanda.studio/",
+    "finalUrl": "https://www.kanda.studio/"
+  },
+  "kevin-brenkman": {
+    "status": "success",
+    "path": "/screenshots/kevin-brenkman.webp",
+    "capturedAt": "2026-10-17T18:36:56.413Z",
+    "requestedUrl": "https://www.kevinbrenkman.com/",
+    "finalUrl": "https://www.kevinbrenkman.com/"
+  },
+  "kinetic": {
+    "status": "success",
+    "path": "/screenshots/kinetic.webp",
+    "capturedAt": "2026-10-17T18:24:14.128Z",
+    "requestedUrl": "https://kinetic.com.sg/",
+    "finalUrl": "https://kinetic.com.sg/"
+  },
+  "king-architecture-interiors": {
+    "status": "success",
+    "path": "/screenshots/king-architecture-interiors.webp",
+    "capturedAt": "2026-10-17T18:24:14.400Z",
+    "requestedUrl": "https://kingarchitecture.com.au/",
+    "finalUrl": "https://kingarchitecture.com.au/"
+  },
+  "kinoto-studio": {
+    "status": "success",
+    "path": "/screenshots/kinoto-studio.webp",
+    "capturedAt": "2026-10-17T18:24:17.544Z",
+    "requestedUrl": "https://kinotostudio.com/",
+    "finalUrl": "https://kinotostudio.com/"
+  },
+  "kit-studio": {
+    "status": "success",
+    "path": "/screenshots/kit-studio.webp",
+    "capturedAt": "2026-10-17T18:24:18.648Z",
+    "requestedUrl": "https://www.kit.studio/",
+    "finalUrl": "https://www.kit.studio/"
+  },
+  "koln-studio": {
+    "status": "success",
+    "path": "/screenshots/koln-studio.webp",
+    "capturedAt": "2026-10-17T18:24:18.786Z",
+    "requestedUrl": "https://kolnstudio.com/",
+    "finalUrl": "https://kolnstudio.com/"
+  },
+  "komma": {
+    "status": "success",
+    "path": "/screenshots/komma.webp",
+    "capturedAt": "2026-10-17T18:24:20.902Z",
+    "requestedUrl": "https://komma.nl/",
+    "finalUrl": "https://komma.nl/"
+  },
+  "kontrapunkt": {
+    "status": "success",
+    "path": "/screenshots/kontrapunkt.webp",
+    "capturedAt": "2026-10-17T18:24:23.696Z",
+    "requestedUrl": "https://kontrapunkt.com/",
+    "finalUrl": "https://kontrapunkt.com/"
+  },
+  "l-ab": {
+    "status": "success",
+    "path": "/screenshots/l-ab.webp",
+    "capturedAt": "2026-10-17T18:24:24.524Z",
+    "requestedUrl": "https://www.l-ab.eu/",
+    "finalUrl": "https://www.l-ab.eu/"
+  },
+  "l3-branding": {
+    "status": "success",
+    "path": "/screenshots/l3-branding.webp",
+    "capturedAt": "2026-10-17T18:24:26.488Z",
+    "requestedUrl": "https://www.l3branding.com/",
+    "finalUrl": "https://www.l3branding.com/"
+  },
+  "landscape-productions": {
+    "status": "success",
+    "path": "/screenshots/landscape-productions.webp",
+    "capturedAt": "2026-10-17T18:24:29.516Z",
+    "requestedUrl": "https://landscape.productions/",
+    "finalUrl": "https://landscape.productions/"
+  },
+  "lareu-and-gonzalez": {
+    "status": "success",
+    "path": "/screenshots/lareu-and-gonzalez.webp",
+    "capturedAt": "2026-10-17T18:24:30.500Z",
+    "requestedUrl": "https://lareugonzalez.com/",
+    "finalUrl": "https://lareugonzalez.com/"
+  },
+  "laurton-digital": {
+    "status": "success",
+    "path": "/screenshots/laurton-digital.webp",
+    "capturedAt": "2026-10-17T18:36:57.734Z",
+    "requestedUrl": "https://laurtondigital.com.au/",
+    "finalUrl": "https://laurtondigital.com.au/"
+  },
+  "lavernia-and-cienfuegos": {
+    "status": "success",
+    "path": "/screenshots/lavernia-and-cienfuegos.webp",
+    "capturedAt": "2026-10-17T18:24:31.366Z",
+    "requestedUrl": "https://lavernia-cienfuegos.com/",
+    "finalUrl": "https://lavernia-cienfuegos.com/"
+  },
+  "leapx": {
+    "status": "success",
+    "path": "/screenshots/leapx.webp",
+    "capturedAt": "2026-10-17T18:24:31.727Z",
+    "requestedUrl": "https://leapx.cn/",
+    "finalUrl": "https://leapx.cn/"
+  },
+  "le-seisme": {
+    "status": "success",
+    "path": "/screenshots/le-seisme.webp",
+    "capturedAt": "2026-10-17T18:36:57.772Z",
+    "requestedUrl": "https://leseisme.com/en",
+    "finalUrl": "https://leseisme.com/en"
+  },
+  "leso": {
+    "status": "success",
+    "path": "/screenshots/leso.webp",
+    "capturedAt": "2026-10-17T18:24:36.653Z",
+    "requestedUrl": "https://www.leso.studio/",
+    "finalUrl": "https://www.leso.studio/"
+  },
+  "lettera7": {
+    "status": "success",
+    "path": "/screenshots/lettera7.webp",
+    "capturedAt": "2026-10-17T18:24:37.033Z",
+    "requestedUrl": "https://www.lettera7.design/",
+    "finalUrl": "https://www.lettera7.design/"
+  },
+  "lexicon-branding": {
+    "status": "success",
+    "path": "/screenshots/lexicon-branding.webp",
+    "capturedAt": "2026-10-17T18:24:38.962Z",
+    "requestedUrl": "https://www.lexiconbranding.com/",
+    "finalUrl": "https://www.lexiconbranding.com/"
+  },
+  "lob": {
+    "status": "success",
+    "path": "/screenshots/lob.webp",
+    "capturedAt": "2026-10-17T18:24:40.652Z",
+    "requestedUrl": "https://lob.tf/index.html",
+    "finalUrl": "https://lob.tf/index.html"
+  },
+  "local-remote": {
+    "status": "success",
+    "path": "/screenshots/local-remote.webp",
+    "capturedAt": "2026-10-17T18:24:41.485Z",
+    "requestedUrl": "https://www.localremote.co/",
+    "finalUrl": "https://www.localremote.co/"
+  },
+  "local": {
+    "status": "success",
+    "path": "/screenshots/local.webp",
+    "capturedAt": "2026-10-17T18:37:11.166Z",
+    "requestedUrl": "https://localstudio.fr/",
+    "finalUrl": "https://localstudio.fr/"
+  },
+  "office-commun": {
+    "status": "success",
+    "path": "/screenshots/office-commun.webp",
+    "capturedAt": "2026-10-17T18:24:44.362Z",
+    "requestedUrl": "https://officecommun.com/",
+    "finalUrl": "https://officecommun.com/"
+  },
+  "look": {
+    "status": "success",
+    "path": "/screenshots/look.webp",
+    "capturedAt": "2026-10-17T18:24:46.027Z",
+    "requestedUrl": "https://look.inc/",
+    "finalUrl": "https://look.inc/"
+  },
+  "lost-property": {
+    "status": "success",
+    "path": "/screenshots/lost-property.webp",
+    "capturedAt": "2026-10-17T18:24:46.106Z",
+    "requestedUrl": "https://lostproperty.studio/",
+    "finalUrl": "https://lostproperty.studio/"
+  },
+  "lovegunn": {
+    "status": "success",
+    "path": "/screenshots/lovegunn.webp",
+    "capturedAt": "2026-10-17T18:24:48.438Z",
+    "requestedUrl": "https://www.lovegunn.co/",
+    "finalUrl": "https://www.lovegunn.co/"
+  },
+  "lukecharles": {
+    "status": "success",
+    "path": "/screenshots/lukecharles.webp",
+    "capturedAt": "2026-10-17T18:40:14.860Z",
+    "requestedUrl": "https://www.lukecharles.com/",
+    "finalUrl": "https://www.lukecharles.com/work/mnd-association/"
+  },
+  "luke-robertson-studio": {
+    "status": "success",
+    "path": "/screenshots/luke-robertson-studio.webp",
+    "capturedAt": "2026-10-17T18:40:14.865Z",
+    "requestedUrl": "https://lukerobertson.studio/",
+    "finalUrl": "https://lukerobertson.studio/",
+    "scrollY": 850
+  },
+  "luminous-design": {
+    "status": "success",
+    "path": "/screenshots/luminous-design.webp",
+    "capturedAt": "2026-10-17T18:24:53.539Z",
+    "requestedUrl": "https://www.luminous.gr/",
+    "finalUrl": "https://www.luminous.gr/"
+  },
+  "lundqvist-and-dallyn": {
+    "status": "success",
+    "path": "/screenshots/lundqvist-and-dallyn.webp",
+    "capturedAt": "2026-10-17T18:24:55.435Z",
+    "requestedUrl": "https://www.lundqvistdallyn.studio/",
+    "finalUrl": "https://www.lundqvistdallyn.studio/"
+  },
+  "luuse": {
+    "status": "success",
+    "path": "/screenshots/luuse.webp",
+    "capturedAt": "2026-10-17T18:24:57.172Z",
+    "requestedUrl": "https://www.luuse.io/",
+    "finalUrl": "https://www.luuse.io/"
+  },
+  "m-n-associates": {
+    "status": "success",
+    "path": "/screenshots/m-n-associates.webp",
+    "capturedAt": "2026-10-17T18:24:57.993Z",
+    "requestedUrl": "https://m-n.associates/",
+    "finalUrl": "https://m-n.associates/"
+  },
+  "m35": {
+    "status": "success",
+    "path": "/screenshots/m35.webp",
+    "capturedAt": "2026-10-17T18:24:59.673Z",
+    "requestedUrl": "https://www.m35.com.au/",
+    "finalUrl": "https://www.m35.com.au/"
+  },
+  "made-identity": {
+    "status": "success",
+    "path": "/screenshots/made-identity.webp",
+    "capturedAt": "2026-10-17T18:25:01.341Z",
+    "requestedUrl": "https://www.made-identity.ch/",
+    "finalUrl": "https://www.made-identity.ch/"
+  },
+  "cru": {
+    "status": "success",
+    "path": "/screenshots/cru.webp",
+    "capturedAt": "2026-10-17T18:40:36.020Z",
+    "requestedUrl": "https://www.madebycru.com/",
+    "finalUrl": "https://www.madebycru.com/work/branding-b2c-fintech-onlinebroker-traderepublic"
+  },
+  "madebymad": {
+    "status": "success",
+    "path": "/screenshots/madebymad.webp",
+    "capturedAt": "2026-10-17T18:25:03.212Z",
+    "requestedUrl": "https://www.madebymad.co/",
+    "finalUrl": "https://www.madebymad.co/"
+  },
+  "shore": {
+    "status": "success",
+    "path": "/screenshots/shore.webp",
+    "capturedAt": "2026-10-17T18:25:03.909Z",
+    "requestedUrl": "https://www.madebyshore.com/",
+    "finalUrl": "https://www.madebyshore.com/"
+  },
+  "maiarelli-studio": {
+    "status": "success",
+    "path": "/screenshots/maiarelli-studio.webp",
+    "capturedAt": "2026-10-17T18:25:07.827Z",
+    "requestedUrl": "https://maiarellistudio.com/",
+    "finalUrl": "https://maiarellistudio.com/"
+  },
+  "make-studio": {
+    "status": "success",
+    "path": "/screenshots/make-studio.webp",
+    "capturedAt": "2026-10-17T18:25:07.864Z",
+    "requestedUrl": "https://make.studio/",
+    "finalUrl": "https://make.studio/"
+  },
+  "manneskja": {
+    "status": "success",
+    "path": "/screenshots/manneskja.webp",
+    "capturedAt": "2026-10-17T18:25:09.165Z",
+    "requestedUrl": "https://manneskja.com/",
+    "finalUrl": "https://manneskja.com/"
+  },
+  "studio-marcus-kraft": {
+    "status": "success",
+    "path": "/screenshots/studio-marcus-kraft.webp",
+    "capturedAt": "2026-10-17T18:25:10.936Z",
+    "requestedUrl": "https://www.marcuskraft.com/",
+    "finalUrl": "https://www.marcuskraft.com/"
+  },
+  "marie-antoinette": {
+    "status": "success",
+    "path": "/screenshots/marie-antoinette.webp",
+    "capturedAt": "2026-10-17T18:25:11.516Z",
+    "requestedUrl": "https://www.marie-antoinette.fr/",
+    "finalUrl": "https://www.marie-antoinette.fr/"
+  },
+  "marx-design": {
+    "status": "success",
+    "path": "/screenshots/marx-design.webp",
+    "capturedAt": "2026-10-17T18:25:14.874Z",
+    "requestedUrl": "https://marxdesign.co.nz/",
+    "finalUrl": "https://marxdesign.co.nz/"
+  },
+  "the-matchbox-studio": {
+    "status": "success",
+    "path": "/screenshots/the-matchbox-studio.webp",
+    "capturedAt": "2026-10-17T18:40:37.473Z",
+    "requestedUrl": "https://matchboxstudio.com/",
+    "finalUrl": "https://matchboxstudio.com/work/"
+  },
+  "matchstic": {
+    "status": "success",
+    "path": "/screenshots/matchstic.webp",
+    "capturedAt": "2026-10-17T18:25:15.975Z",
+    "requestedUrl": "https://matchstic.com/",
+    "finalUrl": "https://matchstic.com/"
+  },
+  "matilda-wilson-creative": {
+    "status": "success",
+    "path": "/screenshots/matilda-wilson-creative.webp",
+    "capturedAt": "2026-10-17T18:25:16.383Z",
+    "requestedUrl": "https://matildawilsondesign.com/",
+    "finalUrl": "https://matildawilsondesign.com/"
+  },
+  "melody-digital": {
+    "status": "success",
+    "path": "/screenshots/melody-digital.webp",
+    "capturedAt": "2026-10-17T18:40:42.292Z",
+    "requestedUrl": "https://melodydigital.co/",
+    "finalUrl": "https://melodydigital.co/about"
+  },
+  "menn-studio": {
+    "status": "success",
+    "path": "/screenshots/menn-studio.webp",
+    "capturedAt": "2026-10-17T18:25:22.018Z",
+    "requestedUrl": "https://www.mennstudio.com.my/",
+    "finalUrl": "https://www.mennstudio.com.my/"
+  },
+  "mf9": {
+    "status": "success",
+    "path": "/screenshots/mf9.webp",
+    "capturedAt": "2026-10-17T18:25:23.072Z",
+    "requestedUrl": "https://mf9.world/",
+    "finalUrl": "https://mf9.world/"
+  },
+  "milkshake-studio": {
+    "status": "success",
+    "path": "/screenshots/milkshake-studio.webp",
+    "capturedAt": "2026-10-17T18:25:25.471Z",
+    "requestedUrl": "https://milkshake.studio/",
+    "finalUrl": "https://milkshake.studio/"
+  },
+  "mirats-estudio": {
+    "status": "success",
+    "path": "/screenshots/mirats-estudio.webp",
+    "capturedAt": "2026-10-17T18:25:25.486Z",
+    "requestedUrl": "https://miratsestudio.com/en/",
+    "finalUrl": "https://miratsestudio.com/en/"
+  },
+  "mobills-group": {
+    "status": "success",
+    "path": "/screenshots/mobills-group.webp",
+    "capturedAt": "2026-10-17T18:25:26.431Z",
+    "requestedUrl": "https://mobills-group.com/",
+    "finalUrl": "https://mobills-group.com/"
+  },
+  "modem-works": {
+    "status": "success",
+    "path": "/screenshots/modem-works.webp",
+    "capturedAt": "2026-10-17T18:25:30.426Z",
+    "requestedUrl": "https://modemworks.com/",
+    "finalUrl": "https://modemworks.com/"
+  },
+  "monga-d": {
+    "status": "success",
+    "path": "/screenshots/monga-d.webp",
+    "capturedAt": "2026-10-17T18:39:27.808Z",
+    "requestedUrl": "https://monga.design/",
+    "finalUrl": "https://monga.design/about/"
+  },
+  "monroe": {
+    "status": "success",
+    "path": "/screenshots/monroe.webp",
+    "capturedAt": "2026-10-17T18:25:32.001Z",
+    "requestedUrl": "https://monroe.works/",
+    "finalUrl": "https://monroe.works/"
+  },
+  "monumento": {
+    "status": "success",
+    "path": "/screenshots/monumento.webp",
+    "capturedAt": "2026-10-17T18:25:32.891Z",
+    "requestedUrl": "https://monumento.co/",
+    "finalUrl": "https://monumento.co/"
+  },
+  "moqo": {
+    "status": "success",
+    "path": "/screenshots/moqo.webp",
+    "capturedAt": "2026-10-17T18:25:33.082Z",
+    "requestedUrl": "https://moqo.be/",
+    "finalUrl": "https://moqo.be/"
+  },
+  "morcos-key": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:37:31.745Z",
+    "requestedUrl": "https://morcoskey.com/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "more-studio": {
+    "status": "success",
+    "path": "/screenshots/more-studio.webp",
+    "capturedAt": "2026-10-17T18:25:39.573Z",
+    "requestedUrl": "https://morebymore.com/",
+    "finalUrl": "https://morebymore.com/"
+  },
+  "mother-berlin": {
+    "status": "success",
+    "path": "/screenshots/mother-berlin.webp",
+    "capturedAt": "2026-10-17T18:25:40.510Z",
+    "requestedUrl": "https://www.motherberlin.com/",
+    "finalUrl": "https://www.motherberlin.com/"
+  },
+  "motyw": {
+    "status": "success",
+    "path": "/screenshots/motyw.webp",
+    "capturedAt": "2026-10-17T18:37:42.982Z",
+    "requestedUrl": "https://motyw.com/en/",
+    "finalUrl": "https://motyw.com/en/"
+  },
+  "mount-inc": {
+    "status": "success",
+    "path": "/screenshots/mount-inc.webp",
+    "capturedAt": "2026-10-17T18:25:41.258Z",
+    "requestedUrl": "https://mount.jp/",
+    "finalUrl": "https://mount.jp/"
+  },
+  "mount": {
+    "status": "success",
+    "path": "/screenshots/mount.webp",
+    "capturedAt": "2026-10-17T18:25:43.614Z",
+    "requestedUrl": "https://www.mount.agency/",
+    "finalUrl": "https://www.mount.agency/"
+  },
+  "multiadaptor": {
+    "status": "success",
+    "path": "/screenshots/multiadaptor.webp",
+    "capturedAt": "2026-10-17T18:25:48.710Z",
+    "requestedUrl": "https://multiadaptor.com/",
+    "finalUrl": "https://multiadaptor.com/"
+  },
+  "my-name-is": {
+    "status": "success",
+    "path": "/screenshots/my-name-is.webp",
+    "capturedAt": "2026-10-17T18:36:58.239Z",
+    "requestedUrl": "https://mynameis.fr/",
+    "finalUrl": "https://mynameis.fr/"
+  },
+  "studio-najbrt": {
+    "status": "success",
+    "path": "/screenshots/studio-najbrt.webp",
+    "capturedAt": "2026-10-17T18:25:49.360Z",
+    "requestedUrl": "https://www.najbrt.cz/en",
+    "finalUrl": "https://www.najbrt.cz/en"
+  },
+  "naked-city-films": {
+    "status": "success",
+    "path": "/screenshots/naked-city-films.webp",
+    "capturedAt": "2026-10-17T18:25:49.413Z",
+    "requestedUrl": "https://www.nakedcityfilms.com/",
+    "finalUrl": "https://www.nakedcityfilms.com/"
+  },
+  "nask-studio": {
+    "status": "success",
+    "path": "/screenshots/nask-studio.webp",
+    "capturedAt": "2026-10-17T18:25:51.553Z",
+    "requestedUrl": "https://www.nask.cc/",
+    "finalUrl": "https://www.nask.cc/"
+  },
+  "native-content": {
+    "status": "success",
+    "path": "/screenshots/native-content.webp",
+    "capturedAt": "2026-10-17T18:37:44.561Z",
+    "requestedUrl": "https://www.nativecontent.com/",
+    "finalUrl": "https://www.nativecontent.com/"
+  },
+  "nb-studio": {
+    "status": "success",
+    "path": "/screenshots/nb-studio.webp",
+    "capturedAt": "2026-10-17T18:25:57.729Z",
+    "requestedUrl": "https://nbstudio.co.uk/",
+    "finalUrl": "https://nbstudio.co.uk/"
+  },
+  "national-design-studio": {
+    "status": "success",
+    "path": "/screenshots/national-design-studio.webp",
+    "capturedAt": "2026-10-17T18:25:57.762Z",
+    "requestedUrl": "https://ndstudio.gov/",
+    "finalUrl": "https://ndstudio.gov/"
+  },
+  "need-thinking": {
+    "status": "success",
+    "path": "/screenshots/need-thinking.webp",
+    "capturedAt": "2026-10-17T18:25:57.920Z",
+    "requestedUrl": "https://www.needthinking.com/",
+    "finalUrl": "https://www.needthinking.com/"
+  },
+  "studio-nejc-prah": {
+    "status": "success",
+    "path": "/screenshots/studio-nejc-prah.webp",
+    "capturedAt": "2026-10-17T18:25:58.653Z",
+    "requestedUrl": "https://www.nejcprah.com/",
+    "finalUrl": "https://www.nejcprah.com/"
+  },
+  "nemesis": {
+    "status": "success",
+    "path": "/screenshots/nemesis.webp",
+    "capturedAt": "2026-10-17T18:25:59.240Z",
+    "requestedUrl": "https://www.nemesis.studio/",
+    "finalUrl": "https://www.nemesis.studio/"
+  },
+  "netlife": {
+    "status": "success",
+    "path": "/screenshots/netlife.webp",
+    "capturedAt": "2026-10-17T18:26:01.905Z",
+    "requestedUrl": "https://www.netlife.com/",
+    "finalUrl": "https://www.netlife.com/"
+  },
+  "neue-world": {
+    "status": "success",
+    "path": "/screenshots/neue-world.webp",
+    "capturedAt": "2026-10-17T18:26:04.628Z",
+    "requestedUrl": "https://www.neue.world/",
+    "finalUrl": "https://www.neue.world/"
+  },
+  "new-narrative": {
+    "status": "success",
+    "path": "/screenshots/new-narrative.webp",
+    "capturedAt": "2026-10-17T18:26:05.107Z",
+    "requestedUrl": "https://new-narrative.co/",
+    "finalUrl": "https://new-narrative.co/"
+  },
+  "new-land": {
+    "status": "success",
+    "path": "/screenshots/new-land.webp",
+    "capturedAt": "2026-10-17T18:26:05.427Z",
+    "requestedUrl": "https://newland.tv/",
+    "finalUrl": "https://newland.tv/"
+  },
+  "new-material": {
+    "status": "success",
+    "path": "/screenshots/new-material.webp",
+    "capturedAt": "2026-10-17T18:26:05.771Z",
+    "requestedUrl": "https://newmaterial.ai/",
+    "finalUrl": "https://newmaterial.co/"
+  },
+  "nihilo": {
+    "status": "success",
+    "path": "/screenshots/nihilo.webp",
+    "capturedAt": "2026-10-17T18:26:10.059Z",
+    "requestedUrl": "https://nihilo.agency/",
+    "finalUrl": "https://nihilo.agency/"
+  },
+  "nimble": {
+    "status": "success",
+    "path": "/screenshots/nimble.webp",
+    "capturedAt": "2026-10-17T18:26:11.558Z",
+    "requestedUrl": "https://nimblebrand.co/",
+    "finalUrl": "https://nimblebrand.co/"
+  },
+  "no-ideas": {
+    "status": "success",
+    "path": "/screenshots/no-ideas.webp",
+    "capturedAt": "2026-10-17T18:26:11.812Z",
+    "requestedUrl": "https://www.noideas.website/",
+    "finalUrl": "https://www.noideas.website/"
+  },
+  "nomad-studio": {
+    "status": "success",
+    "path": "/screenshots/nomad-studio.webp",
+    "capturedAt": "2026-10-17T18:26:14.721Z",
+    "requestedUrl": "https://www.nomadstudio.com/",
+    "finalUrl": "https://www.nomadstudio.com/"
+  },
+  "non-objective": {
+    "status": "success",
+    "path": "/screenshots/non-objective.webp",
+    "capturedAt": "2026-10-17T18:26:15.621Z",
+    "requestedUrl": "https://non-objective.works/",
+    "finalUrl": "https://non-objective.works/"
+  },
+  "nonplace-studio": {
+    "status": "success",
+    "path": "/screenshots/nonplace-studio.webp",
+    "capturedAt": "2026-10-17T18:26:16.059Z",
+    "requestedUrl": "https://nonplace.studio/",
+    "finalUrl": "https://nonplace.studio/"
+  },
+  "nonstop": {
+    "status": "success",
+    "path": "/screenshots/nonstop.webp",
+    "capturedAt": "2026-10-17T18:26:17.406Z",
+    "requestedUrl": "https://nonstopbrandingagency.com/",
+    "finalUrl": "https://nonstopbrandingagency.com/"
+  },
+  "nooon-studio": {
+    "status": "success",
+    "path": "/screenshots/nooon-studio.webp",
+    "capturedAt": "2026-10-17T18:26:17.865Z",
+    "requestedUrl": "https://www.nooon.studio/",
+    "finalUrl": "https://www.nooon.studio/"
+  },
+  "no-plan": {
+    "status": "success",
+    "path": "/screenshots/no-plan.webp",
+    "capturedAt": "2026-10-17T18:26:21.137Z",
+    "requestedUrl": "https://noplan.studio/",
+    "finalUrl": "https://noplan.studio/"
+  },
+  "nord-id": {
+    "status": "success",
+    "path": "/screenshots/nord-id.webp",
+    "capturedAt": "2026-10-17T18:37:46.456Z",
+    "requestedUrl": "https://nordid.se/",
+    "finalUrl": "https://nordid.se/"
+  },
+  "north": {
+    "status": "success",
+    "path": "/screenshots/north.webp",
+    "capturedAt": "2026-10-17T18:26:22.345Z",
+    "requestedUrl": "https://northdesign.com/",
+    "finalUrl": "https://northdesign.com/"
+  },
+  "northern-ground": {
+    "status": "success",
+    "path": "/screenshots/northern-ground.webp",
+    "capturedAt": "2026-10-17T18:26:23.271Z",
+    "requestedUrl": "https://www.northernground.com/",
+    "finalUrl": "https://www.northernground.com/"
+  },
+  "not-a-bike-shop": {
+    "status": "success",
+    "path": "/screenshots/not-a-bike-shop.webp",
+    "capturedAt": "2026-10-17T18:26:26.285Z",
+    "requestedUrl": "https://notabikeshop.eu/",
+    "finalUrl": "https://notabikeshop.eu/"
+  },
+  "oakline-studio": {
+    "status": "success",
+    "path": "/screenshots/oakline-studio.webp",
+    "capturedAt": "2026-10-17T18:26:29.092Z",
+    "requestedUrl": "https://oakline.studio/",
+    "finalUrl": "https://oakline.studio/"
+  },
+  "beth-wilkinson-studio": {
+    "status": "success",
+    "path": "/screenshots/beth-wilkinson-studio.webp",
+    "capturedAt": "2026-10-17T18:26:29.814Z",
+    "requestedUrl": "https://bethwilkinsonstudio.com/",
+    "finalUrl": "https://bethwilkinsonstudio.com/"
+  },
+  "ob-studio": {
+    "status": "success",
+    "path": "/screenshots/ob-studio.webp",
+    "capturedAt": "2026-10-17T18:26:30.752Z",
+    "requestedUrl": "https://www.ob.services/",
+    "finalUrl": "https://www.ob.services/"
+  },
+  "odds-studio": {
+    "status": "success",
+    "path": "/screenshots/odds-studio.webp",
+    "capturedAt": "2026-10-17T18:26:31.484Z",
+    "requestedUrl": "https://odds-studio.com/",
+    "finalUrl": "https://odds-studio.com/"
+  },
+  "oddworks": {
+    "status": "success",
+    "path": "/screenshots/oddworks.webp",
+    "capturedAt": "2026-10-17T18:26:31.827Z",
+    "requestedUrl": "https://oddworks.studio/",
+    "finalUrl": "https://oddworks.studio/"
+  },
+  "off-brand-studio": {
+    "status": "success",
+    "path": "/screenshots/off-brand-studio.webp",
+    "capturedAt": "2026-10-17T18:26:34.710Z",
+    "requestedUrl": "https://off-brand.studio/",
+    "finalUrl": "https://off-brand.studio/"
+  },
+  "off-menu-branding": {
+    "status": "success",
+    "path": "/screenshots/off-menu-branding.webp",
+    "capturedAt": "2026-10-17T18:26:35.329Z",
+    "requestedUrl": "https://www.off-menu.com/",
+    "finalUrl": "https://www.off-menu.com/"
+  },
+  "office-of-overview": {
+    "status": "success",
+    "path": "/screenshots/office-of-overview.webp",
+    "capturedAt": "2026-10-17T18:26:36.929Z",
+    "requestedUrl": "https://officeofoverview.com/",
+    "finalUrl": "https://officeofoverview.com/"
+  },
+  "off-season-creative": {
+    "status": "success",
+    "path": "/screenshots/off-season-creative.webp",
+    "capturedAt": "2026-10-17T18:26:37.948Z",
+    "requestedUrl": "https://offseasoncreative.com/",
+    "finalUrl": "https://offseasoncreative.com/"
+  },
+  "ogginok-studio": {
+    "status": "success",
+    "path": "/screenshots/ogginok-studio.webp",
+    "capturedAt": "2026-10-17T18:26:38.977Z",
+    "requestedUrl": "https://ogginok.studio/",
+    "finalUrl": "https://ogginok.studio/"
+  },
+  "ogv-design-studio": {
+    "status": "success",
+    "path": "/screenshots/ogv-design-studio.webp",
+    "capturedAt": "2026-10-17T18:26:40.564Z",
+    "requestedUrl": "https://ogvstudio.com/",
+    "finalUrl": "https://ogvstudio.com/"
+  },
+  "ohseven": {
+    "status": "success",
+    "path": "/screenshots/ohseven.webp",
+    "capturedAt": "2026-10-17T18:26:41.836Z",
+    "requestedUrl": "https://ohseven.co.kr/en/",
+    "finalUrl": "https://ohseven.co.kr/en/"
+  },
+  "studio-okgo": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:37:47.232Z",
+    "requestedUrl": "https://okgocorp.com/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "oliver-helfrich": {
+    "status": "success",
+    "path": "/screenshots/oliver-helfrich.webp",
+    "capturedAt": "2026-10-17T18:26:43.311Z",
+    "requestedUrl": "https://www.oliverhelfrich.com/",
+    "finalUrl": "https://www.oliverhelfrich.com/"
+  },
+  "onetoo": {
+    "status": "success",
+    "path": "/screenshots/onetoo.webp",
+    "capturedAt": "2026-10-17T18:26:44.847Z",
+    "requestedUrl": "https://www.onetoo.com.au/",
+    "finalUrl": "https://www.onetoo.com.au/"
+  },
+  "onlab": {
+    "status": "success",
+    "path": "/screenshots/onlab.webp",
+    "capturedAt": "2026-10-17T18:26:45.213Z",
+    "requestedUrl": "https://onlab.ch/",
+    "finalUrl": "https://onlab.ch/"
+  },
+  "onmi-design": {
+    "status": "success",
+    "path": "/screenshots/onmi-design.webp",
+    "capturedAt": "2026-10-17T18:26:49.922Z",
+    "requestedUrl": "https://onmidesign.com/",
+    "finalUrl": "https://onmidesign.com/"
+  },
+  "onwards": {
+    "status": "success",
+    "path": "/screenshots/onwards.webp",
+    "capturedAt": "2026-10-17T18:26:50.268Z",
+    "requestedUrl": "https://onwards.agency/",
+    "finalUrl": "https://onwards.agency/"
+  },
+  "ooze": {
+    "status": "success",
+    "path": "/screenshots/ooze.webp",
+    "capturedAt": "2026-10-17T18:26:51.116Z",
+    "requestedUrl": "https://ooze.design/",
+    "finalUrl": "https://ooze.design/"
+  },
+  "opposite": {
+    "status": "success",
+    "path": "/screenshots/opposite.webp",
+    "capturedAt": "2026-10-17T18:26:52.539Z",
+    "requestedUrl": "https://oppositehq.com/",
+    "finalUrl": "https://oppositehq.com/"
+  },
+  "otherdays": {
+    "status": "success",
+    "path": "/screenshots/otherdays.webp",
+    "capturedAt": "2026-10-17T18:26:53.489Z",
+    "requestedUrl": "https://www.otherdays.studio/",
+    "finalUrl": "https://www.otherdays.studio/"
+  },
+  "otherkind": {
+    "status": "success",
+    "path": "/screenshots/otherkind.webp",
+    "capturedAt": "2026-10-17T18:26:56.459Z",
+    "requestedUrl": "https://www.otherkind.design/",
+    "finalUrl": "https://www.otherkind.design/"
+  },
+  "other-means": {
+    "status": "success",
+    "path": "/screenshots/other-means.webp",
+    "capturedAt": "2026-10-17T18:26:57.295Z",
+    "requestedUrl": "https://www.othermeans.us/",
+    "finalUrl": "https://www.othermeans.us/"
+  },
+  "otherside": {
+    "status": "success",
+    "path": "/screenshots/otherside.webp",
+    "capturedAt": "2026-10-17T18:26:58.100Z",
+    "requestedUrl": "https://otherside.works/",
+    "finalUrl": "https://otherside.works/"
+  },
+  "otherwhere-collective": {
+    "status": "success",
+    "path": "/screenshots/otherwhere-collective.webp",
+    "capturedAt": "2026-10-17T18:26:58.346Z",
+    "requestedUrl": "https://otherwherecollective.com/",
+    "finalUrl": "https://otherwherecollective.com/"
+  },
+  "otomoro": {
+    "status": "success",
+    "path": "/screenshots/otomoro.webp",
+    "capturedAt": "2026-10-17T18:38:03.876Z",
+    "requestedUrl": "https://www.otomoro.com/",
+    "finalUrl": "https://www.otomoro.com/"
+  },
+  "otto": {
+    "status": "success",
+    "path": "/screenshots/otto.webp",
+    "capturedAt": "2026-10-17T18:38:05.174Z",
+    "requestedUrl": "https://www.ottostudio.co.uk/",
+    "finalUrl": "https://www.ottostudio.co.uk/"
+  },
+  "our-polite-society": {
+    "status": "success",
+    "path": "/screenshots/our-polite-society.webp",
+    "capturedAt": "2026-10-17T18:27:02.428Z",
+    "requestedUrl": "https://ourpolitesociety.net/en/index",
+    "finalUrl": "https://ourpolitesociety.net/en/index"
+  },
+  "outer-studio": {
+    "status": "success",
+    "path": "/screenshots/outer-studio.webp",
+    "capturedAt": "2026-10-17T18:27:03.624Z",
+    "requestedUrl": "https://www.outer.studio/",
+    "finalUrl": "https://www.outer.studio/"
+  },
+  "outloud": {
+    "status": "success",
+    "path": "/screenshots/outloud.webp",
+    "capturedAt": "2026-10-17T18:27:03.706Z",
+    "requestedUrl": "https://outloud.co/",
+    "finalUrl": "https://outloud.co/"
+  },
+  "over-stimulated": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:38:05.367Z",
+    "requestedUrl": "https://www.over-stimulated.com/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "ozon-studio": {
+    "status": "success",
+    "path": "/screenshots/ozon-studio.webp",
+    "capturedAt": "2026-10-17T18:27:06.050Z",
+    "requestedUrl": "https://ozon.studio/",
+    "finalUrl": "https://ozon.studio/"
+  },
+  "p0ly": {
+    "status": "success",
+    "path": "/screenshots/p0ly.webp",
+    "capturedAt": "2026-10-17T18:27:06.321Z",
+    "requestedUrl": "https://www.p0lydesigns.com/",
+    "finalUrl": "https://www.p0lydesigns.com/"
+  },
+  "painting-towns": {
+    "status": "success",
+    "path": "/screenshots/painting-towns.webp",
+    "capturedAt": "2026-10-17T18:27:09.008Z",
+    "requestedUrl": "https://www.paintingtowns.com.au/",
+    "finalUrl": "https://www.paintingtowns.com.au/"
+  },
+  "paisana": {
+    "status": "success",
+    "path": "/screenshots/paisana.webp",
+    "capturedAt": "2026-10-17T18:27:09.896Z",
+    "requestedUrl": "https://paisana.studio/",
+    "finalUrl": "https://paisana.studio/"
+  },
+  "panama-papers-office": {
+    "status": "success",
+    "path": "/screenshots/panama-papers-office.webp",
+    "capturedAt": "2026-10-17T18:27:12.416Z",
+    "requestedUrl": "https://www.panamapapersoffice.com/",
+    "finalUrl": "https://www.panamapapersoffice.com/"
+  },
+  "parasol": {
+    "status": "success",
+    "path": "/screenshots/parasol.webp",
+    "capturedAt": "2026-10-17T18:27:12.569Z",
+    "requestedUrl": "https://www.parasol-projects.com/",
+    "finalUrl": "https://www.parasol-projects.com/"
+  },
+  "parcour": {
+    "status": "success",
+    "path": "/screenshots/parcour.webp",
+    "capturedAt": "2026-10-17T18:27:14.756Z",
+    "requestedUrl": "https://www.parcour.studio/",
+    "finalUrl": "https://www.parcour.studio/"
+  },
+  "parsons-branding": {
+    "status": "success",
+    "path": "/screenshots/parsons-branding.webp",
+    "capturedAt": "2026-10-17T18:38:17.016Z",
+    "requestedUrl": "https://www.parsonsbranding.com/",
+    "finalUrl": "https://www.parsonsbranding.com/"
+  },
+  "partner-and-partners": {
+    "status": "success",
+    "path": "/screenshots/partner-and-partners.webp",
+    "capturedAt": "2026-10-17T18:27:15.969Z",
+    "requestedUrl": "https://partnerandpartners.com/",
+    "finalUrl": "https://partnerandpartners.com/"
+  },
+  "patswerk": {
+    "status": "success",
+    "path": "/screenshots/patswerk.webp",
+    "capturedAt": "2026-10-17T18:27:18.631Z",
+    "requestedUrl": "https://patswerk.nl/",
+    "finalUrl": "https://patswerk.nl/"
+  },
+  "paul-and-thomas": {
+    "status": "success",
+    "path": "/screenshots/paul-and-thomas.webp",
+    "capturedAt": "2026-10-17T18:27:19.039Z",
+    "requestedUrl": "https://paul-et-thomas.com/",
+    "finalUrl": "https://paul-et-thomas.com/"
+  },
+  "paul-belford": {
+    "status": "success",
+    "path": "/screenshots/paul-belford.webp",
+    "capturedAt": "2026-10-17T18:27:20.477Z",
+    "requestedUrl": "https://paulbelford.com/",
+    "finalUrl": "https://paulbelford.com/"
+  },
+  "pelo": {
+    "status": "success",
+    "path": "/screenshots/pelo.webp",
+    "capturedAt": "2026-10-17T18:38:20.807Z",
+    "requestedUrl": "https://pelo.studio/",
+    "finalUrl": "https://pelo.studio/"
+  },
+  "people-people": {
+    "status": "success",
+    "path": "/screenshots/people-people.webp",
+    "capturedAt": "2026-10-17T18:27:23.798Z",
+    "requestedUrl": "https://people-people.com/",
+    "finalUrl": "https://people-people.com/"
+  },
+  "percept": {
+    "status": "success",
+    "path": "/screenshots/percept.webp",
+    "capturedAt": "2026-10-17T18:27:24.616Z",
+    "requestedUrl": "https://percept.com.au/",
+    "finalUrl": "https://percept.com.au/"
+  },
+  "perfect-vision": {
+    "status": "success",
+    "path": "/screenshots/perfect-vision.webp",
+    "capturedAt": "2026-10-17T18:27:26.287Z",
+    "requestedUrl": "https://perfectvision.llc/",
+    "finalUrl": "https://perfectvision.llc/"
+  },
+  "perky-bros": {
+    "status": "success",
+    "path": "/screenshots/perky-bros.webp",
+    "capturedAt": "2026-10-17T18:27:26.364Z",
+    "requestedUrl": "https://perkybros.com/",
+    "finalUrl": "https://perkybros.com/"
+  },
+  "pixelarte": {
+    "status": "success",
+    "path": "/screenshots/pixelarte.webp",
+    "capturedAt": "2026-10-17T18:38:22.359Z",
+    "requestedUrl": "https://pixelarte.es/en",
+    "finalUrl": "https://pixelarte.es/en"
+  },
+  "placida": {
+    "status": "success",
+    "path": "/screenshots/placida.webp",
+    "capturedAt": "2026-10-17T18:27:27.369Z",
+    "requestedUrl": "https://placida.es/en",
+    "finalUrl": "https://placida.es/en"
+  },
+  "plural": {
+    "status": "success",
+    "path": "/screenshots/plural.webp",
+    "capturedAt": "2026-10-17T18:27:31.107Z",
+    "requestedUrl": "https://pluralbranding.com/",
+    "finalUrl": "https://pluralbranding.com/"
+  },
+  "pocket-pictures": {
+    "status": "success",
+    "path": "/screenshots/pocket-pictures.webp",
+    "capturedAt": "2026-10-17T18:27:32.403Z",
+    "requestedUrl": "https://www.pocketpictures.us/",
+    "finalUrl": "https://www.pocketpictures.us/"
+  },
+  "polytechnic": {
+    "status": "success",
+    "path": "/screenshots/polytechnic.webp",
+    "capturedAt": "2026-10-17T18:27:34.993Z",
+    "requestedUrl": "https://www.polytechnic.works/",
+    "finalUrl": "https://www.polytechnic.works/"
+  },
+  "pony-studio": {
+    "status": "success",
+    "path": "/screenshots/pony-studio.webp",
+    "capturedAt": "2026-10-17T18:27:37.392Z",
+    "requestedUrl": "https://pony.studio/",
+    "finalUrl": "https://pony.studio/"
+  },
+  "pop-and-pac": {
+    "status": "success",
+    "path": "/screenshots/pop-and-pac.webp",
+    "capturedAt": "2026-10-17T18:27:38.161Z",
+    "requestedUrl": "https://www.pop-pac.com/",
+    "finalUrl": "https://www.pop-pac.com/"
+  },
+  "poste-golden": {
+    "status": "success",
+    "path": "/screenshots/poste-golden.webp",
+    "capturedAt": "2026-10-17T18:38:25.926Z",
+    "requestedUrl": "https://postegolden.co/",
+    "finalUrl": "https://postegolden.co/"
+  },
+  "poster": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:38:32.497Z",
+    "requestedUrl": "https://posterco.tv/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "post-projects": {
+    "status": "success",
+    "path": "/screenshots/post-projects.webp",
+    "capturedAt": "2026-10-17T18:38:36.312Z",
+    "requestedUrl": "https://www.postprojects.com/",
+    "finalUrl": "https://www.postprojects.com/"
+  },
+  "postred": {
+    "status": "success",
+    "path": "/screenshots/postred.webp",
+    "capturedAt": "2026-10-17T18:27:45.990Z",
+    "requestedUrl": "https://postredaudio.com/",
+    "finalUrl": "https://postredaudio.com/"
+  },
+  "praktika": {
+    "status": "success",
+    "path": "/screenshots/praktika.webp",
+    "capturedAt": "2026-10-17T18:27:46.235Z",
+    "requestedUrl": "https://praktika.studio/",
+    "finalUrl": "https://praktika.studio/"
+  },
+  "primary-works": {
+    "status": "success",
+    "path": "/screenshots/primary-works.webp",
+    "capturedAt": "2026-10-17T18:27:49.881Z",
+    "requestedUrl": "https://www.primary.works/",
+    "finalUrl": "https://www.primary.works/"
+  },
+  "principi": {
+    "status": "success",
+    "path": "/screenshots/principi.webp",
+    "capturedAt": "2026-10-17T18:27:52.247Z",
+    "requestedUrl": "https://principiestudi.com/",
+    "finalUrl": "https://principiestudi.com/"
+  },
+  "program-studio": {
+    "status": "success",
+    "path": "/screenshots/program-studio.webp",
+    "capturedAt": "2026-10-17T18:41:55.555Z",
+    "requestedUrl": "https://program.studio/",
+    "finalUrl": "https://program.studio/work/adg-fad-laus/"
+  },
+  "proxy": {
+    "status": "success",
+    "path": "/screenshots/proxy.webp",
+    "capturedAt": "2026-10-17T18:27:54.507Z",
+    "requestedUrl": "https://proxy.vc/",
+    "finalUrl": "https://proxy.vc/"
+  },
+  "punkt-studio": {
+    "status": "success",
+    "path": "/screenshots/punkt-studio.webp",
+    "capturedAt": "2026-10-17T18:27:59.469Z",
+    "requestedUrl": "https://www.punkt.studio/",
+    "finalUrl": "https://www.punkt.studio/"
+  },
+  "pupila": {
+    "status": "success",
+    "path": "/screenshots/pupila.webp",
+    "capturedAt": "2026-10-17T18:27:59.588Z",
+    "requestedUrl": "https://pupila.co/",
+    "finalUrl": "https://pupila.co/"
+  },
+  "quatrieme-etage": {
+    "status": "success",
+    "path": "/screenshots/quatrieme-etage.webp",
+    "capturedAt": "2026-10-17T18:28:00.886Z",
+    "requestedUrl": "https://quatriemeetage.studio/",
+    "finalUrl": "https://quatriemeetage.studio/"
+  },
+  "querida": {
+    "status": "success",
+    "path": "/screenshots/querida.webp",
+    "capturedAt": "2026-10-17T18:28:01.257Z",
+    "requestedUrl": "https://querida.si/",
+    "finalUrl": "https://querida.si/"
+  },
+  "racepoint-global": {
+    "status": "success",
+    "path": "/screenshots/racepoint-global.webp",
+    "capturedAt": "2026-10-17T18:38:43.262Z",
+    "requestedUrl": "https://racepointglobal.com/",
+    "finalUrl": "https://racepointglobal.com/"
+  },
+  "re-design": {
+    "status": "success",
+    "path": "/screenshots/re-design.webp",
+    "capturedAt": "2026-10-17T18:28:01.654Z",
+    "requestedUrl": "https://www.re.design/",
+    "finalUrl": "https://www.re.design/"
+  },
+  "recenttm": {
+    "status": "success",
+    "path": "/screenshots/recenttm.webp",
+    "capturedAt": "2026-10-17T18:28:08.477Z",
+    "requestedUrl": "https://www.recent.co/",
+    "finalUrl": "https://www.recent.co/"
+  },
+  "red-dot-studio": {
+    "status": "success",
+    "path": "/screenshots/red-dot-studio.webp",
+    "capturedAt": "2026-10-17T18:28:08.570Z",
+    "requestedUrl": "https://reddotstudio.co.uk/",
+    "finalUrl": "https://reddotstudio.co.uk/"
+  },
+  "registered-commons": {
+    "status": "success",
+    "path": "/screenshots/registered-commons.webp",
+    "capturedAt": "2026-10-17T18:28:08.864Z",
+    "requestedUrl": "https://registered-commons.com/",
+    "finalUrl": "https://registered-commons.com/"
+  },
+  "residence": {
+    "status": "success",
+    "path": "/screenshots/residence.webp",
+    "capturedAt": "2026-10-17T18:28:10.769Z",
+    "requestedUrl": "https://www.residence.co/",
+    "finalUrl": "https://www.residence.co/"
+  },
+  "resoluut": {
+    "status": "success",
+    "path": "/screenshots/resoluut.webp",
+    "capturedAt": "2026-10-17T18:28:10.829Z",
+    "requestedUrl": "https://www.resoluut.com/",
+    "finalUrl": "https://www.resoluut.com/"
+  },
+  "restless": {
+    "status": "success",
+    "path": "/screenshots/restless.webp",
+    "capturedAt": "2026-10-17T18:28:15.233Z",
+    "requestedUrl": "https://restless.org/",
+    "finalUrl": "https://restless.org/"
+  },
+  "rethink": {
+    "status": "success",
+    "path": "/screenshots/rethink.webp",
+    "capturedAt": "2026-10-17T18:28:15.775Z",
+    "requestedUrl": "https://www.rethinkideas.com/",
+    "finalUrl": "https://www.rethinkideas.com/"
+  },
+  "retinaa": {
+    "status": "success",
+    "path": "/screenshots/retinaa.webp",
+    "capturedAt": "2026-10-17T18:41:55.555Z",
+    "requestedUrl": "https://retinaa.ch/",
+    "finalUrl": "https://retinaa.ch/",
+    "scrollY": 850
+  },
+  "reunion": {
+    "status": "success",
+    "path": "/screenshots/reunion.webp",
+    "capturedAt": "2026-10-17T18:28:17.972Z",
+    "requestedUrl": "https://reunionstudio.com/",
+    "finalUrl": "https://reunionstudio.com/"
+  },
+  "r-ga": {
+    "status": "success",
+    "path": "/screenshots/r-ga.webp",
+    "capturedAt": "2026-10-17T18:28:18.198Z",
+    "requestedUrl": "https://rga.com/",
+    "finalUrl": "https://rga.com/"
+  },
+  "richards-partners": {
+    "status": "success",
+    "path": "/screenshots/richards-partners.webp",
+    "capturedAt": "2026-10-17T18:28:21.072Z",
+    "requestedUrl": "https://www.richards.partners/",
+    "finalUrl": "https://www.richards.partners/"
+  },
+  "rick-barry": {
+    "status": "success",
+    "path": "/screenshots/rick-barry.webp",
+    "capturedAt": "2026-10-17T18:28:22.104Z",
+    "requestedUrl": "https://rickbarry.com.au/",
+    "finalUrl": "https://rickbarry.com.au/"
+  },
+  "riser": {
+    "status": "success",
+    "path": "/screenshots/riser.webp",
+    "capturedAt": "2026-10-17T18:28:25.824Z",
+    "requestedUrl": "https://riser.design/",
+    "finalUrl": "https://riser.design/"
+  },
+  "rob-en-robin": {
+    "status": "success",
+    "path": "/screenshots/rob-en-robin.webp",
+    "capturedAt": "2026-10-17T18:41:55.555Z",
+    "requestedUrl": "https://robenrobin.nl/",
+    "finalUrl": "https://robenrobin.nl/about/"
+  },
+  "round": {
+    "status": "success",
+    "path": "/screenshots/round.webp",
+    "capturedAt": "2026-10-17T18:28:29.948Z",
+    "requestedUrl": "https://www.round.com.au/",
+    "finalUrl": "https://www.round.com.au/"
+  },
+  "rowdy-studio": {
+    "status": "success",
+    "path": "/screenshots/rowdy-studio.webp",
+    "capturedAt": "2026-10-17T18:39:04.632Z",
+    "requestedUrl": "https://rowdystudio.com/",
+    "finalUrl": "https://rowdystudio.com/"
+  },
+  "rsquare": {
+    "status": "success",
+    "path": "/screenshots/rsquare.webp",
+    "capturedAt": "2026-10-17T18:28:32.816Z",
+    "requestedUrl": "https://rsquare.work/",
+    "finalUrl": "https://rsquare.work/"
+  },
+  "rudy": {
+    "status": "success",
+    "path": "/screenshots/rudy.webp",
+    "capturedAt": "2026-10-17T18:28:32.833Z",
+    "requestedUrl": "https://ru-dy.com/",
+    "finalUrl": "https://ru-dy.com/#work"
+  },
+  "safe-agency": {
+    "status": "success",
+    "path": "/screenshots/safe-agency.webp",
+    "capturedAt": "2026-10-17T18:28:39.365Z",
+    "requestedUrl": "https://safeagency.cc/",
+    "finalUrl": "https://safeagency.cc/"
+  },
+  "salt-architecture-interiors": {
+    "status": "success",
+    "path": "/screenshots/salt-architecture-interiors.webp",
+    "capturedAt": "2026-10-17T18:28:40.018Z",
+    "requestedUrl": "https://www.saltarchitecture.nz/",
+    "finalUrl": "https://www.saltarchitecture.nz/?ref=maxibestof.one"
+  },
+  "sanna-mac": {
+    "status": "success",
+    "path": "/screenshots/sanna-mac.webp",
+    "capturedAt": "2026-10-17T18:28:40.730Z",
+    "requestedUrl": "https://sannamac.co/",
+    "finalUrl": "https://sannamac.co/"
+  },
+  "sans": {
+    "status": "success",
+    "path": "/screenshots/sans.webp",
+    "capturedAt": "2026-10-17T18:28:41.201Z",
+    "requestedUrl": "https://sans.hk/",
+    "finalUrl": "https://sans.hk/"
+  },
+  "santanasantana": {
+    "status": "success",
+    "path": "/screenshots/santanasantana.webp",
+    "capturedAt": "2026-10-17T18:28:41.730Z",
+    "requestedUrl": "https://santanasantana.es/",
+    "finalUrl": "https://santanasantana.es/"
+  },
+  "schwaibold-and-vos": {
+    "status": "success",
+    "path": "/screenshots/schwaibold-and-vos.webp",
+    "capturedAt": "2026-10-17T18:28:41.861Z",
+    "requestedUrl": "https://schwaiboldandvos.com/",
+    "finalUrl": "https://schwaiboldandvos.com/"
+  },
+  "scrib3": {
+    "status": "success",
+    "path": "/screenshots/scrib3.webp",
+    "capturedAt": "2026-10-17T18:39:15.893Z",
+    "requestedUrl": "https://scrib3.co/",
+    "finalUrl": "https://scrib3.co/"
+  },
+  "sickdogwolfman": {
+    "status": "success",
+    "path": "/screenshots/sickdogwolfman.webp",
+    "capturedAt": "2026-10-17T18:28:46.711Z",
+    "requestedUrl": "https://www.sdwm.com.au/",
+    "finalUrl": "https://www.sdwm.com.au/"
+  },
+  "seachange": {
+    "status": "success",
+    "path": "/screenshots/seachange.webp",
+    "capturedAt": "2026-10-17T18:28:47.296Z",
+    "requestedUrl": "https://www.seachange.studio/",
+    "finalUrl": "https://www.seachange.studio/"
+  },
+  "seenk": {
+    "status": "success",
+    "path": "/screenshots/seenk.webp",
+    "capturedAt": "2026-10-17T18:37:14.617Z",
+    "requestedUrl": "https://www.seenk.com/en-us",
+    "finalUrl": "https://www.seenk.com/en-us"
+  },
+  "self-titled": {
+    "status": "success",
+    "path": "/screenshots/self-titled.webp",
+    "capturedAt": "2026-10-17T18:28:50.391Z",
+    "requestedUrl": "https://selftitled.com.au/",
+    "finalUrl": "https://selftitled.com.au/"
+  },
+  "sentido": {
+    "status": "success",
+    "path": "/screenshots/sentido.webp",
+    "capturedAt": "2026-10-17T18:28:51.666Z",
+    "requestedUrl": "https://sentido.cargo.site/",
+    "finalUrl": "https://sentido.cargo.site/"
+  },
+  "serious-studio": {
+    "status": "success",
+    "path": "/screenshots/serious-studio.webp",
+    "capturedAt": "2026-10-17T18:28:52.402Z",
+    "requestedUrl": "https://serious-studio.com/",
+    "finalUrl": "https://serious-studio.com/"
+  },
+  "shakespeare-gordon-studio": {
+    "status": "success",
+    "path": "/screenshots/shakespeare-gordon-studio.webp",
+    "capturedAt": "2026-10-17T18:28:53.818Z",
+    "requestedUrl": "https://sg.studio/",
+    "finalUrl": "https://sg.studio/"
+  },
+  "shuka": {
+    "status": "success",
+    "path": "/screenshots/shuka.webp",
+    "capturedAt": "2026-10-17T18:28:55.900Z",
+    "requestedUrl": "https://shuka.design/",
+    "finalUrl": "https://shuka.design/"
+  },
+  "sid-lee": {
+    "status": "success",
+    "path": "/screenshots/sid-lee.webp",
+    "capturedAt": "2026-10-17T18:28:56.864Z",
+    "requestedUrl": "https://sidlee.com/en/",
+    "finalUrl": "https://sidlee.com/en/"
+  },
+  "silk-service": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:39:23.160Z",
+    "requestedUrl": "https://www.silkservice.berlin/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "si-maclennan": {
+    "status": "success",
+    "path": "/screenshots/si-maclennan.webp",
+    "capturedAt": "2026-10-17T18:28:58.472Z",
+    "requestedUrl": "https://www.simaclennan.com/",
+    "finalUrl": "https://www.simaclennan.com/"
+  },
+  "sitoh-inc": {
+    "status": "success",
+    "path": "/screenshots/sitoh-inc.webp",
+    "capturedAt": "2026-10-17T18:29:00.050Z",
+    "requestedUrl": "https://sitoh.co.jp/index.html",
+    "finalUrl": "https://sitoh.co.jp/index.html"
+  },
+  "skogen": {
+    "status": "success",
+    "path": "/screenshots/skogen.webp",
+    "capturedAt": "2026-10-17T18:29:01.906Z",
+    "requestedUrl": "https://www.skogen.io/en",
+    "finalUrl": "https://www.skogen.io/en"
+  },
+  "skyrise": {
+    "status": "success",
+    "path": "/screenshots/skyrise.webp",
+    "capturedAt": "2026-10-17T18:29:02.560Z",
+    "requestedUrl": "https://skyrisecreative.co/",
+    "finalUrl": "https://skyrisecreative.co/"
+  },
+  "slope": {
+    "status": "success",
+    "path": "/screenshots/slope.webp",
+    "capturedAt": "2026-10-17T18:29:03.565Z",
+    "requestedUrl": "https://www.slope.agency/",
+    "finalUrl": "https://www.slope.agency/"
+  },
+  "slowrat": {
+    "status": "success",
+    "path": "/screenshots/slowrat.webp",
+    "capturedAt": "2026-10-17T18:39:33.577Z",
+    "requestedUrl": "https://slowrat.com/",
+    "finalUrl": "https://slowrat.com/"
+  },
+  "smack-bang": {
+    "status": "success",
+    "path": "/screenshots/smack-bang.webp",
+    "capturedAt": "2026-10-17T18:29:06.938Z",
+    "requestedUrl": "https://smackbang.co/",
+    "finalUrl": "https://smackbang.co/"
+  },
+  "smlxl": {
+    "status": "success",
+    "path": "/screenshots/smlxl.webp",
+    "capturedAt": "2026-10-17T18:29:08.233Z",
+    "requestedUrl": "https://smlxl.company/",
+    "finalUrl": "https://smlxl.company/"
+  },
+  "sn-hetta": {
+    "status": "success",
+    "path": "/screenshots/sn-hetta.webp",
+    "capturedAt": "2026-10-17T18:29:08.754Z",
+    "requestedUrl": "https://www.snohetta.com/",
+    "finalUrl": "https://www.snohetta.com/"
+  },
+  "socialclub": {
+    "status": "success",
+    "path": "/screenshots/socialclub.webp",
+    "capturedAt": "2026-10-17T18:29:09.973Z",
+    "requestedUrl": "https://www.socialclubparis.com/",
+    "finalUrl": "https://www.socialclubparis.com/"
+  },
+  "socio": {
+    "status": "success",
+    "path": "/screenshots/socio.webp",
+    "capturedAt": "2026-10-17T18:29:11.114Z",
+    "requestedUrl": "https://www.sociodesign.co.uk/",
+    "finalUrl": "https://www.sociodesign.co.uk/"
+  },
+  "sodaa": {
+    "status": "success",
+    "path": "/screenshots/sodaa.webp",
+    "capturedAt": "2026-10-17T18:29:14.214Z",
+    "requestedUrl": "https://www.sodaa.co/",
+    "finalUrl": "https://www.sodaa.co/"
+  },
+  "somestr": {
+    "status": "success",
+    "path": "/screenshots/somestr.webp",
+    "capturedAt": "2026-10-17T18:29:16.129Z",
+    "requestedUrl": "https://somestrstudio.com/",
+    "finalUrl": "https://somestrstudio.com/"
+  },
+  "something-more": {
+    "status": "success",
+    "path": "/screenshots/something-more.webp",
+    "capturedAt": "2026-10-17T18:29:16.176Z",
+    "requestedUrl": "https://somethingmore.studio/",
+    "finalUrl": "https://somethingmore.studio/"
+  },
+  "something-special-studios": {
+    "status": "failed",
+    "capturedAt": "2026-10-17T18:39:43.026Z",
+    "requestedUrl": "https://somethingspecialstudios.com",
+    "error": "Error: Rejected page: 403 Just a moment..."
+  },
+  "somewhere-else": {
+    "status": "success",
+    "path": "/screenshots/somewhere-else.webp",
+    "capturedAt": "2026-10-17T18:29:17.629Z",
+    "requestedUrl": "https://somewhere-else.co/",
+    "finalUrl": "https://somewhere-else.co/"
+  },
+  "span": {
+    "status": "success",
+    "path": "/screenshots/span.webp",
+    "capturedAt": "2026-10-17T18:29:18.569Z",
+    "requestedUrl": "https://span.studio/",
+    "finalUrl": "https://span.studio/"
+  },
+  "sparks-studio": {
+    "status": "success",
+    "path": "/screenshots/sparks-studio.webp",
+    "capturedAt": "2026-10-17T18:29:21.580Z",
+    "requestedUrl": "https://www.sparks-studio.com/",
+    "finalUrl": "https://www.sparks-studio.com/"
+  },
+  "spassky-fischer": {
+    "status": "success",
+    "path": "/screenshots/spassky-fischer.webp",
+    "capturedAt": "2026-10-17T18:29:22.500Z",
+    "requestedUrl": "https://spassky-fischer.fr/",
+    "finalUrl": "https://spassky-fischer.fr/"
+  },
+  "spherical-waves": {
+    "status": "success",
+    "path": "/screenshots/spherical-waves.webp",
+    "capturedAt": "2026-10-17T18:39:43.351Z",
+    "requestedUrl": "https://sphericalwaves.com/",
+    "finalUrl": "https://sphericalwaves.com/"
+  },
+  "spin-studio": {
+    "status": "success",
+    "path": "/screenshots/spin-studio.webp",
+    "capturedAt": "2026-10-17T18:29:24.082Z",
+    "requestedUrl": "https://spin.co.uk/",
+    "finalUrl": "https://spin.co.uk/"
+  },
+  "sstil": {
+    "status": "success",
+    "path": "/screenshots/sstil.webp",
+    "capturedAt": "2026-10-17T18:29:24.764Z",
+    "requestedUrl": "https://www.sstilagency.com/",
+    "finalUrl": "https://www.sstilagency.com/"
+  },
+  "stagecrew": {
+    "status": "success",
+    "path": "/screenshots/stagecrew.webp",
+    "capturedAt": "2026-10-17T18:29:25.094Z",
+    "requestedUrl": "https://stagecrew.studio/",
+    "finalUrl": "https://stagecrew.studio/"
+  },
+  "standard-format": {
+    "status": "success",
+    "path": "/screenshots/standard-format.webp",
+    "capturedAt": "2026-10-17T18:29:28.549Z",
+    "requestedUrl": "https://standard-format.co.uk/",
+    "finalUrl": "https://standard-format.co.uk/"
+  },
+  "stille-studio": {
+    "status": "success",
+    "path": "/screenshots/stille-studio.webp",
+    "capturedAt": "2026-10-17T18:29:29.703Z",
+    "requestedUrl": "https://www.stillestudio.com/",
+    "finalUrl": "https://www.stillestudio.com/"
+  },
+  "stout-design": {
+    "status": "success",
+    "path": "/screenshots/stout-design.webp",
+    "capturedAt": "2026-10-17T18:29:30.385Z",
+    "requestedUrl": "https://stoutsf.com/",
+    "finalUrl": "https://stoutsf.com/"
+  },
+  "strand-studio": {
+    "status": "success",
+    "path": "/screenshots/strand-studio.webp",
+    "capturedAt": "2026-10-17T18:29:30.941Z",
+    "requestedUrl": "https://strandstudio.co/",
+    "finalUrl": "https://strandstudio.co/"
+  },
+  "strik": {
+    "status": "success",
+    "path": "/screenshots/strik.webp",
+    "capturedAt": "2026-10-17T18:29:31.970Z",
+    "requestedUrl": "https://www.strik.is/",
+    "finalUrl": "https://www.strik.is/"
+  },
+  "studio-build": {
+    "status": "success",
+    "path": "/screenshots/studio-build.webp",
+    "capturedAt": "2026-10-17T18:29:32.635Z",
+    "requestedUrl": "https://www.studio.build/",
+    "finalUrl": "https://www.studio.build/"
+  },
+  "studio-drama": {
+    "status": "success",
+    "path": "/screenshots/studio-drama.webp",
+    "capturedAt": "2026-10-17T18:29:35.334Z",
+    "requestedUrl": "https://studio-drama.com/",
+    "finalUrl": "https://studio-drama.com/"
+  },
+  "remote": {
+    "status": "success",
+    "path": "/screenshots/remote.webp",
+    "capturedAt": "2026-10-17T18:29:35.374Z",
+    "requestedUrl": "https://www.studio-remote.kr/",
+    "finalUrl": "https://www.studio-remote.kr/"
+  },
+  "teller": {
+    "status": "success",
+    "path": "/screenshots/teller.webp",
+    "capturedAt": "2026-10-17T18:29:37.064Z",
+    "requestedUrl": "https://www.studio-teller.co/",
+    "finalUrl": "https://www.studio-teller.co/"
+  },
+  "studio-agriculture": {
+    "status": "success",
+    "path": "/screenshots/studio-agriculture.webp",
+    "capturedAt": "2026-10-17T18:29:38.525Z",
+    "requestedUrl": "https://studioagriculture.co/",
+    "finalUrl": "https://studioagriculture.co/"
+  },
+  "studio-airport": {
+    "status": "success",
+    "path": "/screenshots/studio-airport.webp",
+    "capturedAt": "2026-10-17T18:39:45.622Z",
+    "requestedUrl": "https://www.studioairport.nl/",
+    "finalUrl": "https://www.studioairport.nl/"
+  },
+  "studio-bland": {
+    "status": "success",
+    "path": "/screenshots/studio-bland.webp",
+    "capturedAt": "2026-10-17T18:29:45.111Z",
+    "requestedUrl": "https://studiobland.com/",
+    "finalUrl": "https://studiobland.com/"
+  },
+  "studio-born": {
+    "status": "success",
+    "path": "/screenshots/studio-born.webp",
+    "capturedAt": "2026-10-17T18:29:45.140Z",
+    "requestedUrl": "https://www.studioborn.co/",
+    "finalUrl": "https://www.studioborn.co/"
+  },
+  "studio-dial": {
+    "status": "success",
+    "path": "/screenshots/studio-dial.webp",
+    "capturedAt": "2026-10-17T18:29:48.122Z",
+    "requestedUrl": "https://studiodial.com/",
+    "finalUrl": "https://studiodial.com/"
+  },
+  "studio-dpi": {
+    "status": "success",
+    "path": "/screenshots/studio-dpi.webp",
+    "capturedAt": "2026-10-17T18:29:48.807Z",
+    "requestedUrl": "https://studiodpi.work/",
+    "finalUrl": "https://studiodpi.work/"
+  },
+  "earthling-studio": {
+    "status": "success",
+    "path": "/screenshots/earthling-studio.webp",
+    "capturedAt": "2026-10-17T18:29:49.504Z",
+    "requestedUrl": "https://studioearthling.com/",
+    "finalUrl": "https://studioearthling.com/"
+  },
+  "studio-feixen": {
+    "status": "success",
+    "path": "/screenshots/studio-feixen.webp",
+    "capturedAt": "2026-10-17T18:29:51.497Z",
+    "requestedUrl": "https://www.studiofeixen.ch/",
+    "finalUrl": "https://www.studiofeixen.ch/"
+  },
+  "studio-fnt": {
+    "status": "success",
+    "path": "/screenshots/studio-fnt.webp",
+    "capturedAt": "2026-10-17T18:29:52.399Z",
+    "requestedUrl": "https://studiofnt.com/",
+    "finalUrl": "https://studiofnt.com/"
+  },
+  "studio-format": {
+    "status": "success",
+    "path": "/screenshots/studio-format.webp",
+    "capturedAt": "2026-10-17T18:29:54.302Z",
+    "requestedUrl": "https://www.studioformat.fr/",
+    "finalUrl": "https://www.studioformat.fr/"
+  },
+  "studio-freight": {
+    "status": "success",
+    "path": "/screenshots/studio-freight.webp",
+    "capturedAt": "2026-10-17T18:29:55.193Z",
+    "requestedUrl": "https://studiofreight.com/",
+    "finalUrl": "https://studiofreight.com/"
+  },
+  "studio-gd": {
+    "status": "success",
+    "path": "/screenshots/studio-gd.webp",
+    "capturedAt": "2026-10-17T18:29:56.195Z",
+    "requestedUrl": "https://www.studiogd.dk/",
+    "finalUrl": "https://www.studiogd.dk/"
+  },
+  "studio-impulso": {
+    "status": "success",
+    "path": "/screenshots/studio-impulso.webp",
+    "capturedAt": "2026-10-17T18:29:58.008Z",
+    "requestedUrl": "https://www.studioimpulso.com/",
+    "finalUrl": "https://www.studioimpulso.com/"
+  },
+  "studio-k": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:39:49.776Z",
+    "requestedUrl": "https://studiok.co/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "studio-kleiner": {
+    "status": "success",
+    "path": "/screenshots/studio-kleiner.webp",
+    "capturedAt": "2026-10-17T18:29:59.508Z",
+    "requestedUrl": "https://www.studiokleiner.com/",
+    "finalUrl": "https://www.studiokleiner.com/"
+  },
+  "studio-lin": {
+    "status": "success",
+    "path": "/screenshots/studio-lin.webp",
+    "capturedAt": "2026-10-17T18:30:00.327Z",
+    "requestedUrl": "https://studiolin.org/",
+    "finalUrl": "https://studiolin.org/"
+  },
+  "studio-morfar": {
+    "status": "success",
+    "path": "/screenshots/studio-morfar.webp",
+    "capturedAt": "2026-10-17T18:39:57.061Z",
+    "requestedUrl": "https://www.studiomorfar.com/",
+    "finalUrl": "https://www.studiomorfar.com/"
+  },
+  "studio-mut": {
+    "status": "success",
+    "path": "/screenshots/studio-mut.webp",
+    "capturedAt": "2026-10-17T18:30:02.661Z",
+    "requestedUrl": "https://www.studiomut.com/",
+    "finalUrl": "https://www.studiomut.com/"
+  },
+  "studio-na-eo": {
+    "status": "success",
+    "path": "/screenshots/studio-na-eo.webp",
+    "capturedAt": "2026-10-17T18:30:03.863Z",
+    "requestedUrl": "https://www.studionaeo.com/",
+    "finalUrl": "https://www.studionaeo.com/"
+  },
+  "studio-nari": {
+    "status": "success",
+    "path": "/screenshots/studio-nari.webp",
+    "capturedAt": "2026-10-17T18:39:58.426Z",
+    "requestedUrl": "https://www.studionari.co.uk/",
+    "finalUrl": "https://www.studionari.co.uk/"
+  },
+  "studiopez": {
+    "status": "success",
+    "path": "/screenshots/studiopez.webp",
+    "capturedAt": "2026-10-17T18:30:07.000Z",
+    "requestedUrl": "https://studiopez.net/",
+    "finalUrl": "https://studiopez.net/"
+  },
+  "studio-reko": {
+    "status": "success",
+    "path": "/screenshots/studio-reko.webp",
+    "capturedAt": "2026-10-17T18:30:07.054Z",
+    "requestedUrl": "https://studioreko.com/",
+    "finalUrl": "https://studioreko.com/"
+  },
+  "studio-south": {
+    "status": "success",
+    "path": "/screenshots/studio-south.webp",
+    "capturedAt": "2026-10-17T18:30:10.242Z",
+    "requestedUrl": "https://studiosouth.co.nz/",
+    "finalUrl": "https://studiosouth.co.nz/"
+  },
+  "studio-spehr": {
+    "status": "success",
+    "path": "/screenshots/studio-spehr.webp",
+    "capturedAt": "2026-10-17T18:30:11.459Z",
+    "requestedUrl": "https://studiospehr.com/",
+    "finalUrl": "https://studiospehr.com/"
+  },
+  "guest-studio": {
+    "status": "success",
+    "path": "/screenshots/guest-studio.webp",
+    "capturedAt": "2026-10-17T18:30:11.493Z",
+    "requestedUrl": "https://gueststudio.co/",
+    "finalUrl": "https://gueststudio.co/"
+  },
+  "studio-trikken": {
+    "status": "success",
+    "path": "/screenshots/studio-trikken.webp",
+    "capturedAt": "2026-10-17T18:30:14.289Z",
+    "requestedUrl": "https://studiotrikken.com/",
+    "finalUrl": "https://studiotrikken.com/"
+  },
+  "studio-triple": {
+    "status": "success",
+    "path": "/screenshots/studio-triple.webp",
+    "capturedAt": "2026-10-17T18:30:14.307Z",
+    "requestedUrl": "https://studiotriple.fr/",
+    "finalUrl": "https://studiotriple.fr/"
+  },
+  "studio-usher": {
+    "status": "success",
+    "path": "/screenshots/studio-usher.webp",
+    "capturedAt": "2026-10-17T18:30:14.858Z",
+    "requestedUrl": "https://studiousher.com/",
+    "finalUrl": "https://studiousher.com/"
+  },
+  "studio-vedet": {
+    "status": "success",
+    "path": "/screenshots/studio-vedet.webp",
+    "capturedAt": "2026-10-17T18:30:18.063Z",
+    "requestedUrl": "https://studiovedet.com/en/",
+    "finalUrl": "https://studiovedet.com/en/"
+  },
+  "studio-zur-strassen": {
+    "status": "success",
+    "path": "/screenshots/studio-zur-strassen.webp",
+    "capturedAt": "2026-10-17T18:30:19.139Z",
+    "requestedUrl": "https://studiozurstrassen.com/",
+    "finalUrl": "https://studiozurstrassen.com/"
+  },
+  "supersense": {
+    "status": "success",
+    "path": "/screenshots/supersense.webp",
+    "capturedAt": "2026-10-17T18:30:20.296Z",
+    "requestedUrl": "https://www.supersense.studio/",
+    "finalUrl": "https://www.supersense.studio/"
+  },
+  "supershort": {
+    "status": "success",
+    "path": "/screenshots/supershort.webp",
+    "capturedAt": "2026-10-17T18:30:20.471Z",
+    "requestedUrl": "https://supershort.co/",
+    "finalUrl": "https://supershort.co/"
+  },
+  "swear-words": {
+    "status": "success",
+    "path": "/screenshots/swear-words.webp",
+    "capturedAt": "2026-10-17T18:30:20.916Z",
+    "requestedUrl": "https://swearwords.com.au/",
+    "finalUrl": "https://swearwords.com.au/"
+  },
+  "swt-and-co": {
+    "status": "success",
+    "path": "/screenshots/swt-and-co.webp",
+    "capturedAt": "2026-10-17T18:30:21.185Z",
+    "requestedUrl": "https://swt.co/",
+    "finalUrl": "https://swt.co/"
+  },
+  "synoptic-office": {
+    "status": "success",
+    "path": "/screenshots/synoptic-office.webp",
+    "capturedAt": "2026-10-17T18:30:25.272Z",
+    "requestedUrl": "https://www.synopticoffice.com/",
+    "finalUrl": "https://www.synopticoffice.com/"
+  },
+  "gander": {
+    "status": "success",
+    "path": "/screenshots/gander.webp",
+    "capturedAt": "2026-10-17T18:30:26.152Z",
+    "requestedUrl": "https://takeagander.com/",
+    "finalUrl": "https://takeagander.com/"
+  },
+  "teel": {
+    "status": "success",
+    "path": "/screenshots/teel.webp",
+    "capturedAt": "2026-10-17T18:30:26.505Z",
+    "requestedUrl": "https://teelstudio.com/",
+    "finalUrl": "https://teelstudio.com/"
+  },
+  "tektura-studio": {
+    "status": "success",
+    "path": "/screenshots/tektura-studio.webp",
+    "capturedAt": "2026-10-17T18:40:06.958Z",
+    "requestedUrl": "https://www.tektura.studio/",
+    "finalUrl": "https://www.tektura.studio/"
+  },
+  "bureau": {
+    "status": "success",
+    "path": "/screenshots/bureau.webp",
+    "capturedAt": "2026-10-17T18:30:31.718Z",
+    "requestedUrl": "https://thebureau.com.sg/",
+    "finalUrl": "https://thebureau.com.sg/"
+  },
+  "the-click": {
+    "status": "success",
+    "path": "/screenshots/the-click.webp",
+    "capturedAt": "2026-10-17T18:30:34.157Z",
+    "requestedUrl": "https://theclickdesign.com/",
+    "finalUrl": "https://theclickdesign.com/"
+  },
+  "the-collected-works": {
+    "status": "success",
+    "path": "/screenshots/the-collected-works.webp",
+    "capturedAt": "2026-10-17T18:30:35.464Z",
+    "requestedUrl": "https://www.thecollectedworks.com/",
+    "finalUrl": "https://www.thecollectedworks.com/"
+  },
+  "the-colour-club": {
+    "status": "success",
+    "path": "/screenshots/the-colour-club.webp",
+    "capturedAt": "2026-10-17T18:30:36.445Z",
+    "requestedUrl": "https://www.thecolourclub.com.au/",
+    "finalUrl": "https://www.thecolourclub.com.au/"
+  },
+  "the-juju": {
+    "status": "success",
+    "path": "/screenshots/the-juju.webp",
+    "capturedAt": "2026-10-17T18:30:36.751Z",
+    "requestedUrl": "https://thejuju.agency/en/",
+    "finalUrl": "https://thejuju.agency/en/"
+  },
+  "the-offices": {
+    "status": "success",
+    "path": "/screenshots/the-offices.webp",
+    "capturedAt": "2026-10-17T18:30:36.936Z",
+    "requestedUrl": "https://theoffices.com.au/",
+    "finalUrl": "https://theoffices.com.au/"
+  },
+  "the-outline-design": {
+    "status": "success",
+    "path": "/screenshots/the-outline-design.webp",
+    "capturedAt": "2026-10-17T18:30:43.920Z",
+    "requestedUrl": "https://www.theoutline.design/",
+    "finalUrl": "https://www.theoutline.design/"
+  },
+  "the-phoney-club": {
+    "status": "success",
+    "path": "/screenshots/the-phoney-club.webp",
+    "capturedAt": "2026-10-17T18:40:11.050Z",
+    "requestedUrl": "https://thephoneyclub.com/",
+    "finalUrl": "https://thephoneyclub.com/"
+  },
+  "the-royal-studio": {
+    "status": "success",
+    "path": "/screenshots/the-royal-studio.webp",
+    "capturedAt": "2026-10-17T18:30:44.185Z",
+    "requestedUrl": "https://theroyalstudio.com/",
+    "finalUrl": "https://theroyalstudio.com/"
+  },
+  "thirst": {
+    "status": "success",
+    "path": "/screenshots/thirst.webp",
+    "capturedAt": "2026-10-17T18:30:44.493Z",
+    "requestedUrl": "https://thirstcraft.com/",
+    "finalUrl": "https://thirstcraft.com/"
+  },
+  "thisaway": {
+    "status": "success",
+    "path": "/screenshots/thisaway.webp",
+    "capturedAt": "2026-10-17T18:30:49.064Z",
+    "requestedUrl": "https://thisaway.co/",
+    "finalUrl": "https://thisaway.co/"
+  },
+  "colt": {
+    "status": "success",
+    "path": "/screenshots/colt.webp",
+    "capturedAt": "2026-10-17T18:40:14.514Z",
+    "requestedUrl": "https://www.thisiscolt.com/",
+    "finalUrl": "https://www.thisiscolt.com/"
+  },
+  "counter-brand-and-type": {
+    "status": "success",
+    "path": "/screenshots/counter-brand-and-type.webp",
+    "capturedAt": "2026-10-17T18:30:51.844Z",
+    "requestedUrl": "https://thisiscounter.com/",
+    "finalUrl": "https://thisiscounter.com/"
+  },
+  "domingo": {
+    "status": "success",
+    "path": "/screenshots/domingo.webp",
+    "capturedAt": "2026-10-17T18:40:23.658Z",
+    "requestedUrl": "https://thisisdomingo.com/",
+    "finalUrl": "https://thisisdomingo.com/"
+  },
+  "lopez-design": {
+    "status": "success",
+    "path": "/screenshots/lopez-design.webp",
+    "capturedAt": "2026-10-17T18:30:52.988Z",
+    "requestedUrl": "https://thisislopez.com/",
+    "finalUrl": "https://thisislopez.com/"
+  },
+  "thru": {
+    "status": "success",
+    "path": "/screenshots/thru.webp",
+    "capturedAt": "2026-10-17T18:30:57.185Z",
+    "requestedUrl": "https://thrumotion.com/",
+    "finalUrl": "https://thrumotion.com/"
+  },
+  "thursday": {
+    "status": "success",
+    "path": "/screenshots/thursday.webp",
+    "capturedAt": "2026-10-17T18:30:57.573Z",
+    "requestedUrl": "https://thursday.studio/",
+    "finalUrl": "https://thursday.studio/"
+  },
+  "ten-buttons": {
+    "status": "success",
+    "path": "/screenshots/ten-buttons.webp",
+    "capturedAt": "2026-10-17T18:40:29.931Z",
+    "requestedUrl": "https://tian-design.com/",
+    "finalUrl": "https://tian-design.com/"
+  },
+  "tiquismiquis": {
+    "status": "success",
+    "path": "/screenshots/tiquismiquis.webp",
+    "capturedAt": "2026-10-17T18:30:59.038Z",
+    "requestedUrl": "https://tiquismiquis.club/",
+    "finalUrl": "https://tiquismiquis.club/"
+  },
+  "tm-tsevdosmcneil": {
+    "status": "success",
+    "path": "/screenshots/tm-tsevdosmcneil.webp",
+    "capturedAt": "2026-10-17T18:31:00.026Z",
+    "requestedUrl": "https://tm-studio.co.uk/",
+    "finalUrl": "https://tm-studio.co.uk/"
+  },
+  "toby-ng-design": {
+    "status": "success",
+    "path": "/screenshots/toby-ng-design.webp",
+    "capturedAt": "2026-10-17T18:31:00.349Z",
+    "requestedUrl": "https://www.toby-ng.com/",
+    "finalUrl": "https://www.toby-ng.com/"
+  },
+  "tofu-design": {
+    "status": "success",
+    "path": "/screenshots/tofu-design.webp",
+    "capturedAt": "2026-10-17T18:31:04.421Z",
+    "requestedUrl": "https://www.tofudesign.co/",
+    "finalUrl": "https://www.tofudesign.co/"
+  },
+  "together": {
+    "status": "success",
+    "path": "/screenshots/together.webp",
+    "capturedAt": "2026-10-17T18:31:04.440Z",
+    "requestedUrl": "https://together.agency/",
+    "finalUrl": "https://together.agency/"
+  },
+  "tomo-tomo": {
+    "status": "success",
+    "path": "/screenshots/tomo-tomo.webp",
+    "capturedAt": "2026-10-17T18:31:07.132Z",
+    "requestedUrl": "https://www.tomotomo.it/",
+    "finalUrl": "https://www.tomotomo.it/"
+  },
+  "too-gallus": {
+    "status": "success",
+    "path": "/screenshots/too-gallus.webp",
+    "capturedAt": "2026-10-17T18:31:07.133Z",
+    "requestedUrl": "https://toogallus.com/",
+    "finalUrl": "https://toogallus.com/"
+  },
+  "trackmeet": {
+    "status": "success",
+    "path": "/screenshots/trackmeet.webp",
+    "capturedAt": "2026-10-17T18:31:08.485Z",
+    "requestedUrl": "https://trackmeet.studio/",
+    "finalUrl": "https://trackmeet.studio/"
+  },
+  "triangle-studio": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:40:30.433Z",
+    "requestedUrl": "http://www.triangle-studio.co.kr/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "tricota": {
+    "status": "success",
+    "path": "/screenshots/tricota.webp",
+    "capturedAt": "2026-10-17T18:31:11.537Z",
+    "requestedUrl": "https://www.tricota.com.ar/",
+    "finalUrl": "https://www.tricota.com.ar/"
+  },
+  "troa": {
+    "status": "success",
+    "path": "/screenshots/troa.webp",
+    "capturedAt": "2026-10-17T18:31:11.856Z",
+    "requestedUrl": "https://www.troa.fr/",
+    "finalUrl": "https://www.troa.fr/"
+  },
+  "true-arrow": {
+    "status": "success",
+    "path": "/screenshots/true-arrow.webp",
+    "capturedAt": "2026-10-17T18:40:31.298Z",
+    "requestedUrl": "https://truearrow.studio/",
+    "finalUrl": "https://truearrow.studio/"
+  },
+  "truffl": {
+    "status": "success",
+    "path": "/screenshots/truffl.webp",
+    "capturedAt": "2026-10-17T18:31:14.590Z",
+    "requestedUrl": "https://truffl.com/",
+    "finalUrl": "https://truffl.com/"
+  },
+  "try": {
+    "status": "success",
+    "path": "/screenshots/try.webp",
+    "capturedAt": "2026-10-17T18:31:18.243Z",
+    "requestedUrl": "https://try.house/no-en",
+    "finalUrl": "https://try.house/no-en"
+  },
+  "tsto": {
+    "status": "success",
+    "path": "/screenshots/tsto.webp",
+    "capturedAt": "2026-10-17T18:31:19.856Z",
+    "requestedUrl": "https://tsto.org/",
+    "finalUrl": "https://tsto.org/"
+  },
+  "turner-duckworth": {
+    "status": "success",
+    "path": "/screenshots/turner-duckworth.webp",
+    "capturedAt": "2026-10-17T18:31:20.520Z",
+    "requestedUrl": "https://turnerduckworth.com/",
+    "finalUrl": "https://turnerduckworth.com/"
+  },
+  "twice-shy": {
+    "status": "success",
+    "path": "/screenshots/twice-shy.webp",
+    "capturedAt": "2026-10-17T18:40:38.399Z",
+    "requestedUrl": "https://twiceshy.studio/",
+    "finalUrl": "https://twiceshy.studio/"
+  },
+  "two26-studio": {
+    "status": "success",
+    "path": "/screenshots/two26-studio.webp",
+    "capturedAt": "2026-10-17T18:31:24.123Z",
+    "requestedUrl": "https://two26.studio/",
+    "finalUrl": "https://two26.studio/"
+  },
+  "typetogether": {
+    "status": "success",
+    "path": "/screenshots/typetogether.webp",
+    "capturedAt": "2026-10-17T18:31:26.592Z",
+    "requestedUrl": "https://www.typetogether.com/",
+    "finalUrl": "https://www.typetogether.com/"
+  },
+  "udl-studios": {
+    "status": "success",
+    "path": "/screenshots/udl-studios.webp",
+    "capturedAt": "2026-10-17T18:31:28.179Z",
+    "requestedUrl": "https://u-d-l.com/",
+    "finalUrl": "https://u-d-l.com/"
+  },
+  "u-i-wd": {
+    "status": "success",
+    "path": "/screenshots/u-i-wd.webp",
+    "capturedAt": "2026-10-17T18:31:28.898Z",
+    "requestedUrl": "https://www.uiwd.co/",
+    "finalUrl": "https://www.uiwd.co/"
+  },
+  "uncommon": {
+    "status": "success",
+    "path": "/screenshots/uncommon.webp",
+    "capturedAt": "2026-10-17T18:40:46.810Z",
+    "requestedUrl": "https://www.uncommon.studio/",
+    "finalUrl": "https://www.uncommon.studio/"
+  },
+  "under-after": {
+    "status": "success",
+    "path": "/screenshots/under-after.webp",
+    "capturedAt": "2026-10-17T18:31:30.332Z",
+    "requestedUrl": "https://underafter.com/",
+    "finalUrl": "https://underafter.com/"
+  },
+  "etablissement": {
+    "status": "success",
+    "path": "/screenshots/etablissement.webp",
+    "capturedAt": "2026-10-17T18:31:33.245Z",
+    "requestedUrl": "https://unetablissement.com/",
+    "finalUrl": "https://unetablissement.com/"
+  },
+  "untilnow": {
+    "status": "success",
+    "path": "/screenshots/untilnow.webp",
+    "capturedAt": "2026-10-17T18:31:35.366Z",
+    "requestedUrl": "https://www.untilnow.com.au/",
+    "finalUrl": "https://www.untilnow.com.au/"
+  },
+  "untold": {
+    "status": "success",
+    "path": "/screenshots/untold.webp",
+    "capturedAt": "2026-10-17T18:40:47.975Z",
+    "requestedUrl": "https://untold.site/en",
+    "finalUrl": "https://untold.site/en"
+  },
+  "upset": {
+    "status": "success",
+    "path": "/screenshots/upset.webp",
+    "capturedAt": "2026-10-17T18:31:37.102Z",
+    "requestedUrl": "https://upset.ch/",
+    "finalUrl": "https://upset.ch/"
+  },
+  "urgent-agency": {
+    "status": "success",
+    "path": "/screenshots/urgent-agency.webp",
+    "capturedAt": "2026-10-17T18:31:37.150Z",
+    "requestedUrl": "https://urgent.agency/",
+    "finalUrl": "https://urgent.agency/"
+  },
+  "valkiria-inteligencia-criativa": {
+    "status": "success",
+    "path": "/screenshots/valkiria-inteligencia-criativa.webp",
+    "capturedAt": "2026-10-17T18:31:39.424Z",
+    "requestedUrl": "https://www.valkiriaic.com.br/",
+    "finalUrl": "https://www.valkiriaic.com.br/"
+  },
+  "vanderbrand": {
+    "status": "success",
+    "path": "/screenshots/vanderbrand.webp",
+    "capturedAt": "2026-10-17T18:31:40.401Z",
+    "requestedUrl": "https://vanderbrand.com/",
+    "finalUrl": "https://vanderbrand.com/"
+  },
+  "vap": {
+    "status": "success",
+    "path": "/screenshots/vap.webp",
+    "capturedAt": "2026-10-17T18:31:46.109Z",
+    "requestedUrl": "https://www.wearevap.com/",
+    "finalUrl": "https://www.wearevap.com/"
+  },
+  "vasava": {
+    "status": "success",
+    "path": "/screenshots/vasava.webp",
+    "capturedAt": "2026-10-17T18:31:46.289Z",
+    "requestedUrl": "https://www.vasava.es/en",
+    "finalUrl": "https://www.vasava.es/en"
+  },
+  "veig": {
+    "status": "success",
+    "path": "/screenshots/veig.webp",
+    "capturedAt": "2026-10-17T18:41:02.440Z",
+    "requestedUrl": "https://veig.com/",
+    "finalUrl": "https://veig.com/"
+  },
+  "venice-inc": {
+    "status": "success",
+    "path": "/screenshots/venice-inc.webp",
+    "capturedAt": "2026-10-17T18:31:47.891Z",
+    "requestedUrl": "https://www.venice.inc/",
+    "finalUrl": "https://www.venice.inc/"
+  },
+  "village-green": {
+    "status": "review",
+    "capturedAt": "2026-10-17T18:41:03.615Z",
+    "requestedUrl": "https://villagegreen.studio/",
+    "error": "Preview held after visual review: blank, loader, blocked embed or unfinished website. No unverified image published."
+  },
+  "voodoo-voodoo": {
+    "status": "success",
+    "path": "/screenshots/voodoo-voodoo.webp",
+    "capturedAt": "2026-10-17T18:31:52.096Z",
+    "requestedUrl": "https://voodoovoodoo.net/",
+    "finalUrl": "https://voodoovoodoo.net/"
+  },
+  "vrints-kolsteren": {
+    "status": "success",
+    "path": "/screenshots/vrints-kolsteren.webp",
+    "capturedAt": "2026-10-17T18:31:53.565Z",
+    "requestedUrl": "https://www.vrints-kolsteren.com/",
+    "finalUrl": "https://www.vrints-kolsteren.com/"
+  },
+  "vucko": {
+    "status": "success",
+    "path": "/screenshots/vucko.webp",
+    "capturedAt": "2026-10-17T18:31:55.018Z",
+    "requestedUrl": "https://vucko.co/",
+    "finalUrl": "https://vucko.co/"
+  },
+  "wangzhihong-co": {
+    "status": "success",
+    "path": "/screenshots/wangzhihong-co.webp",
+    "capturedAt": "2026-10-17T18:31:55.686Z",
+    "requestedUrl": "https://wangzhihong.com/",
+    "finalUrl": "https://wangzhihong.com/"
+  },
+  "warm": {
+    "status": "success",
+    "path": "/screenshots/warm.webp",
+    "capturedAt": "2026-10-17T18:31:56.905Z",
+    "requestedUrl": "https://warm.design/",
+    "finalUrl": "https://warm.design/"
+  },
+  "warriors-studio": {
+    "status": "success",
+    "path": "/screenshots/warriors-studio.webp",
+    "capturedAt": "2026-10-17T18:41:05.768Z",
+    "requestedUrl": "https://warriorsstudio.com/",
+    "finalUrl": "https://warriorsstudio.com/"
+  },
+  "watson-nyc": {
+    "status": "success",
+    "path": "/screenshots/watson-nyc.webp",
+    "capturedAt": "2026-10-17T18:32:01.340Z",
+    "requestedUrl": "https://www.watsonnyc.com/",
+    "finalUrl": "https://www.watsonnyc.com/"
+  },
+  "werner-design-werks": {
+    "status": "success",
+    "path": "/screenshots/werner-design-werks.webp",
+    "capturedAt": "2026-10-17T18:32:01.493Z",
+    "requestedUrl": "https://wdw.com/",
+    "finalUrl": "https://wdw.com/"
+  },
+  "agio": {
+    "status": "success",
+    "path": "/screenshots/agio.webp",
+    "capturedAt": "2026-10-17T18:32:01.713Z",
+    "requestedUrl": "https://www.weareagio.com/",
+    "finalUrl": "https://www.weareagio.com/"
+  },
+  "asis": {
+    "status": "success",
+    "path": "/screenshots/asis.webp",
+    "capturedAt": "2026-10-17T18:32:01.897Z",
+    "requestedUrl": "https://weareasis.co/work",
+    "finalUrl": "https://weareasis.co/work"
+  },
+  "ba-ndo": {
+    "status": "success",
+    "path": "/screenshots/ba-ndo.webp",
+    "capturedAt": "2026-10-17T18:32:02.807Z",
+    "requestedUrl": "https://wearebando.com/",
+    "finalUrl": "https://wearebando.com/"
+  },
+  "daq": {
+    "status": "success",
+    "path": "/screenshots/daq.webp",
+    "capturedAt": "2026-10-17T18:32:08.360Z",
+    "requestedUrl": "https://www.wearedaq.com/",
+    "finalUrl": "https://www.wearedaq.com/"
+  },
+  "ensemble-weareensemble": {
+    "status": "success",
+    "path": "/screenshots/ensemble-weareensemble.webp",
+    "capturedAt": "2026-10-17T18:32:08.841Z",
+    "requestedUrl": "https://www.weareensemble.co.uk/",
+    "finalUrl": "https://www.weareensemble.co.uk/"
+  },
+  "outline": {
+    "status": "success",
+    "path": "/screenshots/outline.webp",
+    "capturedAt": "2026-10-17T18:32:15.921Z",
+    "requestedUrl": "https://www.weareoutline.com/",
+    "finalUrl": "https://www.weareoutline.com/"
+  },
+  "panico-estudio": {
+    "status": "success",
+    "path": "/screenshots/panico-estudio.webp",
+    "capturedAt": "2026-10-17T18:32:16.550Z",
+    "requestedUrl": "https://wearepanico.com/",
+    "finalUrl": "https://wearepanico.com/"
+  },
+  "wednesday-studio": {
+    "status": "success",
+    "path": "/screenshots/wednesday-studio.webp",
+    "capturedAt": "2026-10-17T18:32:19.259Z",
+    "requestedUrl": "https://www.wearewednesday.com/",
+    "finalUrl": "https://www.wearewednesday.com/"
+  },
+  "wednesday-studio-wednesdaystudio": {
+    "status": "success",
+    "path": "/screenshots/wednesday-studio-wednesdaystudio.webp",
+    "capturedAt": "2026-10-17T18:32:20.215Z",
+    "requestedUrl": "https://wednesdaystudio.co/",
+    "finalUrl": "https://wednesdaystudio.co/"
+  },
+  "weekend-type": {
+    "status": "success",
+    "path": "/screenshots/weekend-type.webp",
+    "capturedAt": "2026-10-17T18:32:20.297Z",
+    "requestedUrl": "https://weekendtype.xyz/",
+    "finalUrl": "https://weekendtype.xyz/"
+  },
+  "wegrow": {
+    "status": "success",
+    "path": "/screenshots/wegrow.webp",
+    "capturedAt": "2026-10-17T18:32:20.344Z",
+    "requestedUrl": "https://www.wegrow.design/",
+    "finalUrl": "https://www.wegrow.design/"
+  },
+  "truth-and-consequences": {
+    "status": "success",
+    "path": "/screenshots/truth-and-consequences.webp",
+    "capturedAt": "2026-10-17T18:32:24.527Z",
+    "requestedUrl": "https://welcometruth.com/",
+    "finalUrl": "https://welcometruth.com/"
+  },
+  "studio-archive": {
+    "status": "success",
+    "path": "/screenshots/studio-archive.webp",
+    "capturedAt": "2026-10-17T18:32:26.803Z",
+    "requestedUrl": "https://www.werestudioarchive.com/",
+    "finalUrl": "https://www.werestudioarchive.com/"
+  },
+  "wewantmore": {
+    "status": "success",
+    "path": "/screenshots/wewantmore.webp",
+    "capturedAt": "2026-10-17T18:41:21.401Z",
+    "requestedUrl": "https://wewantmore.studio/",
+    "finalUrl": "https://wewantmore.studio/"
+  },
+  "where-giants-roam": {
+    "status": "success",
+    "path": "/screenshots/where-giants-roam.webp",
+    "capturedAt": "2026-10-17T18:41:28.712Z",
+    "requestedUrl": "https://www.wheregiantsroam.co.uk/",
+    "finalUrl": "https://www.wheregiantsroam.co.uk/"
+  },
+  "roots": {
+    "status": "success",
+    "path": "/screenshots/roots.webp",
+    "capturedAt": "2026-10-17T18:32:29.181Z",
+    "requestedUrl": "https://whererootsare.com/",
+    "finalUrl": "https://whererootsare.com/"
+  },
+  "whittaker-parsons": {
+    "status": "success",
+    "path": "/screenshots/whittaker-parsons.webp",
+    "capturedAt": "2026-10-17T18:32:32.702Z",
+    "requestedUrl": "https://whittakerparsons.com/",
+    "finalUrl": "https://whittakerparsons.com/"
+  },
+  "wide-eye": {
+    "status": "success",
+    "path": "/screenshots/wide-eye.webp",
+    "capturedAt": "2026-10-17T18:32:35.059Z",
+    "requestedUrl": "https://www.wideeye.co/",
+    "finalUrl": "https://www.wideeye.co/"
+  },
+  "workinprogress": {
+    "status": "success",
+    "path": "/screenshots/workinprogress.webp",
+    "capturedAt": "2026-10-17T18:32:36.396Z",
+    "requestedUrl": "https://www.wipbdr.com/",
+    "finalUrl": "https://www.wipbdr.com/"
+  },
+  "wieden-kennedy-amsterdam": {
+    "status": "success",
+    "path": "/screenshots/wieden-kennedy-amsterdam.webp",
+    "capturedAt": "2026-10-17T18:32:37.444Z",
+    "requestedUrl": "https://wkams.com/",
+    "finalUrl": "https://wkams.com/"
+  },
+  "wmh-and-i": {
+    "status": "success",
+    "path": "/screenshots/wmh-and-i.webp",
+    "capturedAt": "2026-10-17T18:32:37.824Z",
+    "requestedUrl": "https://wmh-i.com/",
+    "finalUrl": "https://wmh-i.com/"
+  },
+  "tomorrow-creative-services": {
+    "status": "success",
+    "path": "/screenshots/tomorrow-creative-services.webp",
+    "capturedAt": "2026-10-17T18:32:40.832Z",
+    "requestedUrl": "https://workbytomorrow.com/",
+    "finalUrl": "https://workbytomorrow.com/"
+  },
+  "wx-design": {
+    "status": "success",
+    "path": "/screenshots/wx-design.webp",
+    "capturedAt": "2026-10-17T18:41:29.737Z",
+    "requestedUrl": "http://www.wx-design.com/",
+    "finalUrl": "http://www.wx-design.com/"
+  },
+  "yabu-pushelberg": {
+    "status": "success",
+    "path": "/screenshots/yabu-pushelberg.webp",
+    "capturedAt": "2026-10-17T18:32:43.321Z",
+    "requestedUrl": "https://www.yabupushelberg.com/",
+    "finalUrl": "https://www.yabupushelberg.com/"
+  },
+  "yard": {
+    "status": "success",
+    "path": "/screenshots/yard.webp",
+    "capturedAt": "2026-10-17T18:32:44.080Z",
+    "requestedUrl": "https://www.yard.me/",
+    "finalUrl": "https://www.yard.me/"
+  },
+  "yarza-twins": {
+    "status": "success",
+    "path": "/screenshots/yarza-twins.webp",
+    "capturedAt": "2026-10-17T18:32:45.321Z",
+    "requestedUrl": "https://www.yarzatwins.com/",
+    "finalUrl": "https://www.yarzatwins.com/"
+  },
+  "yeahnice": {
+    "status": "success",
+    "path": "/screenshots/yeahnice.webp",
+    "capturedAt": "2026-10-17T18:32:45.802Z",
+    "requestedUrl": "https://yeahnice.studio/",
+    "finalUrl": "https://yeahnice.studio/"
+  },
+  "yorgo-and-co": {
+    "status": "success",
+    "path": "/screenshots/yorgo-and-co.webp",
+    "capturedAt": "2026-10-17T18:32:47.630Z",
+    "requestedUrl": "https://yorgo.com/",
+    "finalUrl": "https://yorgo.com/"
+  },
+  "holm": {
+    "status": "success",
+    "path": "/screenshots/holm.webp",
+    "capturedAt": "2026-10-22T14:03:05.539Z",
+    "requestedUrl": "https://byholm.co/",
+    "finalUrl": "https://byholm.co/"
+  },
+  "rmc-studio": {
+    "status": "success",
+    "path": "/screenshots/rmc-studio.webp",
+    "capturedAt": "2026-10-27T12:26:19.409Z",
+    "requestedUrl": "https://rmc-studio.com/",
+    "finalUrl": "https://rmc-studio.com/"
   }
 }

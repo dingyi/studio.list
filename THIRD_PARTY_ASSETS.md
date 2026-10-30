@@ -12,3 +12,5 @@ The following materials are excluded from that license and remain subject to the
 Their inclusion is for directory, identification, and reference purposes. It does not imply endorsement, affiliation, transfer of ownership, or permission for reuse beyond rights available under applicable law.
 
 For corrections or removal requests, open a GitHub issue in this repository.
+
+Country flag SVGs in `public/flags` are from [flag-icons](https://github.com/lipis/flag-icons), distributed under its [MIT license](https://github.com/lipis/flag-icons/blob/main/LICENSE). New country flags added during Longlist curation use the same 4:3 asset set.

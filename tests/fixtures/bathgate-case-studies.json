@@ -1,0 +1,68 @@
+{
+  "source": "https://bathgate.design/work",
+  "sitemap": "https://bathgate.design/sitemap.xml",
+  "checkedAt": "2026-10-20",
+  "agencySlug": "bathgate-design",
+  "viewsChecked": [
+    "Grid",
+    "Index"
+  ],
+  "cases": [
+    {
+      "title": "Two Raw Sisters",
+      "url": "https://bathgate.design/work/two-raw-sisters"
+    },
+    {
+      "title": "Good Carm",
+      "url": "https://bathgate.design/work/good-carm"
+    },
+    {
+      "title": "Alex Fulton",
+      "url": "https://bathgate.design/work/alex-fulton"
+    },
+    {
+      "title": "Ōtautahi Made",
+      "url": "https://bathgate.design/work/otautahi-made"
+    },
+    {
+      "title": "Hellzapoppin'!: The Art of Flying Nun",
+      "url": "https://bathgate.design/work/hellzapoppin"
+    },
+    {
+      "title": "Hughes",
+      "url": "https://bathgate.design/work/hughes"
+    },
+    {
+      "title": "Estelle Catering",
+      "url": "https://bathgate.design/work/estelle"
+    },
+    {
+      "title": "C1 Espresso",
+      "url": "https://bathgate.design/work/c1-espresso"
+    },
+    {
+      "title": "Tall Dwarfs 'Unravelled'",
+      "url": "https://bathgate.design/work/tall-dwarfs"
+    },
+    {
+      "title": "Qb Studios",
+      "url": "https://bathgate.design/work/qb-studios"
+    },
+    {
+      "title": "Christchurch Art Gallery Foundation",
+      "url": "https://bathgate.design/work/cagf"
+    },
+    {
+      "title": "Arbor Green",
+      "url": "https://bathgate.design/work/arbor-green"
+    },
+    {
+      "title": "Arbor Green Campaign",
+      "url": "https://bathgate.design/work/ag-campaign"
+    },
+    {
+      "title": "Actually",
+      "url": "https://bathgate.design/work/actually"
+    }
+  ]
+}

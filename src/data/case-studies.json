@@ -1,5 +1,357 @@
 [
   {
+    "id": "53aa8263b2fd",
+    "agencySlug": "bathgate-design",
+    "title": "Actually",
+    "url": "https://bathgate.design/work/actually",
+    "image": "/case-studies/bathgate-design/53aa8263b2fd.webp",
+    "capturedAt": "2026-10-20T08:12:31.755Z"
+  },
+  {
+    "id": "917037367e11",
+    "agencySlug": "bathgate-design",
+    "title": "Arbor Green Campaign",
+    "url": "https://bathgate.design/work/ag-campaign",
+    "image": "/case-studies/bathgate-design/917037367e11.webp",
+    "capturedAt": "2026-10-20T08:12:30.926Z"
+  },
+  {
+    "id": "7b05f26c1b9f",
+    "agencySlug": "bathgate-design",
+    "title": "Arbor Green",
+    "url": "https://bathgate.design/work/arbor-green",
+    "image": "/case-studies/bathgate-design/7b05f26c1b9f.webp",
+    "capturedAt": "2026-10-20T08:12:27.892Z"
+  },
+  {
+    "id": "671b67d57527",
+    "agencySlug": "bathgate-design",
+    "title": "Christchurch Art Gallery Foundation",
+    "url": "https://bathgate.design/work/cagf",
+    "image": "/case-studies/bathgate-design/671b67d57527.webp",
+    "capturedAt": "2026-10-20T08:12:25.839Z"
+  },
+  {
+    "id": "b43b21888fed",
+    "agencySlug": "bathgate-design",
+    "title": "Qb Studios",
+    "url": "https://bathgate.design/work/qb-studios",
+    "image": "/case-studies/bathgate-design/b43b21888fed.webp",
+    "capturedAt": "2026-10-20T08:12:24.847Z"
+  },
+  {
+    "id": "76f1e8eb13a2",
+    "agencySlug": "bathgate-design",
+    "title": "Tall Dwarfs 'Unravelled'",
+    "url": "https://bathgate.design/work/tall-dwarfs",
+    "image": "/case-studies/bathgate-design/76f1e8eb13a2.webp",
+    "capturedAt": "2026-10-20T08:12:21.638Z"
+  },
+  {
+    "id": "9de595557d3e",
+    "agencySlug": "bathgate-design",
+    "title": "C1 Espresso",
+    "url": "https://bathgate.design/work/c1-espresso",
+    "image": "/case-studies/bathgate-design/9de595557d3e.webp",
+    "capturedAt": "2026-10-20T08:12:19.857Z"
+  },
+  {
+    "id": "5e263476a01b",
+    "agencySlug": "bathgate-design",
+    "title": "Estelle Catering",
+    "url": "https://bathgate.design/work/estelle",
+    "image": "/case-studies/bathgate-design/5e263476a01b.webp",
+    "capturedAt": "2026-10-20T08:12:18.807Z"
+  },
+  {
+    "id": "7c967acbfbf5",
+    "agencySlug": "bathgate-design",
+    "title": "Hughes",
+    "url": "https://bathgate.design/work/hughes",
+    "image": "/case-studies/bathgate-design/7c967acbfbf5.webp",
+    "capturedAt": "2026-10-20T08:12:14.885Z"
+  },
+  {
+    "id": "71f22edc80ad",
+    "agencySlug": "bathgate-design",
+    "title": "Hellzapoppin'!: The Art of Flying Nun",
+    "url": "https://bathgate.design/work/hellzapoppin",
+    "image": "/case-studies/bathgate-design/71f22edc80ad.webp",
+    "capturedAt": "2026-10-20T08:12:13.573Z"
+  },
+  {
+    "id": "bed86e53ede6",
+    "agencySlug": "bathgate-design",
+    "title": "Ōtautahi Made",
+    "url": "https://bathgate.design/work/otautahi-made",
+    "image": "/case-studies/bathgate-design/bed86e53ede6.webp",
+    "capturedAt": "2026-10-20T08:12:12.542Z"
+  },
+  {
+    "id": "266882f6e700",
+    "agencySlug": "bathgate-design",
+    "title": "Alex Fulton",
+    "url": "https://bathgate.design/work/alex-fulton",
+    "image": "/case-studies/bathgate-design/266882f6e700.webp",
+    "capturedAt": "2026-10-20T08:12:03.191Z"
+  },
+  {
+    "id": "f724501131f5",
+    "agencySlug": "bathgate-design",
+    "title": "Good Carm",
+    "url": "https://bathgate.design/work/good-carm",
+    "image": "/case-studies/bathgate-design/f724501131f5.webp",
+    "capturedAt": "2026-10-20T08:12:03.190Z"
+  },
+  {
+    "id": "1c5c88f1198a",
+    "agencySlug": "bathgate-design",
+    "title": "Two Raw Sisters",
+    "url": "https://bathgate.design/work/two-raw-sisters",
+    "image": "/case-studies/bathgate-design/1c5c88f1198a.webp",
+    "capturedAt": "2026-10-20T08:12:03.189Z"
+  },
+  {
+    "id": "4f55ba537e25",
+    "agencySlug": "analogue-agency",
+    "title": "CDI",
+    "url": "https://analogueagency.com/case/cdi",
+    "image": "/case-studies/analogue-agency/4f55ba537e25.webp",
+    "capturedAt": "2026-10-20T08:00:12.955Z"
+  },
+  {
+    "id": "6e5537b33559",
+    "agencySlug": "analogue-agency",
+    "title": "Stories",
+    "url": "https://analogueagency.com/case/stories",
+    "image": "/case-studies/analogue-agency/6e5537b33559.webp",
+    "capturedAt": "2026-10-20T07:59:04.867Z"
+  },
+  {
+    "id": "052c63ae864d",
+    "agencySlug": "analogue-agency",
+    "title": "Conway & Co",
+    "url": "https://analogueagency.com/case/conway",
+    "image": "/case-studies/analogue-agency/052c63ae864d.webp",
+    "capturedAt": "2026-10-20T07:59:03.498Z"
+  },
+  {
+    "id": "270ada3f78b7",
+    "agencySlug": "analogue-agency",
+    "title": "Artis",
+    "url": "https://analogueagency.com/case/artis",
+    "image": "/case-studies/analogue-agency/270ada3f78b7.webp",
+    "capturedAt": "2026-10-20T07:59:03.180Z"
+  },
+  {
+    "id": "a87f608e2ef6",
+    "agencySlug": "analogue-agency",
+    "title": "The Youturn",
+    "url": "https://analogueagency.com/case/theyouturn",
+    "image": "/case-studies/analogue-agency/a87f608e2ef6.webp",
+    "capturedAt": "2026-10-20T07:58:59.429Z"
+  },
+  {
+    "id": "f9a9589500e8",
+    "agencySlug": "analogue-agency",
+    "title": "Oratio",
+    "url": "https://analogueagency.com/case/oratio",
+    "image": "/case-studies/analogue-agency/f9a9589500e8.webp",
+    "capturedAt": "2026-10-20T07:58:57.718Z"
+  },
+  {
+    "id": "e744d0483603",
+    "agencySlug": "analogue-agency",
+    "title": "Nucatus",
+    "url": "https://analogueagency.com/case/nucatus",
+    "image": "/case-studies/analogue-agency/e744d0483603.webp",
+    "capturedAt": "2026-10-20T07:58:57.558Z"
+  },
+  {
+    "id": "43b488be08de",
+    "agencySlug": "analogue-agency",
+    "title": "D2C Summit",
+    "url": "https://analogueagency.com/case/d2csummit",
+    "image": "/case-studies/analogue-agency/43b488be08de.webp",
+    "capturedAt": "2026-10-20T07:58:52.593Z"
+  },
+  {
+    "id": "e96261157493",
+    "agencySlug": "analogue-agency",
+    "title": "Lova",
+    "url": "https://analogueagency.com/case/lova",
+    "image": "/case-studies/analogue-agency/e96261157493.webp",
+    "capturedAt": "2026-10-20T07:58:52.204Z"
+  },
+  {
+    "id": "1658036c9072",
+    "agencySlug": "analogue-agency",
+    "title": "Equip",
+    "url": "https://analogueagency.com/case/equip",
+    "image": "/case-studies/analogue-agency/1658036c9072.webp",
+    "capturedAt": "2026-10-20T07:58:51.678Z"
+  },
+  {
+    "id": "ff6672b9f709",
+    "agencySlug": "analogue-agency",
+    "title": "Rekorder",
+    "url": "https://analogueagency.com/case/rekorder",
+    "image": "/case-studies/analogue-agency/ff6672b9f709.webp",
+    "capturedAt": "2026-10-20T07:58:46.665Z"
+  },
+  {
+    "id": "50682be165a8",
+    "agencySlug": "analogue-agency",
+    "title": "Maven 11",
+    "url": "https://analogueagency.com/case/maven",
+    "image": "/case-studies/analogue-agency/50682be165a8.webp",
+    "capturedAt": "2026-10-20T07:58:46.554Z"
+  },
+  {
+    "id": "9b52c4b53608",
+    "agencySlug": "analogue-agency",
+    "title": "Boldking",
+    "url": "https://analogueagency.com/case/boldking",
+    "image": "/case-studies/analogue-agency/9b52c4b53608.webp",
+    "capturedAt": "2026-10-20T07:58:45.910Z"
+  },
+  {
+    "id": "32021172d93f",
+    "agencySlug": "analogue-agency",
+    "title": "Atomic",
+    "url": "https://analogueagency.com/case/atomic",
+    "image": "/case-studies/analogue-agency/32021172d93f.webp",
+    "capturedAt": "2026-10-20T07:58:41.475Z"
+  },
+  {
+    "id": "28b0d5a39768",
+    "agencySlug": "analogue-agency",
+    "title": "Ask Phill",
+    "url": "https://analogueagency.com/case/askphill",
+    "image": "/case-studies/analogue-agency/28b0d5a39768.webp",
+    "capturedAt": "2026-10-20T07:58:40.847Z"
+  },
+  {
+    "id": "17b61dca5c4b",
+    "agencySlug": "analogue-agency",
+    "title": "APF",
+    "url": "https://analogueagency.com/case/apf",
+    "image": "/case-studies/analogue-agency/17b61dca5c4b.webp",
+    "capturedAt": "2026-10-20T07:58:40.563Z"
+  },
+  {
+    "id": "66f8967771d2",
+    "agencySlug": "analogue-agency",
+    "title": "Fyron",
+    "url": "https://analogueagency.com/case/fyron",
+    "image": "/case-studies/analogue-agency/66f8967771d2.webp",
+    "capturedAt": "2026-10-20T07:58:35.957Z"
+  },
+  {
+    "id": "e5002e50bf64",
+    "agencySlug": "analogue-agency",
+    "title": "THE➊",
+    "url": "https://analogueagency.com/case/the1",
+    "image": "/case-studies/analogue-agency/e5002e50bf64.webp",
+    "capturedAt": "2026-10-20T07:58:35.957Z"
+  },
+  {
+    "id": "0d574d3d07e8",
+    "agencySlug": "analogue-agency",
+    "title": "Analogue aF-1",
+    "url": "https://af1.analogueshop.com/",
+    "image": "/case-studies/analogue-agency/0d574d3d07e8.webp",
+    "capturedAt": "2026-10-20T07:58:33.867Z"
+  },
+  {
+    "id": "077c1db27d81",
+    "agencySlug": "analogue-agency",
+    "title": "Tony's Chocolonely",
+    "url": "https://analogueagency.com/case/tonyschocolonely",
+    "image": "/case-studies/analogue-agency/077c1db27d81.webp",
+    "capturedAt": "2026-10-20T07:58:30.149Z"
+  },
+  {
+    "id": "9b22346efd32",
+    "agencySlug": "analogue-agency",
+    "title": "TravelTeq",
+    "url": "https://analogueagency.com/case/travelteq",
+    "image": "/case-studies/analogue-agency/9b22346efd32.webp",
+    "capturedAt": "2026-10-20T07:58:30.050Z"
+  },
+  {
+    "id": "ba6ad0dd5ddb",
+    "agencySlug": "analogue-agency",
+    "title": "Guiker",
+    "url": "https://analogueagency.com/case/guiker",
+    "image": "/case-studies/analogue-agency/ba6ad0dd5ddb.webp",
+    "capturedAt": "2026-10-20T07:58:28.531Z"
+  },
+  {
+    "id": "3a2822741098",
+    "agencySlug": "analogue-agency",
+    "title": "UPC Renewables",
+    "url": "https://analogueagency.com/case/upc",
+    "image": "/case-studies/analogue-agency/3a2822741098.webp",
+    "capturedAt": "2026-10-20T07:58:24.353Z"
+  },
+  {
+    "id": "7688d4f41fbb",
+    "agencySlug": "analogue-agency",
+    "title": "BSTRD",
+    "url": "https://analogueagency.com/case/bstrd",
+    "image": "/case-studies/analogue-agency/7688d4f41fbb.webp",
+    "capturedAt": "2026-10-20T07:58:22.828Z"
+  },
+  {
+    "id": "c0726879a18e",
+    "agencySlug": "analogue-agency",
+    "title": "ILGM",
+    "url": "https://analogueagency.com/case/ilgm",
+    "image": "/case-studies/analogue-agency/c0726879a18e.webp",
+    "capturedAt": "2026-10-20T07:58:19.663Z"
+  },
+  {
+    "id": "c22412620847",
+    "agencySlug": "analogue-agency",
+    "title": "Erwin Olaf Magazine",
+    "url": "https://analogueagency.com/case/erwinolafmagazine",
+    "image": "/case-studies/analogue-agency/c22412620847.webp",
+    "capturedAt": "2026-10-20T07:58:17.618Z"
+  },
+  {
+    "id": "4ee300ab3a15",
+    "agencySlug": "analogue-agency",
+    "title": "Atomic Bootfinder",
+    "url": "https://analogueagency.com/case/bootfinder",
+    "image": "/case-studies/analogue-agency/4ee300ab3a15.webp",
+    "capturedAt": "2026-10-20T07:58:17.547Z"
+  },
+  {
+    "id": "e16cfce66f3c",
+    "agencySlug": "analogue-agency",
+    "title": "Free The Youth × Jordan: Arena of Flight",
+    "url": "https://analogueagency.com/case/fty",
+    "image": "/case-studies/analogue-agency/e16cfce66f3c.webp",
+    "capturedAt": "2026-10-20T07:58:10.827Z"
+  },
+  {
+    "id": "526bf62d5b27",
+    "agencySlug": "analogue-agency",
+    "title": "M1 Capital",
+    "url": "https://analogueagency.com/case/m1capital",
+    "image": "/case-studies/analogue-agency/526bf62d5b27.webp",
+    "capturedAt": "2026-10-20T07:58:10.827Z"
+  },
+  {
+    "id": "23acb3ff4dbb",
+    "agencySlug": "analogue-agency",
+    "title": "Menkind",
+    "url": "https://analogueagency.com/case/menkind",
+    "image": "/case-studies/analogue-agency/23acb3ff4dbb.webp",
+    "capturedAt": "2026-10-20T07:58:10.825Z"
+  },
+  {
     "id": "75b48e9d201e",
     "agencySlug": "optical-arts",
     "title": "Odyssey for Telstra",
@@ -30006,14 +30358,6 @@
     "url": "https://andthensome.co.uk/work/status/open/",
     "image": "/case-studies/and-then-some/1a820a5c57cf.webp",
     "capturedAt": "2026-08-17T10:55:46.122Z"
-  },
-  {
-    "id": "8ae3cc3a57c8",
-    "agencySlug": "analogue-agency",
-    "title": "Outcomes",
-    "url": "https://analogueagency.com/about-us/outcomes",
-    "image": "/case-studies/analogue-agency/8ae3cc3a57c8.webp",
-    "capturedAt": "2026-08-17T10:55:45.597Z"
   },
   {
     "id": "e32818c63077",

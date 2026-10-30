@@ -1,0 +1,181 @@
+{
+  "source": "https://analogueagency.com/cases-overview",
+  "sitemap": "https://analogueagency.com/sitemap.xml",
+  "checkedAt": "2026-10-20",
+  "agencySlug": "analogue-agency",
+  "overviewCards": 39,
+  "publishedCases": [
+    {
+      "title": "Free The Youth × Jordan: Arena of Flight",
+      "url": "https://analogueagency.com/case/fty"
+    },
+    {
+      "title": "Vitra",
+      "url": "https://analogueagency.com/case/vitra"
+    },
+    {
+      "title": "Menkind",
+      "url": "https://analogueagency.com/case/menkind"
+    },
+    {
+      "title": "M1 Capital",
+      "url": "https://analogueagency.com/case/m1capital"
+    },
+    {
+      "title": "Atomic Bootfinder",
+      "url": "https://analogueagency.com/case/bootfinder"
+    },
+    {
+      "title": "Erwin Olaf Magazine",
+      "url": "https://analogueagency.com/case/erwinolafmagazine"
+    },
+    {
+      "title": "ILGM",
+      "url": "https://analogueagency.com/case/ilgm"
+    },
+    {
+      "title": "BSTRD",
+      "url": "https://analogueagency.com/case/bstrd"
+    },
+    {
+      "title": "UPC Renewables",
+      "url": "https://analogueagency.com/case/upc"
+    },
+    {
+      "title": "CDI",
+      "url": "https://analogueagency.com/case/cdi"
+    },
+    {
+      "title": "Guiker",
+      "url": "https://analogueagency.com/case/guiker"
+    },
+    {
+      "title": "TravelTeq",
+      "url": "https://analogueagency.com/case/travelteq"
+    },
+    {
+      "title": "Tony's Chocolonely",
+      "url": "https://analogueagency.com/case/tonyschocolonely"
+    },
+    {
+      "title": "Analogue aF-1",
+      "url": "https://af1.analogueshop.com/"
+    },
+    {
+      "title": "Fyron",
+      "url": "https://analogueagency.com/case/fyron"
+    },
+    {
+      "title": "THE➊",
+      "url": "https://analogueagency.com/case/the1"
+    },
+    {
+      "title": "APF",
+      "url": "https://analogueagency.com/case/apf"
+    },
+    {
+      "title": "Ask Phill",
+      "url": "https://analogueagency.com/case/askphill"
+    },
+    {
+      "title": "Atomic",
+      "url": "https://analogueagency.com/case/atomic"
+    },
+    {
+      "title": "Boldking",
+      "url": "https://analogueagency.com/case/boldking"
+    },
+    {
+      "title": "Maven 11",
+      "url": "https://analogueagency.com/case/maven"
+    },
+    {
+      "title": "Rekorder",
+      "url": "https://analogueagency.com/case/rekorder"
+    },
+    {
+      "title": "Equip",
+      "url": "https://analogueagency.com/case/equip"
+    },
+    {
+      "title": "Lova",
+      "url": "https://analogueagency.com/case/lova"
+    },
+    {
+      "title": "D2C Summit",
+      "url": "https://analogueagency.com/case/d2csummit"
+    },
+    {
+      "title": "Nucatus",
+      "url": "https://analogueagency.com/case/nucatus"
+    },
+    {
+      "title": "Oratio",
+      "url": "https://analogueagency.com/case/oratio"
+    },
+    {
+      "title": "The Youturn",
+      "url": "https://analogueagency.com/case/theyouturn"
+    },
+    {
+      "title": "Artis",
+      "url": "https://analogueagency.com/case/artis"
+    },
+    {
+      "title": "Conway & Co",
+      "url": "https://analogueagency.com/case/conway"
+    },
+    {
+      "title": "Stories",
+      "url": "https://analogueagency.com/case/stories"
+    }
+  ],
+  "unpublishedCards": [
+    {
+      "title": "Honeybalm",
+      "reason": "Official WIP card has no published detail URL",
+      "url": null
+    },
+    {
+      "title": "Jitter",
+      "reason": "Official WIP card has no published detail URL",
+      "url": null
+    },
+    {
+      "title": "ManvsMachine",
+      "reason": "Official WIP card has no published detail URL",
+      "url": null
+    },
+    {
+      "title": "Polaroid",
+      "reason": "Official WIP card has no published detail URL",
+      "url": null
+    },
+    {
+      "title": "FC Hyena",
+      "reason": "Official WIP card has no published detail URL",
+      "url": null
+    },
+    {
+      "title": "Leica",
+      "reason": "Official WIP card has no published detail URL",
+      "url": null
+    },
+    {
+      "title": "OFYR",
+      "reason": "Official WIP card has no published detail URL",
+      "url": null
+    },
+    {
+      "title": "Synchroon",
+      "reason": "Official WIP card has no published detail URL",
+      "url": null
+    },
+    {
+      "title": "North Sails",
+      "url": "https://analogueagency.com/case/northsails",
+      "reason": "Official sitemap page only shows Coming Soon; no published case content"
+    }
+  ],
+  "removedNonCase": "https://analogueagency.com/about-us/outcomes"
+}
