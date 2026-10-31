@@ -470,7 +470,7 @@ export default function HomeApp({ agencies }: Props) {
       </main>
 
       <Dialog open={searchOpen} onOpenChange={setSearchOpen}>
-        <DialogContent className="search-dialog" showCloseButton={false}>
+        <DialogContent className="search-dialog translate-y-0" showCloseButton={false}>
           <DialogTitle className="sr-only">Search agencies</DialogTitle>
           <AgencySearch
             items={searchItems}

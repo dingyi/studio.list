@@ -852,8 +852,6 @@ img {
   padding: 0 !important;
   border-radius: 16px !important;
   box-shadow: 0 24px 70px rgb(0 0 0 / 18%);
-  transform: translateX(-50%) !important;
-  translate: 0 !important;
 }
 [data-slot="dialog-overlay"] {
   background: rgb(0 0 0 / 28%);

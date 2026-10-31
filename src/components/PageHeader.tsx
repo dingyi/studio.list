@@ -201,7 +201,7 @@ export default function PageHeader({
       {!homeSearch && (
         <Dialog open={searchOpen} onOpenChange={setSearchOpen}>
           <DialogContent
-            className="search-dialog search-dialog--compact"
+            className="search-dialog search-dialog--compact translate-y-0"
             showCloseButton={false}
           >
             <DialogTitle className="sr-only">Search agencies</DialogTitle>
