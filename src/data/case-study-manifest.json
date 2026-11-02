@@ -8710,5 +8710,55 @@
         "mediaTop": 1600.5625
       }
     }
+  },
+  "office-of-overview": {
+    "status": "success",
+    "entriesHash": "ebb16e77393ed9e038361f044f00041ab9036d78a09074a99f7a1e9cb71b08ec",
+    "homepageUrl": "https://officeofoverview.com/",
+    "workPageUrl": "https://officeofoverview.com/work",
+    "capturedAt": "2026-11-02T11:35:17.281Z",
+    "captureBrowser": "ego lite",
+    "captureViewports": {
+      "9cad5ac57ad7": {
+        "url": "https://officeofoverview.com/work/odin",
+        "width": 1440,
+        "height": 900,
+        "scrollY": 0,
+        "videoTime": 3.5,
+        "mediaTop": 184.12933349609375
+      },
+      "eac0b640e05c": {
+        "url": "https://officeofoverview.com/work/curate",
+        "width": 1440,
+        "height": 900,
+        "scrollY": 0,
+        "videoTime": 6.258333,
+        "mediaTop": 184
+      },
+      "a831993c397a": {
+        "url": "https://officeofoverview.com/work/human",
+        "width": 1440,
+        "height": 900,
+        "scrollY": 0,
+        "videoTime": 2.5,
+        "mediaTop": 184.01638793945312
+      },
+      "29477930f520": {
+        "url": "https://officeofoverview.com/work/fermat",
+        "width": 1440,
+        "height": 900,
+        "scrollY": 0,
+        "videoTime": 0.5,
+        "mediaTop": 184.02647399902344
+      },
+      "7fe3cfd10f58": {
+        "url": "https://officeofoverview.com/work/23-degrees",
+        "width": 1440,
+        "height": 900,
+        "scrollY": 0,
+        "videoTime": 2.15215,
+        "mediaTop": 184.02044677734375
+      }
+    }
   }
 }
