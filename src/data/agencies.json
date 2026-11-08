@@ -1,5 +1,31 @@
 [
   {
+    "id": "a29f7c3041fa913a",
+    "slug": "studio-sandcastle",
+    "name": "Studio Sandcastle",
+    "aliases": ["Sandcastle"],
+    "description": "A design and technology studio bringing together brand identity, websites, and the technology behind digital experiences.",
+    "website": "https://sandcastle.studio/",
+    "officialDomain": "sandcastle.studio",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/studio-sandcastle.webp",
+    "sourceLines": []
+  },
+  {
+    "id": "6fad1c6ed57e75f2",
+    "slug": "lirona",
+    "name": "LIŔONA",
+    "aliases": ["Lirona", "Liron Eldar-Ash"],
+    "description": "The solo practice of creative director Liron Eldar-Ash, shaping brand worlds through creative direction, storytelling, and design.",
+    "website": "https://www.lirona.me/",
+    "officialDomain": "lirona.me",
+    "locations": [],
+    "logo": null,
+    "screenshot": "/screenshots/lirona.webp",
+    "sourceLines": []
+  },
+  {
     "id": "301d70b2fcb03542",
     "slug": "plan-az",
     "name": "플랜에이제트",
@@ -5770,7 +5796,7 @@
     "slug": "bruno",
     "name": "Bruno",
     "aliases": [],
-    "description": "web agency based in California and Normandy",
+    "description": "A branding agency working across strategy, visual and verbal identity, digital design, marketing, and production.",
     "website": "https://www.bruno.co/",
     "officialDomain": "bruno.co",
     "locations": [
@@ -5778,6 +5804,11 @@
         "code": "FR",
         "name": "France",
         "flag": "🇫🇷"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom",
+        "flag": "🇬🇧"
       },
       {
         "code": "US",
@@ -39623,7 +39654,7 @@
     "slug": "venice-inc",
     "name": "Venice Inc.",
     "aliases": [],
-    "description": "Founders turn to Venice Inc.",
+    "description": "An independent California design studio partnering with technology companies on product, brand, websites, and go-to-market design.",
     "website": "https://www.venice.inc/",
     "officialDomain": "venice.inc",
     "locations": [

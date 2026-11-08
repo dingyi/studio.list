@@ -15610,5 +15610,19 @@
     "capturedAt": "2026-10-27T12:26:19.409Z",
     "requestedUrl": "https://rmc-studio.com/",
     "finalUrl": "https://rmc-studio.com/"
+  },
+  "lirona": {
+    "status": "success",
+    "path": "/screenshots/lirona.webp",
+    "capturedAt": "2026-10-31T14:02:07.464Z",
+    "requestedUrl": "https://www.lirona.me/",
+    "finalUrl": "https://www.lirona.me/"
+  },
+  "studio-sandcastle": {
+    "status": "success",
+    "path": "/screenshots/studio-sandcastle.webp",
+    "capturedAt": "2026-11-08T15:17:04Z",
+    "requestedUrl": "https://sandcastle.studio/",
+    "finalUrl": "https://sandcastle.studio/"
   }
 }
